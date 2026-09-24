@@ -1,0 +1,73 @@
+[
+  {
+    "id": "fullstack-feature-delivery",
+    "title": "端到端全功能研发流",
+    "subtitle": "需求拆解 -> 架构规范 -> 精益编码 -> 自动化验证",
+    "description": "从业务需求分析开始，结合多语言规范、前端精细化打磨与浏览器端自动化测试，闭环研发质量。",
+    "targetScenario": "复杂业务模块与前后端功能开发",
+    "badge": "Recommended",
+    "icon": "FlowChart",
+    "skills": [
+      "enterprise-i18n",
+      "frontend-impeccable",
+      "browser-cdp"
+    ],
+    "playbook": [
+      {
+        "stage": "requirement",
+        "skillId": "enterprise-i18n",
+        "skillName": "企业级国际化规范",
+        "role": "需求与规范架构师",
+        "howToAct": "定义多语言模块键名规范与数据结构",
+        "promptExample": "分析新功能的多语言交互需求，输出规范草案。"
+      },
+      {
+        "stage": "coding",
+        "skillId": "frontend-impeccable",
+        "skillName": "前端界面精细度",
+        "role": "资深前端工程师",
+        "howToAct": "高质感完成组件开发与微动效打磨",
+        "promptExample": "实现符合 macOS 风格的交互卡片与响应式布局。"
+      },
+      {
+        "stage": "testing",
+        "skillId": "browser-cdp",
+        "skillName": "Chrome CDP 自动化",
+        "role": "QA 自动化测试员",
+        "howToAct": "复用本地登录态执行端到端功能验证",
+        "promptExample": "启动 CDP 检查新功能在实际浏览器中的表单提交与视觉表现。"
+      }
+    ]
+  },
+  {
+    "id": "agentic-quality-hardening",
+    "title": "AI 代理质量加固与系统化调试流",
+    "subtitle": "系统调试 -> 测试驱动 -> 浏览器验收",
+    "description": "针对疑难 Bug 和回归问题的闭环诊断流，从系统性故障排查到防退化测试防护。",
+    "targetScenario": "疑难故障排查与核心稳定性加固",
+    "badge": "Quality First",
+    "icon": "Bug",
+    "skills": [
+      "frontend-impeccable",
+      "browser-cdp"
+    ],
+    "playbook": [
+      {
+        "stage": "coding",
+        "skillId": "frontend-impeccable",
+        "skillName": "代码重构与边界防御",
+        "role": "稳定性攻坚专家",
+        "howToAct": "重构脆弱逻辑并完善异常捕获",
+        "promptExample": "对有崩溃隐患的组件做防御性编码并补齐边界状态。"
+      },
+      {
+        "stage": "testing",
+        "skillId": "browser-cdp",
+        "skillName": "真机 E2E 验证",
+        "role": "测试工程师",
+        "howToAct": "执行自动化复现与修复验证",
+        "promptExample": "复现先前上报的偶发白屏并在修复后做回归确认。"
+      }
+    ]
+  }
+]

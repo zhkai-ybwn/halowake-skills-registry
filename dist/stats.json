@@ -1,0 +1,15 @@
+{
+  "totalSkills": 6,
+  "totalBundles": 2,
+  "totalSubSkills": 34,
+  "byStage": {
+    "coding": 4,
+    "testing": 1,
+    "requirement": 1
+  },
+  "byBadge": {
+    "verified": 6
+  },
+  "avgHalowakeScore": 86,
+  "updatedAt": "2026-09-24T08:52:50.302Z"
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "anthropics-skills",
+    "name": "Anthropic Official Skills",
+    "owner": "anthropics",
+    "repo": "skills",
+    "branch": "main",
+    "type": "monorepo",
+    "category": "Official & Core",
+    "verified": true,
+    "scanPath": "skills",
+    "defaultStage": "coding",
+    "description": "Anthropic's official collection of modular agent skills and workflow blueprints."
+  },
+  {
+    "id": "obra-superpowers",
+    "name": "Superpowers for Agentic Coding",
+    "owner": "obra",
+    "repo": "superpowers",
+    "branch": "main",
+    "type": "monorepo",
+    "category": "Architecture & Debugging",
+    "verified": true,
+    "scanPath": "skills",
+    "defaultStage": "coding",
+    "description": "Battle-tested workflows and superpowers for autonomous AI agents, including systematic debugging and TDD."
+  },
+  {
+    "id": "patrickjs-awesome-cursorrules",
+    "name": "Awesome AI Agent Rules & Skills",
+    "owner": "PatrickJS",
+    "repo": "awesome-cursorrules",
+    "branch": "main",
+    "type": "monorepo",
+    "category": "Framework & Stack",
+    "verified": true,
+    "scanPath": "rules",
+    "defaultStage": "coding",
+    "description": "Curated community collection of best practices and skills for modern web and backend stacks."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "browser-automation-skill",
+    "name": "Chrome CDP & Browser Automation",
+    "owner": "zhkai-ybwn",
+    "repo": "Halowake",
+    "branch": "main",
+    "type": "standalone",
+    "category": "Testing & QA",
+    "verified": true,
+    "scanPath": "",
+    "defaultStage": "testing",
+    "customSkill": {
+      "id": "browser-cdp",
+      "name": "browser-cdp",
+      "titleZh": "Chrome CDP 浏览器会话与自动化",
+      "description": "通过 Chrome DevTools Protocol (CDP) 驱动真实浏览器，复用用户已登录态，支持网页截图、JS求值与自动化交互。",
+      "stage": "testing",
+      "category": "Testing & QA",
+      "tags": ["cdp", "browser", "automation", "e2e", "chrome"],
+      "compatibleAgents": ["claude", "codex", "antigravity", "cursor"],
+      "howToUse": "在 prompt 中指派 agent 进行浏览器端到端调试或爬取，自动连接 9222 调试端口。",
+      "promptExample": "启动 Chrome 调试模式，帮我检查 http://localhost:5173 的控制台报错和首屏渲染状态。"
+    }
+  },
+  {
+    "id": "enterprise-i18n-workflow",
+    "name": "Enterprise i18n & Translation Workflow",
+    "owner": "zhkai-ybwn",
+    "repo": "Halowake",
+    "branch": "main",
+    "type": "standalone",
+    "category": "Architecture & Design",
+    "verified": true,
+    "scanPath": "",
+    "defaultStage": "requirement",
+    "customSkill": {
+      "id": "enterprise-i18n",
+      "name": "enterprise-i18n",
+      "titleZh": "企业级国际化多语言工作流规范",
+      "description": "规范化前端与全栈国际化架构，自动化提取、校验漏译 key，统一翻译工作流与自动化词条同步。",
+      "stage": "requirement",
+      "category": "Architecture & Design",
+      "tags": ["i18n", "l10n", "translations", "enterprise", "ngx-translate"],
+      "compatibleAgents": ["claude", "codex", "antigravity", "cursor"],
+      "howToUse": "开发多语言模块时引入，自动遵循三层键名结构与多语言文案同步校验。",
+      "promptExample": "为新的结算页面增加中英文双语支持，并校验所有缺失的翻译键。"
+    }
+  },
+  {
+    "id": "frontend-design-impeccable",
+    "name": "Frontend UI Polish & Impeccable Design",
+    "owner": "zhkai-ybwn",
+    "repo": "Halowake",
+    "branch": "main",
+    "type": "standalone",
+    "category": "Code & Refactor",
+    "verified": true,
+    "scanPath": "",
+    "defaultStage": "coding",
+    "customSkill": {
+      "id": "frontend-impeccable",
+      "name": "frontend-impeccable",
+      "titleZh": "前端界面精细度与视觉系统打磨",
+      "description": "专注高质感 UI 交互打磨、排版对齐、微动效与可访问性调优，消除界面廉价感，遵循 Apple/macOS 原生级美学规范。",
+      "stage": "coding",
+      "category": "Code & Refactor",
+      "tags": ["ui", "design-system", "css", "accessibility", "polish"],
+      "compatibleAgents": ["claude", "codex", "antigravity", "cursor"],
+      "howToUse": "在前端组件开发或视觉验收阶段使用，引导 Agent 按顶级设计规范进行 CSS 细化。",
+      "promptExample": "审查并重构当前弹窗组件的排版间距、过渡动画与暗黑模式对比度。"
+    }
+  }
+]
