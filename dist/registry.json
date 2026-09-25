@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1790353085653,
+  "updatedAt": 1790369895383,
   "description": "Official Halowake Verified Agent Skills Registry",
   "skills": [
     {
@@ -17,13 +17,13 @@
         "avatar": "https://github.com/anthropics.png"
       },
       "gitUrl": "https://github.com/anthropics/skills",
-      "stars": 178152,
+      "stars": 178249,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178152,
-        "forks": 21101,
-        "lastCommitDaysAgo": 0,
+        "githubStars": 178249,
+        "forks": 21106,
+        "lastCommitDaysAgo": 1,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -211,13 +211,13 @@
         "avatar": "https://github.com/obra.png"
       },
       "gitUrl": "https://github.com/obra/superpowers",
-      "stars": 291517,
+      "stars": 291604,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 291517,
-        "forks": 26090,
-        "lastCommitDaysAgo": 6,
+        "githubStars": 291604,
+        "forks": 26101,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -373,13 +373,13 @@
         "avatar": "https://github.com/PatrickJS.png"
       },
       "gitUrl": "https://github.com/PatrickJS/awesome-cursorrules",
-      "stars": 40838,
+      "stars": 40839,
       "halowakeScore": 85,
       "badge": "verified",
       "metrics": {
-        "githubStars": 40838,
+        "githubStars": 40839,
         "forks": 3494,
-        "lastCommitDaysAgo": 117,
+        "lastCommitDaysAgo": 118,
         "issueCloseRate": 88,
         "securityAuditPassed": true
       },
