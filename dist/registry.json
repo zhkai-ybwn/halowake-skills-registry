@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1790304948819,
+  "updatedAt": 1790333810844,
   "description": "Official Halowake Verified Agent Skills Registry",
   "skills": [
     {
@@ -17,12 +17,12 @@
         "avatar": "https://github.com/anthropics.png"
       },
       "gitUrl": "https://github.com/anthropics/skills",
-      "stars": 177997,
+      "stars": 178050,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 177997,
-        "forks": 21087,
+        "githubStars": 178050,
+        "forks": 21096,
         "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -211,12 +211,12 @@
         "avatar": "https://github.com/obra.png"
       },
       "gitUrl": "https://github.com/obra/superpowers",
-      "stars": 291257,
+      "stars": 291396,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 291257,
-        "forks": 26055,
+        "githubStars": 291396,
+        "forks": 26072,
         "lastCommitDaysAgo": 6,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -373,12 +373,12 @@
         "avatar": "https://github.com/PatrickJS.png"
       },
       "gitUrl": "https://github.com/PatrickJS/awesome-cursorrules",
-      "stars": 40833,
+      "stars": 40836,
       "halowakeScore": 85,
       "badge": "verified",
       "metrics": {
-        "githubStars": 40833,
-        "forks": 3493,
+        "githubStars": 40836,
+        "forks": 3494,
         "lastCommitDaysAgo": 117,
         "issueCloseRate": 88,
         "securityAuditPassed": true
@@ -418,7 +418,7 @@
       "metrics": {
         "githubStars": 3,
         "forks": 0,
-        "lastCommitDaysAgo": 0,
+        "lastCommitDaysAgo": 1,
         "issueCloseRate": 95,
         "securityAuditPassed": true
       },
@@ -460,7 +460,7 @@
       "metrics": {
         "githubStars": 3,
         "forks": 0,
-        "lastCommitDaysAgo": 0,
+        "lastCommitDaysAgo": 1,
         "issueCloseRate": 95,
         "securityAuditPassed": true
       },
@@ -502,7 +502,7 @@
       "metrics": {
         "githubStars": 3,
         "forks": 0,
-        "lastCommitDaysAgo": 0,
+        "lastCommitDaysAgo": 1,
         "issueCloseRate": 95,
         "securityAuditPassed": true
       },
