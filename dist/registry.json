@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1790454634029,
+  "updatedAt": 1790478198706,
   "description": "Official Halowake Verified Agent Skills Registry",
   "skills": [
     {
@@ -17,12 +17,12 @@
         "avatar": "https://github.com/anthropics.png"
       },
       "gitUrl": "https://github.com/anthropics/skills",
-      "stars": 178547,
+      "stars": 178567,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178547,
-        "forks": 21130,
+        "githubStars": 178567,
+        "forks": 21134,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -211,11 +211,11 @@
         "avatar": "https://github.com/obra.png"
       },
       "gitUrl": "https://github.com/obra/superpowers",
-      "stars": 291930,
+      "stars": 291970,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 291930,
+        "githubStars": 291970,
         "forks": 26128,
         "lastCommitDaysAgo": 1,
         "issueCloseRate": 75,
