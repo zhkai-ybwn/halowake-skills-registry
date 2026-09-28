@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1790585693107,
+  "updatedAt": 1790585825501,
   "description": "Halowake Skills Registry: curated skills and community source pointers",
   "skills": [
     {
@@ -34,12 +34,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -74,12 +69,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -114,12 +104,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -154,12 +139,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -194,12 +174,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -234,12 +209,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -274,12 +244,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -314,12 +279,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -353,12 +313,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "本技能为多技能集合包，可在安装时选择全局安装或指定安装单个子技能。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": true,
       "bundleCount": 15,
       "subSkills": [
@@ -516,12 +471,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -556,12 +506,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -596,12 +541,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -636,12 +576,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -676,12 +611,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -716,12 +646,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -756,12 +681,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "obra-superpowers"
     },
@@ -796,12 +716,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -836,12 +751,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -876,12 +786,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -916,12 +821,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -956,12 +856,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -996,12 +891,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1036,12 +926,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1076,12 +961,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1116,12 +996,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1156,12 +1031,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1196,12 +1066,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1236,12 +1101,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1276,12 +1136,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1316,12 +1171,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1355,12 +1205,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "本技能为多技能集合包，可在安装时选择全局安装或指定安装单个子技能。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": true,
       "bundleCount": 19,
       "subSkills": [
@@ -1550,12 +1395,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1590,12 +1430,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1630,12 +1465,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1670,12 +1500,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1710,12 +1535,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anthropics-skills"
     },
@@ -1849,12 +1669,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -1889,12 +1704,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -1929,12 +1739,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -1969,12 +1774,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2009,12 +1809,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2049,12 +1844,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2089,12 +1879,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2129,12 +1914,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2169,12 +1949,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2209,12 +1984,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2249,12 +2019,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2289,12 +2054,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2329,12 +2089,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2369,12 +2124,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2409,12 +2159,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "affaan-m-ecc"
     },
@@ -2614,12 +2359,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "firecrawl-firecrawl"
     },
@@ -2654,12 +2394,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "firecrawl-firecrawl"
     },
@@ -2694,12 +2429,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "firecrawl-firecrawl"
     },
@@ -2734,12 +2464,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "firecrawl-firecrawl"
     },
@@ -2774,12 +2499,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "firecrawl-firecrawl"
     },
@@ -2884,12 +2604,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -2924,12 +2639,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -2964,12 +2674,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3004,12 +2709,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3044,12 +2744,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3084,12 +2779,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3124,12 +2814,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3164,12 +2849,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3204,12 +2884,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3244,12 +2919,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3284,12 +2954,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3324,12 +2989,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "dietrichgebert-ponytail"
     },
@@ -3430,12 +3090,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3470,12 +3125,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3510,12 +3160,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3550,12 +3195,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3590,12 +3230,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3630,12 +3265,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3670,12 +3300,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3710,12 +3335,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3750,12 +3370,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3790,12 +3405,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3830,12 +3440,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3870,12 +3475,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3910,12 +3510,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -3949,12 +3544,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "garrytan-gstack"
     },
@@ -4220,12 +3810,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "graphify-labs-graphify"
     },
@@ -4260,12 +3845,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4300,12 +3880,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4340,12 +3915,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4380,12 +3950,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4420,12 +3985,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4460,12 +4020,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4500,12 +4055,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4540,12 +4090,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4580,12 +4125,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4620,12 +4160,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4660,12 +4195,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4700,12 +4230,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4740,12 +4265,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4780,12 +4300,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4820,12 +4335,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "addyosmani-agent-skills"
     },
@@ -4860,12 +4370,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -4900,12 +4405,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -4940,12 +4440,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -4980,12 +4475,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5020,12 +4510,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5060,12 +4545,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5100,12 +4580,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5140,12 +4615,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5180,12 +4650,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5220,12 +4685,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5260,12 +4720,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5300,12 +4755,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5340,12 +4790,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5380,12 +4825,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5420,12 +4860,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "nexu-io-open-design"
     },
@@ -5460,12 +4895,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5500,12 +4930,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5540,12 +4965,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5580,12 +5000,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5620,12 +5035,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5660,12 +5070,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5700,12 +5105,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5740,12 +5140,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5780,12 +5175,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5820,12 +5210,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5860,12 +5245,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5900,12 +5280,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5940,12 +5315,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -5980,12 +5350,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedotmack-claude-mem"
     },
@@ -6020,12 +5385,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6060,12 +5420,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6100,12 +5455,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6140,12 +5490,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6180,12 +5525,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6220,12 +5560,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6260,12 +5595,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6300,12 +5630,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6340,12 +5665,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6380,12 +5700,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6420,12 +5735,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6460,12 +5770,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6500,12 +5805,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "leonxlnx-taste-skill"
     },
@@ -6540,12 +5840,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "panniantong-agent-reach"
     },
@@ -6580,12 +5875,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6620,12 +5910,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6660,12 +5945,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6700,12 +5980,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6740,12 +6015,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6780,12 +6050,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6820,12 +6085,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6860,12 +6120,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "egonex-ai-understand-anything"
     },
@@ -6900,12 +6155,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -6940,12 +6190,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -6980,12 +6225,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7020,12 +6260,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7060,12 +6295,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7100,12 +6330,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7140,12 +6365,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7180,12 +6400,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7220,12 +6435,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7260,12 +6470,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7300,12 +6505,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7340,12 +6540,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7380,12 +6575,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7420,12 +6610,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7460,12 +6645,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "bytedance-deer-flow"
     },
@@ -7500,12 +6680,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "opendatalab-mineru"
     },
@@ -7639,12 +6814,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7679,12 +6849,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7719,12 +6884,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7759,12 +6919,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7799,12 +6954,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7839,12 +6989,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7879,12 +7024,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7919,12 +7059,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7959,12 +7094,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -7999,12 +7129,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -8039,12 +7164,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -8079,12 +7199,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -8119,12 +7234,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -8159,12 +7269,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -8199,12 +7304,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "composiohq-awesome-claude-skills"
     },
@@ -8239,12 +7339,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8279,12 +7374,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8319,12 +7409,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8359,12 +7444,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8399,12 +7479,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8439,12 +7514,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8479,12 +7549,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8519,12 +7584,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8559,12 +7619,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8599,12 +7654,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8639,12 +7689,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8679,12 +7724,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8719,12 +7759,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8759,12 +7794,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8799,12 +7829,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "thedaviddias-front-end-checklist"
     },
@@ -8940,12 +7965,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "tt-a1i-archify"
     },
@@ -8980,12 +8000,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "tt-a1i-archify"
     },
@@ -9020,12 +8035,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9060,12 +8070,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9100,12 +8105,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9140,12 +8140,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9180,12 +8175,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9220,12 +8210,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9260,12 +8245,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9300,12 +8280,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9340,12 +8315,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9380,12 +8350,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9420,12 +8385,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9460,12 +8420,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
@@ -9500,12 +8455,7 @@
       ],
       "recommendedWith": [],
       "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
-      "compatibleAgents": [
-        "claude",
-        "codex",
-        "antigravity",
-        "cursor"
-      ],
+      "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "career-ops-hq-career-ops"
     },
