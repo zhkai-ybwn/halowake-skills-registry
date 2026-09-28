@@ -15,6 +15,7 @@ In modern agentic AI development, developers shouldn't have to manually hunt for
 - **Separate trust levels**: Curated skills are scanned and enriched with GitHub data. Imported community metadata is labelled `community`, with no security audit or quality score claimed.
 - **Static & Serverless Distribution**: Compiled into standard JSON (`dist/registry.json`) and distributed globally via GitHub Raw CDN and jsDelivr with zero hosting costs.
 - **Incremental discovery**: GitHub Actions rotates search pages every 6 hours and retains previously published entries when a source is temporarily unavailable.
+- **Readable usage summaries**: The collector extracts a short summary, trigger conditions, steps, and a brief example from each skill's own `SKILL.md`. The extracted fields and source link are persisted in the published registry.
 
 ---
 
@@ -133,6 +134,8 @@ Halowake connects to this registry via:
 On the first build, the registry imports up to 2,000 GitHub skill pointers from the [Agent Skills Corpus](https://github.com/lawrence3699/agent-skills-corpus). Its metadata is CC0; underlying skill files keep their upstream licenses and are not copied into this repository. The corpus is a dated snapshot, so a listed path may later disappear. The app checks the original repository when installing.
 
 Each run also scans curated `sources/*.json` entries and a bounded set of newly discovered or previously discovered GitHub repositories. `dist/collector-state.json` stores the search page and refresh state. `dist/registry.json` preserves the previous catalog when an upstream request fails. Community entries are source pointers, not verified recommendations.
+
+The `usageGuide` field is extracted from upstream `SKILL.md` text, without executing it or generating new instructions. It stores a source URL and SHA-256 hash so users can check the original. Curated skills are summarized during scanning; community pointers are enriched in batches of up to 200 per run. Failed downloads are retried after 24 hours, and existing guides are checked again after 30 days. Set `REGISTRY_GUIDE_BATCH=0` to skip enrichment in a local build or lower it to reduce network traffic. Some records will have no guide when their source file is missing or unavailable.
 
 The default discovery cap is 20 new repositories per run, plus 5 refreshes. Set `REGISTRY_MAX_REPOSITORIES` to tune it. Authenticated builds should provide `GITHUB_TOKEN`. A large drop in published entries fails the build; use `REGISTRY_ALLOW_SHRINK=1` only for an intentional reset. Use `--refresh-corpus` to reimport the snapshot manually.
 

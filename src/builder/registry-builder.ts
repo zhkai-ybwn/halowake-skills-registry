@@ -3,6 +3,7 @@ import { RepoScanner } from '../collector/repo-scanner.js'
 import { MetricsEnricher } from '../enricher/metrics-enricher.js'
 import { computeSkillScore } from '../enricher/score-calculator.js'
 import { inferSdlcStage, inferCategory } from '../enricher/category-classifier.js'
+import { extractSkillUsageGuide } from '../enricher/usage-guide-extractor.js'
 import { auditSkillContent } from '../validator/security-auditor.js'
 import { validateSkill, validateRegistry } from '../validator/schema-validator.js'
 import type { SkillSourceConfig } from '../types/source.js'
@@ -64,6 +65,12 @@ export class RegistryBuilder {
         const category = discovered.category || inferCategory(stage, source.category)
 
         const isBundle = Boolean(discovered.subSkills && discovered.subSkills.length > 0)
+        const guidePath = [...(discovered.subPath?.split('/').filter(Boolean) || []), 'SKILL.md']
+          .map(encodeURIComponent).join('/')
+        const usageGuide = discovered.rawSkillContent
+          ? extractSkillUsageGuide(discovered.rawSkillContent,
+            `${discovered.gitUrl}/blob/HEAD/${guidePath}`)
+          : null
 
         const skill: CatalogSkill = {
           id: discovered.id,
@@ -86,7 +93,9 @@ export class RegistryBuilder {
           metrics,
           tags: discovered.tags && discovered.tags.length > 0 ? discovered.tags : ['agent', 'skill'],
           recommendedWith: [],
-          howToUse: source.customSkill?.howToUse || '未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。',
+          howToUse: source.customSkill?.howToUse || usageGuide?.trigger || usageGuide?.steps[0] ||
+            '未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。',
+          usageGuide: usageGuide || undefined,
           promptExample: source.customSkill?.promptExample,
           compatibleAgents: source.customSkill?.compatibleAgents || [],
           isBundle,

@@ -28,6 +28,17 @@ export const SubSkillItemSchema = z.object({
   tags: z.array(z.string()).optional()
 })
 
+export const SkillUsageGuideSchema = z.object({
+  extractorVersion: z.number().int().positive().optional(),
+  summary: z.string().min(1).max(400),
+  trigger: z.string().max(400).optional(),
+  steps: z.array(z.string().min(1).max(320)).max(6),
+  example: z.string().max(700).optional(),
+  sourceUrl: z.string().url(),
+  sourceHash: z.string().regex(/^[a-f0-9]{64}$/),
+  extractedAt: z.number().int().nonnegative()
+})
+
 export const CatalogSkillSchema = z.object({
   id: z.string().min(1),
   name: z.string().min(1),
@@ -45,6 +56,7 @@ export const CatalogSkillSchema = z.object({
   tags: z.array(z.string()),
   recommendedWith: z.array(z.string()),
   howToUse: z.string(),
+  usageGuide: SkillUsageGuideSchema.optional(),
   promptExample: z.string().optional(),
   compatibleAgents: z.array(z.string()),
   isStar: z.boolean().optional(),

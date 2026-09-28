@@ -28,6 +28,17 @@ export interface SubSkillItem {
   tags?: string[]
 }
 
+export interface SkillUsageGuide {
+  extractorVersion?: number
+  summary: string
+  trigger?: string
+  steps: string[]
+  example?: string
+  sourceUrl: string
+  sourceHash: string
+  extractedAt: number
+}
+
 export interface CatalogSkill {
   id: string
   name: string
@@ -45,6 +56,7 @@ export interface CatalogSkill {
   tags: string[]
   recommendedWith: string[]
   howToUse: string
+  usageGuide?: SkillUsageGuide
   promptExample?: string
   compatibleAgents: string[]
   isStar?: boolean

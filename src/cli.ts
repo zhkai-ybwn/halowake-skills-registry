@@ -5,6 +5,7 @@ import { writeRegistryDist } from './builder/dist-writer.js'
 import { fetchCorpusSeed } from './collector/corpus-seed.js'
 import { GitHubClient } from './collector/github-client.js'
 import { discoverSources } from './collector/source-discovery.js'
+import { enrichUsageGuides } from './enricher/usage-guide-enricher.js'
 import type { CatalogSkill, RemoteSkillsRegistry, SkillPipeline } from './types/registry.js'
 import type { SkillSourceConfig } from './types/source.js'
 import { validateRegistry } from './validator/schema-validator.js'
@@ -13,6 +14,7 @@ interface CollectorState {
   discoveryPage: number
   scannedAt: Record<string, number>
   discoveredSources: SkillSourceConfig[]
+  guideAttemptedAt?: Record<string, number>
 }
 
 async function readJson<T>(filePath: string, fallback: T): Promise<T> {
@@ -29,9 +31,15 @@ export function mergeSkills(previous: CatalogSkill[], seed: CatalogSkill[], fres
   for (const skill of seed) {
     const location = skillLocation(skill)
     const old = byLocation.get(location)
-    if (!old || old.sourceId === 'agent-skills-corpus') byLocation.set(location, skill)
+    if (!old || old.sourceId === 'agent-skills-corpus') byLocation.set(location, {
+      ...skill,
+      usageGuide: skill.usageGuide || old?.usageGuide
+    })
   }
-  for (const skill of fresh) byLocation.set(skillLocation(skill), skill)
+  for (const skill of fresh) {
+    const location = skillLocation(skill)
+    byLocation.set(location, { ...skill, usageGuide: skill.usageGuide || byLocation.get(location)?.usageGuide })
+  }
   return Array.from(byLocation.values()).sort((a, b) =>
     Number(b.badge === 'verified') - Number(a.badge === 'verified') || b.stars - a.stars || a.id.localeCompare(b.id)
   )
@@ -59,6 +67,7 @@ async function main() {
   const previous = await readJson<RemoteSkillsRegistry | null>(path.join(outDir, 'registry.json'), null)
   const statePath = path.join(outDir, 'collector-state.json')
   const state = await readJson<CollectorState>(statePath, { discoveryPage: 1, scannedAt: {}, discoveredSources: [] })
+  state.guideAttemptedAt ||= {}
   const now = Date.now()
 
   // The CC0 snapshot quickly populates the catalog. It is not a freshness or safety claim.
@@ -109,6 +118,12 @@ async function main() {
   // Replace it on the first successful corpus import; subsequent runs preserve the catalog.
   const previousSkills = seed.length > 0 && (previous?.skills.length || 0) < 10 ? [] : previous?.skills || []
   const skills = mergeSkills(previousSkills, seed, scanned)
+  if (!isDryRun) {
+    const guideResult = await enrichUsageGuides(skills, state.guideAttemptedAt, {
+      batchSize: Number(process.env.REGISTRY_GUIDE_BATCH ?? 200)
+    })
+    console.log(`[Guide] Checked ${guideResult.attempted} skills; updated ${guideResult.enriched} usage guides.`)
+  }
   const validIds = new Set(skills.map(s => s.id))
   const registry: RemoteSkillsRegistry = {
     version: '1.0.0',
