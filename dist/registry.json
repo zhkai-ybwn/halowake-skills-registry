@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1790585967409,
+  "updatedAt": 1790585928193,
   "description": "Halowake Skills Registry: curated skills and community source pointers",
   "skills": [
     {
@@ -18,11 +18,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/brainstorming",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -53,11 +53,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/diagnosing-superpowers",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -88,11 +88,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/dispatching-parallel-agents",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -123,11 +123,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/executing-plans",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -158,11 +158,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/finishing-a-development-branch",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -193,11 +193,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/receiving-code-review",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -228,11 +228,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/requesting-code-review",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -263,11 +263,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/subagent-driven-development",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -297,11 +297,11 @@
         "avatar": "https://github.com/obra.png"
       },
       "gitUrl": "https://github.com/obra/superpowers",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -455,11 +455,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/systematic-debugging",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -490,11 +490,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/test-driven-development",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -525,11 +525,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/using-git-worktrees",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -560,11 +560,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/using-superpowers",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -595,11 +595,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/verification-before-completion",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -630,11 +630,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/writing-plans",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -665,11 +665,11 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/writing-skills",
-      "stars": 292296,
+      "stars": 292297,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 292296,
+        "githubStars": 292297,
         "forks": 26163,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
@@ -700,11 +700,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/academy-guide",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -735,11 +735,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/algorithmic-art",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -770,11 +770,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/brand-guidelines",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -805,11 +805,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/canvas-design",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -840,11 +840,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/claude-api",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -875,11 +875,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/discernment-nudge",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -910,11 +910,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/doc-coauthoring",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -945,11 +945,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/docx",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -980,11 +980,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/frontend-design",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1015,11 +1015,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/internal-comms",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1050,11 +1050,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/mcp-builder",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1085,11 +1085,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/pdf",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1120,11 +1120,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/pptx",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1155,11 +1155,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/skill-creator",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1189,11 +1189,11 @@
         "avatar": "https://github.com/anthropics.png"
       },
       "gitUrl": "https://github.com/anthropics/skills",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1379,11 +1379,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/slack-gif-creator",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1414,11 +1414,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/theme-factory",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1449,11 +1449,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/web-artifacts-builder",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1484,11 +1484,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/webapp-testing",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -1519,11 +1519,11 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/xlsx",
-      "stars": 178718,
+      "stars": 178719,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 178718,
+        "githubStars": 178719,
         "forks": 21141,
         "lastCommitDaysAgo": 3,
         "issueCloseRate": 75,
@@ -3794,12 +3794,12 @@
       },
       "gitUrl": "https://github.com/Graphify-Labs/graphify",
       "subPath": "graphify",
-      "stars": 121943,
+      "stars": 121975,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 121943,
-        "forks": 11745,
+        "githubStars": 121975,
+        "forks": 11747,
         "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -3829,12 +3829,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/api-and-interface-design",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -3864,12 +3864,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/browser-testing-with-devtools",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -3899,12 +3899,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/ci-cd-and-automation",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -3934,12 +3934,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/code-review-and-quality",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -3969,12 +3969,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/code-simplification",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4004,12 +4004,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/constraint-driven-development",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4039,12 +4039,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/context-engineering",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4074,12 +4074,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/debugging-and-error-recovery",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4109,12 +4109,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/deprecation-and-migration",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4144,12 +4144,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/documentation-and-adrs",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4179,12 +4179,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/doubt-driven-development",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4214,12 +4214,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/frontend-ui-engineering",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4249,12 +4249,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/git-workflow-and-versioning",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4284,12 +4284,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/idea-refine",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4319,12 +4319,12 @@
       },
       "gitUrl": "https://github.com/addyosmani/agent-skills",
       "subPath": "skills/incremental-implementation",
-      "stars": 99551,
+      "stars": 99578,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 99551,
-        "forks": 10454,
+        "githubStars": 99578,
+        "forks": 10456,
         "lastCommitDaysAgo": 2,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -4354,13 +4354,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": ".claude/skills/od-contribute",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4389,13 +4389,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/audio-jingle",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4424,13 +4424,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/blog-post",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4459,13 +4459,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/clinical-case-report",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4494,13 +4494,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/contact-widget",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4529,13 +4529,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/critique",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4564,13 +4564,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/dashboard",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4599,13 +4599,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/dating-web",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4634,13 +4634,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/dcf-valuation",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4669,13 +4669,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/digital-eguide",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4704,13 +4704,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/docs-page",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4739,13 +4739,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/email-marketing",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4774,13 +4774,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/eng-runbook",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4809,13 +4809,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/finance-report",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -4844,13 +4844,13 @@
       },
       "gitUrl": "https://github.com/nexu-io/open-design",
       "subPath": "design-templates/flowai-live-dashboard-template",
-      "stars": 98383,
+      "stars": 98401,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 98383,
-        "forks": 11407,
-        "lastCommitDaysAgo": 3,
+        "githubStars": 98401,
+        "forks": 11411,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -22230,6 +22230,916 @@
       "sourceId": "agent-skills-corpus"
     },
     {
+      "id": "greptimeteam-greptimedb--agents-skills-greptimedb-development-docker-image",
+      "name": "greptimedb-development-docker-image",
+      "titleZh": "greptimedb-development-docker-image",
+      "description": "Builds a development-only GreptimeDB Docker image from a local debug binary for local-cluster testing, and optionally pushes it to a development registry. Use when the user asks to package, build, tag, publish, or cross-build a non-release GreptimeDB or GreptimeDB Enterprise image for debugging.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "GreptimeTeam",
+        "url": "https://github.com/GreptimeTeam",
+        "verified": false,
+        "avatar": "https://github.com/GreptimeTeam.png"
+      },
+      "gitUrl": "https://github.com/GreptimeTeam/greptimedb",
+      "subPath": ".agents/skills/greptimedb-development-docker-image",
+      "stars": 6717,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6717,
+        "forks": 551,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 75,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "greptimeteam-greptimedb"
+    },
+    {
+      "id": "greptimeteam-greptimedb--agents-skills-greptimedb-fuzz-ci-failure-investigation",
+      "name": "greptimedb-fuzz-ci-failure-investigation",
+      "titleZh": "greptimedb-fuzz-ci-failure-investigation",
+      "description": "Investigate a failed GreptimeDB fuzz CI target link by downloading GitHub Actions job logs plus fuzz artifacts such as kind logs, monitor dumps, and CSV dumps, then correlate the failure with local GreptimeDB source code. Use when the user provides a failed fuzz CI target/job URL or asks to diagnose GreptimeDB fuzz CI failures.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "GreptimeTeam",
+        "url": "https://github.com/GreptimeTeam",
+        "verified": false,
+        "avatar": "https://github.com/GreptimeTeam.png"
+      },
+      "gitUrl": "https://github.com/GreptimeTeam/greptimedb",
+      "subPath": ".agents/skills/greptimedb-fuzz-ci-failure-investigation",
+      "stars": 6717,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6717,
+        "forks": 551,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 75,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "greptimeteam-greptimedb"
+    },
+    {
+      "id": "greptimeteam-greptimedb--agents-skills-greptimedb-release",
+      "name": "greptimedb-release",
+      "titleZh": "greptimedb-release",
+      "description": "Runbook for publishing a new GreptimeDB version (tag + GitHub release + docs release-note PR) on the upstream GreptimeTeam/greptimedb repo. Use when asked to \"release\" / \"publish\" a GreptimeDB version (e.g. v1.1.0, v1.0.3).",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "GreptimeTeam",
+        "url": "https://github.com/GreptimeTeam",
+        "verified": false,
+        "avatar": "https://github.com/GreptimeTeam.png"
+      },
+      "gitUrl": "https://github.com/GreptimeTeam/greptimedb",
+      "subPath": ".agents/skills/greptimedb-release",
+      "stars": 6717,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6717,
+        "forks": 551,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 75,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "greptimeteam-greptimedb"
+    },
+    {
+      "id": "greptimeteam-greptimedb--agents-skills-greptimedb-release-note",
+      "name": "greptimedb-release-note",
+      "titleZh": "greptimedb-release-note",
+      "description": "Generate a GreptimeDB release changelog with git cliff (correct range, subtract already-released patch PRs, rebuild contributors, add human-curated highlights), output to a file, and prepare the docs-repo blog PR. Use when asked to write/generate a GreptimeDB release note or changelog.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "GreptimeTeam",
+        "url": "https://github.com/GreptimeTeam",
+        "verified": false,
+        "avatar": "https://github.com/GreptimeTeam.png"
+      },
+      "gitUrl": "https://github.com/GreptimeTeam/greptimedb",
+      "subPath": ".agents/skills/greptimedb-release-note",
+      "stars": 6717,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6717,
+        "forks": 551,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 75,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "greptimeteam-greptimedb"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-agent-transcript",
+      "name": "agent-transcript",
+      "titleZh": "agent-transcript",
+      "description": "Requested GitHub PR/issue agent transcripts: redact, trim, preview, and insert safely.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/agent-transcript",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-beeper",
+      "name": "beeper",
+      "titleZh": "beeper",
+      "description": "Beeper cache: contact hints, room lookup, WhatsApp/iMessage traces, FTS.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/beeper",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-browser-use",
+      "name": "browser-use",
+      "titleZh": "browser-use",
+      "description": "Control the user's existing signed-in Chrome: callable Codex Chrome plugin first, then OpenClaw extension-backed mcporter, with direct DevTools attachment only as a last fallback.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/browser-use",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-clawsweeper-status",
+      "name": "clawsweeper-status",
+      "titleZh": "clawsweeper-status",
+      "description": "ClawSweeper status: URLs, workflow health, active workers, ops snapshot.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/clawsweeper-status",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-clickclack",
+      "name": "clickclack",
+      "titleZh": "clickclack",
+      "description": "ClickClack ops: chat app, Cloudflare Workers deploy, DNS/docs/app, container rollout.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/clickclack",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-cloudflare-registrar",
+      "name": "cloudflare-registrar",
+      "titleZh": "cloudflare-registrar",
+      "description": "Cloudflare Registrar: domain availability, prices, registration via mcporter.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/cloudflare-registrar",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-codex-debugging",
+      "name": "codex-debugging",
+      "titleZh": "codex-debugging",
+      "description": "Codex debugging: codex-rs core/tui/exec/cli/app-server/config.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/codex-debugging",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-codex-huge-context",
+      "name": "codex-huge-context",
+      "titleZh": "codex-huge-context",
+      "description": "Codex 1M context: direct OpenAI Responses API inference, safe Astra/Sol/Terra/Luna input headroom, Keychain delivery, and Mac fleet rollout.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/codex-huge-context",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-codexbar",
+      "name": "codexbar",
+      "titleZh": "codexbar",
+      "description": "AI service usage/quota via CodexBar CLI: Codex/OpenAI, Claude, Kimi and other provider limits, credits, reset times.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/codexbar",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-create-cli",
+      "name": "create-cli",
+      "titleZh": "create-cli",
+      "description": "CLI UX/spec: args, flags, help, output, errors, config, dry-run.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/create-cli",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-discord-clawd",
+      "name": "discord-clawd",
+      "titleZh": "discord-clawd",
+      "description": "Discord-backed OpenClaw agent/session relay; not archive search.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/discord-clawd",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-domain-dns-ops",
+      "name": "domain-dns-ops",
+      "titleZh": "domain-dns-ops",
+      "description": "DNS/domain ops: registrars, zones, redirects, DNS/HTTP verify, manager truth.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/domain-dns-ops",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-fleet-maintenance",
+      "name": "fleet-maintenance",
+      "titleZh": "fleet-maintenance",
+      "description": "Mac fleet inventory and upkeep with full/worker profiles: collect installed apps and packages, compare desired versus observed state, audit local-account escrow references, update Homebrew/global packages, safely sync repos and Xcode, and report disk, service, backup, update, and security health.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/fleet-maintenance",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "steipete-agent-scripts-skills-frontend-design",
+      "name": "frontend-design",
+      "titleZh": "frontend-design",
+      "description": "Frontend UI: pages, apps, components, polished non-generic design.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "steipete",
+        "url": "https://github.com/steipete",
+        "verified": false,
+        "avatar": "https://github.com/steipete.png"
+      },
+      "gitUrl": "https://github.com/steipete/agent-scripts",
+      "subPath": "skills/frontend-design",
+      "stars": 6656,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6656,
+        "forks": 547,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "steipete-agent-scripts"
+    },
+    {
+      "id": "sawyerhood-dev-browser-skills-dev-browser",
+      "name": "dev-browser",
+      "titleZh": "dev-browser",
+      "description": "Browser automation with persistent named pages via the dev-browser CLI. Use when users ask to navigate websites, fill forms, take screenshots, extract web data, test web apps, log into sites, or automate browser workflows. Trigger phrases include \"go to [url]\", \"click on\", \"fill out the form\", \"take a screenshot\", \"scrape\", \"automate\", \"test the website\", \"log into\", \"open the browser\", or any browser interaction request.",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "SawyerHood",
+        "url": "https://github.com/SawyerHood",
+        "verified": false,
+        "avatar": "https://github.com/SawyerHood.png"
+      },
+      "gitUrl": "https://github.com/SawyerHood/dev-browser",
+      "subPath": "skills/dev-browser",
+      "stars": 6637,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6637,
+        "forks": 436,
+        "lastCommitDaysAgo": 23,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "sawyerhood-dev-browser"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-clawrouter",
+      "name": "clawrouter",
+      "titleZh": "clawrouter",
+      "description": "Hosted-gateway LLM router — save 84% on inference costs. A local proxy that forwards each request to the blockrun.ai gateway, which routes to the cheapest capable model across 79 models from OpenAI, Anthropic, Google, DeepSeek, xAI, Z.AI, and more. 6 free open-weight models included. Also exposes realtime market data (global stocks, crypto, FX, commodities), Twitter/X intelligence, prediction-market data across Polymarket, Kalshi, Limitless, Opinion, Predict.Fun, dFlow + UMA oracle resolution + wallet identity & clustering, phone-number intelligence (carrier + SIM-swap fraud detection) plus AI-powered outbound voice calls (Twilio + Bland.ai), AND the Surf unified crypto data API (84 endpoints — CEX/DEX, on-chain SQL over 80+ ClickHouse tables, 100M+ labeled wallets, prediction markets, social/CT mindshare, news, VC fund intel) as built-in agent tools. Not a local-inference tool — prompts are sent to the blockrun.ai gateway.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/clawrouter",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-imagegen",
+      "name": "imagegen",
+      "titleZh": "imagegen",
+      "description": "Generate or edit images via BlockRun's image API. Trigger when the user asks to generate, create, draw, make an image — or to edit, modify, change, or retouch an existing image.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/imagegen",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-phone",
+      "name": "phone",
+      "titleZh": "phone",
+      "description": "Verify phone numbers (carrier + SIM-swap fraud signals) and place AI-powered outbound voice calls via BlockRun's gateway (Twilio + Bland.ai). Trigger when the user asks to look up a number, check fraud risk, buy/rent a phone number, or place an AI voice call. Payment is automatic via x402 from the wallet.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/phone",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-polymarket-trading",
+      "name": "polymarket-trading",
+      "titleZh": "polymarket-trading",
+      "description": "Use when the user wants to actually PLACE, manage, or redeem bets on Polymarket (not just read odds — that's the blockrun_predexon_* data tools). Covers setup (deposit wallet, funding, approvals), buy/sell with confirm gating, positions, redeeming winnings, geoblock handling, and the end-to-end flow.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/polymarket-trading",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-predexon",
+      "name": "predexon",
+      "titleZh": "predexon",
+      "description": "Use this skill — NOT browser or web_fetch — for ALL Polymarket, Kalshi, Limitless, Opinion, Predict.Fun, dFlow, UMA oracle, and prediction market data. Provides structured API at localhost:8402/v1/pm/* for markets, cross-venue search, leaderboard, smart money, wallet analytics, wallet identity & clustering, UMA resolution status, and odds.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/predexon",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-release",
+      "name": "release",
+      "titleZh": "release",
+      "description": "Use this skill for EVERY ClawRouter release. Enforces the full checklist — version sync, CHANGELOG, build, tests, npm publish, git tag, GitHub release. No step can be skipped.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/release",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
+      "id": "blockrunai-clawrouter-skills-surf",
+      "name": "surf",
+      "titleZh": "surf",
+      "description": "Use this skill — NOT browser or web_fetch — for ALL Surf crypto-data calls. 83 endpoints at localhost:8402/v1/surf/* covering CEX/DEX markets, on-chain SQL over 80+ ClickHouse tables (Ethereum, Base, Arbitrum, BSC, TRON, HyperEVM, Tempo), 100M+ labeled wallets, prediction markets (Polymarket + Kalshi), social/CT intelligence, news, project + DeFi metrics, token analytics, unified search, VC fund intelligence. Paid through ClawRouter — x402 USDC from the local wallet, or BlockRun account credit if an API key is configured. No Surf account or Surf API key required either way.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BlockRunAI",
+        "url": "https://github.com/BlockRunAI",
+        "verified": false,
+        "avatar": "https://github.com/BlockRunAI.png"
+      },
+      "gitUrl": "https://github.com/BlockRunAI/ClawRouter",
+      "subPath": "skills/surf",
+      "stars": 6614,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6614,
+        "forks": 653,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "blockrunai-clawrouter"
+    },
+    {
       "id": "corpus-fleetdm-fleet-claude-skills-spec-story-e6697e5c",
       "name": "spec-story",
       "titleZh": "spec-story",
@@ -22401,6 +23311,181 @@
       "sourceId": "agent-skills-corpus"
     },
     {
+      "id": "uditgoenka-autoresearch--agents-skills-autoresearch",
+      "name": "autoresearch",
+      "titleZh": "autoresearch",
+      "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "uditgoenka",
+        "url": "https://github.com/uditgoenka",
+        "verified": false,
+        "avatar": "https://github.com/uditgoenka.png"
+      },
+      "gitUrl": "https://github.com/uditgoenka/autoresearch",
+      "subPath": ".agents/skills/autoresearch",
+      "stars": 6478,
+      "halowakeScore": 97,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6478,
+        "forks": 483,
+        "lastCommitDaysAgo": 46,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "uditgoenka-autoresearch"
+    },
+    {
+      "id": "uditgoenka-autoresearch--claude-skills-autoresearch",
+      "name": "autoresearch",
+      "titleZh": "autoresearch",
+      "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "uditgoenka",
+        "url": "https://github.com/uditgoenka",
+        "verified": false,
+        "avatar": "https://github.com/uditgoenka.png"
+      },
+      "gitUrl": "https://github.com/uditgoenka/autoresearch",
+      "subPath": ".claude/skills/autoresearch",
+      "stars": 6478,
+      "halowakeScore": 97,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6478,
+        "forks": 483,
+        "lastCommitDaysAgo": 46,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "uditgoenka-autoresearch"
+    },
+    {
+      "id": "uditgoenka-autoresearch--opencode-skills-autoresearch",
+      "name": "autoresearch",
+      "titleZh": "autoresearch",
+      "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "uditgoenka",
+        "url": "https://github.com/uditgoenka",
+        "verified": false,
+        "avatar": "https://github.com/uditgoenka.png"
+      },
+      "gitUrl": "https://github.com/uditgoenka/autoresearch",
+      "subPath": ".opencode/skills/autoresearch",
+      "stars": 6478,
+      "halowakeScore": 97,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6478,
+        "forks": 483,
+        "lastCommitDaysAgo": 46,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "uditgoenka-autoresearch"
+    },
+    {
+      "id": "uditgoenka-autoresearch-claude-plugin-skills-autoresearch",
+      "name": "autoresearch",
+      "titleZh": "autoresearch",
+      "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "uditgoenka",
+        "url": "https://github.com/uditgoenka",
+        "verified": false,
+        "avatar": "https://github.com/uditgoenka.png"
+      },
+      "gitUrl": "https://github.com/uditgoenka/autoresearch",
+      "subPath": "claude-plugin/skills/autoresearch",
+      "stars": 6478,
+      "halowakeScore": 97,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6478,
+        "forks": 483,
+        "lastCommitDaysAgo": 46,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "uditgoenka-autoresearch"
+    },
+    {
+      "id": "uditgoenka-autoresearch-plugins-autoresearch-skills-autoresearch",
+      "name": "autoresearch",
+      "titleZh": "autoresearch",
+      "description": "Autonomous iteration loop: modify, verify, keep/discard against any metric",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "uditgoenka",
+        "url": "https://github.com/uditgoenka",
+        "verified": false,
+        "avatar": "https://github.com/uditgoenka.png"
+      },
+      "gitUrl": "https://github.com/uditgoenka/autoresearch",
+      "subPath": "plugins/autoresearch/skills/autoresearch",
+      "stars": 6478,
+      "halowakeScore": 97,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6478,
+        "forks": 483,
+        "lastCommitDaysAgo": 46,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "uditgoenka-autoresearch"
+    },
+    {
       "id": "corpus-tw93-waza-plugins-waza-skills-check-4d895f4b",
       "name": "check",
       "titleZh": "check",
@@ -22467,6 +23552,40 @@
       "sourceId": "agent-skills-corpus"
     },
     {
+      "id": "therealxiaomanchu-ex-skill-root",
+      "name": "create-ex",
+      "titleZh": "create-ex",
+      "description": "Distill an ex-partner into an AI Skill. Import WeChat history, photos, social media posts, generate Relationship Memory + Persona, with continuous evolution. | 把前任蒸馏成 AI Skill，导入微信聊天记录、照片、朋友圈，生成 Relationship Memory + Persona，支持持续进化。",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "therealXiaomanChu",
+        "url": "https://github.com/therealXiaomanChu",
+        "verified": false,
+        "avatar": "https://github.com/therealXiaomanChu.png"
+      },
+      "gitUrl": "https://github.com/therealXiaomanChu/ex-skill",
+      "stars": 6387,
+      "halowakeScore": 89,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6387,
+        "forks": 557,
+        "lastCommitDaysAgo": 172,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "therealxiaomanchu-ex-skill"
+    },
+    {
       "id": "corpus-nomadamas-k-skill-korean-humanizer-25092370",
       "name": "korean-humanizer",
       "titleZh": "korean-humanizer",
@@ -22498,6 +23617,1684 @@
       "howToUse": "索引未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者的说明使用。",
       "compatibleAgents": [],
       "sourceId": "agent-skills-corpus"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-agents",
+      "name": "n8n-agents",
+      "titleZh": "n8n-agents",
+      "description": "Design n8n AI agents the right way. Use when building or editing any @n8n/n8n-nodes-langchain.* AI node — an AI Agent, LLM chain, Text Classifier, or Information Extractor — and whenever the user mentions AI agents, LLM with tools, tool calling, $fromAI, system prompts, agent memory, sessionId, structured/JSON output, output parser, RAG, vector store, a chat assistant/bot, or human-in-the-loop review. Covers Agent-vs-chain-vs-classifier choice, the model/memory/tools/outputParser slots, tool names/descriptions as prompt, structured output with autoFix, memory, RAG, human review, and chat topologies.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-agents",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-binary-and-data",
+      "name": "n8n-binary-and-data",
+      "titleZh": "n8n-binary-and-data",
+      "description": "Handle files and binary data in n8n correctly. Use when working with files, images, PDFs, attachments, uploads or downloads, base64, vision/multimodal input, or when an AI agent needs a file as tool input or output — and whenever the user mentions $binary, binaryPropertyName, \"read the PDF\", \"attach the file\", \"send the image\", Merge losing binary, or a CDN for chat images. Covers the $binary vs $json split, reading/writing binary, keeping binary alive across transforms with Merge, the agent-tool binary boundary, and the CDN/URL requirement for chat surfaces.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-binary-and-data",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-code-javascript",
+      "name": "n8n-code-javascript",
+      "titleZh": "n8n-code-javascript",
+      "description": "Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with this.helpers / the $helpers global, working with dates using DateTime, troubleshooting Code node errors, choosing between Code node modes, or doing any custom data transformation in n8n. Always use this skill when a workflow needs a Code node — whether for data aggregation, filtering, API calls, format conversion, batch processing logic, or any custom JavaScript. Covers SplitInBatches loop patterns, cross-iteration data, pairedItem, and real-world production patterns. Also use when asked why a Code node or workflow is slow, which execution mode is faster, or how to cut per-item overhead on large datasets. EXCEPTION — for the AI-agent-callable Custom Code Tool (@n8n/n8n-nodes-langchain.toolCode, a tool attached to an AI Agent), use the n8n-code-tool skill instead; it has a different runtime contract.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-code-javascript",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-code-python",
+      "name": "n8n-code-python",
+      "titleZh": "n8n-code-python",
+      "description": "Write Python in n8n Code nodes (native Python, `language` pythonNative, n8n 2.x). Use when the user explicitly wants Python in a Code node, when migrating old Pyodide/\"Python (Beta)\" code that used _input/_json/_node/_now, or when a Python Code node fails with NameError, \"Security violations detected\", \"Import of standard library module … is disallowed\", \"__build_class__ not found\", \"A 'json' property isn't a dictionary\", or \"Python runner unavailable\". Covers the only two variables (_items/_item), dict-only access, imports blocked by default, the sandbox's denied builtins, accepted return shapes, and how errors interact with onError. JavaScript is the default for Code nodes — native Python has no n8n helpers and, by default, no imports. EXCEPTION — for Python in the AI-agent-callable Custom Code Tool (@n8n/n8n-nodes-langchain.toolCode), use the n8n-code-tool skill instead (input is _query, return must be a string).",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-code-python",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-code-tool",
+      "name": "n8n-code-tool",
+      "titleZh": "n8n-code-tool",
+      "description": "Write JavaScript or Python for the n8n Custom Code Tool (@n8n/n8n-nodes-langchain.toolCode) — the AI-agent-callable tool, NOT the workflow Code node. Use when building a Code Tool attached to an AI Agent, writing code that an LLM will invoke, parsing the `query` input, returning a string result, defining an input schema for structured arguments (specifyInputSchema, jsonSchemaExample, DynamicStructuredTool), or troubleshooting errors like \"Wrong output type returned\", \"No execution data available\", \"The response property should be a string, but it is an object\", \"Cannot assign to read only property 'name'\", or an AI agent that refuses to call the tool. Covers the critical differences between Code node and Code Tool: return format (string vs `[{json:{...}}]`), unavailability of `$fromAI`/`$input`/`$helpers` in the Code Tool sandbox, naming rules for AI invocation, and when to use `toolWorkflow`/HTTP Request Tool instead.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-code-tool",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-error-handling",
+      "name": "n8n-error-handling",
+      "titleZh": "n8n-error-handling",
+      "description": "Wire n8n error handling so failures are loud, structured, and recoverable. Use when building any webhook/API workflow, a scheduled or unattended workflow, or any path where a silent failure would drop user-visible work — and whenever the user mentions error handling, onError, continueErrorOutput, error branches/outputs, retries, retryOnFail, Respond to Webhook status codes, 4xx/5xx, Error Trigger, or \"my workflow fails silently\". Covers per-node error outputs and wiring, retry/self-healing, error-trigger workflows, and 4xx/5xx response shapes.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-error-handling",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-expression-syntax",
+      "name": "n8n-expression-syntax",
+      "titleZh": "n8n-expression-syntax",
+      "description": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, mapping data between nodes, or referencing webhook data in workflows. Use this skill whenever configuring node fields that reference data from previous nodes — expressions are how n8n passes data between nodes, and getting the syntax wrong is the most common source of workflow errors. Also use when asked whether a complex expression hurts performance.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-expression-syntax",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-mcp-tools-expert",
+      "name": "n8n-mcp-tools-expert",
+      "titleZh": "n8n-mcp-tools-expert",
+      "description": "Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, organizing workflows into folders, managing credentials, auditing instance security, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns. IMPORTANT — Always consult this skill before calling any n8n-mcp tool — it prevents common mistakes like wrong nodeType formats, incorrect parameter structures, and inefficient tool usage. If the user mentions n8n, workflows, nodes, or automation and you have n8n MCP tools available, use this skill first.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-mcp-tools-expert",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-multi-instance",
+      "name": "n8n-multi-instance",
+      "titleZh": "n8n-multi-instance",
+      "description": "Use when an n8n-mcp account targets more than one n8n instance — i.e. the `n8n_instances` tool is available, the user mentions multiple n8n instances or environments (prod vs staging, several teams or clients), a workflow / datatable / credential / execution call returns an unexpected NOT_FOUND or reads data you don't recognize, or a credential create/update/delete is refused with an `INSTANCE_AMBIGUOUS` error. Covers choosing and switching which instance this MCP session targets, verifying the target before high-stakes work — credential writes above all — and recovering from misroutes and ambiguous-write fail-closes. Always consult this skill before operating on a specific instance, before any credential create/update/delete on a multi-instance account, or when a call hits the wrong/empty data or an `INSTANCE_AMBIGUOUS` error.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-multi-instance",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-node-configuration",
+      "name": "n8n-node-configuration",
+      "titleZh": "n8n-node-configuration",
+      "description": "Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type. Always use this skill when setting up node parameters — it explains which fields are required for each operation, how displayOptions control field visibility, and when to use patchNodeField for surgical edits vs full node updates.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-node-configuration",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-self-hosting",
+      "name": "n8n-self-hosting",
+      "titleZh": "n8n-self-hosting",
+      "description": "Deploy a production self-hosted n8n end-to-end to a fresh Linux VM over SSH, using Docker Compose behind a Caddy reverse proxy with automatic HTTPS. Use whenever the user wants to self-host, install, provision, or deploy n8n on their own server/VPS (Hetzner, DigitalOcean, AWS EC2, bare metal) — single/regular mode or queue mode with workers — or to update, back up, restore, or harden such an instance, or make Python Code nodes run on it (task runners). For SELF-HOSTED n8n (Docker), not n8n Cloud and not building workflows. The skill makes the agent ask single-vs-queue first, collect domain/SSH/timezone inputs, generate fresh secrets on the box, and bring the stack up with TLS. Trigger on \"deploy n8n\", \"self-host n8n\", \"n8n docker compose\", \"n8n queue mode / workers\", \"n8n reverse proxy / SSL\", \"back up / update my n8n\", \"Python runner unavailable\" / \"n8nio/runners sidecar\", or \"we don't want to give every user the OAuth client secret\" / \"enable Sign in with Google\" (credential overwrites).",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-self-hosting",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-subworkflows",
+      "name": "n8n-subworkflows",
+      "titleZh": "n8n-subworkflows",
+      "description": "Build reusable, composable n8n sub-workflows. Use when extracting shared logic, building anything multi-step or reused across workflows, or any workflow over ~10 nodes — and whenever the user mentions sub-workflows, Execute Workflow, reuse, shared/common logic, modular workflows, \"Define Below\" inputs, waitForSubWorkflow, mode each vs all, or exposing a workflow as an agent tool. Covers typed sub-workflow inputs, all-vs-each execution, verb-first naming for discovery, stateless vs stateful design, and splitting by input shape.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-subworkflows",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-validation-expert",
+      "name": "n8n-validation-expert",
+      "titleZh": "n8n-validation-expert",
+      "description": "Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation profiles, error types, the validation loop process, or auto-fix capabilities. Consult this skill whenever a validate_node or validate_workflow call returns errors or warnings — it knows which warnings are false positives and which errors need real fixes.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-validation-expert",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-n8n-workflow-patterns",
+      "name": "n8n-workflow-patterns",
+      "titleZh": "n8n-workflow-patterns",
+      "description": "Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, planning workflow architecture, or asking about webhook processing, HTTP API integration, database operations, AI agent workflows, batch processing, or scheduled tasks. Always consult this skill when the user asks to create, build, or design an n8n workflow, automate a process, or connect services — even if they don't explicitly mention 'patterns'. Covers webhook, API, database, AI, batch processing, and scheduled automation architectures. Also use when optimizing a slow workflow or speeding up large-item-count processing (node count, batchSize, all-items vs per-item).",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/n8n-workflow-patterns",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "czlonkowski-n8n-skills-skills-using-n8n-mcp-skills",
+      "name": "using-n8n-mcp-skills",
+      "titleZh": "using-n8n-mcp-skills",
+      "description": "Use when building, editing, validating, testing, or debugging an n8n workflow through the n8n-mcp MCP server — designing a flow, configuring a node, writing an expression or Code node, wiring credentials, or fixing one that misbehaves. The entry-point skill for the n8n-mcp-skills pack: it routes you to the right specialist skill, gives working knowledge of every n8n-mcp tool from turn one, and states the rules that keep workflows from breaking in production. Always consult it first on any n8n, workflow, node, or automation task — even a quick one-off, and even when the user names no skill — because n8n's surface drifts between versions and the specialist skills prevent silent failures.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "czlonkowski",
+        "url": "https://github.com/czlonkowski",
+        "verified": false,
+        "avatar": "https://github.com/czlonkowski.png"
+      },
+      "gitUrl": "https://github.com/czlonkowski/n8n-skills",
+      "subPath": "skills/using-n8n-mcp-skills",
+      "stars": 6340,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6340,
+        "forks": 1044,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "czlonkowski-n8n-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-falling-leaves",
+      "name": "3d-falling-leaves",
+      "titleZh": "3d-falling-leaves",
+      "description": "Build recognizable falling leaves in world space using instanced geometry, independent tumble, coupled sideways drift, shared wind, scene occlusion, and camera-aware recycling. Use for 3D autumn leaves or drifting foliage in Three.js and similar scenes; use falling-leaves for a 2D canvas overlay.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-falling-leaves",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-four-seasons",
+      "name": "3d-four-seasons",
+      "titleZh": "3d-four-seasons",
+      "description": "Add coordinated spring, summer, fall, and winter states to a 3D scene, blending foliage, sunlight, sky, ground materials, snow, and particles without rebuilding the world. Use for seasonal controls, architectural walkthroughs, and outdoor scenes with four-season transitions.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-four-seasons",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-high-poly-models",
+      "name": "3d-high-poly-models",
+      "titleZh": "3d-high-poly-models",
+      "description": "Create or integrate highly detailed 3D models with smooth silhouettes, shaped surfaces, believable bevels, and close-up geometry, then prepare suitable runtime LODs and loading. Use when a user requests high polygon counts, ultra-realistic models, detailed architectural assets, or removal of visibly faceted geometry.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-high-poly-models",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-high-resolution-textures",
+      "name": "3d-high-resolution-textures",
+      "titleZh": "3d-high-resolution-textures",
+      "description": "Build sharp, physically coherent high-resolution materials for 3D rendering with appropriate PBR maps, texel density, UV direction, mipmaps, anisotropic filtering, and progressive asset delivery. Use for detailed wood, stone, fabric, foliage, and architectural close-ups without excessive download or GPU memory costs.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-high-resolution-textures",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-retina-resolution",
+      "name": "3d-retina-resolution",
+      "titleZh": "3d-retina-resolution",
+      "description": "Render a 3D canvas sharply on Retina and HiDPI displays, including explicit 200 percent resolution, synchronized renderer and post-processing sizes, correct pointer coordinates, and measured quality fallbacks. Use for blurry WebGL output, 2x rendering, high-resolution previews, and display-density changes.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-retina-resolution",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-sky-background",
+      "name": "3d-sky-background",
+      "titleZh": "3d-sky-background",
+      "description": "Create a camera-correct sky background for a 3D scene with a procedural atmosphere or panorama, horizon haze, aligned sunlight, and coherent environment lighting. Use for architectural skies, outdoor 3D backgrounds, golden hour, and day-to-night sky transitions.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-sky-background",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-sky-rays",
+      "name": "3d-sky-rays",
+      "titleZh": "3d-sky-rays",
+      "description": "Add sun shafts and crepuscular rays to a Three.js or equivalent 3D scene, using scene occlusion, a projected sun position, controlled foreground spill, and scalable post-processing. Use for rays of light from the sky, sunlight through trees or roofs, and golden-hour architectural scenes.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-sky-rays",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-ultra-realistic-water",
+      "name": "3d-ultra-realistic-water",
+      "titleZh": "3d-ultra-realistic-water",
+      "description": "Build an ultra-realistic open ocean in Three.js with a deep-water Gerstner spectrum shaded per pixel from analytic derivatives, each wave faded at its own pixel footprint, plus Fresnel sky-cube and planar reflections, subsurface light through the crests, HDR sun glitter, Jacobian lace foam, a Kelvin wake, hull foam, buoyancy queries and aerial perspective into the sky's horizon haze. Use for seas, oceans, sunset or daylight water, sun glitter paths, ship or boat scenes, wakes, coastal flyovers and any 3D scene with a moving camera and a water horizon. Includes the approved water from Pirate Ship Sunset as a reusable module and demo.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-ultra-realistic-water",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-3d-3d-virtual-tour",
+      "name": "3d-virtual-tour",
+      "titleZh": "3d-virtual-tour",
+      "description": "Build guided and interactive virtual tours through a 3D environment with authored camera paths, room and floor-plan navigation, orbit inspection, smooth mode handoffs, and progressive loading. Use for architectural walkthroughs, real-estate tours, museums, showrooms, and explorable spaces built with Three.js or a similar renderer.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/3d/3d-virtual-tour",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-codex-article-prompts-to-skills",
+      "name": "article-prompts-to-skills",
+      "titleZh": "article-prompts-to-skills",
+      "description": "Convert an article, tutorial, or prompt pack into focused reusable AgentSkills, one independent capability per skill, with portable instructions, example prompts, working demos, preview screenshots, validation, gallery updates, and a narrow commit. Use when the user asks to turn an article's prompts, tutorial sections, design patterns, interactions, or workflow ideas into complete skills rather than leaving them as prose.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/codex/article-prompts-to-skills",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-codex-audit-reference-originality",
+      "name": "audit-reference-originality",
+      "titleZh": "audit-reference-originality",
+      "description": "Audit a website or digital experience against its supplied source references for originality and plagiarism risk. Use when Codex must compare current or historical site output with reference pages, capture packs, screenshots, copy, brands, numbers, images, assets, videos, layouts, motion, or code; raise evidence-backed red flags; distinguish common visual grammar from distinctive copying; and propose concrete fixes without making unsupported legal claims.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/codex/audit-reference-originality",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-codex-audit-verify-explain-grade-5",
+      "name": "audit-verify-explain-grade-5",
+      "titleZh": "audit-verify-explain-grade-5",
+      "description": "Audit work, verify claims with concrete evidence, and explain the result in simple grade-5 language. Use when the user asks to review, audit, check, verify, explain a change, explain a fix, summarize test results, validate whether something works, or translate technical findings into plain language for non-technical readers.",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/codex/audit-verify-explain-grade-5",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-codex-browser-video-recording",
+      "name": "browser-video-recording",
+      "titleZh": "browser-video-recording",
+      "description": "Create polished 60 fps 4:3 4K browser screen-recording style videos from Codex in-app browser captures, with browser-only crop, natural macOS cursor styling, deliberate click choreography, zoom-follow framing, ffprobe/thumbnail verification, and optional native recording compatibility checks. Use when the user asks to record or re-record browser actions, show cursor clicks and zooms, make Dribbble/UI inspiration or product demo recordings, or asks whether Codex, Playwright, or an MCP can produce a natural browser demo video.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/codex/browser-video-recording",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-codex-build-daily-inspiration-sites",
+      "name": "build-daily-inspiration-sites",
+      "titleZh": "build-daily-inspiration-sites",
+      "description": "Turn a completed daily UI inspiration capture into exactly five original landing-page builds, one per separate Codex task, using Sites. Use when the user asks to turn the daily inspiration references, a five-item UI prompt pack, or a dated `*-ui-inspiration-capture` article into distinct HTML landing pages while changing the source brands, names, copy, people, numbers, pricing, claims, and imagery.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/codex/build-daily-inspiration-sites",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "mengto-skills-agent-skills-codex-codex-gpt-image-2-5-flare",
+      "name": "codex-gpt-image-2-5-flare",
+      "titleZh": "codex-gpt-image-2-5-flare",
+      "description": "Generate or edit artwork with built-in Codex image gen, especially transparent PNG ornaments, game sprites, emblems, and UI graphics. Use when the user requests GPT 2.5 Flare, /codex-gpt-image-2-5-flare, or this built-in transparent-asset workflow. Includes alpha verification, prompt preservation, and optional project integration.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "MengTo",
+        "url": "https://github.com/MengTo",
+        "verified": false,
+        "avatar": "https://github.com/MengTo.png"
+      },
+      "gitUrl": "https://github.com/MengTo/Skills",
+      "subPath": "agent-skills/codex/codex-gpt-image-2-5-flare",
+      "stars": 6314,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6314,
+        "forks": 751,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mengto-skills"
+    },
+    {
+      "id": "alipay-solopi-solopi-skill",
+      "name": "solopi-ai",
+      "titleZh": "solopi-ai",
+      "description": "通过 SoloPi 的机器可读 CLI 编译和执行 AI 验证计划，管理签名端侧 ExecuTorch 决策模型、持久设备池、无人值守任务、安卓设备、应用、动作、配置、用例步骤与交互录制、回放及性能历史、动态 Agent、批量与重复执行、性能监控、压力测试和证据。适用于需求/AC 到 Result Judge 三态结论、cloud/on-device 决策切换、模型发布门禁，以及 generation 租约的多设备 CI 执行。",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "alipay",
+        "url": "https://github.com/alipay",
+        "verified": false,
+        "avatar": "https://github.com/alipay.png"
+      },
+      "gitUrl": "https://github.com/alipay/SoloPi",
+      "subPath": "solopi-skill",
+      "stars": 6309,
+      "halowakeScore": 97,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6309,
+        "forks": 1264,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 75,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "alipay-solopi"
+    },
+    {
+      "id": "anysearch-ai-anysearch-skill-root",
+      "name": "anysearch",
+      "titleZh": "anysearch",
+      "description": "Real-time search engine supporting web search, vertical domain search, parallel batch search, and URL content extraction.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "anysearch-ai",
+        "url": "https://github.com/anysearch-ai",
+        "verified": false,
+        "avatar": "https://github.com/anysearch-ai.png"
+      },
+      "gitUrl": "https://github.com/anysearch-ai/anysearch-skill",
+      "stars": 6294,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6294,
+        "forks": 363,
+        "lastCommitDaysAgo": 10,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "anysearch-ai-anysearch-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-integrations-genlayer-erc7710-connector",
+      "name": "genlayer-erc7710-connector",
+      "titleZh": "genlayer-erc7710-connector",
+      "description": "Connect GenLayer Intelligent Contract decisions to ERC-7710-style delegated authority. Use when an agent needs to design the interface, message schema, relayer/bridge path, EVM revocation controller, constraint updates, proof/finality assumptions, and failure handling that turn a GenLayer agent-performance review into ERC-7710 revocation or policy changes.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "integrations/genlayer-erc7710-connector",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-integrations-genlayer-intelligent-contracts",
+      "name": "genlayer-intelligent-contracts",
+      "titleZh": "genlayer-intelligent-contracts",
+      "description": "Internet Court adapter for GenLayer Intelligent Contract supervision. Use to specify agent-performance rubrics, evidence schemas, decision outputs, and ERC-7710 connector expectations, while delegating actual GenLayer contract writing, linting, testing, deployment, and CLI interaction to the official GenLayer skills at https://skills.genlayer.com/.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "integrations/genlayer-intelligent-contracts",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-integrations-x402-erc7710",
+      "name": "x402-erc7710",
+      "titleZh": "x402-erc7710",
+      "description": "Design and implement demos combining x402 HTTP payments with ERC-7710 smart contract delegations and ERC-7715 wallet permission requests for subscriptions, bounded agent budgets, recurring spend, pay-per-use APIs, and agentic commerce.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "integrations/x402-erc7710",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-root",
+      "name": "internet-court",
+      "titleZh": "internet-court",
+      "description": "Entry point for Internet Court — the trust layer for agent-to-agent commerce. Use whenever an agent needs to transact with another agent or a paid service, or a user mentions agent payments, paid APIs (HTTP 402/x402), wallet custody or trust concerns, spending mandates, delegated permissions (ERC-7710/7715), escrow, agent identity or reputation (ERC-8004), negotiation between agents (A2A), agent jobs (ERC-8183), machine payments (MPP, AP2), supervision of agent behavior, revocation, verification, or dispute resolution (GenLayer) — even if they never say \"Internet Court\". Routes to the vendored protocol skills and connector skills in this package.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-0g-0g-compute",
+      "name": "0g-compute",
+      "titleZh": "0g-compute",
+      "description": "0G Compute Network guide for decentralized AI inference, fine-tuning, and GPU services. Covers chatbots, image generation, speech-to-text, SDK integration (0g-serving-broker), processResponse API, broker.inference methods, CLI commands (0g-compute-cli), and account management. Use this skill for any 0G compute, 0G AI, or decentralized GPU question.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/0g/0g-compute",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-altllm-portal-api-keys",
+      "name": "altllm-portal-api-keys",
+      "titleZh": "altllm-portal-api-keys",
+      "description": "Use this skill when the user asks to list, create, inspect, update, disable, re-enable, or revoke AltLLM Portal API keys for external agents or applications. Do NOT use for wallet login, billing history, or payment links.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/altllm-portal-api-keys",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-altllm-portal-auth",
+      "name": "altllm-portal-auth",
+      "titleZh": "altllm-portal-auth",
+      "description": "Use this skill when the user asks to log in or out with a wallet session, fetch a wallet sign-in challenge, verify an externally signed challenge, or troubleshoot AltLLM Portal wallet login for the local altllm CLI. Do NOT use for API key management, billing history, or payment links.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/altllm-portal-auth",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-altllm-portal-billing",
+      "name": "altllm-portal-billing",
+      "titleZh": "altllm-portal-billing",
+      "description": "Use this skill when the user asks to inspect AltLLM Portal balance, redeem a promo code, review billing transactions, or view usage analytics by period, model, or API key using the local altllm CLI. Do NOT use for API key lifecycle management or payment-link execution.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/altllm-portal-billing",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-altllm-portal-cli",
+      "name": "altllm-portal-cli",
+      "titleZh": "altllm-portal-cli",
+      "description": "Use this umbrella skill when the request spans multiple AltLLM Portal CLI domains, or when you need to navigate the local altllm CLI in this repository across auth, API keys, billing history, NOWPayments payment links, and related x402 Portal top-up guidance.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/altllm-portal-cli",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-altllm-portal-payments",
+      "name": "altllm-portal-payments",
+      "titleZh": "altllm-portal-payments",
+      "description": "Use this skill when the user asks to create a NOWPayments crypto payment link, poll payment status, or execute a supported direct wallet payment through the AltLLM Portal CLI. Do NOT use for wallet login, API key management, billing history, or x402 credit top-ups.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/altllm-portal-payments",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-cloud-claw",
+      "name": "cloud-claw",
+      "titleZh": "cloud-claw",
+      "description": "Use this umbrella skill when the request spans multiple Cloud Claw user-facing domains, especially launching a new AltClaw or OpenClaw VM and then managing lifecycle, logs, renewal, or dashboard access through the local altllm cloud-claw-* commands in this repository.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/cloud-claw",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-altlayer-cloud-claw-launch-agent",
+      "name": "cloud-claw-launch-agent",
+      "titleZh": "cloud-claw-launch-agent",
+      "description": "Use this skill when the user wants to launch a new AltClaw, OpenClaw, PicoClaw, or Ottie deployment through Cloud Claw. Covers the same user-facing fields and constraints exposed in the Cloud Claw UI, using the local altllm cloud-claw-* commands. Do NOT use for post-launch lifecycle tasks like start/stop/delete/logs; use cloud-claw-manage-vm.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/altlayer/cloud-claw-launch-agent",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-antseed-antseed-connect",
+      "name": "antseed-connect",
+      "titleZh": "antseed-connect",
+      "description": "Connect coding agents, AI SDKs, and LLM tools to the AntSeed buyer proxy. Use when configuring Claude Code, Codex, OpenCode, Pi, OpenClaw, Hermes, GenLayer Studio, Vercel AI SDK, LangChain, or raw HTTP to route inference through AntSeed at localhost:8377.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/antseed/antseed-connect",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-arkhai-alkahest-developer",
+      "name": "alkahest-developer",
+      "titleZh": "alkahest-developer",
+      "description": "Help developers write code that interacts with Alkahest escrow contracts using the TypeScript, Rust, or Python SDK",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/arkhai/alkahest-developer",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "internet-court-internet-court-skill-vendored-arkhai-alkahest-user",
+      "name": "alkahest-user",
+      "titleZh": "alkahest-user",
+      "description": "Interact with Alkahest escrow contracts as a buyer, seller, or oracle using the CLI",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "internet-court",
+        "url": "https://github.com/internet-court",
+        "verified": false,
+        "avatar": "https://github.com/internet-court.png"
+      },
+      "gitUrl": "https://github.com/internet-court/internet-court-skill",
+      "subPath": "vendored/arkhai/alkahest-user",
+      "stars": 6257,
+      "halowakeScore": 96,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6257,
+        "forks": 110,
+        "lastCommitDaysAgo": 39,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "internet-court-internet-court-skill"
+    },
+    {
+      "id": "ningzimu-codex-ppt-skill-skills-codex-ppt",
+      "name": "codex-ppt",
+      "titleZh": "codex-ppt",
+      "description": "Generate visually unified image-based PPT/PPTX decks from articles, reports, papers, notes, or outlines.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "ningzimu",
+        "url": "https://github.com/ningzimu",
+        "verified": false,
+        "avatar": "https://github.com/ningzimu.png"
+      },
+      "gitUrl": "https://github.com/ningzimu/codex-ppt-skill",
+      "subPath": "skills/codex-ppt",
+      "stars": 6237,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6237,
+        "forks": 308,
+        "lastCommitDaysAgo": 3,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "ningzimu-codex-ppt-skill"
     },
     {
       "id": "corpus-microsoft-aspire-agents-skills-cli-e2e-testing-af37d15a",
@@ -22698,6 +25495,74 @@
       "sourceId": "agent-skills-corpus"
     },
     {
+      "id": "joeseesun-qiaomu-anything-to-notebooklm-root",
+      "name": "qiaomu-anything-to-notebooklm",
+      "titleZh": "qiaomu-anything-to-notebooklm",
+      "description": "多源内容智能处理器：支持微信公众号、网页、YouTube、播客（小宇宙/喜马拉雅）、PDF、Markdown等，自动上传到NotebookLM并生成播客/PPT/思维导图等多种格式。支持深度分析模式和飞书文档自动创建",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "joeseesun",
+        "url": "https://github.com/joeseesun",
+        "verified": false,
+        "avatar": "https://github.com/joeseesun.png"
+      },
+      "gitUrl": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "stars": 6162,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6162,
+        "forks": 668,
+        "lastCommitDaysAgo": 153,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "joeseesun-qiaomu-anything-to-notebooklm"
+    },
+    {
+      "id": "alchaincyf-darwin-skill-root",
+      "name": "darwin-skill",
+      "titleZh": "darwin-skill",
+      "description": "Darwin Skill 2.0 (达尔文.skill 2.0): autonomous skill optimizer, v2.0 integrates Microsoft Research SkillLens (arXiv 2605.23899) 9-dim rubric + SkillOpt (arXiv 2605.23904) validation-gated design + human-in-the-loop checkpoints. Evaluates SKILL.md files using a 9-dimension rubric (structure + effectiveness + meta-skill blacklists), runs hill-climbing with git version control, spawns independent judge agents for blind evaluation, validates improvements through test prompts with auto-break on diminishing returns, and generates visual result cards. Use when user mentions \"优化skill\", \"skill评分\", \"自动优化\", \"auto optimize\", \"skill质量检查\", \"达尔文\", \"darwin\", \"帮我改改skill\", \"skill怎么样\", \"提升skill质量\", \"skill review\", \"skill打分\".",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "alchaincyf",
+        "url": "https://github.com/alchaincyf",
+        "verified": false,
+        "avatar": "https://github.com/alchaincyf.png"
+      },
+      "gitUrl": "https://github.com/alchaincyf/darwin-skill",
+      "stars": 6110,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6110,
+        "forks": 641,
+        "lastCommitDaysAgo": 9,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "alchaincyf-darwin-skill"
+    },
+    {
       "id": "corpus-thinkinaixyz-deepchat-plugins-cua-vendor-cua-driver-source-skills-cua-driver-8e7250c0",
       "name": "cua-driver",
       "titleZh": "cua-driver",
@@ -22731,6 +25596,216 @@
       "sourceId": "agent-skills-corpus"
     },
     {
+      "id": "chriswiles-claude-code-showcase--claude-skills-core-components",
+      "name": "core-components",
+      "titleZh": "core-components",
+      "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "ChrisWiles",
+        "url": "https://github.com/ChrisWiles",
+        "verified": false,
+        "avatar": "https://github.com/ChrisWiles.png"
+      },
+      "gitUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "subPath": ".claude/skills/core-components",
+      "stars": 6072,
+      "halowakeScore": 88,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6072,
+        "forks": 577,
+        "lastCommitDaysAgo": 264,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "chriswiles-claude-code-showcase"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase--claude-skills-formik-patterns",
+      "name": "formik-patterns",
+      "titleZh": "formik-patterns",
+      "description": "Formik form handling with validation patterns. Use when building forms, implementing validation, or handling form submission.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "ChrisWiles",
+        "url": "https://github.com/ChrisWiles",
+        "verified": false,
+        "avatar": "https://github.com/ChrisWiles.png"
+      },
+      "gitUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "subPath": ".claude/skills/formik-patterns",
+      "stars": 6072,
+      "halowakeScore": 88,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6072,
+        "forks": 577,
+        "lastCommitDaysAgo": 264,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "chriswiles-claude-code-showcase"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase--claude-skills-graphql-schema",
+      "name": "graphql-schema",
+      "titleZh": "graphql-schema",
+      "description": "GraphQL queries, mutations, and code generation patterns. Use when creating GraphQL operations, working with Apollo Client, or generating types.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "ChrisWiles",
+        "url": "https://github.com/ChrisWiles",
+        "verified": false,
+        "avatar": "https://github.com/ChrisWiles.png"
+      },
+      "gitUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "subPath": ".claude/skills/graphql-schema",
+      "stars": 6072,
+      "halowakeScore": 88,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6072,
+        "forks": 577,
+        "lastCommitDaysAgo": 264,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "chriswiles-claude-code-showcase"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase--claude-skills-react-ui-patterns",
+      "name": "react-ui-patterns",
+      "titleZh": "react-ui-patterns",
+      "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "ChrisWiles",
+        "url": "https://github.com/ChrisWiles",
+        "verified": false,
+        "avatar": "https://github.com/ChrisWiles.png"
+      },
+      "gitUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "subPath": ".claude/skills/react-ui-patterns",
+      "stars": 6072,
+      "halowakeScore": 88,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6072,
+        "forks": 577,
+        "lastCommitDaysAgo": 264,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "chriswiles-claude-code-showcase"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase--claude-skills-systematic-debugging",
+      "name": "systematic-debugging",
+      "titleZh": "systematic-debugging",
+      "description": "Four-phase debugging methodology with root cause analysis. Use when investigating bugs, fixing test failures, or troubleshooting unexpected behavior. Emphasizes NO FIXES WITHOUT ROOT CAUSE FIRST.",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "ChrisWiles",
+        "url": "https://github.com/ChrisWiles",
+        "verified": false,
+        "avatar": "https://github.com/ChrisWiles.png"
+      },
+      "gitUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "subPath": ".claude/skills/systematic-debugging",
+      "stars": 6072,
+      "halowakeScore": 88,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6072,
+        "forks": 577,
+        "lastCommitDaysAgo": 264,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "chriswiles-claude-code-showcase"
+    },
+    {
+      "id": "chriswiles-claude-code-showcase--claude-skills-testing-patterns",
+      "name": "testing-patterns",
+      "titleZh": "testing-patterns",
+      "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "ChrisWiles",
+        "url": "https://github.com/ChrisWiles",
+        "verified": false,
+        "avatar": "https://github.com/ChrisWiles.png"
+      },
+      "gitUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+      "subPath": ".claude/skills/testing-patterns",
+      "stars": 6072,
+      "halowakeScore": 88,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 6072,
+        "forks": 577,
+        "lastCommitDaysAgo": 264,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "chriswiles-claude-code-showcase"
+    },
+    {
       "id": "corpus-azure-azure-sdk-for-net-github-skills-dpg-migration-927076e9",
       "name": "dpg-migration",
       "titleZh": "dpg-migration",
@@ -22762,6 +25837,41 @@
       "howToUse": "索引未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者的说明使用。",
       "compatibleAgents": [],
       "sourceId": "agent-skills-corpus"
+    },
+    {
+      "id": "microsoft-webwright-skills-webwright",
+      "name": "webwright",
+      "titleZh": "webwright",
+      "description": "Solve a user-specified web task code-as-action style by driving a local Playwright browser through one bash command at a time, saving screenshots and an action log into `final_runs/run_<id>/`, and visually verifying the result. Use when the user asks to automate a web task (search, filter, form-fill, multi-step flow, data extraction) and wants reusable scripts plus screenshot evidence rather than a one-shot answer.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "microsoft",
+        "url": "https://github.com/microsoft",
+        "verified": false,
+        "avatar": "https://github.com/microsoft.png"
+      },
+      "gitUrl": "https://github.com/microsoft/Webwright",
+      "subPath": "skills/webwright",
+      "stars": 6021,
+      "halowakeScore": 92,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 6021,
+        "forks": 384,
+        "lastCommitDaysAgo": 55,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "microsoft-webwright"
     },
     {
       "id": "corpus-flashinfer-ai-flashinfer-claude-skills-add-cuda-kernel-70cbe272",
