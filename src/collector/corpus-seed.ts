@@ -48,7 +48,7 @@ export function skillsFromCorpus(lines: Iterable<string>, limit = 2000): Catalog
     const suffix = createHash('sha256').update(key).digest('hex').slice(0, 8)
     const compatibleAgents = ['claude', 'codex', 'cursor'].includes(record.agent_platform || '')
       ? [record.agent_platform as string]
-      : ['claude', 'codex', 'cursor']
+      : []
     candidates.push({
       id: `corpus-${slug}-${suffix}`,
       name,
@@ -65,7 +65,7 @@ export function skillsFromCorpus(lines: Iterable<string>, limit = 2000): Catalog
       metrics: { githubStars: stars, forks: 0, lastCommitDaysAgo: 0, issueCloseRate: 0, securityAuditPassed: false },
       tags: [record.category || 'community', record.agent_platform || 'generic'],
       recommendedWith: [],
-      howToUse: '社区索引条目。安装前请查看原始仓库中的技能内容与权限要求。',
+      howToUse: '索引未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者的说明使用。',
       compatibleAgents,
       sourceId: 'agent-skills-corpus'
     })

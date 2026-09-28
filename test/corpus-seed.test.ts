@@ -19,7 +19,17 @@ describe('CC0 corpus import', () => {
       gitUrl: 'https://github.com/owner/project',
       subPath: '.agents/skills/example',
       badge: 'community',
+      compatibleAgents: [],
       metrics: { securityAuditPassed: false }
     })
+  })
+
+  it('only records an Agent when the source identifies one', () => {
+    const record = {
+      platform: 'github', repo: 'owner/project', path: 'SKILL.md',
+      frontmatter_name: 'example', frontmatter_description: 'A complete example skill description',
+      agent_platform: 'codex'
+    }
+    expect(skillsFromCorpus([JSON.stringify(record)])[0].compatibleAgents).toEqual(['codex'])
   })
 })
