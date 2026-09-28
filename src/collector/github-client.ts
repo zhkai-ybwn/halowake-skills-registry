@@ -33,6 +33,22 @@ export interface GitHubCommitSummary {
   }
 }
 
+export interface GitHubTreeEntry {
+  path: string
+  type: 'blob' | 'tree' | 'commit'
+}
+
+export interface GitHubRepositorySearchItem {
+  full_name: string
+  name: string
+  description: string | null
+  default_branch: string
+  stargazers_count: number
+  archived: boolean
+  fork: boolean
+  owner: { login: string }
+}
+
 export class GitHubClient {
   private token?: string
   private cache = new Map<string, any>()
@@ -56,10 +72,10 @@ export class GitHubClient {
     }
 
     try {
-      const res = await fetch(url, { headers })
+      const res = await fetch(url, { headers, signal: AbortSignal.timeout(12000) })
       if (!res.ok) {
         if (res.status === 403 || res.status === 429) {
-          console.warn(`[GitHubClient] Rate limited on: ${url}`)
+          throw new Error(`GitHub API rate limit (${res.status}) while fetching ${url}`)
         } else if (res.status !== 404) {
           console.warn(`[GitHubClient] HTTP ${res.status} for ${url}`)
         }
@@ -69,6 +85,7 @@ export class GitHubClient {
       this.cache.set(url, data)
       return data
     } catch (err) {
+      if ((err as Error).message.startsWith('GitHub API rate limit')) throw err
       console.warn(`[GitHubClient] Network error fetching ${url}:`, (err as Error).message)
       return null
     }
@@ -77,6 +94,20 @@ export class GitHubClient {
   async getRepo(owner: string, repo: string): Promise<GitHubRepoResponse | null> {
     const url = `https://api.github.com/repos/${owner}/${repo}`
     return this.fetchJson<GitHubRepoResponse>(url)
+  }
+
+  async searchRepositories(query: string, page = 1): Promise<GitHubRepositorySearchItem[]> {
+    const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=100&page=${page}`
+    const result = await this.fetchJson<{ items: GitHubRepositorySearchItem[] }>(url)
+    if (!result) throw new Error(`GitHub repository search failed: ${query}`)
+    return result.items || []
+  }
+
+  async getTree(owner: string, repo: string, branch: string): Promise<GitHubTreeEntry[] | null> {
+    const url = `https://api.github.com/repos/${owner}/${repo}/git/trees/${encodeURIComponent(branch)}?recursive=1`
+    const result = await this.fetchJson<{ tree: GitHubTreeEntry[]; truncated: boolean }>(url)
+    if (!result || result.truncated) return null
+    return result.tree
   }
 
   async getDirectory(
@@ -110,14 +141,28 @@ export class GitHubClient {
     }
 
     try {
-      const res = await fetch(rawUrl, { headers })
-      if (!res.ok) return null
-      const text = await res.text()
-      this.cache.set(cacheKey, text)
-      return text
-    } catch {
-      return null
+      const res = await fetch(rawUrl, { headers, signal: AbortSignal.timeout(12000) })
+      if (res.ok) {
+        const text = await res.text()
+        this.cache.set(cacheKey, text)
+        return text
+      }
+      if (res.status === 404) return null
+    } catch (err) {
+      console.warn(`[GitHubClient] Raw fetch failed for ${rawUrl}: ${(err as Error).message}`)
     }
+
+    const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path.replace(/^\/+/, '').split('/').map(encodeURIComponent).join('/')}?ref=${encodeURIComponent(branch)}`
+    const apiHeaders: Record<string, string> = { Accept: 'application/vnd.github+json', 'User-Agent': 'Halowake-Skills-Registry/1.0' }
+    if (this.token) apiHeaders.Authorization = `Bearer ${this.token}`
+    const res = await fetch(apiUrl, { headers: apiHeaders, signal: AbortSignal.timeout(12000) })
+    if (res.status === 404) return null
+    if (!res.ok) throw new Error(`GitHub file API failed (${res.status}): ${apiUrl}`)
+    const file = await res.json() as { content?: string; encoding?: string }
+    if (file.encoding !== 'base64' || !file.content) throw new Error(`Unsupported GitHub file response: ${apiUrl}`)
+    const content = Buffer.from(file.content.replace(/\s/g, ''), 'base64').toString('utf8')
+    this.cache.set(cacheKey, content)
+    return content
   }
 
   async getLatestCommitDate(owner: string, repo: string, branch = 'main'): Promise<string | null> {

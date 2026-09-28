@@ -37,6 +37,7 @@ export const CatalogSkillSchema = z.object({
   category: z.string(),
   author: SkillAuthorSchema,
   gitUrl: z.string().url(),
+  subPath: z.string().optional(),
   stars: z.number().int().nonnegative(),
   halowakeScore: z.number().min(0).max(100),
   badge: SkillBadgeSchema,

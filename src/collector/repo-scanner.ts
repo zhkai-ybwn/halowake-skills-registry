@@ -2,6 +2,7 @@ import type { GitHubClient } from './github-client.js'
 import type { SkillSourceConfig, DiscoveredSkillRaw } from '../types/source.js'
 import type { SubSkillItem } from '../types/registry.js'
 import { parseSkillMarkdown } from './frontmatter-parser.js'
+import { auditSkillContent } from '../validator/security-auditor.js'
 
 export class RepoScanner {
   constructor(private client: GitHubClient) {}
@@ -14,7 +15,53 @@ export class RepoScanner {
       return this.scanStandalone(source, branch, gitUrl)
     }
 
+    if (source.type === 'auto') {
+      return this.scanAuto(source, branch, gitUrl)
+    }
+
     return this.scanMonorepo(source, branch, gitUrl)
+  }
+
+  private async scanAuto(source: SkillSourceConfig, branch: string, gitUrl: string): Promise<DiscoveredSkillRaw[]> {
+    const tree = await this.client.getTree(source.owner, source.repo, branch)
+    if (!tree) return []
+    const docs = tree
+      .filter(entry => entry.type === 'blob' && /(^|\/)SKILL\.md$/i.test(entry.path))
+      .filter(entry => !/(^|\/)(test|tests|examples|fixtures|node_modules|\.github)\//i.test(entry.path))
+      .slice(0, 15)
+    const discovered: DiscoveredSkillRaw[] = []
+    const contents: Array<string | null> = []
+    for (let i = 0; i < docs.length; i += 4) {
+      contents.push(...await Promise.all(docs.slice(i, i + 4).map(doc =>
+        this.client.getFileRaw(source.owner, source.repo, doc.path, branch)
+      )))
+    }
+    for (const [index, doc] of docs.entries()) {
+      const raw = contents[index]
+      if (!raw) continue
+      const parsed = parseSkillMarkdown(raw)
+      const subPath = doc.path.includes('/') ? doc.path.slice(0, doc.path.lastIndexOf('/')) : undefined
+      const folderName = subPath?.split('/').at(-1) || source.repo
+      const id = `${source.owner}-${source.repo}-${subPath || 'root'}`.toLowerCase().replace(/[^a-z0-9_-]/g, '-')
+      discovered.push({
+        sourceId: source.id,
+        id,
+        name: parsed.title || folderName,
+        titleZh: parsed.frontmatter.titleZh || parsed.title || folderName,
+        description: parsed.description || source.description || '',
+        owner: source.owner,
+        repo: source.repo,
+        branch,
+        gitUrl,
+        subPath,
+        rawSkillContent: raw,
+        tags: parsed.tags,
+        authorName: source.owner,
+        defaultStage: source.defaultStage,
+        category: source.category
+      })
+    }
+    return discovered
   }
 
   private async scanStandalone(
@@ -22,10 +69,8 @@ export class RepoScanner {
     branch: string,
     gitUrl: string
   ): Promise<DiscoveredSkillRaw[]> {
-    let content = await this.client.getFileRaw(source.owner, source.repo, 'SKILL.md', branch)
-    if (!content) {
-      content = await this.client.getFileRaw(source.owner, source.repo, 'README.md', branch)
-    }
+    const content = await this.client.getFileRaw(source.owner, source.repo, 'SKILL.md', branch)
+    if (!content) return []
 
     const parsed = parseSkillMarkdown(content || '')
     const custom = source.customSkill
@@ -68,18 +113,16 @@ export class RepoScanner {
     const discoveredList: DiscoveredSkillRaw[] = []
 
     if (entries && Array.isArray(entries)) {
-      const dirEntries = entries.filter((e) => e.type === 'dir')
-      for (const entry of dirEntries) {
-        const skillDocPath = `${scanDir}/${entry.name}/SKILL.md`
-        let rawContent = await this.client.getFileRaw(source.owner, source.repo, skillDocPath, branch)
-        if (!rawContent) {
-          rawContent = await this.client.getFileRaw(
-            source.owner,
-            source.repo,
-            `${scanDir}/${entry.name}/README.md`,
-            branch
-          )
-        }
+      const dirEntries = entries.filter((e) => e.type === 'dir').slice(0, 40)
+      const contents: Array<string | null> = []
+      for (let i = 0; i < dirEntries.length; i += 4) {
+        contents.push(...await Promise.all(dirEntries.slice(i, i + 4).map(entry =>
+          this.client.getFileRaw(source.owner, source.repo, `${scanDir}/${entry.name}/SKILL.md`, branch)
+        )))
+      }
+      for (const [index, entry] of dirEntries.entries()) {
+        const rawContent = contents[index]
+        if (!rawContent || !auditSkillContent(rawContent).passed) continue
 
         const parsed = parseSkillMarkdown(rawContent || '')
         const itemId = `${source.owner}-${entry.name}`.toLowerCase().replace(/[^a-z0-9_-]/g, '-')
@@ -93,6 +136,23 @@ export class RepoScanner {
           description: itemDesc,
           subPath: `${scanDir}/${entry.name}`,
           tags: parsed.tags
+        })
+        discoveredList.push({
+            sourceId: source.id,
+            id: itemId,
+            name: itemName,
+            titleZh: parsed.frontmatter.titleZh || itemName,
+            description: itemDesc,
+            owner: source.owner,
+            repo: source.repo,
+            branch,
+            gitUrl,
+            subPath: `${scanDir}/${entry.name}`,
+            rawSkillContent: rawContent,
+            tags: parsed.tags,
+            authorName: source.owner,
+            defaultStage: source.defaultStage,
+            category: source.category
         })
       }
     }

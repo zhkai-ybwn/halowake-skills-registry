@@ -27,25 +27,28 @@ export class RegistryBuilder {
 
   async build(options: BuildOptions): Promise<RemoteSkillsRegistry> {
     const catalogSkills: CatalogSkill[] = []
+    const metricsCache = new Map<string, Awaited<ReturnType<MetricsEnricher['enrichMetrics']>>>()
 
     for (const source of options.sources) {
       console.log(`[Builder] Scanning source: ${source.owner}/${source.repo} (${source.name})`)
       const discoveredList = await this.scanner.scanSource(source)
 
       for (const discovered of discoveredList) {
+        if (!discovered.rawSkillContent && !discovered.subSkills?.length) continue
         // 1. Static security audit
         const audit = auditSkillContent(discovered.rawSkillContent)
         if (!audit.passed) {
           console.warn(`[Security Warning] Skill ${discovered.id} failed audit: ${audit.violations.join(', ')}`)
+          continue
         }
 
         // 2. Enrich authentic GitHub metrics
-        const metrics = await this.enricher.enrichMetrics(
-          discovered.owner,
-          discovered.repo,
-          discovered.branch,
-          audit.passed
-        )
+        const repoKey = `${discovered.owner}/${discovered.repo}`.toLowerCase()
+        let metrics = metricsCache.get(repoKey)
+        if (!metrics) {
+          metrics = await this.enricher.enrichMetrics(discovered.owner, discovered.repo, discovered.branch, audit.passed)
+          metricsCache.set(repoKey, metrics)
+        }
 
         // 3. Compute score and badge
         const { halowakeScore, badge } = computeSkillScore(
@@ -55,12 +58,9 @@ export class RegistryBuilder {
         )
 
         // 4. Infer SDLC stage and Category
-        const stage = discovered.defaultStage || inferSdlcStage(
-          discovered.name,
-          discovered.description || '',
-          discovered.tags || [],
-          source.defaultStage
-        )
+        const stage = source.type === 'standalone'
+          ? discovered.defaultStage
+          : inferSdlcStage(discovered.name, discovered.description || '', discovered.tags || [], source.defaultStage)
         const category = discovered.category || inferCategory(stage, source.category)
 
         const isBundle = Boolean(discovered.subSkills && discovered.subSkills.length > 0)
@@ -79,6 +79,7 @@ export class RegistryBuilder {
             avatar: discovered.authorAvatar || `https://github.com/${discovered.owner}.png`
           },
           gitUrl: discovered.gitUrl,
+          subPath: discovered.subPath,
           stars: metrics.githubStars,
           halowakeScore,
           badge,
@@ -101,7 +102,7 @@ export class RegistryBuilder {
           console.warn(`[Validation Error] Skill ${skill.id} failed schema validation:`, validation.error.format())
         }
 
-        catalogSkills.push(skill)
+        if (validation.success) catalogSkills.push(skill)
       }
     }
 
@@ -110,7 +111,7 @@ export class RegistryBuilder {
       updatedAt: Date.now(),
       description: 'Official Halowake Verified Agent Skills Registry',
       skills: catalogSkills,
-      pipelines: options.pipelines || []
+      pipelines: (options.pipelines || []).filter(p => p.skills.every(id => catalogSkills.some(s => s.id === id)))
     }
 
     const regValidation = validateRegistry(registry)

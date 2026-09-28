@@ -2,13 +2,15 @@ name: Update Skills Registry
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
+    - cron: '17 */6 * * *' # Incremental discovery every 6 hours (UTC)
   workflow_dispatch: # Allow manual trigger
   push:
     branches:
       - main
     paths:
       - 'sources/**'
+      - 'src/**'
+      - '.github/workflows/update-registry.yml'
 
 jobs:
   update-registry:

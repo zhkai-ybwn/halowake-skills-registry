@@ -12,7 +12,7 @@ export interface RegistryStats {
   updatedAt: string
 }
 
-export function generateStats(skills: CatalogSkill[]): RegistryStats {
+export function generateStats(skills: CatalogSkill[], updatedAt = Date.now()): RegistryStats {
   const byStage: Record<string, number> = {}
   const byBadge: Record<string, number> = {}
   let totalSubSkills = 0
@@ -38,7 +38,7 @@ export function generateStats(skills: CatalogSkill[]): RegistryStats {
     byStage,
     byBadge,
     avgHalowakeScore,
-    updatedAt: new Date().toISOString()
+    updatedAt: new Date(updatedAt).toISOString()
   }
 }
 
@@ -54,7 +54,7 @@ export async function writeRegistryDist(
 
   const prettyJson = JSON.stringify(registry, null, 2)
   const minifiedJson = JSON.stringify(registry)
-  const stats = generateStats(registry.skills)
+  const stats = generateStats(registry.skills, registry.updatedAt)
 
   await fs.writeFile(distPath, prettyJson, 'utf-8')
   await fs.writeFile(minPath, minifiedJson, 'utf-8')

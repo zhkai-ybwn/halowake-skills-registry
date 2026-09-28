@@ -37,6 +37,7 @@ export interface CatalogSkill {
   category: string
   author: SkillAuthor
   gitUrl: string
+  subPath?: string
   stars: number
   halowakeScore: number // 0-100
   badge: SkillBadgeType

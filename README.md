@@ -1,6 +1,6 @@
 # 🌐 Halowake Skills Registry
 
-> **Centralized, Verified & Automated Skills Registry Pipeline for the Halowake AI Coding Assistant.**
+> GitHub-hosted directory of curated skills and community skill pointers for Lumina.
 
 [![Update Skills Registry](https://github.com/zhkai-ybwn/halowake-skills-registry/actions/workflows/update-registry.yml/badge.svg)](https://github.com/zhkai-ybwn/halowake-skills-registry/actions/workflows/update-registry.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -11,10 +11,10 @@
 
 In modern agentic AI development, developers shouldn't have to manually hunt for `SKILL.md` configurations across hundreds of GitHub repositories. **Halowake Skills Registry** serves as the automated registry and packaging backbone for **Halowake**:
 
-- **Zero-Cognitive Load**: Halowake desktop users discover, search, and 1-click install skills directly from an authentic, pre-curated store.
-- **Authentic Metrics (No Fabricated Stars)**: Every star, fork, and recency metric is queried live from GitHub API. Scores are determined transparently by an algorithmic formula.
+- **Installable paths**: Every entry points to an upstream GitHub repository and optional skill directory. The desktop app checks for `SKILL.md` before completing installation.
+- **Separate trust levels**: Curated skills are scanned and enriched with GitHub data. Imported community metadata is labelled `community`, with no security audit or quality score claimed.
 - **Static & Serverless Distribution**: Compiled into standard JSON (`dist/registry.json`) and distributed globally via GitHub Raw CDN and jsDelivr with zero hosting costs.
-- **Automated Freshness**: GitHub Actions cron jobs continuously pull upstream changes, verify security compliance, and rebuild the registry every 6 hours.
+- **Incremental discovery**: GitHub Actions rotates search pages every 6 hours and retains previously published entries when a source is temporarily unavailable.
 
 ---
 
@@ -122,13 +122,21 @@ Badges are assigned systematically:
 Halowake connects to this registry via:
 
 - **Primary URL**:
-  `https://raw.githubusercontent.com/zhkai-ybwn/halowake-skills-registry/main/dist/registry.json`
+  `https://raw.githubusercontent.com/zhkai-ybwn/halowake-skills-registry/main/dist/registry.min.json`
 - **Fast CDN (jsDelivr)**:
-  `https://cdn.jsdelivr.net/gh/zhkai-ybwn/halowake-skills-registry@main/dist/registry.json`
+  `https://cdn.jsdelivr.net/gh/zhkai-ybwn/halowake-skills-registry@main/dist/registry.min.json`
 
 ---
 
 ## 🛠 Local Development
+
+On the first build, the registry imports up to 2,000 GitHub skill pointers from the [Agent Skills Corpus](https://github.com/lawrence3699/agent-skills-corpus). Its metadata is CC0; underlying skill files keep their upstream licenses and are not copied into this repository. The corpus is a dated snapshot, so a listed path may later disappear. The app checks the original repository when installing.
+
+Each run also scans curated `sources/*.json` entries and a bounded set of newly discovered or previously discovered GitHub repositories. `dist/collector-state.json` stores the search page and refresh state. `dist/registry.json` preserves the previous catalog when an upstream request fails. Community entries are source pointers, not verified recommendations.
+
+The default discovery cap is 20 new repositories per run, plus 5 refreshes. Set `REGISTRY_MAX_REPOSITORIES` to tune it. Authenticated builds should provide `GITHUB_TOKEN`. A large drop in published entries fails the build; use `REGISTRY_ALLOW_SHRINK=1` only for an intentional reset. Use `--refresh-corpus` to reimport the snapshot manually.
+
+GitHub search is a candidate source, not an exhaustive index of the web. The current collector covers public GitHub repositories with discoverable `SKILL.md` files. Other registries and hosting providers require separate adapters.
 
 ```bash
 # 1. Install dependencies

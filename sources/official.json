@@ -24,18 +24,5 @@
     "scanPath": "skills",
     "defaultStage": "coding",
     "description": "Battle-tested workflows and superpowers for autonomous AI agents, including systematic debugging and TDD."
-  },
-  {
-    "id": "patrickjs-awesome-cursorrules",
-    "name": "Awesome AI Agent Rules & Skills",
-    "owner": "PatrickJS",
-    "repo": "awesome-cursorrules",
-    "branch": "main",
-    "type": "monorepo",
-    "category": "Framework & Stack",
-    "verified": true,
-    "scanPath": "rules",
-    "defaultStage": "coding",
-    "description": "Curated community collection of best practices and skills for modern web and backend stacks."
   }
 ]

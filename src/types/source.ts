@@ -1,6 +1,6 @@
 import type { SdlcStage, SubSkillItem } from './registry.js'
 
-export type SourceType = 'monorepo' | 'standalone'
+export type SourceType = 'monorepo' | 'standalone' | 'auto'
 
 export interface CustomSkillOverride {
   id: string
