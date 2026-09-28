@@ -86,9 +86,8 @@ export class RegistryBuilder {
           metrics,
           tags: discovered.tags && discovered.tags.length > 0 ? discovered.tags : ['agent', 'skill'],
           recommendedWith: [],
-          howToUse: isBundle
-            ? '本技能为多技能集合包，可在安装时选择全局安装或指定安装单个子技能。'
-            : '在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。',
+          howToUse: source.customSkill?.howToUse || '未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。',
+          promptExample: source.customSkill?.promptExample,
           compatibleAgents: source.customSkill?.compatibleAgents || [],
           isBundle,
           bundleCount: discovered.subSkills ? discovered.subSkills.length : undefined,
