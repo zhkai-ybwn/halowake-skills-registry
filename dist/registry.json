@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1790585928193,
+  "updatedAt": 1790586024709,
   "description": "Halowake Skills Registry: curated skills and community source pointers",
   "skills": [
     {
@@ -22259,7 +22259,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "greptimeteam-greptimedb"
@@ -22294,7 +22294,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "greptimeteam-greptimedb"
@@ -22329,7 +22329,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "greptimeteam-greptimedb"
@@ -22364,7 +22364,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "greptimeteam-greptimedb"
@@ -22399,7 +22399,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22434,7 +22434,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22469,7 +22469,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22504,7 +22504,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22539,7 +22539,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22574,7 +22574,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22609,7 +22609,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22644,7 +22644,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22679,7 +22679,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22714,7 +22714,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22749,7 +22749,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22784,7 +22784,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22819,7 +22819,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22854,7 +22854,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "steipete-agent-scripts"
@@ -22889,7 +22889,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "sawyerhood-dev-browser"
@@ -22924,7 +22924,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -22959,7 +22959,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -22994,7 +22994,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -23029,7 +23029,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -23064,7 +23064,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -23099,7 +23099,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -23134,7 +23134,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "blockrunai-clawrouter"
@@ -23340,7 +23340,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "uditgoenka-autoresearch"
@@ -23375,7 +23375,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "uditgoenka-autoresearch"
@@ -23410,7 +23410,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "uditgoenka-autoresearch"
@@ -23445,7 +23445,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "uditgoenka-autoresearch"
@@ -23480,7 +23480,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "uditgoenka-autoresearch"
@@ -23580,7 +23580,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "therealxiaomanchu-ex-skill"
@@ -23648,7 +23648,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23683,7 +23683,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23718,7 +23718,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23753,7 +23753,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23788,7 +23788,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23823,7 +23823,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23858,7 +23858,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23893,7 +23893,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23928,7 +23928,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23963,7 +23963,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -23998,7 +23998,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -24033,7 +24033,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -24068,7 +24068,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -24103,7 +24103,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -24138,7 +24138,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "czlonkowski-n8n-skills"
@@ -24173,7 +24173,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24208,7 +24208,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24243,7 +24243,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24278,7 +24278,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24313,7 +24313,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24348,7 +24348,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24383,7 +24383,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24418,7 +24418,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24453,7 +24453,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24488,7 +24488,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24523,7 +24523,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24558,7 +24558,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24593,7 +24593,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24628,7 +24628,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24663,7 +24663,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mengto-skills"
@@ -24698,7 +24698,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "alipay-solopi"
@@ -24732,7 +24732,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "anysearch-ai-anysearch-skill"
@@ -24767,7 +24767,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -24802,7 +24802,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -24837,7 +24837,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -24871,7 +24871,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -24906,7 +24906,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -24941,7 +24941,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -24976,7 +24976,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25011,7 +25011,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25046,7 +25046,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25081,7 +25081,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25116,7 +25116,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25151,7 +25151,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25186,7 +25186,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25221,7 +25221,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25256,7 +25256,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "internet-court-internet-court-skill"
@@ -25291,7 +25291,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "ningzimu-codex-ppt-skill"
@@ -25523,7 +25523,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "joeseesun-qiaomu-anything-to-notebooklm"
@@ -25557,7 +25557,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "alchaincyf-darwin-skill"
@@ -25625,7 +25625,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "chriswiles-claude-code-showcase"
@@ -25660,7 +25660,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "chriswiles-claude-code-showcase"
@@ -25695,7 +25695,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "chriswiles-claude-code-showcase"
@@ -25730,7 +25730,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "chriswiles-claude-code-showcase"
@@ -25765,7 +25765,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "chriswiles-claude-code-showcase"
@@ -25800,7 +25800,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "chriswiles-claude-code-showcase"
@@ -25868,7 +25868,7 @@
         "skill"
       ],
       "recommendedWith": [],
-      "howToUse": "在对应 Agent 会话或工程中启用此技能，并在提示词中唤醒相关流程。",
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "microsoft-webwright"
