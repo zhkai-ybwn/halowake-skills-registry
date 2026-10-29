@@ -161240,8 +161240,8 @@
           "BASEREF=$(git rev-parse HEAD)"
         ],
         "sourceUrl": "https://github.com/Chachamaru127/claude-code-harness/blob/HEAD/codex/.codex/skills/harness-work/SKILL.md",
-        "sourceHash": "964a62f93c0b8dd26a2b07a99c9334edadcd1f3016d524fab66d389255774e21",
-        "extractedAt": 1790660640110
+        "sourceHash": "2d62ae96c023cf7122658413502a6ec0a41007968d0552d0d810a6dd3cf21445",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -161281,8 +161281,8 @@
         "summary": "HAR: Execute Plans.md tasks from single task to full parallel team run. Trigger: implement, execute, do everything, breezing, team run, parallel, composer, composer 2.5. Do NOT load for: planning, review, release, setup.",
         "steps": [],
         "sourceUrl": "https://github.com/Chachamaru127/claude-code-harness/blob/HEAD/opencode/skills/harness-work/SKILL.md",
-        "sourceHash": "2f0428a85d7ecbae4ceb0fc888967458d10656aafc0debbd946b210b05f92b28",
-        "extractedAt": 1790660640110
+        "sourceHash": "176aef6ee50f6ff60ae2ac73dd6e769fd4f3920fbd8c927c9f28bb80ce6c9b10",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -161323,8 +161323,8 @@
         "trigger": "composer / コンポーザー / Composer で / composer 2.5 / composer モード は、正式に cursor backend の trigger として扱う。 これは --cursor 相当の intent であり、Lead は resolve-impl-backend.sh を経由して backend を確定する。 解決時は明示 override として --backend cursor を渡し、env / project / user file / default より優先させる。；composer は Claude Worker の内側に spawn する追加 agent ではない。 非 claude backend のトポロジーに従い、Lead が Worker agent を挟まずに cursor-companion.sh を直接呼ぶ。",
         "steps": [],
         "sourceUrl": "https://github.com/Chachamaru127/claude-code-harness/blob/HEAD/skills/breezing/SKILL.md",
-        "sourceHash": "83c5888346db91c85e08d0a6b5084c5386e8dc6dbbd36b59e13d8254be70baca",
-        "extractedAt": 1790660640110
+        "sourceHash": "9fc9760d30389a0ee31156dd1805e3454445732722dfe32a855b08b617cb0182",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -161364,8 +161364,8 @@
         "summary": "HAR: Execute Plans.md tasks from single task to full parallel team run. Trigger: implement, execute, do everything, breezing, team run, parallel, composer, composer 2.5. Do NOT load for: planning, review, release, setup.",
         "steps": [],
         "sourceUrl": "https://github.com/Chachamaru127/claude-code-harness/blob/HEAD/skills/harness-work/SKILL.md",
-        "sourceHash": "e6516fa7a708b51487b48f38b69751400abfb67fee64f6d016ca40ba243cd6ed",
-        "extractedAt": 1790660640110
+        "sourceHash": "09165c5bdc52f7a319359853857275b6b34f37239c2e24b59cc79f6ed9a82d97",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -168041,7 +168041,7 @@
       "sourceId": "agent-skills-corpus",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Ingest any source into the Obsidian wiki by distilling its knowledge into interconnected wiki pages. Handles structured documents (PDFs, markdown, articles, papers, notes, folders), raw/unstructured text (chat exports, conversation logs, Slack/Discord threads, meeting transcripts, CSV/JSON data, journal entries, browser bookmarks, email archives, text dumps), AND web URLs. Use whenever the user…",
+        "summary": "Ingest new documents, raw text, folders, or URLs into the Obsidian wiki as distilled, linked knowledge. Use for general wiki ingestion when no more specific ingest skill applies, including processing raw/ staged content.",
         "steps": [
           "Check stats.skippedunchanged — report to the user how many files are being skipped (already ingested, hash unchanged).",
           "If batchcount == 0 — all files are unchanged. Tell the user and stop.",
@@ -168051,8 +168051,8 @@
           "Text (.txt) — read directly"
         ],
         "sourceUrl": "https://github.com/Ar9av/obsidian-wiki/blob/HEAD/.skills/wiki-ingest/SKILL.md",
-        "sourceHash": "dba9b04c71c4854f767813d9c4258d311b63ed3b95e4e5adb51a53968dfaad58",
-        "extractedAt": 1790660640110
+        "sourceHash": "7e9a42628aa3342895ef17701ae0b4b3d862a1e807e47368794fbf1e603dfa93",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -168136,8 +168136,8 @@
         "summary": "Image, audio, video, speech (TTS), and transcription generation using activity-specific adapters: generateImage() with openaiImage/geminiImage/byteplusImage, generateAudio() with geminiAudio/falAudio, generateVideo() with async polling (openaiVideo/geminiVideo/grokVideo/falVideo/byteplusVideo/openRouterVideo, per-model typed durations), generateSpeech() with…",
         "steps": [],
         "sourceUrl": "https://github.com/TanStack/ai/blob/HEAD/packages/ai/skills/ai-core/media-generation/SKILL.md",
-        "sourceHash": "a09be545794122772296d08f1b461ebd12e27b25808a70857b833aff51623a72",
-        "extractedAt": 1790660640110
+        "sourceHash": "b2815bde839d4d1c1ba34d09953509954175dde60425cd17bddb98c5d32ad0f5",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -170498,8 +170498,8 @@
         "steps": [],
         "example": "Fetch these for full working code:",
         "sourceUrl": "https://github.com/ax-llm/ax/blob/HEAD/website/static/typescript/.well-known/agent-skills/ax-agent/SKILL.md",
-        "sourceHash": "c98be8fdafc80ec52b352d109a79c5a6a9007c2439b77dc1f16261a6867ca836",
-        "extractedAt": 1790660640110
+        "sourceHash": "ae8b2491946786d722dd59db4968308a450cb7be8abece5db83c5e117fff71d2",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -170541,8 +170541,8 @@
         "steps": [],
         "example": "Treat these knobs as a bundle:",
         "sourceUrl": "https://github.com/ax-llm/ax/blob/HEAD/website/static/typescript/.well-known/agent-skills/ax-agent-rlm/SKILL.md",
-        "sourceHash": "1a583f27a8269d532c0a8f13bf7cf9194f747392dac5508b9f1928720b30ff65",
-        "extractedAt": 1790660640110
+        "sourceHash": "5954a5ffbec3112788a473c020a6aed4aa2705badf3d5d6421a74524afea590e",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -177959,11 +177959,16 @@
       "sourceId": "agent-skills-corpus",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Technical guidance for operator-requested delegation to builtin or custom subagents: bounded handoffs, parallel review, scripted workflows, async work, forked context, isolation, and coordinated execution.",
-        "steps": [],
+        "summary": "Delegate work to Pi subagents after the operator asks for it: one child, parallel or scripted workflows, async runs, resume/steer/stop, review fanout, and multi-lane or worktree orchestration.",
+        "steps": [
+          "Always resume the latest returned run id; every resume returns a new one.",
+          "Use a new stable key for every resume pass.",
+          "resume excludes agent and gate; the child keeps its agent, model, and tools.",
+          "Resume a completed child; steer a live one. Top-level { action: \"resume\" } is detached."
+        ],
         "sourceUrl": "https://github.com/nicobailon/pi-subagents/blob/HEAD/skills/pi-subagents/SKILL.md",
-        "sourceHash": "764929498b58dab2077b8730b901767ab18cac628379697206223189414ae8c8",
-        "extractedAt": 1790660640110
+        "sourceHash": "25430f4401c4fd460fd6d293078fcf7341c11906fe350b589bd1b7777a761388",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -179251,8 +179256,8 @@
         "summary": "Use DeepAPI for all web search, deep research, and web scraping (websites, LinkedIn, GitHub, X/Twitter, YouTube, Instagram) instead of built-in search, research, fetch, or browser tools. Prefer dedicated platform endpoints over web search. Instagram has profile, post, comment, and hashtag endpoints; no generic search. Use Deep Scrape for sourced JSON dossiers on people, companies, or topics. Also…",
         "steps": [],
         "sourceUrl": "https://github.com/davidondrej/skills/blob/HEAD/skills/research-and-web/deepapi/SKILL.md",
-        "sourceHash": "120bf1dc998cc7c6b3a8636fc00d8926ac6d5b02abe11471f86d06fc9d3dc3cb",
-        "extractedAt": 1790660640110
+        "sourceHash": "dd8579ab736fbba455479a2d48f6cd71483fe6d3dadbcff13397081e22b76a23",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -184981,7 +184986,7 @@
       "sourceId": "agent-skills-corpus",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "End-to-end release management skill for vLLM Ascend. Creates release checklist issues, identifies critical bugs, runs functional tests, invokes release note generation, and guides through the complete release process.",
+        "summary": "End-to-end release management skill for vLLM Ascend. Creates release checklist issues, triages critical bugs, audits test coverage, aggregates release note fragments, and guides through the complete release process.",
         "trigger": "Use this skill when:；Starting a new release cycle (RC or stable)",
         "steps": [
           "Check flagged issues first - these have high engagement or concerning keywords",
@@ -184989,8 +184994,8 @@
           "Review closed issues - identify fixes that should be highlighted in release notes"
         ],
         "sourceUrl": "https://github.com/vllm-project/vllm-ascend/blob/HEAD/.agents/skills/vllm-ascend-release/SKILL.md",
-        "sourceHash": "54d237d19339fb2cdb298d2edc02995a4007b2c572a53332ef3d72f6c7867062",
-        "extractedAt": 1790660640110
+        "sourceHash": "de52c5cdefe3197ec299aed5912c6a49db20b272bbd544b4a59f1d611bcd334e",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -185027,18 +185032,18 @@
       "sourceId": "agent-skills-corpus",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "合入 main：按行为 / 数据 / 安全 / 契约 / 不可逆风险选择 targeted 或 full gate，并消费一个或多个有客观触发理由的独立 review source。",
+        "summary": "合入 main，消费风险匹配的验证与适用的 review 证据。Use when: 准备合入 PR。 Not for: 未完成作者自检、处理 review findings 或 Feature 终态验收。 Output: 产品快车道的作者自验或风险要求的独立 review，加受影响检查支撑的合入证据与结果。",
         "steps": [
           "Step 0.5 拦“已经进分支历史但放错位置”的文件",
           "Step 8 拦“还在工作树里没处理的脏改动”",
           "main=landed:",
           "live=dormant:，或 live=activated:",
-          "识别 Feature：从 PR title/branch 提取 F{NNN}（无 Feature ID → 跳过，纯 TD/hotfix 不需要）。",
-          "声称 vs 代码现实（人工 — 语义层机器判不了）："
+          "live=dormant:",
+          "deploymentWait="
         ],
         "sourceUrl": "https://github.com/zts212653/clowder-ai/blob/HEAD/cat-cafe-skills/merge-gate/SKILL.md",
-        "sourceHash": "ae9f7fe6f5b6033bb3a21a16756abbacb03922bef15e426b49102c67c48b6e73",
-        "extractedAt": 1790660640110
+        "sourceHash": "2262d9e353a461b3f328e54cbf1f9539565ae83b9b80dbc21c5efbfba348ce63",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -194641,14 +194646,10 @@
       "usageGuide": {
         "extractorVersion": 3,
         "summary": "Format source files to align with Liferay's coding standards.",
-        "steps": [
-          "Why: When a block of declarations feeds straight into a downstream call sequence, ordering them to match that sequence lets the eye match left-to-right and reduces the chance of swapping two same-typed values at the…",
-          "When a block of locals feeds straight into a multiarg call, declare them in the call's argument order.",
-          "The same applies to Mockito mock declarations: order them in the sequence the system under test exercises them, with alphabetical as the tie-breaker. When the system under test calls serviceA first and serviceB second:"
-        ],
+        "steps": [],
         "sourceUrl": "https://github.com/liferay/liferay-portal/blob/HEAD/.claude/skills/format-source/SKILL.md",
-        "sourceHash": "651969c6784f4ea5539debc0d654c370f8e8b7a76b606263a4e147304b50639c",
-        "extractedAt": 1790660640110
+        "sourceHash": "8a382a8490109f02b2bd6a0901f421ff3eb0795d95f23e5eb064ccfe12abf557",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -195404,10 +195405,10 @@
           "Read the existing docs for this section in the Docusaurus site",
           "Read the package READMEs for every package in this section"
         ],
-        "example": "Core Foundation:",
+        "example": "Verifying signatures against source at gate-time is a snapshot — it goes stale the next time the code changes. Traceability makes it structural: every code reference in a README is tagged AT ITS SOURCE with [NethereumDocExample], so a tool can trace — and a test can drift-check — each block back to the live symbol.",
         "sourceUrl": "https://github.com/Nethereum/Nethereum/blob/HEAD/.claude/skills/validate-docs-section/SKILL.md",
-        "sourceHash": "3c542f4a7676f3610374c7ce65bde9741950bc49bf4966665f2e77933eaf4980",
-        "extractedAt": 1790660640110
+        "sourceHash": "688b3d6b212c0215fe4dd9b7318466b41a60057f074d226385218253b63f52e8",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -197670,8 +197671,8 @@
           "api-reference/workflow-api/ - Client API (start.mdx, get-run.mdx, resume-hook.mdx, etc.)"
         ],
         "sourceUrl": "https://github.com/vercel/workflow/blob/HEAD/skills/workflow/SKILL.md",
-        "sourceHash": "2ca639bb69394693fbef0503706d879d168285c745919925d68d43db72c8c412",
-        "extractedAt": 1790660640110
+        "sourceHash": "8cfcf03ee5fb93cab7c1f96fecf5a71a2bedc0af6149a4d2ebb71d68909453fe",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -201533,8 +201534,8 @@
         "trigger": "This skill should be used when:；Writing research proposals for NSF, NIH, DOE, DARPA, or NSTC programs",
         "steps": [],
         "sourceUrl": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/HEAD/.claude/skills/research-grants/SKILL.md",
-        "sourceHash": "462a32fa85d11dcba4363b4f955bc6ec069ecd765f5519bbcdc7473a10f6507d",
-        "extractedAt": 1790660640110
+        "sourceHash": "9208b8b5092e89ef64daced11131c4eb1a50a7711cf6172b6b602419facd56fa",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -201581,11 +201582,11 @@
           "Combine to PDF: Assemble slide images into a single PDF presentation",
           "Plan the deck: Create content plan for each slide",
           "Generate visuals: Use Nano Banana Pro with --visual-only flag to create images for slides",
-          "Build PPTX: Use the PPTX skill (html2pptx or template-based) to create slides with generated visuals and separate text"
+          "Build PPTX: Use the PPTX skill (PptxGenJS or template-based) to create slides with generated visuals and separate text"
         ],
         "sourceUrl": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/HEAD/.claude/skills/scientific-slides/SKILL.md",
-        "sourceHash": "4784f7b18297cd1f778c33916067f82b6f2a0c260a8e086d100777e3ecd4c926",
-        "extractedAt": 1790660640110
+        "sourceHash": "9c5c4f7e991140f997c03833313a3045a57c36298e290df5832a98cea34f66a8",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -201627,8 +201628,8 @@
         "summary": "Draft, revise, and audit scientific manuscripts or reports with explicit evidence provenance, reporting-guideline coverage, authorship accountability, confidentiality controls, and local consistency checks. Use for manuscript sections, references, declarations, tables, figures, or submission preparation when scientific accuracy and traceability matter.",
         "steps": [],
         "sourceUrl": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/HEAD/.claude/skills/scientific-writing/SKILL.md",
-        "sourceHash": "31f4fb3c0df5d78b87b09f533f360e31acc82043fc2c72c4a3a1a3b825dae035",
-        "extractedAt": 1790660640110
+        "sourceHash": "f6026e7d79cd3133e9343a7d6e6c5e06f4ad061888efb6a73fcb95e073eebf67",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -201670,8 +201671,8 @@
         "summary": "Format and structurally validate local treatment-plan documentation after clinical decisions have already been supplied and verified by authorized licensed professionals. Use for source traceability, clinician-authored intervention records, goals and checkpoints, shared-decision records, reconciliation handoffs, and release gates—not for clinical decision-making.",
         "steps": [],
         "sourceUrl": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/HEAD/.claude/skills/treatment-plans/SKILL.md",
-        "sourceHash": "5d70084a9b9b6c705b36d28f491136716eb33bf9144db5bedf78672e9ea07bdb",
-        "extractedAt": 1790660640110
+        "sourceHash": "9d806eb6556b8fb75d78d57bea63fe50a3137bc6f4895a5d68d466af6c562f8e",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -201711,8 +201712,8 @@
         "summary": "Create safety-bounded draft structures and run local deterministic checks for clinical case, diagnostic, trial, safety, and aggregate research reports. Use only with synthetic, de-identified, or aggregate inputs and verified source-fact manifests; every output requires qualified review.",
         "steps": [],
         "sourceUrl": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/HEAD/skills/clinical-reports/SKILL.md",
-        "sourceHash": "f1da8ce1a00f77c9205f0763bb2be8d9bdc7a0c09f819290811578a9b9472849",
-        "extractedAt": 1790660640110
+        "sourceHash": "2b7819fd95e35d8b730a1dbf602548eadd005ff582c5e8ea13db22dff9abd52e",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -201758,8 +201759,8 @@
           "runinbackground: true on the Bash call, Monitor, ScheduleWakeup, Task, Agent, or any other mechanism that defers execution and ends your turn expecting to be re-invoked later."
         ],
         "sourceUrl": "https://github.com/Blazemeter/taurus/blob/HEAD/.claude/skills/prisma-taurus/SKILL.md",
-        "sourceHash": "1e91866f97306499701b7d64b4fc9ce23090e341986b852a25d53dddfc84c5e1",
-        "extractedAt": 1790660640110
+        "sourceHash": "20866133092bbd256d9ce78527cd5947b9060dbb9f5ff2c6c5d377e83e34d8c5",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -219312,8 +219313,8 @@
           "dialogue cast — Render speaker-labelled dialogue lines by resolving speaker-to-voice assignments and saving audio."
         ],
         "sourceUrl": "https://github.com/mvanhorn/printing-press-library/blob/HEAD/cli-skills/pp-elevenlabs/SKILL.md",
-        "sourceHash": "ee70ab5d356b8fce45ec624c7ae6adc53e8e0b14797be9046413500b4d879100",
-        "extractedAt": 1790660640110
+        "sourceHash": "b8016d61a3fb891b357beef4f9b2453038609da66d4637d453292c8cdeb7ca87",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -219402,8 +219403,8 @@
           "candidatespresent (top-level): the envelope carries a candidates section. Handle it via the candidates branch in Step 2 before anything else."
         ],
         "sourceUrl": "https://github.com/mvanhorn/printing-press-library/blob/HEAD/cli-skills/pp-flight-goat/SKILL.md",
-        "sourceHash": "7b87666fb4362842b7df1777a0689593b558137962fdbcafacc0d1f883bef7aa",
-        "extractedAt": 1790660640110
+        "sourceHash": "5097b0ca31f40dcb8c9cff6f1681ff3c84196353c011a1641476fd73b5ee8613",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -222636,8 +222637,8 @@
           "If building from code, read the relevant source files to understand the structure, sections, and which components are used."
         ],
         "sourceUrl": "https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-generate-design/SKILL.md",
-        "sourceHash": "f4f05f29f69a5b4628d4574359910fea926735af78c5e264a1c4cd16f69315b0",
-        "extractedAt": 1790660640110
+        "sourceHash": "4dcebaa45ca3942d0b90f5847cedbff62e040fb381ca643cac79700978402705",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -222680,8 +222681,8 @@
         ],
         "example": "You will see snippets throughout documentation here. These snippets contain useful plugin API code that can be repurposed. Use them as is, or as starter code as you go. If there are key concepts that are best documented as generic snippets, call them out and write to disk so you can reuse in the future.",
         "sourceUrl": "https://github.com/figma/mcp-server-guide/blob/HEAD/skills/figma-use/SKILL.md",
-        "sourceHash": "ac385b80a05c850b5abc6bcae7c56625c4576318510545453a568aa5f21b8a95",
-        "extractedAt": 1790660640110
+        "sourceHash": "abffccc5eddba774690364e274db83a3d4b9b7bf9aa5e73e9c4517e2f352c94a",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -240842,8 +240843,8 @@
         "steps": [],
         "example": "Clear match: \"comprehensive research report on breast cancer\" → Skill(skill=\"tooluniverse-disease-research\", args=\"breast cancer\")",
         "sourceUrl": "https://github.com/mims-harvard/ToolUniverse/blob/HEAD/plugin/skills/tooluniverse/SKILL.md",
-        "sourceHash": "bfa658497ab9941dbaf609d95321853d0e843225b0ff187af648451973a12ef4",
-        "extractedAt": 1790660640110
+        "sourceHash": "2eed7a0deaa56db98e689a02850b55051d54017c84dfe8c8b351ccda098c50d3",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -240888,8 +240889,8 @@
           "gseapy: Enrichment analysis (GO/KEGG/Reactome)"
         ],
         "sourceUrl": "https://github.com/mims-harvard/ToolUniverse/blob/HEAD/plugin/skills/tooluniverse-rnaseq-deseq2/SKILL.md",
-        "sourceHash": "77cad8b4479da88607855c27aa3dc0561b038f93e95924de434a186847735dac",
-        "extractedAt": 1790660640110
+        "sourceHash": "776cd9bd8c73ce036e568728ace0c36f4045b6e20a3f3110b7be939b85536644",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -240930,8 +240931,8 @@
         "trigger": "Apply this skill when user asks:；\"What is the odds ratio of X associated with Y?\"",
         "steps": [],
         "sourceUrl": "https://github.com/mims-harvard/ToolUniverse/blob/HEAD/plugin/skills/tooluniverse-statistical-modeling/SKILL.md",
-        "sourceHash": "8f77fa55cd7876e326f4bf85803cb8d60e3e865dd833681feadbc1475be6d1e0",
-        "extractedAt": 1790660640110
+        "sourceHash": "c9844766824e929bb8ef034871be298b16eb09879fe9e4ebadadfdcfee0cf657",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -240973,8 +240974,8 @@
         "steps": [],
         "example": "Clear match: \"comprehensive research report on breast cancer\" → Skill(skill=\"tooluniverse-disease-research\", args=\"breast cancer\")",
         "sourceUrl": "https://github.com/mims-harvard/ToolUniverse/blob/HEAD/plugins/tooluniverse/skills/tooluniverse/SKILL.md",
-        "sourceHash": "c1f6c9aee5bf28aadea8879c028836712f3de8efb7162cd66e5ccf4d203d73cf",
-        "extractedAt": 1790660640110
+        "sourceHash": "285482c2879d8728bbca7ce3178aa1289f708e9b0bb14718418b21a825adcacf",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -241015,8 +241016,8 @@
         "trigger": "Apply this skill when user asks:；\"What is the odds ratio of X associated with Y?\"",
         "steps": [],
         "sourceUrl": "https://github.com/mims-harvard/ToolUniverse/blob/HEAD/plugins/tooluniverse/skills/tooluniverse-statistical-modeling/SKILL.md",
-        "sourceHash": "268da8c0a50dc696fbd19985c4b05fc6c7bf4c1935f6095739d6157bafb8cb9c",
-        "extractedAt": 1790660640110
+        "sourceHash": "f60ca8c163d2de439c77bb073535ef1a0738490f1d3623db206360887c84523c",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -245816,12 +245817,11 @@
       "sourceId": "agent-skills-corpus",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use when user's message asks assistant identity/name/self-introduction (你是谁/你叫什么/介绍一下你自己/你是什么助手) OR involves the DramaClaw/NovelVideo pipeline. Trigger on: (0) 身份/称谓 — 你是谁、你叫什么、你是什么、介绍你自己; (1) 小说/故事转视频请求 — 做短剧、做成视频、网文视频、竖屏短剧; (2) 流水线产物 — 草图(sketch)、首帧(frame)、beat、剧本(script)、原文(raw)、改写稿(adapted)、解说改写(rewrite)、逐行生成(literal)、肖像(portrait)、身份图(identity)、配色、一致性; (3) 角色/剧集 — 角色、分级、主角/配角、第X集、分集; (4)…",
-        "trigger": "Use when user's message asks assistant identity/name/self-introduction (你是谁/你叫什么/介绍一下你自己/你是什么助手) OR involves the DramaClaw/NovelVideo pipeline. Trigger on: (0) 身份/称谓 — 你是谁、你叫什么、你是什么、介绍你自己; (1) 小说/故事转视频请求 — 做短剧、做成视频、网文视频、竖屏短剧; (2) 流水线产物 — 草图(sketch)、首帧(frame)、beat、剧本(script)、原文(raw)、改写稿(adapted)、解说改写(rewrite)、逐行生成(literal)、肖像(portrait)、身份图(identity)、配色、一致性; (3) 角色/剧集 — 角色、分级、主角/配角、第X集、分集; (4)…",
+        "summary": "Use for explicit DramaClaw/虾导 production work: ingesting a screenplay; checking or resuming a bound pipeline; generating or displaying portraits, identity images, sketches, first frames, audio, beat videos or final episodes; and reading or updating project artifacts. Also use for identity questions. Generic project/status words trigger only in a bound DramaClaw production. Greetings and unrelated…",
         "steps": [],
         "sourceUrl": "https://github.com/dramaclaw/dramaclaw/blob/HEAD/.hermes/skills/dramaclaw/SKILL.md",
-        "sourceHash": "a9ca770ced712ed871edd263d60eeb7ea17de210aa05ed0938abd0737545460f",
-        "extractedAt": 1790660640110
+        "sourceHash": "6a553354e040e5174afe3f97c65a4fee495c8732b98f9791f8759ed0c75c85af",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -246563,8 +246563,8 @@
         "steps": [],
         "example": "Use these existing docs when matching structure, headings, tables, and phrasing:",
         "sourceUrl": "https://github.com/adobe/spectrum-web-components/blob/HEAD/.ai/skills/accessibility-migration-analysis/SKILL.md",
-        "sourceHash": "7c726f11808489845c0f15d8c52694e0a315a234635a8ccb1d3b235214c2d4c2",
-        "extractedAt": 1790660640110
+        "sourceHash": "ca797f0512b9fe66d471dcf62e4c55ff338f8d422dd95c213a154e93bd17db1f",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -248326,8 +248326,8 @@
           "Generate migrations/registries. Run yarn db:generate as a reviewed probe when schema changed; run yarn generate for discovery. Never apply migrations without approval."
         ],
         "sourceUrl": "https://github.com/open-mercato/open-mercato/blob/HEAD/packages/create-app/agentic/shared/ai/skills/om-module-scaffold/SKILL.md",
-        "sourceHash": "94238dd03ce64f5c3f5763df1548daf935343aeafb2f7bdf7b47d8166070ead3",
-        "extractedAt": 1790660640110
+        "sourceHash": "81d43ea6cba2463fd2360f45f16f7a8069b6d6c4eeb0fd3b05212e0e6aed40e2",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -249093,19 +249093,12 @@
       "sourceId": "agent-skills-corpus",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Guide the user through an independent iFixAi audit of their own agent, checking whether it does the job it is supposed to do given their business rules and org structure. Prefer pointing it at the user's REAL deployed agent over its HTTP endpoint (its actual tools, retrieval, and governance) with --provider http --endpoint ; only when no endpoint is reachable, fall back to replicating the model…",
-        "trigger": "Guide the user through an independent iFixAi audit of their own agent, checking whether it does the job it is supposed to do given their business rules and org structure. Prefer pointing it at the user's REAL deployed agent over its HTTP endpoint (its actual tools, retrieval, and governance) with --provider http --endpoint ; only when no endpoint is reachable, fall back to replicating the model…",
-        "steps": [
-          "The engine runs from the plugin's own managed environment. When the plugin is installed and enabled, a SessionStart hook provisions the iFixAi engine into ${CLAUDEPLUGINDATA}/venv (it runs pip install ifixai[anthropic]…",
-          "macOS / Linux / WSL: \"${CLAUDEPLUGINDATA}/venv/bin/ifixai\"",
-          "native Windows: \"${CLAUDEPLUGINDATA}\\venv\\Scripts\\ifixai.exe\" (a venv puts console scripts in Scripts\\, not bin/).",
-          "Platform note. The command blocks below show the POSIX form. On native Windows, where Git Bash isn't installed the Bash tool runs PowerShell, so before running any block translate it. Flags, env-var values, and the…",
-          "path: use \"${CLAUDEPLUGINDATA}\\venv\\Scripts\\ifixai.exe\" run, not …/venv/bin/ifixai run;",
-          "call operator: a command that starts with a quoted path must be run with &;"
-        ],
+        "summary": "Audit the user's own AI agent with iFixAi. You find the agent in their repo, confirm it, ask at most two questions, write a short profile of it with every value cited from the repo, turn the profile into the audit's simulation environment with ifixai author, check it with ifixai validate, show the dry-run cost, run after a yes and explain the findings. Use when the user asks to audit, inspect,…",
+        "trigger": "Audit the user's own AI agent with iFixAi. You find the agent in their repo, confirm it, ask at most two questions, write a short profile of it with every value cited from the repo, turn the profile into the audit's simulation environment with ifixai author, check it with ifixai validate, show the dry-run cost, run after a yes and explain the findings. Use when the user asks to audit, inspect,…",
+        "steps": [],
         "sourceUrl": "https://github.com/ifixai-ai/iFixAi/blob/HEAD/plugin/skills/ifixai/SKILL.md",
-        "sourceHash": "e869fd07a4a3501a5f7a6bddf793a94c6a91242e67c63c246334860d9eb05c82",
-        "extractedAt": 1790660640110
+        "sourceHash": "4358901079de4c7578bdd5712478d89f8b0213656dc72e1dbd257bb14078ab3b",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -251556,8 +251549,8 @@
         "summary": "Pre-push quality gate. Runs 6 parallel reviews (reuse, correctness, quality, i18n, integration wiring, regression/backward-compatibility) on changes before pushing, with optional secondary-model cross-validation. Mandatory for all AI-assisted PRs.",
         "steps": [],
         "sourceUrl": "https://github.com/tphakala/birdnet-go/blob/HEAD/.agents/skills/preflight/SKILL.md",
-        "sourceHash": "13359a44c8bfecb2710018c8625d3975c1c61f957870d32ea7362b35286e9ab5",
-        "extractedAt": 1790660640110
+        "sourceHash": "b675e59a8a4e1a2fa23fe96e7911542ba5b83dd4b64fd43301695433f99083b7",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -261168,8 +261161,8 @@
         "trigger": "Use this skill when you need to understand WHAT a protocol does and HOW Zeus implements it: decoding invoices, payment flows, LNURL, ZEUS Pay, LSPs, Cashu, NWC, swaps, on-chain, or the input router.；Do NOT use this skill for:",
         "steps": [],
         "sourceUrl": "https://github.com/ZeusLN/zeus/blob/HEAD/.claude/skills/zeus-lightning-reference/SKILL.md",
-        "sourceHash": "b2ced3863433076ebcce8f14c0b435ce1dbdcea1dfe6359c4c59f2dd23871e96",
-        "extractedAt": 1790660640110
+        "sourceHash": "853d87e9a23d5aa2d218a90052653c7ea79182353f9948cefac832001cac70c7",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -261217,8 +261210,8 @@
           "Decision gate: if the old node demonstrably keeps syncing after a switch (expected), classify severity: (i) resource-only → fold the fix into solution (a)/(c); (ii) causes E2 crashes or db contention → promote solution…"
         ],
         "sourceUrl": "https://github.com/ZeusLN/zeus/blob/HEAD/.claude/skills/zeus-node-lifecycle-campaign/SKILL.md",
-        "sourceHash": "d1a462df6ee290e58a6d2909a4a583c71a30dcadfc1758505ef14377c61f1964",
-        "extractedAt": 1790660640110
+        "sourceHash": "87677ec41b279b9ac3451bcb234b00a3f0b8fe0421da000ad6d1cca3555875bc",
+        "extractedAt": 1793252839043
       }
     },
     {
@@ -261261,8 +261254,8 @@
         "trigger": "Use this skill when you must establish that something is correct: a race is closed, a migration is safe, a dispatch is complete, an amount path is exact, a decoder matches the spec, a fix cannot regress, a build is reproducible.；Do NOT use this skill for:",
         "steps": [],
         "sourceUrl": "https://github.com/ZeusLN/zeus/blob/HEAD/.claude/skills/zeus-proof-and-analysis-toolkit/SKILL.md",
-        "sourceHash": "e4617483e2d468e43c382b22bf3093cfcd10f3cffcf3d84e208bf87f6185d001",
-        "extractedAt": 1790660640110
+        "sourceHash": "0826a2fefb3ba942430cd2ce5632b15fe04de50c54e3238d6d01b8e08479cf3c",
+        "extractedAt": 1793252839043
       }
     },
     {
