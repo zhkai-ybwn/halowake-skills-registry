@@ -332772,8 +332772,8 @@
         ],
         "example": "\"Run nf-core/rnaseq on these FASTQs\"",
         "sourceUrl": "https://github.com/ClawBio/ClawBio/blob/HEAD/skills/nfcore-rnaseq-wrapper/SKILL.md",
-        "sourceHash": "337d9db5709859872924eb9994a5c8dff8d0d510f1aec960461c5c30cb7d380b",
-        "extractedAt": 1790686331879
+        "sourceHash": "9e29bbc09c64cd39d11d0441e8efe941a48275a98667b50bdc7abff0fb4a51f9",
+        "extractedAt": 1793539332449
       }
     },
     {
@@ -332822,8 +332822,8 @@
         ],
         "example": "\"Run nf-core/sarek for germline variant calling on these WES FASTQs\"",
         "sourceUrl": "https://github.com/ClawBio/ClawBio/blob/HEAD/skills/nfcore-sarek-wrapper/SKILL.md",
-        "sourceHash": "53db3569328d9302d2755d2c03e1ab5a96d9c42659866a1ef8e94318638fe969",
-        "extractedAt": 1790686331879
+        "sourceHash": "02a7fa797cf803062a42869e0d0e66ddd4f44baaecfd221032d3d776c866fcaf",
+        "extractedAt": 1793539332449
       }
     },
     {
@@ -334540,8 +334540,8 @@
           "If both are missing, use en"
         ],
         "sourceUrl": "https://github.com/lee-to/ai-factory/blob/HEAD/skills/aif-qa-check/SKILL.md",
-        "sourceHash": "cb5b6ef03ae0b51d5088286fe3ecd3cbe7619db28458ec794715d6e9da074945",
-        "extractedAt": 1790686331879
+        "sourceHash": "a1836dd483abbfa4fa756ec0d3b45d4c7d24ba9262c01ab59dc50f5eba139dd9",
+        "extractedAt": 1793539332449
       }
     },
     {
