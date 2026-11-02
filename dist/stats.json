@@ -1,20 +1,20 @@
 {
-  "totalSkills": 15360,
+  "totalSkills": 15457,
   "totalBundles": 2,
   "totalSubSkills": 34,
   "byStage": {
-    "requirement": 3315,
-    "design": 4049,
-    "delivery": 1467,
-    "coding": 5936,
-    "testing": 593
+    "requirement": 3325,
+    "design": 4068,
+    "delivery": 1483,
+    "coding": 5987,
+    "testing": 594
   },
   "byBadge": {
     "verified": 36,
     "community": 1988,
-    "trending": 7056,
-    "security": 6280
+    "trending": 7067,
+    "security": 6366
   },
   "avgHalowakeScore": 82,
-  "updatedAt": "2026-11-01T22:00:42.075Z"
+  "updatedAt": "2026-11-02T05:59:41.475Z"
 }
