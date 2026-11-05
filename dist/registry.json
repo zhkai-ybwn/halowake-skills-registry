@@ -202214,8 +202214,8 @@
           "Promote only if public evidence clearly shows a real Jev decision in use."
         ],
         "sourceUrl": "https://github.com/yibie/awesome-jev/blob/HEAD/.agents/skills/jev-curation/SKILL.md",
-        "sourceHash": "e50d15359c1c5dbd13979cac2930252b2d7b97f7bc55c50a02c0e4e64ea3e2e9",
-        "extractedAt": 1791310899687
+        "sourceHash": "378000c31597ba3a8768f0f6e59552e9f69f83631ea0f42d120b09d488b8f7f8",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -220565,8 +220565,8 @@
         "summary": "EdgeOne Makers 全栈开发技能包 —— 涵盖 AI Agent 开发（DeepAgents、LangGraph、 Claude SDK、OpenAI Agents、CrewAI）、云函数（Node.js/Go/Python）、边缘函数、 KV 存储、中间件及快速部署，帮助 AI 编程助手准确高效地在 EdgeOne 平台上构建和发布应用。",
         "steps": [],
         "sourceUrl": "https://github.com/TencentEdgeOne/edgeone-makers-tools/blob/HEAD/SKILL.md",
-        "sourceHash": "9dff80a6b6b6f1d93a3e8f8921f8798227b2d1b24ac4ba59a8f22ee339fd6c9f",
-        "extractedAt": 1791310902350
+        "sourceHash": "b255fb1a6d1b26c8aa60496662e13d22fdba731ab24ceb5c0b7eb740efe839e5",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -220608,8 +220608,8 @@
         "summary": "EdgeOne Makers platform development router — the single entry point for building, storing data, and deploying on Tencent EdgeOne Makers. Trigger whenever the user develops, scaffolds, or deploys anything on EdgeOne Makers / EdgeOne Pages: AI agents (DeepAgents, LangGraph, CrewAI, OpenAI/Claude SDK), Cloud Functions (Node/Go/Python), Edge Functions (V8), KV + Blob storage, middleware, CLI usage,…",
         "steps": [],
         "sourceUrl": "https://github.com/TencentEdgeOne/edgeone-makers-tools/blob/HEAD/skills/edgeone-makers-tools/SKILL.md",
-        "sourceHash": "71f5714290923f81e6941c55c2ec050436a809b6c21bd0a129eb97b3662a2c80",
-        "extractedAt": 1791310902351
+        "sourceHash": "c7be00831cca36070c075c8da2828fbf36d60c0068906b888a1e8c105eadc052",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -220659,8 +220659,8 @@
         ],
         "example": "{ \"buildCommand\": \"npm run build\", // your frontend build command \"outputDirectory\": \"dist\", \"cloudFunctions\": { \"nodejs\": { \"includeFiles\": [] } }, \"agents\": { \"framework\": \"claude-agent-sdk\" } }",
         "sourceUrl": "https://github.com/TencentEdgeOne/edgeone-makers-tools/blob/HEAD/skills/edgeone-makers-tools/references/makers-agents/SKILL.md",
-        "sourceHash": "3cbf1e138671f009dedcb297cbfbc2feb03afd30339c190c0e26df56f8f0b108",
-        "extractedAt": 1791310902351
+        "sourceHash": "73253a67f3e5589f9ce27ca981c5522a7b689630b2d00a79514186875fb68c00",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -220796,8 +220796,8 @@
           "Log in, then publish → go to Login (browser flow), then continue with the normal deploy."
         ],
         "sourceUrl": "https://github.com/TencentEdgeOne/edgeone-makers-tools/blob/HEAD/skills/edgeone-makers-tools/references/makers-deploy/SKILL.md",
-        "sourceHash": "ea7fa22ae23b5933adad1f3c31a27ce7367a9d8577cae6d73426164d5f8e76ed",
-        "extractedAt": 1791310902353
+        "sourceHash": "5fef53ea80bf3bb9c029bedaa57f9779f7bc386b86603f6c60a0451211f7fe38",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -221022,8 +221022,8 @@
         "summary": "Project structure templates and scaffolding recipes for typical EdgeOne Makers applications — full-stack apps, static sites, API services, and AI agent projects.",
         "steps": [],
         "sourceUrl": "https://github.com/TencentEdgeOne/edgeone-makers-tools/blob/HEAD/skills/edgeone-makers-tools/references/makers-recipes/SKILL.md",
-        "sourceHash": "91003cd82f309608b69a3f4947eb63a7ea914e91a85a0d09f066f3260d724cbf",
-        "extractedAt": 1791310902357
+        "sourceHash": "24aa6c6fbfa3bd4758d1e536f93ba5f2e5cb335b07a90e4a593582c5ca2e4925",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337051,12 +337051,13 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "【漫剧老李AIGC 全流程Skill · V6.9.8 轻量版 Multi-Agent】抖音与红果爆款短剧/漫剧工业化编剧与视听导演超级系统。全面支持 OpenClaw、WorkBuddy、豆包智能体/扣子(Coze)等多Agent平台，深度适配 Seedance 2.5/2.0（强制二选一，即梦为次选/历史兼容）＋ MiniMax H3 格式支线（七段式→H3 原生格式转换）闭源视频模型。整合模型版本强制锁定、四前置锁（模型/画幅/交付形态/段缝衔接）、五阶门控剧本引擎、台词七维诊断、FACS微表情引擎（表情AU化/真假笑/情绪配方库）、16项资产锁、《剧组产出册》工业台账、12节拍情绪曲线、二阶亲缘资产推导、2x2俯视空间机位图（CAM1CAM4）、15秒打戏PREVIS、Canvas/API自动化工作流与P0P2独立质检门禁、段缝末态继承双保险、旁白/独白视听编织规程、时长守恒·禁…",
+        "summary": "【漫剧老李AIGC 全流程Skill · V7.4.26 多技能套装版】抖音/红果爆款短剧与漫剧的工业化编剧＋视听导演系统（1 总控 + 12 子技能 · 四层纵深）。走通 剧本开发 → 分镜 → 资产提示词 → 打戏 → 投喂稿 → 出稿质检 全链路，产出可直接投喂 Seedance 2.5 / 2.0 的视频提示词组（模型版本强制锁定）。⚠️ 动手前六道前置锁（① 赛道分流 ② 素材来源 ③ 模型版本 ④ 画幅 ⑤ 交付形态 ⑥ 段缝衔接）＋ 画风锁：任何一道未指定时，必须停下询问用户并把选项摆出来让他勾，禁止默认跳过、禁止替用户推断——这是硬门，不是建议；另含动作强度三档定档。触发场景：写短剧剧本、小说改编、分集大纲、分镜脚本、九宫格场景图与人物立绘提示词、打戏分镜、方言配音标注、解说旁白稿、投喂稿生成与出稿自检。用户直接说需求即可，总控自动路由到子技能，无需了解分工（但锁必须问）。",
+        "trigger": "project-bundle-contract.md：使用 JSON 事实源校验或同源导出时必读；先运行 projectbundle.py validate，再 export 到不存在的新目录。 （2026-10-13 新增 · 治「★权威 ≠ 会被读到」）；由来：本包有 50 份规则库，其中 40 份不在上方八阶段必读清单里（必读清单为最小强制集，其余按需）。此前没有任何一处集中说明\"这些文件何时读\"——于是形成一条静默失效通道：一个文件可以被写进「唯一权威归属表」、标上 ★、画进文件树，却不在任何执行路径上；它照样\"是权威\"，只是永远没人读。 > > 三条铁律： > 1. 下表所列 = 按需读取。「按需」≠「可读可不读」——触发条件一旦成立即「必须读」，不读＝该阶段未执行。 > 2. ⛔ 本表之外不得再存在「只标 ★ 而无触发条件」的规则文件。新增规则文件必须同步登记本表（由…",
         "steps": [],
         "example": "本 skill 默认交付形态 = 提示词/文档，一律不调用出图工具（imagegenerate 等）直接生成图片。",
         "sourceUrl": "https://github.com/lixiaoxiao9888-create/manju-laoli-skill/blob/HEAD/short-drama-director/SKILL.md",
-        "sourceHash": "c74eaa788e80352c378cbae86b7a3b95fda734d9f2ca39ec2837d80185a2813a",
-        "extractedAt": 1791267590673
+        "sourceHash": "d0541e7eb52709b633875d04da652fb8834038ebaf4f4484f79e36f1367ca81a",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -339008,8 +339009,8 @@
         "trigger": "Plan, build and quality-check a premium short commercial for a real business (roofing, property, ecommerce, B2B software) using AI-generated footage, code-built motion (HTML/GSAP), selective Three.js and an independent-critic \"Gauntlet\" loop. Use when asked to make a launch-style / SaaS-style video, business ad, explainer, sample reel or pitch video, or to review and improve one. Encodes motion…",
         "steps": [],
         "sourceUrl": "https://github.com/echris6/motion-video-kit/blob/HEAD/business-motion-film/SKILL.md",
-        "sourceHash": "64a51335ba7375f26c69d8409a950284383088342dcc61cac096cd0ec8fc3075",
-        "extractedAt": 1791267591362
+        "sourceHash": "a79550fa151b794ed2fce3c3677a849aa8fbf29c0602fbc432e3c966f2aabb53",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345112,8 +345113,8 @@
           "Vega: \"data\": [{\"name\": \"dataset\"}] (array)"
         ],
         "sourceUrl": "https://github.com/data-goblin/power-bi-agentic-development/blob/HEAD/plugins/custom-visuals/skills/deneb-visuals/SKILL.md",
-        "sourceHash": "bf2dc4dd003acbf2ffc1c45354a43d240994a6dac955c06b8cd65638122c28cd",
-        "extractedAt": 1791267593892
+        "sourceHash": "aad16f2c795175763a838403efa02661af5783b3554923623e512e224740e781",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345212,8 +345213,8 @@
           "Only the last plt.show() call renders; multiple figures not supported"
         ],
         "sourceUrl": "https://github.com/data-goblin/power-bi-agentic-development/blob/HEAD/plugins/custom-visuals/skills/python-visuals/SKILL.md",
-        "sourceHash": "7ff4ca4863a2905bba9348eba8f8c1b30cffd88eb90cacc8b900315d308da68a",
-        "extractedAt": 1791267593893
+        "sourceHash": "8d25a8063f1bd2a3db7e19150e3745d0a4e59082791496f5f0120f86c9c5bf67",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345261,8 +345262,8 @@
           "Use backticks for column names with spaces: dataset$Order Lines"
         ],
         "sourceUrl": "https://github.com/data-goblin/power-bi-agentic-development/blob/HEAD/plugins/custom-visuals/skills/r-visuals/SKILL.md",
-        "sourceHash": "503eb01ad2f7798f792cf73f73d6e469529a5dede4a6a9e23e1702c350ffdb7c",
-        "extractedAt": 1791267593894
+        "sourceHash": "cf68f7174d8a9d07350ba583468ee65cc70cb67bf2c9f5ad768c0a02380ff82f",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345448,8 +345449,8 @@
           "Scheduled snapshots and alerting: when the user wants ongoing oversight rather than ad-hoc reviews, offer to set up a recurring run of the audit script (for example via cron, a scheduled GitHub Action, a Fabric notebook…"
         ],
         "sourceUrl": "https://github.com/data-goblin/power-bi-agentic-development/blob/HEAD/plugins/fabric-admin/skills/audit-tenant-settings/SKILL.md",
-        "sourceHash": "6c0a22aa6b9376ad1f3876ca0aada824b8510422a49f1be9aba707606c210eca",
-        "extractedAt": 1791267593895
+        "sourceHash": "ca9f9aa1c39ad7bc49d3ea5f795ee9a73fb2bcd1b34442cace09b7aa993a7edb",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345642,8 +345643,8 @@
           "For the context-files theme, apply references/context-review.md (the absorbed context audit)"
         ],
         "sourceUrl": "https://github.com/data-goblin/power-bi-agentic-development/blob/HEAD/plugins/goblin-mode/skills/improve-my-agent-setup/SKILL.md",
-        "sourceHash": "523393172cf550c206bd73a4de650a89f93af4af3aa731ed31b182a16f17c8de",
-        "extractedAt": 1791267593897
+        "sourceHash": "5574e425d14f1467d6cf97996e4076553abbe98d332855e8802a8295845e98b8",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345777,8 +345778,8 @@
         "summary": "Guidance for Power BI Project (PBIP) structure, thick and thin reports, project renames, forks, and validation. Use for .pbip, .pbism, .platform, definition.pbir, PBIP vs PBIX, or cross-cutting project operations.",
         "steps": [],
         "sourceUrl": "https://github.com/data-goblin/power-bi-agentic-development/blob/HEAD/plugins/pbip/skills/pbip/SKILL.md",
-        "sourceHash": "c6a03ed0a555654ff7556d434f9d6b1f3462f9a475f3245767ccd05cd8e2b86f",
-        "extractedAt": 1791267593900
+        "sourceHash": "e12bd6a3fbed68cde20999115491cafa431ca2b91aa2c4b07991dc16cc89a148",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -346601,8 +346602,8 @@
         ],
         "example": "[watcher] name = \"github-myrepo\" type = \"github\" [adapter] secret = \"mysecret\" port = \"18461\" bind = \"127.0.0.1\" [routing] conductor = \"main-conductor\" group = \"dev\"",
         "sourceUrl": "https://github.com/asheshgoplani/agent-deck/blob/HEAD/cmd/agent-deck/assets/skills/watcher-creator/SKILL.md",
-        "sourceHash": "cf82228e91bd9f134c21cb74ddf188c7ac0d72b228ae807fdafa7c6479f7107f",
-        "extractedAt": 1791267594749
+        "sourceHash": "05d3afc24c744d9fb35df16530b9aa5bc0179d85857bf426c8701b09fd843537",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -348688,8 +348689,8 @@
         "steps": [],
         "example": "🎯 把 System+Evaluator+Optimizer 接到 入口脚本:装 Proposer + EA + CandidateStore + 优化循环,跑 await optimizer.optimize()。配置(secrets + 路径 + 超参)放一个 config YAML 文件(放 ),入口加载,不要写死在代码。📖 references/entry-recipe.md。",
         "sourceUrl": "https://github.com/ant-research/AntOmniEvo/blob/HEAD/skills/eddy-antomnievo-experiment/SKILL.md",
-        "sourceHash": "502811f73ca82b05174f010640e6cf92d08363caffc0f563be352389a8781f9c",
-        "extractedAt": 1791267595468
+        "sourceHash": "57cf8a3555db89949dc5e8af171e4df9241aaa603ae0cd9862c4bda0b6ef7157",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -351083,8 +351084,8 @@
         "trigger": "Use when preparing an AgentSys release, checking cross-platform compatibility, or changing the installer, transforms, adapters or marketplace pins. Maintainer skill for this repo only.",
         "steps": [],
         "sourceUrl": "https://github.com/agent-sh/agentsys/blob/HEAD/meta/skills/maintain-cross-platform/SKILL.md",
-        "sourceHash": "0bc3c051b30470d988960c0dd380b07feb6ef7dfe571fed1536e953f33e9f784",
-        "extractedAt": 1791267598102
+        "sourceHash": "b583cdfaf26984fd41c159350d577151ceee443b1a5d22a7af4360458027763d",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371068,8 +371069,8 @@
         "summary": "Docs domain — create and govern documents, read and incrementally edit a doc's live body, read and edit spreadsheets including structural row/column edits, find & replace, cells, layout, shared filters, sorting, freeze panes, and validation/dropdowns, read and batch-edit whiteboard scenes, create and edit PPT presentations, members and sharing, inline comments, versions/snapshots, and attachment…",
         "steps": [],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-docs/SKILL.md",
-        "sourceHash": "1a46a345b7b078a4aadf7402eb985d16432075a22043f048d3185f08d2c3a967",
-        "extractedAt": 1791310909506
+        "sourceHash": "70461579fb0a914f9e38bce7c5d1cfdd027549d52cefe7874495ae10423f3793",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371111,8 +371112,8 @@
         "summary": "Octo Drive — spaces, folders, file upload/download, online-document mounts, share links, invites, IM-attachment transfer. Works with a bot token or a user API key; the CLI routes by token kind. Load after octo-shared.",
         "steps": [],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-drive/SKILL.md",
-        "sourceHash": "8004cbd9dafc8df2d2ac373c78f9831a5ac1a2711e751793c97bc68daadd9aa5",
-        "extractedAt": 1791310909507
+        "sourceHash": "b35e88c70142f12575e9a70989969fe0736760e95c567f6c31dfd613731e050a",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371154,8 +371155,8 @@
         "summary": "File operations (upload/download, presigned S3 credentials) plus bot housekeeping (register, set-commands, user-info, space-members, typing, heartbeat). Load after octo-shared.",
         "steps": [],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-files/SKILL.md",
-        "sourceHash": "ee1350e7affdd9426aa5e8d223dd5a174c02b586e4b094e374293f49c3d05e78",
-        "extractedAt": 1791310909508
+        "sourceHash": "82d276ba2dc4e8c117f6c2c684b49e96915c5c09b65c2077a76d0f1855a2b37d",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371197,8 +371198,8 @@
         "summary": "HTML docs domain (octo-doc) — create and govern self-contained interactive HTML documents, immutable versions, drafts, sharing, media, comments, and agent element edits. Bots cannot delete documents. This is a DIFFERENT backend from the octo-docs (CRDT/Yjs) domain. Load after octo-shared.",
         "steps": [],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-html/SKILL.md",
-        "sourceHash": "ac0237f05a1d2cf2d83e39a6a49b8e5cea08adb4764bcd0a3959622cc6f48b5b",
-        "extractedAt": 1791310909510
+        "sourceHash": "6c0b17d0db6e9c3894865d9a7ee9e5632ab3141608f0032dd2ca55c21cb2f507",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371237,17 +371238,16 @@
       "howToUse": "Use this skill when the request targets a specific Loop workspace or task: reading or writing tasks, comments, projects, or metadata; working with experts or expert-teams (dispatch, schedule, trigger a run); replying to a comment, creating or triaging a task, updating status, or reading progress.；Do not use it for chat unrelated to Loop, for pure local file work, or when \"issue\" clearly means…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use when operating the Octo Loop control plane through the octo-cli loop commands: reading or writing Fleet tasks, comments, metadata, projects, and labels; dispatching work to experts or expert-teams and watching or cancelling their executions; creating, triaging, updating status, or reading progress on a task; listing tasks, experts, or expert-teams in a workspace; and safely handling mention…",
-        "trigger": "Use this skill when the request targets a specific Loop workspace or task: reading or writing tasks, comments, projects, or metadata; working with experts or expert-teams (dispatch, schedule, trigger a run); replying to a comment, creating or triaging a task, updating status, or reading progress.；Do not use it for chat unrelated to Loop, for pure local file work, or when \"issue\" clearly means…",
+        "summary": "Use when operating the Octo Loop control plane through the octo-cli loop commands: reading or writing Fleet tasks, comments, metadata, Loop projects/resources, and labels; dispatching work to experts or expert-teams and watching or cancelling their executions; creating, triaging, updating status, or reading progress on a task; listing tasks, experts, or expert-teams in a workspace; and safely…",
+        "trigger": "Use this skill when the request targets a specific Loop workspace or task: reading or writing tasks, comments, Loop projects/resources, or metadata; working with experts or expert-teams (dispatch, schedule, trigger a run); replying to a comment, creating or triaging a task, updating status, or reading progress.；Do not use it for chat unrelated to Loop, for pure local file work, or when \"issue\"…",
         "steps": [
           "Read before you write.",
-          "Comment history is paginated with --page / --page-size.",
-          "Explore other namespaces (project, expert, expert-team, expert-template, execution, runtime, skill, skill-file, autopilot, attachment, label, top-level comment) with --help — their shapes vary.",
+          "bash octo-cli loop task get --workspace-id octo-cli loop task comment list --workspace-id octo-cli loop task metadata list --workspace-id octo-cli loop task timeline list --workspace-id octo-cli loop task…",
           "Treat writes as actions with side effects: creating comments, creating tasks, changing status, assigning/dispatching, rerunning executions, mentioning an expert or expert-team, and autopilot changes. If the user has not…"
         ],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-loop/SKILL.md",
-        "sourceHash": "c46c037787f5bb02f1f6305138b2affa9c108669b9e66e53c005beb59d779345",
-        "extractedAt": 1791310909510
+        "sourceHash": "3b13f1cde607d7f85f77d0a119a56621600b93bce7c9cfac3026f1464d019c47",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371332,8 +371332,8 @@
         "summary": "Search, install, publish, review, and update Marketplace plugins — Skills, MCP connectors, and Experts/Squads (专家/专家团) — through the unified plugin API. Load after octo-shared.",
         "steps": [],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-marketplace/SKILL.md",
-        "sourceHash": "97d192d95f72fa9cb6c0bb1c040ac1b695db461968500d37950e1cc608bfcd55",
-        "extractedAt": 1791310909512
+        "sourceHash": "1305c020ecfff3ff7d6f75cdf4cd6d5046018ab2417d3f49eb45c1d2569ccb9d",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371417,9 +371417,10 @@
         "extractorVersion": 3,
         "summary": "Messaging domain — send/edit/sync messages, read receipts, message search (search/all/files/media/around/groups, in-channel or cross-channel), groups and threads (User Bot), and event polling. Covers App Bot DM-only constraints. Load after octo-shared.",
         "steps": [],
+        "example": "octo-cli message search --chat-id --channel-type 2 --keyword \"quarterly report\" [--sort timedesc]",
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-messaging/SKILL.md",
-        "sourceHash": "f8e7c9eb9ac17b6b0448d7216aaaa161576ad8e70ba0db6e7e752c9fc0abf76b",
-        "extractedAt": 1791310909514
+        "sourceHash": "094c38888a2ec140a7a410f16adbe287ad414972c4e7786cd88470f3ff27a193",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371462,8 +371463,8 @@
         "steps": [],
         "example": "octo-cli auth login --bot-id clixxxxxxxx # robot id you got when creating the bot echo \"$TOKEN\" | octo-cli auth login --bot-id clixxxxxxxx --with-token # non-interactive",
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-shared/SKILL.md",
-        "sourceHash": "7e589c287a04cc94eb33dce2e00b7fa54f7a2df3829a11dce2ea97d168500c5a",
-        "extractedAt": 1791310909515
+        "sourceHash": "582676f208a2ea5d63fb48d60267becfa514d06b9fa00f5d25933a89341f4fc0",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -371506,8 +371507,8 @@
         "trigger": "Read, create, find, and cite Octo summaries through octo-cli. Use when an agent needs to create an owner-only summary from explicit channels, discover summaries visible to its bot owner, inspect one summary, retrieve its current body, or ground an answer in returned citation metadata. Load after octo-shared.",
         "steps": [],
         "sourceUrl": "https://github.com/Mininglamp-OSS/octo-cli/blob/HEAD/skills/octo-summary/SKILL.md",
-        "sourceHash": "12a0a631352696de650af8119da3ee5e642134eab529ab20d5a324f4e9e20ab1",
-        "extractedAt": 1791310909515
+        "sourceHash": "331fce0fc4ec9902e6e819e6fc82cf9df8d1d88dac1f68dba1bab75cff986f43",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -372431,12 +372432,12 @@
       "howToUse": "Converges an underspecified request into a typed IntentSpec before planning or acting. Use when the user asks to implement, add, change, refactor, fix, migrate, configure, handle, triage, sort out, look into or decide something and the request leaves decisions open (which objects, which approach, what happens on failure, which trade-off), contradicts itself, admits two readings, or rests on an…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Converges an underspecified request into a typed IntentSpec before planning or acting. Use when the user asks to implement, add, change, refactor, fix, migrate, configure, handle, triage, sort out, look into or decide something and the request leaves decisions open (which objects, which approach, what happens on failure, which trade-off), contradicts itself, admits two readings, or rests on an…",
-        "trigger": "Converges an underspecified request into a typed IntentSpec before planning or acting. Use when the user asks to implement, add, change, refactor, fix, migrate, configure, handle, triage, sort out, look into or decide something and the request leaves decisions open (which objects, which approach, what happens on failure, which trade-off), contradicts itself, admits two readings, or rests on an…",
+        "summary": "Converges an underspecified request into an IntentSpec: looks up what sources answer, asks only what they cannot, halts instead of guessing, checks delivery against the spec. Use when a request to implement, add, change, fix or configure leaves a decision open — scope, approach, failure behaviour, what done means — contradicts itself, reads two ways, or rests on a premise sources rule out. Silent…",
+        "trigger": "Converges an underspecified request into an IntentSpec: looks up what sources answer, asks only what they cannot, halts instead of guessing, checks delivery against the spec. Use when a request to implement, add, change, fix or configure leaves a decision open — scope, approach, failure behaviour, what done means — contradicts itself, reads two ways, or rests on a premise sources rule out. Silent…",
         "steps": [],
         "sourceUrl": "https://github.com/angel291592/Intent-Router/blob/HEAD/skills/intent-router/SKILL.md",
-        "sourceHash": "7b940fe53bc4b7ea27493f8917ccf9d8b5a5837a598901c9817753a481a13ddb",
-        "extractedAt": 1791310910277
+        "sourceHash": "2ce056faa2421ab72b7b1a7c372ceada30ab94ed642e14cf59b3ce59e735e978",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -374284,11 +374285,14 @@
       "usageGuide": {
         "extractorVersion": 3,
         "summary": "Turn books, PDFs, slides, documents, web pages and text into a source-grounded knowledge base, interactive learning HTML and Markdown in English or Chinese. Use for learning, summaries, explanations, review, quizzes, relationship maps, saving reusable methodology files, retrieving or comparing accumulated methods, and applying them to a real problem.…",
-        "trigger": "处理“帮我学习/讲解/总结/复习/整理这本书或这份材料”“生成学习网页”“深挖某章/某主题”“保存方法论”“从方法库检索/比较/组合方法”等请求。材料可为 PDF、EPUB、MOBI/AZW、DOCX、PPTX/PPTM、HTML、Markdown、TXT、RTF 或多个材料集合。",
-        "steps": [],
+        "steps": [
+          "本版本由当前执行者顺序完成材料提取、单元编写、第二遍原文回读、全局整合、关系正确性检查、原文查漏／应用检查和交付。用户已明确学习深度时直接采用；未明确时只询问一次 quick 或 systematic。不再询问执行方式，也不需要选择文件。",
+          "开始记录实际任务时间，运行 pipeline.py preflight 检查文件和环境能力，再按 references/material-processing.md 直接提取。保留来源指纹、安全检查、缓存与按依赖恢复；环境变化或实际失败时才重新检查相关能力，默认不安装依赖。",
+          "每个单元稳定后先读回原文，再与编写结果核对；最终整合后分别完成查错和查漏／应用两项复核。新记录使用 executionMode: sequential，作者、回读者和整合者记录同一真实执行者，不虚构其他审阅者。分阶段回读不是独立执行者审核。历史记录按原证据兼容读取，不能因升级版本自动获得新复核状态。"
+        ],
         "sourceUrl": "https://github.com/dmoshehun-prog/learn-from-materials/blob/HEAD/SKILL.md",
-        "sourceHash": "55da55f4958198cff483151a10ca8582c5b7612d9ea0797f0cc3f21dc05b821c",
-        "extractedAt": 1791310911245
+        "sourceHash": "d591a46f72ee34beaeed520c5a8bad2f3f21cf25011d22c0e0d6eabfed4fb2d4",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -375934,12 +375938,12 @@
       "howToUse": "Use when explicitly asked to handle a pull request in the Scenario skills repository, including review comments and skill validation.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use when explicitly asked to handle a pull request in the Scenario skills repository, including review comments and skill validation.",
-        "trigger": "Use when explicitly asked to handle a pull request in the Scenario skills repository, including review comments and skill validation.",
+        "summary": "Use when explicitly asked to handle a pull request in the Scenario skills repository, including review comments, script tests and dependency pins, and skill validation.",
+        "trigger": "Use when explicitly asked to handle a pull request in the Scenario skills repository, including review comments, script tests and dependency pins, and skill validation.",
         "steps": [],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/.agents/skills/skills-pr-handle/SKILL.md",
-        "sourceHash": "444687971d2efa214a9d85e058941860b2b039a2bc3f9c83efc626f7d3e78cd9",
-        "extractedAt": 1791310912480
+        "sourceHash": "087505cd06a82dfcc6b73e90dbe39127c2963d5732d9a6d34f73b04aee873273",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376070,8 +376074,8 @@
         "trigger": "Use when explicitly asked to run a live or plan-only application test for a published Scenario skill.",
         "steps": [],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/.agents/skills/skills-validate/SKILL.md",
-        "sourceHash": "9ec70c450546911fad1e8000be236e0db548ee380e971e0474df22ce49b1fd08",
-        "extractedAt": 1791310912482
+        "sourceHash": "ad068af9ca46cbc30698b09cb677847706dba937e87402b2e8e90464a08ffc90",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376121,8 +376125,8 @@
           "Re-inject energy (Leo: splining softens): timing accents, overshoots, desynchronized parts, offsetkeys 1 to 2 frames per chain link (Dillon), head lag 2 to 3 frames in cycles (Joey), contacts that slide rather than glue…"
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-animation/SKILL.md",
-        "sourceHash": "aff7450263b6435bd3d654147d971f38ed8effb37ea6aac86e21a3e574d4fa49",
-        "extractedAt": 1791310912483
+        "sourceHash": "7000c7bab1569343ee8e50ca41e34de03ec0cb7dde1e4ed6ed04a19b117caf67",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376161,12 +376165,12 @@
       "howToUse": "Use when doing any 3D work in Blender through Python or an MCP bridge, headless or in a live session: modeling, sculpting a character or head, retopology, UV unwrapping, baking, texturing, rigging, animating, previs, geometry nodes, lighting and rendering, grease pencil, or finishing an AI-generated mesh into a production asset. Also when a bpy script fails on Blender 5.x API changes, a brush or…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use when doing any 3D work in Blender through Python or an MCP bridge, headless or in a live session: modeling, sculpting a character or head, retopology, UV unwrapping, baking, texturing, rigging, animating, previs, geometry nodes, lighting and rendering, grease pencil, or finishing an AI-generated mesh into a production asset. Also when a bpy script fails on Blender 5.x API changes, a brush or…",
-        "trigger": "Use when doing any 3D work in Blender through Python or an MCP bridge, headless or in a live session: modeling, sculpting a character or head, retopology, UV unwrapping, baking, texturing, rigging, animating, previs, geometry nodes, lighting and rendering, grease pencil, or finishing an AI-generated mesh into a production asset. Also when a bpy script fails on Blender 5.x API changes, a brush or…",
+        "summary": "Use when doing any 3D work in Blender through Python or an MCP bridge, headless or in a live session: modeling, sculpting a character or head, retopology, UV unwrapping, baking, texturing, rigging, animating, previs, geometry nodes, lighting and rendering, grease pencil, or finishing an AI-generated mesh into a production asset. Also before exporting or handing off an asset, to check it is ready…",
+        "trigger": "Use when doing any 3D work in Blender through Python or an MCP bridge, headless or in a live session: modeling, sculpting a character or head, retopology, UV unwrapping, baking, texturing, rigging, animating, previs, geometry nodes, lighting and rendering, grease pencil, or finishing an AI-generated mesh into a production asset. Also before exporting or handing off an asset, to check it is ready…",
         "steps": [],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-expert/SKILL.md",
-        "sourceHash": "66af9735948dd16ed619c48fdd66b03124a4b521e70543df0f90f77fe6f55376",
-        "extractedAt": 1791310912484
+        "sourceHash": "049f0ecd4bbbdc3e6ee09beac9ce5f262d6970f6932221e20e0420bf492bd5f2",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376216,8 +376220,8 @@
           "Simulations. Step every frame in order with G.step(range(...)), or G.bake(obj) for random access; assert bounds, monotonic states, counts, no NaN. GATE: a direct jump to a late frame equals the stepped result only after…"
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-geometry-nodes/SKILL.md",
-        "sourceHash": "c7465134d8506ad0975063974d5c462ea3638aadf9f316d74dc81c4b7a522923",
-        "extractedAt": 1791310912484
+        "sourceHash": "2cac914718e24041734a15fa54b0cb1bd2d5a3e9a19570fd6ac34dc507722b7e",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376267,8 +376271,8 @@
           "5D (optional). Outlines: G.lineart(source, radius=widthm) (the modifier radius is the line width). Strokes on meshes: G.projecttosurface(pts, mesh) and discard strokes with missed or occluder-captured points (Pablo's…"
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-grease-pencil/SKILL.md",
-        "sourceHash": "ddba2b6f80b7aebed580aa2c7bd91a2d1c3bdfffa1f796007371dc5fa8b14769",
-        "extractedAt": 1791310912486
+        "sourceHash": "507f60992492c9d63b498494aaeab2f0a76ca35d92e31c18e1ce29470d36169d",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376318,8 +376322,8 @@
           "Design pass. Cluster details, leave calm areas, align with neighboring features (Ryuu [00:28:37], Gambrell [00:34:15]); hide perfect intersections behind a collar (du Mont [00:39:36]); union parts that must share a…"
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-hard-surface/SKILL.md",
-        "sourceHash": "f14733f37d3f0ee2654fcac4f9f0bb3c1bc3112854a38848f71736eb155a525d",
-        "extractedAt": 1791310912487
+        "sourceHash": "2bfcc5fbab235b0aa6f94d73d9c01521b0143c89a5dc7ba994fa49ee0f3d2510",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376369,8 +376373,8 @@
           "Color. BL.colorsetup(view, look, exposure) (brightness here, never by scaling lamps) and BL.coloraudit(). GATE: the audit is empty, no complementary clash is flagged, clip is at most 0.5 % outside emitters, and the…"
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-lighting-rendering/SKILL.md",
-        "sourceHash": "93a3bea574312104922feba0884afa05332a2a7e12720995b9fabb948e0d297e",
-        "extractedAt": 1791310912487
+        "sourceHash": "2d428bcf7d7af12be58a680dc670fb965335b742bb7fa69fc560870a7a45403a",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376420,8 +376424,8 @@
           "Cameras. P.buildshots places each camera from size, lens and eye height (or explicit loc/aim), sets an opaque passepartout (Charge: see only the composition; P.passepartout(sc) for other cameras) and binds a marker at…"
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-previs-storyboard/SKILL.md",
-        "sourceHash": "6eb5585de33e6aa2d5a4bc5b93c417ac06c8ef2b551967900f5a03bd37fac450",
-        "extractedAt": 1791310912488
+        "sourceHash": "6cd8d335f2c98d05d2a03f1440224531c8ac082ad1b21ac5ab513d926b261d22",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -376471,8 +376475,8 @@
           "Connect by counts: R.boundaryloops, then R.bridge / R.weldloops on equal counts; reduce the larger side first (Kaspar: wrist 10 vs hand 16 was \"six too many\"). GATE: no triangles created."
         ],
         "sourceUrl": "https://github.com/scenario-labs/skills/blob/HEAD/skills/dcc/blender/scenario-blender-retopology/SKILL.md",
-        "sourceHash": "b6f31d60d7cd7d4cd055d0e7ba160eaa58b9d165739055eb3a1c1e381c08036e",
-        "extractedAt": 1791310912488
+        "sourceHash": "2578f4de892cd107df8aefa8892ccf1b348a1720a6ae2e9798b6ae0120362f08",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -381397,8 +381401,8 @@
           "Read only the specific file or category you need."
         ],
         "sourceUrl": "https://github.com/oracle/skills/blob/HEAD/db/SKILL.md",
-        "sourceHash": "4a73e345de42e1efec52baf02e69b937fadd6d3a33bc5d201a2dc73b0a7420f0",
-        "extractedAt": 1791310914236
+        "sourceHash": "daad40ce62a718ab8fb473f38811b9026e23910c335cdebb58fb59661aa46f03",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -381919,11 +381923,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Automatic final verification pass on completed deliverables. Runs automatically at the end of every fable-mode run (fable-mode, fable-fable, fable-opus, fable-sonnet, fable-haiku) — those skills invoke it before delivery. Also triggers when the user says \"double check this\", \"double-check\", or wants the finished work re-checked without doing it themselves. Uses a panel of model-tier checker…",
+        "summary": "Automatic final verification pass on completed deliverables. Runs at the end of every fable-mode run — those skills invoke it before delivery. Also triggers when the user says \"double check this\". Uses a panel of fresh checker agents when spawning is authorized (otherwise a cold self-check) to verify the finished output — not to redo the task. Any FAIL gets fixed and re-checked before delivery.",
         "steps": [],
         "sourceUrl": "https://github.com/mrtooher/fable-mode/blob/HEAD/double-check/SKILL.md",
-        "sourceHash": "31e3953befe7294b344cb873dc24489b03109b5ff057c2179989771cd3873adf",
-        "extractedAt": 1791310918217
+        "sourceHash": "2182e4dfbc609c888775af2270afb87bea30939655a280be7144554f035f699c",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -381962,11 +381966,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Always-on operational guardrails, model-independent. Apply on EVERY task and EVERY model (Fable, Opus, Sonnet, Haiku, and any future tier) whether or not fable-mode's staged loop is running. Three rules: (1) verify-before-flag — never raise a warning about a problem that hasn't been confirmed present by a direct check; (2) warning batching — accumulate minor concerns and surface them together at…",
+        "summary": "Always-on operational guardrails, model-independent. Apply on EVERY task and EVERY model whether or not fable-mode's staged loop is running. Three rules: verify-before-flag, warning batching, and find-and-replace safety. Trigger whenever a response would flag a problem, raise a warning, or edit files with search-and-replace.",
         "steps": [],
         "sourceUrl": "https://github.com/mrtooher/fable-mode/blob/HEAD/execution-guardrails/SKILL.md",
-        "sourceHash": "947564e6b5ff46174ae3fa6605329a29da2d6e8de09c2fee31c0de1f32b76cc3",
-        "extractedAt": 1791310918217
+        "sourceHash": "78b5a969c7ff18239cebb8b0ebd622f689755d03a3b23d21ea0879cbaa7e6b60",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -382091,11 +382095,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Run fable-mode execution discipline on Claude Opus — one rung below Fable 5.1 on the escalation ladder. Routes the task to the @fable-orchestrator agent (Opus, Write-less), which stages the work, delegates artifact production to @fable-worker-sonnet / @fable-worker-haiku, and cold-checks deliverables with @fable-verifier. Trigger when the user explicitly asks for thorough/systematic/\"deep work\"…",
+        "summary": "Run fable-mode execution discipline on Claude Opus — the top of the escalation ladder. Trigger when the user explicitly asks for thorough/systematic/\"deep work\" handling on Opus (\"fable on opus\", \"stage this on opus\", \"deep work mode, opus\"). When a task exceeds Opus's ceiling, report that to the user rather than escalating further.",
         "steps": [],
         "sourceUrl": "https://github.com/mrtooher/fable-mode/blob/HEAD/fable-opus/SKILL.md",
-        "sourceHash": "35505d74c50433a2ba3bdc7851bedb7f4dfeec6c7e8be08013c816e3a0c79b39",
-        "extractedAt": 1791310918218
+        "sourceHash": "8bc517e1b3c3959f6757829e9650e3d2948b75a782dd4889cc3299519128774a",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -382134,11 +382138,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Run fable-mode execution discipline on Claude Sonnet. Routes the task to the @fable-worker-sonnet agent, whose definition carries the staged loop with step-3 verification enforced hardest (Sonnet's known gap), optionally followed by a cold @fable-verifier pass. Trigger when the user explicitly asks for thorough/systematic/\"deep work\" handling on Sonnet (\"fable on sonnet\", \"stage this on sonnet\",…",
+        "summary": "Run fable-mode execution discipline on Claude Sonnet. When invoked by slash command or by name, spawns a Sonnet subagent that follows the staged loop — stage plan, parallel delegation, a failable verification check at each stage, and a skeptical self-review before delivery; a wording-only request runs the loop inline on the current model. Trigger when the user explicitly asks for…",
         "steps": [],
         "sourceUrl": "https://github.com/mrtooher/fable-mode/blob/HEAD/fable-sonnet/SKILL.md",
-        "sourceHash": "52f3b892abf65a3802285fe7a506d3eefb8499bc3615f3649622b64b0fcd0a72",
-        "extractedAt": 1791310918218
+        "sourceHash": "4ef9fea2042615f0dc25dcf67aa1e771b0ef192fc57bf781919cfdca3ca2959f",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -382176,11 +382180,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Enforces staged execution discipline on large tasks: a written stage plan, delegation to named fable agents where the runtime supports it, a failable verification check at each stage, and a skeptical self-review before delivery. Trigger when the user explicitly asks (\"do this thoroughly\", \"be systematic\", \"deep work mode\") OR when the task objectively spans multiple files, multiple sources, or…",
+        "summary": "Enforces staged execution discipline on large tasks: a written stage plan, parallel delegation where the runtime supports it, a failable verification check at each stage, and a skeptical self-review before delivery. Trigger when the user explicitly asks OR when the task objectively spans multiple files, sources, or sessions. Do NOT trigger on ordinary multi-step requests that a direct attempt…",
+        "trigger": "If a task has one obvious correct approach, fits in a single pass, and the user did not ask for this skill, do it directly and skip this loop. Staging a trivial task wastes effort and buries the answer under ceremony. On autonomous triggering, this loop earns its cost only when a one-shot attempt would plausibly miss…",
         "steps": [],
         "sourceUrl": "https://github.com/mrtooher/fable-mode/blob/HEAD/SKILL.md",
-        "sourceHash": "490f103002729e2d55954ca14dbac76bba3de494016899ae01c2a14d8d0412c9",
-        "extractedAt": 1791310918216
+        "sourceHash": "b13e40ae3abd401fd12cb23682985552a9b60e1be22ec588c6eb848f6eb41ebf",
+        "extractedAt": 1793908604659
       },
       "compatibleAgents": [],
       "isBundle": false,
