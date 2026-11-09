@@ -16928,11 +16928,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "处理 1c7/chinese-independent-developer 仓库的项目提交。 检查 issue #160 新评论、新开的 Issue、新开的 PR， 将有效项目添加到对应 README，关闭垃圾内容。 当用户要求“收录项目”“处理提交”“处理 issue”“跑一下列表”或运行中国独立开发者列表维护流程时使用。",
+        "summary": "处理 1c7/chinese-independent-developer 仓库的项目提交。 检查 issue #160 新评论、新开的 Issue、新开的 PR， 将有效项目添加到对应 README，关闭垃圾内容，并把评论区的意见与建议上报维护者。 历史判例与事故记录在同目录的 references/precedents.md，遇到边界判断时按需查阅。 当用户要求“收录项目”“处理提交”“处理 issue”“跑一下列表”或运行中国独立开发者列表维护流程时使用。",
         "steps": [],
         "sourceUrl": "https://github.com/1c7/chinese-independent-developer/blob/HEAD/.claude/skills/chinese-indie-dev/SKILL.md",
-        "sourceHash": "163479217070e5dea542e583ec2942159c3c21c5ce7037d5ed6c0c453d4e9c2f",
-        "extractedAt": 1791635464298
+        "sourceHash": "7594b9f9a409e49dfe5edfa64554b43e98056696e88500d37b88b90b4cf6c622",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -16971,11 +16971,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Design or change REA investigation tools, CLI/MCP contracts, provider capabilities, and Evidence semantics.",
+        "summary": "Audit, investigate, design, or change REA investigation tools, CLI/MCP contracts, provider capabilities, and Evidence semantics.",
         "steps": [],
         "sourceUrl": "https://github.com/morluto/rea/blob/HEAD/.agents/skills/rea-tool-design/SKILL.md",
-        "sourceHash": "6023df0f1cdbe9944963469a3f2a1365d55eebdf1a7f4adb33430851f9ee5f14",
-        "extractedAt": 1791635465019
+        "sourceHash": "cdb61e3d8076717ffb336850def03ce10c1b0faec717da4b708d8f37556b31b3",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17014,11 +17014,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA. Use shipped-artifact or requested runtime evidence to explain features, compare versions, decompile code, or guide a reconstruction. Skip REA for ordinary source-repository architecture analysis.",
+        "summary": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA, and build agent environments (AgentEnv bundles) of web applications from a live instance or a capture, and of Linux desktop apps with a task from a request. Use shipped-artifact or requested runtime evidence to explain features, compare versions, decompile code, or guide a reconstruction. Skip…",
         "steps": [],
         "sourceUrl": "https://github.com/morluto/rea/blob/HEAD/.agents/skills/reverse-engineer-anything/SKILL.md",
-        "sourceHash": "563437d4a551de7eb21d33b090409892a1a4032b8097854bf7958a81f524b66d",
-        "extractedAt": 1791635465019
+        "sourceHash": "4b8689a602732f7b731794dd8c63745c8bc533bb4f75982bd5c65f58e4e5e50e",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17315,13 +17315,12 @@
       "howToUse": "When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant copy,\" \"multivariate test,\" \"hypothesis,\" \"should I test this,\" \"which version is better,\" \"test two versions,\" \"statistical significance,\" \"how long should I run this test,\"…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant copy,\" \"multivariate test,\" \"hypothesis,\" \"should I test this,\" \"which version is better,\" \"test two versions,\" \"statistical significance,\" \"how long should I run this test,\"…",
-        "trigger": "When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant copy,\" \"multivariate test,\" \"hypothesis,\" \"should I test this,\" \"which version is better,\" \"test two versions,\" \"statistical significance,\" \"how long should I run this test,\"…",
+        "summary": "When the user wants to plan, run, or read A/B tests, or asks a judgement call on one: is the result real, can we stop, which version won, is this worth testing at all: sample size, duration, significance, hypotheses, and experiment backlogs. For tracking setup, see analytics. For page-level conversion fixes, see cro.",
         "steps": [],
         "example": "Weak: \"Changing the button color might increase clicks.\"",
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ab-testing/SKILL.md",
-        "sourceHash": "bde64a0c54013a9003b9967f5be61758a3302cbcde2145c6a13a6d8a49d9f342",
-        "extractedAt": 1791635466130
+        "sourceHash": "938a9a9246c6b05657f509e7ab181f1c961dc14f9dcb5d452c574d3e44a39be2",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17360,8 +17359,7 @@
       "howToUse": "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn…",
-        "trigger": "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn…",
+        "summary": "When the user wants to write or judge ad creative, or asks which ad, hook, or angle to run or kill: headlines, primary text, and variations for Google, Meta, LinkedIn, and TikTok, fresh angles when creative fatigues. Test hypotheses name the metric, comparison, and expected direction. No AI tells like 'it's not X, it's Y'. For campaign strategy, see ads. For landing pages, see copywriting.",
         "steps": [
           "Word choice — synonyms, active vs. passive",
           "Specificity — numbers vs. general claims",
@@ -17371,8 +17369,8 @@
           "Winning structures — Questions? Statements? Commands? Numbers?"
         ],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ad-creative/SKILL.md",
-        "sourceHash": "24a3753c6c5ca17ecc93867177211dfbddcdc4cb5c33ecb8efec49b053f35780",
-        "extractedAt": 1791635466131
+        "sourceHash": "d60adac8c77cd12dc6b856cc4cf379ceae20cf2d96459bd773b38d6965f2234d",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17411,12 +17409,11 @@
       "howToUse": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' 'should I run ads,' 'ABM,' 'account-based…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' 'should I run ads,' 'ABM,' 'account-based…",
-        "trigger": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' 'should I run ads,' 'ABM,' 'account-based…",
+        "summary": "When the user wants to plan, run, or fix paid ads on Google, Meta, and LinkedIn, or asks a judgement call on them: are ads worth it, which channel or budget split, why CPA rose, kill or keep a campaign. End with facts, hypotheses, and missing data; label unavailable inputs MISSING instead of estimating. For ad copy, see ad-creative. For pixels and CAPI, see conversion-tracking. For landing pages,…",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ads/SKILL.md",
-        "sourceHash": "ac9e25cb762cf457c55007cb509da112bd14b763c3edc7a8414cf058bb78dcc8",
-        "extractedAt": 1791635466132
+        "sourceHash": "a7794da11876242bc5ed7fdc7ffb92659999792a4c17eaf5724b51ebbb5da9b2",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17455,8 +17452,7 @@
       "howToUse": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generative engine optimization,' 'LLM optimization,' 'AI Overviews,' 'optimize for ChatGPT,' 'optimize for Perplexity,' 'AI citations,' 'AI visibility,' 'zero-click search,' 'how do I…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generative engine optimization,' 'LLM optimization,' 'AI Overviews,' 'optimize for ChatGPT,' 'optimize for Perplexity,' 'AI citations,' 'AI visibility,' 'zero-click search,' 'how do I…",
-        "trigger": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generative engine optimization,' 'LLM optimization,' 'AI Overviews,' 'optimize for ChatGPT,' 'optimize for Perplexity,' 'AI citations,' 'AI visibility,' 'zero-click search,' 'how do I…",
+        "summary": "When the user wants to get cited and recommended in AI answers (ChatGPT, Perplexity, AI Overviews), or asks why AI cites a competitor, which content gets cited, or whether llms.txt or a page format is worth it: AEO, GEO, AI visibility, agent-readable sites. For technical and on-page SEO, see seo-audit. For structured data, see schema.",
         "steps": [
           "Problem-aware: \"How do I [problem your product solves]?\"",
           "Solution-aware: \"What is [your product category]?\" / \"Best [category] for [use case]\"",
@@ -17466,8 +17462,8 @@
           "Authority signals — Do they have more citations, stats, expert quotes?"
         ],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/ai-seo/SKILL.md",
-        "sourceHash": "97424245fab155d065e39fae5fda8c031bb2f195083411842379fddb5e035e03",
-        "extractedAt": 1791635466132
+        "sourceHash": "67f0fe18d2278a2219ec77aa2246d1f07dfa6bae0c5ff5e7871ddd97a790ebd8",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17506,13 +17502,12 @@
       "howToUse": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" \"tracking plan,\" \"how do I measure this,\" \"track conversions,\" \"Mixpanel,\" \"Segment,\" \"are my events firing,\" or \"analytics…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" \"tracking plan,\" \"how do I measure this,\" \"track conversions,\" \"Mixpanel,\" \"Segment,\" \"are my events firing,\" or \"analytics…",
-        "trigger": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" \"tracking plan,\" \"how do I measure this,\" \"track conversions,\" \"Mixpanel,\" \"Segment,\" \"are my events firing,\" or \"analytics…",
+        "summary": "When the user wants to set up or audit analytics, or asks whether a metric or number is calculated right, what to track, or how to name events: tracking plans, GA4, GTM, Mixpanel, PostHog, UTMs. Rate metrics divide matching closed windows, never full-period spend by partial-period results. For conversions in ad platforms, see conversion-tracking. For attribution or platforms that over-claim, see…",
         "steps": [],
-        "example": "gtag('event', 'signupcompleted', { 'method': 'email', 'plan': 'free' });",
+        "example": "// GA4's recommended signup event, not a custom name, so it feeds built-in reports. // Your tracking plan can still call this signupcompleted; map the name explicitly. gtag('event', 'signup', { 'method': 'email', 'plan': 'free' });",
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/analytics/SKILL.md",
-        "sourceHash": "73405dd294aaedbcd2b3fe00ef44691963fa8d1c6c280a3d46179a33f067f984",
-        "extractedAt": 1791635466133
+        "sourceHash": "65cc762098990ae6feb0fbbb2906ac2f03bba963f95f3bc8acf36a6f5413971b",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17551,12 +17546,12 @@
       "howToUse": "User shares an App Store or Google Play URL；User asks to audit or optimize an app listing",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions 'ASO audit,' 'app store optimization,' 'optimize my app listing,' 'improve app visibility,' 'app store ranking,' 'audit my listing,' 'why aren't people downloading my app,' 'improve my app conversion,' 'keyword optimization for app,' or 'compare my app to competitors.' Use when the user…",
+        "summary": "When the user wants to audit or optimize an App Store or Google Play listing, or asks which title, keywords, or screenshots to pick or why downloads are low: subtitle, description, ratings, and comparing listings with competitors.",
         "trigger": "User shares an App Store or Google Play URL；User asks to audit or optimize an app listing",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/aso/SKILL.md",
-        "sourceHash": "681a8e3cb4ffe91bb8d68497726d9a708901c06a2a99e23a92684d53241fc02c",
-        "extractedAt": 1791635466134
+        "sourceHash": "c70e259ce5b7e71399a331ac1c8a7bf5985d5c5342b3dc1d03b37fcfa6b5ff55",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17595,12 +17590,11 @@
       "howToUse": "When the user wants to figure out which marketing actually drives conversions and revenue, choose or interpret an attribution model, or reconcile conflicting numbers across tools. Also use when the user mentions \"attribution,\" \"attribution model,\" \"first-touch vs last-touch,\" \"multi-touch,\" \"which channel drives revenue,\" \"what's my real CAC,\" \"my dashboards disagree,\" \"Google/Meta says X but GA…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to figure out which marketing actually drives conversions and revenue, choose or interpret an attribution model, or reconcile conflicting numbers across tools. Also use when the user mentions \"attribution,\" \"attribution model,\" \"first-touch vs last-touch,\" \"multi-touch,\" \"which channel drives revenue,\" \"what's my real CAC,\" \"my dashboards disagree,\" \"Google/Meta says X but GA…",
-        "trigger": "When the user wants to figure out which marketing actually drives conversions and revenue, choose or interpret an attribution model, or reconcile conflicting numbers across tools. Also use when the user mentions \"attribution,\" \"attribution model,\" \"first-touch vs last-touch,\" \"multi-touch,\" \"which channel drives revenue,\" \"what's my real CAC,\" \"my dashboards disagree,\" \"Google/Meta says X but GA…",
+        "summary": "When the user wants to work out which marketing drives revenue, or asks whether a channel is really working, which numbers to trust, or how to credit podcasts and dark social: attribution models, platforms that over-claim, MMM, incrementality and holdout tests, self-reported attribution. For tracking and UTMs, see analytics. For pixels and CAPI, see conversion-tracking. For CRM revenue, see…",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/attribution/SKILL.md",
-        "sourceHash": "b0493b97f7a22d6daf7fe47a67e8dc050e5cca98fe952df7dea2bf296853c978",
-        "extractedAt": 1791635466134
+        "sourceHash": "f4157dc5310fcf01e9bf62c0863e3d9185037e60d8e2aa1a59399e56c1de7b72",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17639,8 +17633,7 @@
       "howToUse": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies. Also use when the user mentions 'churn,' 'cancel flow,' 'offboarding,' 'save offer,' 'dunning,' 'failed payment recovery,' 'win-back,' 'retention,' 'exit survey,' 'pause subscription,' 'involuntary churn,' 'people keep canceling,' 'churn rate is too high,'…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies. Also use when the user mentions 'churn,' 'cancel flow,' 'offboarding,' 'save offer,' 'dunning,' 'failed payment recovery,' 'win-back,' 'retention,' 'exit survey,' 'pause subscription,' 'involuntary churn,' 'people keep canceling,' 'churn rate is too high,'…",
-        "trigger": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies. Also use when the user mentions 'churn,' 'cancel flow,' 'offboarding,' 'save offer,' 'dunning,' 'failed payment recovery,' 'win-back,' 'retention,' 'exit survey,' 'pause subscription,' 'involuntary churn,' 'people keep canceling,' 'churn rate is too high,'…",
+        "summary": "When the user wants to reduce churn, or asks why customers cancel, whether to offer a discount or pause: cancellation flows, exit surveys, save offers, dunning and failed-payment recovery. For win-back emails, see emails. For in-app upgrade screens, see paywalls.",
         "steps": [
           "Do you track feature usage per user?",
           "Can you identify engagement drop-offs?",
@@ -17648,8 +17641,8 @@
           "What's your activation metric? (What do retained users do that churned users don't?)"
         ],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/churn-prevention/SKILL.md",
-        "sourceHash": "4cd7d6f80022dc6c41ea87d49bd22be335618362f5091445037b1dcfb8c3375b",
-        "extractedAt": 1791635466135
+        "sourceHash": "f9bfb0ab91fe7a0c126650334e4843e64573cd11564c465b0a4e61fc074644f1",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17688,13 +17681,13 @@
       "howToUse": "Finding potential co-marketing partners；Brainstorming campaign ideas with a specific partner",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities. Use when the user says 'co-marketing,' 'partner marketing,' 'joint campaign,' 'who should we partner with,' 'integration marketing,' 'cross-promotion,' 'collaborate with another company,' 'partnership ideas,' or 'co-brand.' For customer referral programs, see referrals. For…",
+        "summary": "When the user wants co-marketing partners or joint campaigns, or asks whether a partner fits, a size mismatch matters, or how to split work and leads: integration partners, cross-promotion, co-branded content, joint webinars. For referral programs, see referrals. For launch partnerships, see launch. For running the event, see events.",
         "trigger": "Finding potential co-marketing partners；Brainstorming campaign ideas with a specific partner",
         "steps": [],
         "example": "Ask these to generate ideas:",
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/co-marketing/SKILL.md",
-        "sourceHash": "0d2c02c569d429e4653392acc83a85ee025ee0cb3012cb16cd862912eae8927c",
-        "extractedAt": 1791635466136
+        "sourceHash": "5dd1665471368a008af5ec8263904dacf0242923c7b4726699273b9c63cd5144",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17733,12 +17726,11 @@
       "howToUse": "Write and run B2B cold outbound that gets replies, from cold emails and follow-ups to sending setup, LinkedIn, multichannel cadences, and reply handling. Use when the user mentions \"cold email,\" \"cold outreach,\" \"outbound,\" \"prospecting email,\" \"SDR emails,\" \"follow-up sequence,\" \"nobody's replying,\" \"email deliverability,\" \"sending domains,\" \"warm up inboxes,\" \"LinkedIn outreach,\" \"connection…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Write and run B2B cold outbound that gets replies, from cold emails and follow-ups to sending setup, LinkedIn, multichannel cadences, and reply handling. Use when the user mentions \"cold email,\" \"cold outreach,\" \"outbound,\" \"prospecting email,\" \"SDR emails,\" \"follow-up sequence,\" \"nobody's replying,\" \"email deliverability,\" \"sending domains,\" \"warm up inboxes,\" \"LinkedIn outreach,\" \"connection…",
-        "trigger": "Write and run B2B cold outbound that gets replies, from cold emails and follow-ups to sending setup, LinkedIn, multichannel cadences, and reply handling. Use when the user mentions \"cold email,\" \"cold outreach,\" \"outbound,\" \"prospecting email,\" \"SDR emails,\" \"follow-up sequence,\" \"nobody's replying,\" \"email deliverability,\" \"sending domains,\" \"warm up inboxes,\" \"LinkedIn outreach,\" \"connection…",
+        "summary": "When the user wants to write or run B2B cold outbound, or asks whether an opener, reason to reach out, or email works or why nobody replies: cold emails, follow-ups, sending domains, deliverability, LinkedIn, cadences. Send from secondary domains, verify lists first, turn off open tracking, stop every channel when a prospect replies. No AI tells like 'it's not X, it's Y'. For the list, see…",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/cold-email/SKILL.md",
-        "sourceHash": "963540924147c3b74b7693bbc292ac2da3d407807c270f8a3123bd3432fdc337",
-        "extractedAt": 1791635466136
+        "sourceHash": "cf84ab04ed15e5adba986092c0ee269275e46615c4b69850bc07dc831e33b36e",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17777,12 +17769,11 @@
       "howToUse": "Build and leverage online communities to drive product growth and brand loyalty. Use when the user wants to create a community strategy, grow a Discord or Slack community, manage a forum or subreddit, build brand advocates, increase word-of-mouth, drive community-led growth, engage users post-signup, or turn customers into evangelists. Trigger phrases: \"build a community,\" \"community strategy,\"…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Build and leverage online communities to drive product growth and brand loyalty. Use when the user wants to create a community strategy, grow a Discord or Slack community, manage a forum or subreddit, build brand advocates, increase word-of-mouth, drive community-led growth, engage users post-signup, or turn customers into evangelists. Trigger phrases: \"build a community,\" \"community strategy,\"…",
-        "trigger": "Build and leverage online communities to drive product growth and brand loyalty. Use when the user wants to create a community strategy, grow a Discord or Slack community, manage a forum or subreddit, build brand advocates, increase word-of-mouth, drive community-led growth, engage users post-signup, or turn customers into evangelists. Trigger phrases: \"build a community,\" \"community strategy,\"…",
+        "summary": "When the user wants to build or grow an online community, or asks whether a community is worth it, where to host it, or why members stay quiet: Discord, Slack, forums, participation, community-led growth, advocates. For referral programs, see referrals. For creator partnerships, see influencer-marketing.",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/community-marketing/SKILL.md",
-        "sourceHash": "e4c4a21e82a04e8ef6e2845fa34ebaf5512ba59ae1c9c74d8caa9f045628f4da",
-        "extractedAt": 1791635466137
+        "sourceHash": "d5b84b418c3010bee36a19bb4ad45b8b39aebcc96d98c65ae8bd68e3b13333c5",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17821,8 +17812,7 @@
       "howToUse": "When the user wants to research, profile, or analyze competitors from their URLs. Also use when the user mentions 'competitor profile,' 'competitor research,' 'competitor analysis,' 'profile this competitor,' 'analyze competitor,' 'competitive intelligence,' 'competitor deep dive,' 'who are my competitors,' 'competitor landscape,' 'competitor dossier,' 'competitive audit,' or 'research these…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to research, profile, or analyze competitors from their URLs. Also use when the user mentions 'competitor profile,' 'competitor research,' 'competitor analysis,' 'profile this competitor,' 'analyze competitor,' 'competitive intelligence,' 'competitor deep dive,' 'who are my competitors,' 'competitor landscape,' 'competitor dossier,' 'competitive audit,' or 'research these…",
-        "trigger": "When the user wants to research, profile, or analyze competitors from their URLs. Also use when the user mentions 'competitor profile,' 'competitor research,' 'competitor analysis,' 'profile this competitor,' 'analyze competitor,' 'competitive intelligence,' 'competitor deep dive,' 'who are my competitors,' 'competitor landscape,' 'competitor dossier,' 'competitive audit,' or 'research these…",
+        "summary": "When the user wants to research competitors into dated profiles, or asks what a rival charges, claims, or is doing, or whether a conclusion about them is fair: positioning, pricing, features, reviews, SEO, observed facts kept apart from inference. For comparison pages, see competitors. For battle cards, see sales-enablement. For accounts you sell to, see prospecting. For how a competitor grew,…",
         "steps": [
           "Pricing page",
           "Features / product pages",
@@ -17832,8 +17822,8 @@
           "Integrations page"
         ],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/competitor-profiling/SKILL.md",
-        "sourceHash": "ed74677eb8dfe4a3c97ccb0f7f1a1070dc6aed1d93836ed9322d99d86e558928",
-        "extractedAt": 1791635466137
+        "sourceHash": "b043f61ce62b1202352d69e19e8561a0b65faa6ded4750ffc037eb6bfbae0cb0",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17872,12 +17862,11 @@
       "howToUse": "When the user wants to create competitor comparison or alternative pages for SEO and buyer-facing use. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'how do we compare to X,' 'competitor teardown,' 'audit our competitor pages,' 'are our comparison pages out…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to create competitor comparison or alternative pages for SEO and buyer-facing use. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'how do we compare to X,' 'competitor teardown,' 'audit our competitor pages,' 'are our comparison pages out…",
-        "trigger": "When the user wants to create competitor comparison or alternative pages for SEO and buyer-facing use. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' 'competitive landing pages,' 'how do we compare to X,' 'competitor teardown,' 'audit our competitor pages,' 'are our comparison pages out…",
+        "summary": "When the user wants to create or audit comparison and alternative pages ('X vs Y', 'X alternative', 'best X alternatives'), or asks what a public page may say about a competitor: page formats, fair claims, and outdated pages. For researching competitors, see competitor-profiling. For internal battle cards, see sales-enablement.",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/competitors/SKILL.md",
-        "sourceHash": "ff77b76dfe43158b2fc248bb8c41fe94745d1264abb0a0c665b2c55318287a35",
-        "extractedAt": 1791635466138
+        "sourceHash": "36d3f23aeb8358caff28ecff0cccf436d93afc88a0e2a05aff4353a77efee11b",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17916,12 +17905,11 @@
       "howToUse": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" \"content planning,\" \"editorial calendar,\" \"content marketing,\" \"content roadmap,\" \"what content should I create,\" \"blog topics,\" \"content pillars,\" or…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" \"content planning,\" \"editorial calendar,\" \"content marketing,\" \"content roadmap,\" \"what content should I create,\" \"blog topics,\" \"content pillars,\" or…",
-        "trigger": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" \"content planning,\" \"editorial calendar,\" \"content marketing,\" \"content roadmap,\" \"what content should I create,\" \"blog topics,\" \"content pillars,\" or…",
+        "summary": "When the user wants to plan content, or asks which topic or piece to prioritize, what to write about, or why posts bring no customers: topic clusters, editorial calendars, roadmaps tied to customers and search. For writing pieces, see copywriting. For SEO audits, see seo-audit. For social content, see social.",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/content-strategy/SKILL.md",
-        "sourceHash": "dce9f4027ae129691e92623541a360bee9356137a7eecf68afa95674af118e68",
-        "extractedAt": 1791635466139
+        "sourceHash": "6bc1c8df711a6c9466e312dca9c99a895bd76989b7a52d0f39dca340db3bc5f5",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -17960,12 +17948,12 @@
       "howToUse": "Always for launch copy, pricing pages, and high-traffic landing pages；Recommended for email sequences, sales pages, and ad copy",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to edit, review, or improve existing marketing copy, or refresh outdated content. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' 'copy sweep,' 'tighten this up,' 'this reads awkwardly,' 'clean up this text,' 'too wordy,' 'sharpen the messaging,' 'refresh this content,' 'update this page,'…",
+        "summary": "When the user wants to edit, tighten, proofread, or refresh existing copy, or asks whether to keep, cut, or change a line in it, without rewriting from scratch. Every edit removes AI tells: 'it's not X, it's Y' reveals, 'no X, no Y, no Z' lists, and sentences that trail into extra comma clauses. A request to fix one line gets a point edit to that line only. For new copy, see copywriting.",
         "trigger": "Always for launch copy, pricing pages, and high-traffic landing pages；Recommended for email sequences, sales pages, and ad copy",
         "steps": [],
         "sourceUrl": "https://github.com/coreyhaines31/marketingskills/blob/HEAD/skills/copy-editing/SKILL.md",
-        "sourceHash": "d23184ad62cbe29f64684b934c99d4ae8c7f03dec9c5a5d6bd492d645f5b9719",
-        "extractedAt": 1791635466139
+        "sourceHash": "ef6bf9e792edac9ff524576a7eea6980fd13e605e5561736b045136341cde63e",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -34878,11 +34866,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "name: invisible-playwright description: Use the Dot's browser (invisibleplaywright) for any task on a website: logging in, reading pages, filling forms, clicking through a site as a person would.",
+        "summary": "name: invisible-playwright description: Use the Dot's browser identities for any task on a website or search on the web: which identity to use, opening and closing one, and when a plain download i",
         "steps": [],
         "sourceUrl": "https://github.com/feder-cr/invisible_dots/blob/HEAD/invisible_engine_dots/skills/invisible-playwright/SKILL.md",
-        "sourceHash": "4b6317181344f7e86c2177467e74e798289f5a7818050cdf604cd6b0be93af57",
-        "extractedAt": 1791635466887
+        "sourceHash": "c4ead9fbb1fd8220854d64322230aa75c3b3088ad2e30fa3587bc6e36b7c1e08",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -43729,12 +43717,12 @@
       "howToUse": "Review code for actionable defects. Correctness is the core; performance and security are optional sub-cases of the same engine. Anchors on agreements between participants across a boundary, forces a violating execution, and refutes every candidate before reporting. Use when asked to review changes, find bugs, audit a codebase, or check whether a fix is safe.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Review code for actionable defects. Correctness is the core; performance and security are optional sub-cases of the same engine. Anchors on agreements between participants across a boundary, forces a violating execution, and refutes every candidate before reporting. Use when asked to review changes, find bugs, audit a codebase, or check whether a fix is safe.",
-        "trigger": "Review code for actionable defects. Correctness is the core; performance and security are optional sub-cases of the same engine. Anchors on agreements between participants across a boundary, forces a violating execution, and refutes every candidate before reporting. Use when asked to review changes, find bugs, audit a codebase, or check whether a fix is safe.",
+        "summary": "Moved to phuryn/product-engineering, where it is maintained in the ai-shipping plugin; this copy says where it went and how to install it. Use when asked to review changes, find bugs, audit a codebase, or check whether a fix is safe.",
+        "trigger": "Moved to phuryn/product-engineering, where it is maintained in the ai-shipping plugin; this copy says where it went and how to install it. Use when asked to review changes, find bugs, audit a codebase, or check whether a fix is safe.",
         "steps": [],
         "sourceUrl": "https://github.com/phuryn/pm-skills/blob/HEAD/pm-ai-shipping/skills/code-review/SKILL.md",
-        "sourceHash": "d542b88452e311fabaa97e13f6f5bb6972efd63ad3c2afb6936baadfdf30c14b",
-        "extractedAt": 1791635468682
+        "sourceHash": "4641474748e578f0950695488f4cdc4e3e916adac25adfbf97d506f2c4314231",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -43773,12 +43761,12 @@
       "howToUse": "The method for finding the gap between what a system is supposed to do and what the code actually does — the class of bug generic scanners miss because they have no model of intent. Defines what counts as documented intent, what counts as implementation evidence, which mismatches matter, and how to avoid hand-wavy findings. Use when auditing AI-built code, reviewing access control against…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "The method for finding the gap between what a system is supposed to do and what the code actually does — the class of bug generic scanners miss because they have no model of intent. Defines what counts as documented intent, what counts as implementation evidence, which mismatches matter, and how to avoid hand-wavy findings. Use when auditing AI-built code, reviewing access control against…",
-        "trigger": "The method for finding the gap between what a system is supposed to do and what the code actually does — the class of bug generic scanners miss because they have no model of intent. Defines what counts as documented intent, what counts as implementation evidence, which mismatches matter, and how to avoid hand-wavy findings. Use when auditing AI-built code, reviewing access control against…",
+        "summary": "Moved to phuryn/product-engineering, where it is maintained in the ai-shipping plugin; this copy says where it went and how to install it. Use when asked to find where the code does something other than its docs say.",
+        "trigger": "Moved to phuryn/product-engineering, where it is maintained in the ai-shipping plugin; this copy says where it went and how to install it. Use when asked to find where the code does something other than its docs say.",
         "steps": [],
         "sourceUrl": "https://github.com/phuryn/pm-skills/blob/HEAD/pm-ai-shipping/skills/intended-vs-implemented/SKILL.md",
-        "sourceHash": "5d88977487be2b11e872deba524dbb0effe252b367d95ad9463f1058b8c50158",
-        "extractedAt": 1791635468682
+        "sourceHash": "4e3246da4d8e53794a627601a3d94897bfa58bc66144a4872b250cea701dd206",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -43817,12 +43805,12 @@
       "howToUse": "The durable documentation set that makes an AI-built (vibe-coded) app reviewable before shipping. A small core every app needs — architecture, user/permission flows, permissions, variables/secrets, and a test-coverage map — plus conditional docs added only when they apply: emails, scheduled work, SEO, and embedded agents/automation. Defines what each doc must capture and how a reviewer or auditor…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "The durable documentation set that makes an AI-built (vibe-coded) app reviewable before shipping. A small core every app needs — architecture, user/permission flows, permissions, variables/secrets, and a test-coverage map — plus conditional docs added only when they apply: emails, scheduled work, SEO, and embedded agents/automation. Defines what each doc must capture and how a reviewer or auditor…",
-        "trigger": "The durable documentation set that makes an AI-built (vibe-coded) app reviewable before shipping. A small core every app needs — architecture, user/permission flows, permissions, variables/secrets, and a test-coverage map — plus conditional docs added only when they apply: emails, scheduled work, SEO, and embedded agents/automation. Defines what each doc must capture and how a reviewer or auditor…",
+        "summary": "Moved to phuryn/product-engineering, where it is maintained in the ai-shipping plugin; this copy says where it went and how to install it. Use when asked to document an AI-built app so it can be reviewed before it ships.",
+        "trigger": "Moved to phuryn/product-engineering, where it is maintained in the ai-shipping plugin; this copy says where it went and how to install it. Use when asked to document an AI-built app so it can be reviewed before it ships.",
         "steps": [],
         "sourceUrl": "https://github.com/phuryn/pm-skills/blob/HEAD/pm-ai-shipping/skills/shipping-artifacts/SKILL.md",
-        "sourceHash": "ae08fe51dfc218cd0ab82c240bc5cb3604e3e86b383c4807b64dc20475666f4d",
-        "extractedAt": 1791635468683
+        "sourceHash": "6a6198fb8bcfae98e49258248e0dbfd14d9b96ba944c0757580ad8509c14d6f8",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44284,8 +44272,8 @@
           "What did we miss or not execute well?"
         ],
         "sourceUrl": "https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/pre-mortem/SKILL.md",
-        "sourceHash": "4e5cf10a46ac1d1cdde6aa009ba2b860c532f55c0c3d9ec53a82082cad073052",
-        "extractedAt": 1791635468687
+        "sourceHash": "0e5d92bdcf0e955be4c819d539b4de5054695b86ad465f4cdb03d4c8f7a0a3b9",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44328,8 +44316,8 @@
         "trigger": "Reference guide to 9 prioritization frameworks with formulas, when-to-use guidance, and templates — RICE, ICE, Kano, MoSCoW, Opportunity Score, and more. Use when selecting a prioritization method, comparing frameworks like RICE vs ICE, or learning how different prioritization approaches work.",
         "steps": [],
         "sourceUrl": "https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/prioritization-frameworks/SKILL.md",
-        "sourceHash": "5dab45be9e46397ec1c35a6a6aaa85233843184fd1e9d8e5f279dd02d6e4fc21",
-        "extractedAt": 1791635468688
+        "sourceHash": "a5a5aa5235ea2e9381aafaefc799aa84a9ce27a4f14575c4f1c0cf835db9e7d8",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44430,8 +44418,8 @@
           "Learned: What new knowledge was gained?"
         ],
         "sourceUrl": "https://github.com/phuryn/pm-skills/blob/HEAD/pm-execution/skills/retro/SKILL.md",
-        "sourceHash": "9ca1986756ce028a83314d49450ff390c00fce224099ff5678cdc83db0998b03",
-        "extractedAt": 1791635468688
+        "sourceHash": "1559eafbaf7a7c1a0d3a736968b7fd9f2bb21489656661f5f70a61e6730c0c1e",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44525,16 +44513,14 @@
         "summary": "Analyzes article structure, identifies positions requiring visual aids, generates illustrations with Type × Style × Palette three-dimension approach. Use when user asks to \"illustrate article\", \"add images\", \"generate images for article\", or \"为文章配图\".",
         "trigger": "Analyzes article structure, identifies positions requiring visual aids, generates illustrations with Type × Style × Palette three-dimension approach. Use when user asks to \"illustrate article\", \"add images\", \"generate images for article\", or \"为文章配图\".",
         "steps": [
-          "For each illustration, create a prompt file per references/prompt-construction.md",
-          "Save to prompts/NN-{type}-{slug}.md with YAML frontmatter",
-          "Prompts MUST use type-specific templates with structured sections (ZONES / LABELS / COLORS / STYLE / ASPECT)",
-          "LABELS MUST include article-specific data: actual numbers, terms, metrics, quotes",
-          "DO NOT pass ad-hoc inline prompts to --prompt without saving prompt files first",
-          "Select the backend via the ## Image Generation Tools rule at the top: use whatever is available; if multiple, ask the user once. Do this once per session before any generation."
+          "Per illustration, write prompts/NN-{type}-{slug}.md (YAML frontmatter) per references/prompt-construction.md: type-specific template with ZONES / LABELS / COLORS / STYLE / ASPECT; LABELS use article-specific data…",
+          "Select the backend once per session via ## Image Generation Tools. For codex-imagegen, see references/codex-imagegen.md.",
+          "Process references (direct/style/palette) per prompt frontmatter; apply watermark if EXTEND.md enables it.",
+          "Generate from saved prompt files per ## Batch Generation Policy; retry once on failure."
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-article-illustrator/SKILL.md",
-        "sourceHash": "ce1c7bfe9b93e5afac1dbeac95a03f8abf8c102aeecc34a33d8f13dc10e64acd",
-        "extractedAt": 1791635469897
+        "sourceHash": "1c9ee6c39acca81c393aee35bbeead14c4423dd7746b8c51a5944191d19be265",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44576,16 +44562,11 @@
         "summary": "Knowledge comic creator supporting multiple art styles and tones. Creates original educational comics with detailed panel layouts and batch-capable image generation. Use when user asks to create \"知识漫画\", \"教育漫画\", \"biography comic\", \"tutorial comic\", or \"Logicomix-style comic\".",
         "trigger": "Knowledge comic creator supporting multiple art styles and tones. Creates original educational comics with detailed panel layouts and batch-capable image generation. Use when user asks to create \"知识漫画\", \"教育漫画\", \"biography comic\", \"tutorial comic\", or \"Logicomix-style comic\".",
         "steps": [
-          "Details: references/partial-workflows.md",
-          "Pick a backend once per session using the ## Image Generation Tools rule at the top. If the backend is a repo skill (e.g., baoyu-image-gen), read its SKILL.md and use its documented interface rather than its scripts.",
-          "codex-imagegen invocation: when the rule resolves to codex-imagegen, see references/codex-imagegen.md for the invocation contract (preferred baoyu-image-gen --provider codex-cli path, runtime wrapper discovery,…",
-          "1 Character sheet — generate it (to characters/characters.png, aspect 4:3) when the comic is multi-page with recurring characters. Skip for simple presets (e.g., four-panel minimalist) or single-page comics. Compress to…",
-          "2 Pages — each page's prompt MUST already be at prompts/NN-{cover|page}-[slug].md before invoking the backend; the file is the reproducibility record. Strategy depends on the character sheet:",
-          "Execution strategy: Generate the character sheet first when needed. Then build the selected page task list from saved prompt files and dispatch pages in batches per the ## Batch Generation Policy: backend native batch…"
+          "Step 2 confirmation is required — do not skip. Steps 4/6 run only if the user requested them in Step 2."
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-comic/SKILL.md",
-        "sourceHash": "98d5de8650a3401c1ee97b3f78ebacef72f3f570ef7fe7290b192ac7d24330bc",
-        "extractedAt": 1791635469898
+        "sourceHash": "f180f8220cfb69d02bf8ad5d272d45234c1a037ab31e9facce6c46b73630e04d",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44626,10 +44607,12 @@
         "extractorVersion": 3,
         "summary": "Compresses images to WebP (default) or PNG with automatic tool selection. Use when user asks to \"compress image\", \"optimize image\", \"convert to webp\", or reduce image file size.",
         "trigger": "Compresses images to WebP (default) or PNG with automatic tool selection. Use when user asks to \"compress image\", \"optimize image\", \"convert to webp\", or reduce image file size.",
-        "steps": [],
+        "steps": [
+          "Output: image.png → image.webp (245KB → 89KB, 64% reduction)"
+        ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-compress-image/SKILL.md",
-        "sourceHash": "b14b2ac50b798aa7cdac1ba489a5963312b0faf538fdb3f88e69733045c3f9dc",
-        "extractedAt": 1791635469898
+        "sourceHash": "e93d107e4ffa1c27f213880e7f830961a6bab07e43a1695aae12314851e09d2c",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44671,17 +44654,17 @@
         "summary": "Generates article cover images with 5 dimensions (type, palette, rendering, text, mood) combining 11 color palettes and 7 rendering styles. Supports cinematic (2.35:1), widescreen (16:9), and square (1:1) aspects. Use when user asks to \"generate cover image\", \"create article cover\", or \"make cover\".",
         "trigger": "Generates article cover images with 5 dimensions (type, palette, rendering, text, mood) combining 11 color palettes and 7 rendering styles. Supports cinematic (2.35:1), widescreen (16:9), and square (1:1) aspects. Use when user asks to \"generate cover image\", \"create article cover\", or \"make cover\".",
         "steps": [
+          "Found → load, display summary.",
+          "Not found → ⛔ run first-time-setup and save, BEFORE any other step or question.",
+          "Not found + current request opts out of confirmation (--quick or equivalent wording per the Confirmation Policy) → skip setup and use built-in defaults: no watermark, dimensions auto-selected, defaultoutputdir:…",
           "Save reference images (if provided) → references/workflow/reference-images.md",
           "Save source content (if pasted, save to source.md)",
-          "Analyze content: topic, tone, keywords, visual metaphors",
-          "Deep analyze references ⚠️: Extract specific, concrete elements (see reference-images.md)",
-          "Detect language: Compare source, user input, EXTEND.md preference",
-          "Determine output directory: Per File Structure rules"
+          "Analyze content: topic, tone, keywords, visual metaphors"
         ],
-        "example": "Save to prompts/cover.md. Template: references/workflow/prompt-template.md",
+        "example": "Save to prompts/cover.md per references/workflow/prompt-template.md.",
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-cover-image/SKILL.md",
-        "sourceHash": "36804fce98bcb9ebe4a51c26f6f276a807805aab980ca4a0718daa40a5cc7fda",
-        "extractedAt": 1791635469899
+        "sourceHash": "440c753f28545766b0f8c17087bb403ac24ab71669e504c81171872097d87ddf",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44724,8 +44707,8 @@
         "trigger": "Generates images and text via reverse-engineered Gemini Web API. Supports text generation, image generation from prompts, reference images for vision input, and multi-turn conversations. Use when other skills need image generation backend, or when user requests \"generate image with Gemini\", \"Gemini text generation\", or needs vision-capable AI generation.",
         "steps": [],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-danger-gemini-web/SKILL.md",
-        "sourceHash": "290c0f8b3957a21de068f8732f324aa6c05a72bc2bf23f962fe9fa874b2c0271",
-        "extractedAt": 1791635469899
+        "sourceHash": "2d015d00dfe4fa463356fa2f5aa5c8e9bc49fee41aa976a7743c8abdb7a6dc75",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44767,11 +44750,11 @@
         "summary": "Converts X (Twitter) tweets and articles to markdown with YAML front matter. Uses reverse-engineered API requiring user consent. Use when user mentions \"X to markdown\", \"tweet to markdown\", \"save tweet\", or provides x.com/twitter.com URLs for conversion.",
         "trigger": "Converts X (Twitter) tweets and articles to markdown with YAML front matter. Uses reverse-engineered API requiring user consent. Use when user mentions \"X to markdown\", \"tweet to markdown\", \"save tweet\", or provides x.com/twitter.com URLs for conversion.",
         "steps": [
-          "Based on downloadmedia setting in EXTEND.md:"
+          "Supported URLs: https://x.com//status/, https://twitter.com//status/, https://x.com/i/article/"
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-danger-x-to-markdown/SKILL.md",
-        "sourceHash": "2b34a2e4d50cd201f5a7bbb856c9c04e2b04f0e0f28fca21f165270fec957cef",
-        "extractedAt": 1791635469900
+        "sourceHash": "122e0c11558e372175463deb8bbacc458d3cf5c8eccce2c671acbb3249a0a2e3",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44810,18 +44793,18 @@
       "howToUse": "Identify the diagram type from the user's request",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Create professional, dark-themed SVG diagrams of any type — architecture diagrams, flowcharts, sequence diagrams, structural diagrams, mind maps, timelines, illustrative/conceptual diagrams, and more. Use this skill whenever the user asks for any kind of technical or conceptual diagram, visualization of a system, process flow, data flow, component relationship, network topology, decision tree,…",
+        "summary": "Create professional diagrams with configurable dark/light theme via CSS custom properties. Use this skill whenever the user asks for any kind of technical or conceptual diagram, visualization of a system, process flow, data flow, component relationship, network topology, decision tree, org chart, state machine, or any visual representation of structure/logic/process. Also trigger when the user…",
         "steps": [
-          "Identify the diagram type from the user's request",
-          "Read the relevant reference file if one exists for that type",
-          "Plan the layout: list all components, determine grouping and flow direction, calculate positions",
-          "Write the SVG following the layering order above",
+          "Identify the diagram type; read its reference file if one exists",
+          "Plan the layout: list components, grouping and flow direction, calculate positions",
+          "Write the SVG in the layering order above, colors via CSS variables only, with the :root { ... } block using the dark defaults from the CSS Custom Properties table",
           "Verify spacing rules — no overlaps, legends outside boundaries, viewBox large enough",
-          "Save the SVG file"
+          "Save as .svg (the dark version)",
+          "Run ${BUNX} {baseDir}/scripts/theme-switch.ts .svg --theme=light → .light.svg"
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-diagram/SKILL.md",
-        "sourceHash": "55a2d050c3a2faea8721d1cec31749dfafa7e7d346a586e99e757f77a3526860",
-        "extractedAt": 1791635469900
+        "sourceHash": "cad323126d00c70da03ea5ea2de13b3fa76d3b430788f6d8d2573a6b3ed03a06",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44861,18 +44844,18 @@
       "usageGuide": {
         "extractorVersion": 3,
         "summary": "Extracts resources and JavaScript from any installed Electron app (.asar bundle), restoring original sources from .js.map files when available or formatting minified code with Prettier otherwise. Use when user wants to \"extract Electron app\", \"decompile Electron\", \"get the source code of \", \"inspect app.asar\", \"看 Electron 应用源码\", \"提取 .asar\", or asks how a desktop Electron app is built. Skips…",
-        "trigger": "Use this skill whenever the user wants to look inside an installed Electron application or inspect its bundled code. Trigger phrases include:；\"extract Electron app\", \"decompile this Electron app\", \"unpack app.asar\"",
+        "trigger": "Extracts resources and JavaScript from any installed Electron app (.asar bundle), restoring original sources from .js.map files when available or formatting minified code with Prettier otherwise. Use when user wants to \"extract Electron app\", \"decompile Electron\", \"get the source code of \", \"inspect app.asar\", \"看 Electron 应用源码\", \"提取 .asar\", or asks how a desktop Electron app is built. Skips…",
         "steps": [
-          "Success → report the output paths and the counts (extracted / restored / formatted).",
-          "Multiple matches → the script lists candidates and exits non-zero. Show the user the candidates, ask which one to use (via AskUserQuestion or the runtime equivalent), then re-run with the chosen absolute path.",
-          "Existing non-empty output dir → the script refuses without --force. Ask the user whether to overwrite (--force) or pick a new --output path.",
-          "Unsupported platform / no match → suggest passing --asar /full/path/to/app.asar if the user knows where the bundle lives.",
-          "restored/ exists → the original source tree was reconstructed from .js.map files; this is what to read first.",
-          "Only extracted/ exists (no maps) → the JS/CSS in extracted/ was Prettier-formatted in place; read from there."
+          "Success → report output paths and counts (extracted / restored / formatted).",
+          "Multiple matches → script lists candidates and exits non-zero. Ask the user which one (via AskUserQuestion or the runtime equivalent), then re-run with the chosen absolute path.",
+          "Existing non-empty output dir → script refuses without --force. Ask whether to overwrite (--force) or pick a new --output.",
+          "Unsupported platform / no match → suggest --asar /full/path/to/app.asar if the user knows where the bundle lives.",
+          "restored/ exists → original source tree reconstructed from .js.map files; read this first.",
+          "Only extracted/ (no maps) → JS/CSS in extracted/ was Prettier-formatted in place; read from there."
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-electron-extract/SKILL.md",
-        "sourceHash": "3f8714f3030dd12e2b11a60ed5e561c0b2297de5b31251b40f6da081e06ae4ee",
-        "extractedAt": 1791635469901
+        "sourceHash": "5e4190e84f8a3e9c0cd4060125e9f32599a9acf8eccaf94d035e4aa2f93011d8",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44914,16 +44897,16 @@
         "summary": "Formats plain text or markdown files with frontmatter, titles, summaries, headings, bold, lists, and code blocks. Use when user asks to \"format markdown\", \"beautify article\", \"add formatting\", or improve article layout. Outputs to {filename}-formatted.md.",
         "trigger": "Formats plain text or markdown files with frontmatter, titles, summaries, headings, bold, lists, and code blocks. Use when user asks to \"format markdown\", \"beautify article\", \"add formatting\", or improve article layout. Outputs to {filename}-formatted.md.",
         "steps": [
-          "Optimize: Continue to Step 2 (full workflow)",
-          "Keep original: Skip to Step 5, copy file then run Step 6",
-          "Typography only: Skip to Step 6, run on original file directly",
-          "Core arguments or conclusions the author makes",
-          "Surprising facts, data points, or counterintuitive claims",
-          "Memorable quotes or well-phrased sentences (golden quotes)"
+          "Optimize → Step 2 (full workflow)",
+          "Keep original → skip to Step 5 (copy file), then Step 6",
+          "Typography only → skip to Step 6 on the original file",
+          "Add sentences, explanations, or commentary",
+          "Delete or shorten any content",
+          "Rephrase or rewrite the author's words"
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-format-markdown/SKILL.md",
-        "sourceHash": "39bd9eeb5373365c84ac139b85a11311eab57710707e54b101e41085636b56bb",
-        "extractedAt": 1791635469901
+        "sourceHash": "bb16cc7eee1ff3f70d825bc7b720e6ad99818fb5557413539ec42af0f2354350",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -44965,13 +44948,13 @@
         "summary": "AI image generation with OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate and Agnes APIs. Supports text-to-image, reference images, aspect ratios, and batch generation from saved prompt files. Sequential by default; use batch parallel generation when the user already has multiple prompts or wants stable multi-image throughput.…",
         "trigger": "AI image generation with OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate and Agnes APIs. Supports text-to-image, reference images, aspect ratios, and batch generation from saved prompt files. Sequential by default; use batch parallel generation when the user already has multiple prompts or wants stable multi-image throughput.…",
         "steps": [
-          "Found → load, parse, apply. If defaultmodel.[provider] is null → ask model only.",
-          "Not found → run first-time setup (references/config/first-time-setup.md) using AskUserQuestion to collect provider + model + quality + save location. Save EXTEND.md, then continue. Do not generate images before this…"
+          "Found → load and apply. If defaultmodel.[provider] is null → ask model only.",
+          "Not found → run first-time setup (references/config/first-time-setup.md) via AskUserQuestion to collect provider + model + quality + save location. Save EXTEND.md, then continue."
         ],
-        "example": "When the user wants a real person/character/object preserved from reference images, do not replace the reference with a long generic description. Prefer short, hard identity-preservation language:",
+        "example": "${BUNX} {baseDir}/scripts/build-batch.ts --outline outline.md --prompts prompts --output batch.json --images-dir attachments ${BUNX} {baseDir}/scripts/main.ts --batchfile batch.json --jobs 4",
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-image-gen/SKILL.md",
-        "sourceHash": "212ce2f9c4b49b165b09e8f8b47416f3cc716796ed1b79c4c3a08dc9db539ab9",
-        "extractedAt": 1791635469902
+        "sourceHash": "c92cc35968807c179015f5f5751bb060bd6d64624dd4631bcaeb1f3378d33e8e",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -45013,17 +44996,17 @@
         "summary": "Generate professional infographics with 21 layout types and 22 visual styles. Analyzes content, recommends layout×style combinations, and generates publication-ready infographics. Use when user asks to create \"infographic\", \"信息图\", \"visual summary\", \"可视化\", or \"高密度信息大图\".",
         "trigger": "Generate professional infographics with 21 layout types and 22 visual styles. Analyzes content, recommends layout×style combinations, and generates publication-ready infographics. Use when user asks to create \"infographic\", \"信息图\", \"visual summary\", \"可视化\", or \"高密度信息大图\".",
         "steps": [
-          "Save source content (file path or paste → source.md)",
-          "Backup rule: If source.md exists, rename to source-backup-YYYYMMDD-HHMMSS.md",
+          "Save source content (file path or paste → source.md). Backup rule: if source.md exists, rename to source-backup-YYYYMMDD-HHMMSS.md",
           "Analyze: topic, data type, complexity, tone, audience",
           "Detect source language and user language",
           "Extract design instructions from user input",
-          "Save analysis"
+          "Save analysis. Backup rule: if analysis.md exists, rename to analysis-backup-YYYYMMDD-HHMMSS.md",
+          "If user input matches a Keyword Shortcut, apply it (see above)."
         ],
-        "example": "Backup rule: If prompts/infographic.md exists, rename to prompts/infographic-backup-YYYYMMDD-HHMMSS.md",
+        "example": "Backup rule: if prompts/infographic.md exists, rename to prompts/infographic-backup-YYYYMMDD-HHMMSS.md.",
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-infographic/SKILL.md",
-        "sourceHash": "1572aaa294c5f7547889f520b6efeed979aeaaf58b4e7c4bcaaa26ace2ee3564",
-        "extractedAt": 1791635469903
+        "sourceHash": "c65cb4a14cb3b91390606808555887a32bfbae3137b37e44c05247bbd432ba40",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -45065,16 +45048,16 @@
         "summary": "Converts Markdown to styled HTML with WeChat-compatible themes. Supports code highlighting, math, Mermaid (rendered to PNG via headless Chrome), PlantUML, footnotes, alerts, infographics, and optional bottom citations for external links. Use when user asks for \"markdown to html\", \"convert md to html\", \"md 转 html\", \"微信外链转底部引用\", or needs styled HTML output from markdown.",
         "trigger": "Converts Markdown to styled HTML with WeChat-compatible themes. Supports code highlighting, math, Mermaid (rendered to PNG via headless Chrome), PlantUML, footnotes, alerts, infographics, and optional bottom citations for external links. Use when user asks for \"markdown to html\", \"convert md to html\", \"md 转 html\", \"微信外链转底部引用\", or needs styled HTML output from markdown.",
         "steps": [
-          "Read input markdown file",
-          "Check if content contains CJK characters (Chinese/Japanese/Korean)",
-          "If no CJK content → skip to Step 1",
-          "Bold markers with punctuation inside causing parse failures",
-          "CJK/English spacing issues",
-          "User explicitly specified theme (CLI --theme or conversation)"
+          "User-specified (CLI --theme or conversation)",
+          "This skill's EXTEND.md defaulttheme",
+          "Cross-skill fallback (only if step 2 has none): defaulttheme: line in $HOME/.baoyu-skills/baoyu-post-to-wechat/EXTEND.md, if it exists",
+          "None → ask (AskUserQuestion) with the Themes table",
+          "Ordinary external links are rendered with numbered superscripts and collected under a final 引用链接 section.",
+          "https://mp.weixin.qq.com/... links stay as direct links and are not moved to the bottom."
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-markdown-to-html/SKILL.md",
-        "sourceHash": "f4a5bb1697f9387557897a9c58b6406765728089a8d84cfbb6c40a93c3d136f7",
-        "extractedAt": 1791635469904
+        "sourceHash": "b0493c0e2d9cf71a8195653f13da711c5b4c2c4cdb0ee48053cbcaeddcb6bcba",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -45116,16 +45099,16 @@
         "summary": "Posts content to WeChat Official Account (微信公众号) via API or Chrome CDP. Supports article posting (文章) with HTML, markdown, or plain text input, and image-text posting (贴图, formerly 图文) with multiple images. Markdown article workflows default to converting ordinary external links into bottom citations for WeChat-friendly output. Use when user mentions \"发布公众号\", \"post to wechat\", \"微信公众号\", or…",
         "trigger": "Posts content to WeChat Official Account (微信公众号) via API or Chrome CDP. Supports article posting (文章) with HTML, markdown, or plain text input, and image-text posting (贴图, formerly 图文) with multiple images. Markdown article workflows default to converting ordinary external links into bottom citations for WeChat-friendly output. Use when user mentions \"发布公众号\", \"post to wechat\", \"微信公众号\", or…",
         "steps": [
-          "Generate slug (first 2-4 meaningful words, kebab-case; translate Chinese to English for the slug).",
-          "Save to post-to-wechat/YYYY-MM-DD/.md (create directory if needed).",
-          "Continue as a markdown file.",
-          "Theme: CLI --theme → EXTEND.md defaulttheme → default (first match wins; do NOT ask if resolved).",
+          "Theme: CLI --theme → EXTEND.md defaulttheme → default (don't ask if resolved).",
           "Color: CLI --color → EXTEND.md defaultcolor → omit (theme default applies).",
-          "Validate metadata (frontmatter for markdown, meta tags for HTML):"
+          "Validate metadata (frontmatter for markdown, meta tags for HTML):",
+          "Cover image (required for API articletype=news): CLI --cover → frontmatter (coverImage / featureImage / coverimage / cover / image) → imgs/cover.png → first inline image → stop and request one if still missing. Local…",
+          "Endpoint: POST https://api.weixin.qq.com/cgi-bin/draft/add?accesstoken=ACCESSTOKEN",
+          "articletype: news (default) or newspic"
         ],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-wechat/SKILL.md",
-        "sourceHash": "e15f1b5a51b8443ef1c8191c036301fd9b3e028069b82b625f327b0344cbc9d8",
-        "extractedAt": 1791635469904
+        "sourceHash": "2b6e86e52c87910c92b3088d25ac3b5891b06a9382d4f5d68cd85a52698f4e27",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -45168,8 +45151,8 @@
         "trigger": "Posts content to Weibo (微博). Supports regular posts with text, images, and videos, and headline articles (头条文章) with Markdown input via Chrome CDP. Use when user asks to \"post to Weibo\", \"发微博\", \"发布微博\", \"publish to Weibo\", \"share on Weibo\", \"写微博\", or \"微博头条文章\".",
         "steps": [],
         "sourceUrl": "https://github.com/JimLiu/baoyu-skills/blob/HEAD/skills/baoyu-post-to-weibo/SKILL.md",
-        "sourceHash": "afc5eb6d748f8d4ff521a3bec024e51fc77d35344a502555486f029871d262d0",
-        "extractedAt": 1791635469905
+        "sourceHash": "255e0346f9ab22ac2b8ff88db5e6259eed56dbb9330a3de4d6a732be1f372bae",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -45890,19 +45873,11 @@
       "howToUse": "当用户说以下任意内容时启动：；\"帮我创建一个 skill\"",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Distill colleague, relationship, or celebrity source material into reusable Person Profiles for agents.",
-        "trigger": "当用户说以下任意内容时启动：；\"帮我创建一个 skill\"",
-        "steps": [
-          "relationship",
-          "budget-friendly",
-          "budget-unfriendly",
-          "colleague → prompts/intake.md",
-          "relationship → prompts/relationship/intake.md",
-          "celebrity → prompts/celebrity/intake.md"
-        ],
+        "summary": "Set up the owner profile so a personal agent knows who it works for (first-run setup, \"get to know me\"), or distill colleague, relationship, or celebrity source material into reusable Person Profiles for agents.",
+        "steps": [],
         "sourceUrl": "https://github.com/titanwings/distilly/blob/HEAD/SKILL.md",
-        "sourceHash": "b91bbfc6b7503c2f8cac5457b705474c92da915c15621f4fea11744631886ebf",
-        "extractedAt": 1791635470849
+        "sourceHash": "43d9df84a0c94adb54a028fd40af50daeed844f83ab67090cd0f1fcc45f7841a",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -46039,8 +46014,8 @@
         "trigger": "Develop independent competing solutions to a defined brief, compare them, and synthesize a winning approach. Use when choosing well requires developing alternatives beyond their current form. Use ce-pov to judge developed material and ce-ideate to discover opportunities.",
         "steps": [],
         "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin/blob/HEAD/skills/ce-bakeoff/SKILL.md",
-        "sourceHash": "d831556a4cfdb2ea2aabbc792062d319463e10b46311285a17ab388f39653bcc",
-        "extractedAt": 1791635471998
+        "sourceHash": "745ebcbc63d7af6586177a235f759b378faabbf759e9744c8da139fba48da03d",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -46178,8 +46153,8 @@
           "Message — subject is imperative and names the outcome (what is now possible or fixed), not the file list. Body only when motivation or trade-offs are not obvious from the subject. When a plan Implementation Unit ID is…"
         ],
         "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin/blob/HEAD/skills/ce-commit/SKILL.md",
-        "sourceHash": "757c86b643a1cbe632729bf3efaaa00119968233eb80040678466efca4a3c647",
-        "extractedAt": 1791635471999
+        "sourceHash": "a34d3c3b30577cdab314ca384b05177fc9121eb46d80b8bfcaed174425fd3ceb",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -46225,12 +46200,12 @@
           "Project publishing gate. Before publishing commits, resolve every applicable pre-push or review-ready requirement from the project's active instructions and conventions already in context and any additional scoped…",
           "Never use git add -A or git add .. Name files in both add and commit so unrelated staged files stay out. Honor exclude:: leave and report them.",
           "You MUST read references/pr-description-writing.md in full — it defines the title and body content rules, including the rule to preserve an existing Related: / Fixes on rewrite. Then read references/compose.md for the…",
-          "If Step 1 found an existing PR, pass its URL to Step 4 so PR mode fetches the existing body.",
-          "Read references/apply-and-handoff.md for apply, preview, archival, and handoff. Before gh pr create, re-check PR presence: a matching PR takes the existing-PR path, exit-0 [] creates, non-zero blocks. Pass the body via…"
+          "Read both references on every run, even when this session already read them. Skipping compose.md skips the evidence decision.",
+          "If Step 1 found an existing PR, pass its URL to Step 4 so PR mode fetches the existing body."
         ],
         "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin/blob/HEAD/skills/ce-commit-push-pr/SKILL.md",
-        "sourceHash": "deb35ce03204b9c4c372c9c82a8f68e34d00fa800e1fc92a3642811ab43d1591",
-        "extractedAt": 1791635471998
+        "sourceHash": "cfff5c36885f899b6f9fb89eef2cc1e1eab53eb20c2b536b33b529c53a175c64",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -46405,8 +46380,8 @@
         "trigger": "Review requirements, plans, or specs with role-specific lenses. Use when the user wants to improve an existing planning document.",
         "steps": [],
         "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin/blob/HEAD/skills/ce-doc-review/SKILL.md",
-        "sourceHash": "0a1f44d7bd0014cd0e5b895dd8d152e865532ebf5d47504596fad552ec282a2f",
-        "extractedAt": 1791635472000
+        "sourceHash": "b8a116f81de348c112fd5be198409f8c4baafd46f779a8b3d6e12a6904c6a6a9",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -46448,8 +46423,8 @@
         "summary": "Hands-off, diff-scoped browser QA of the active branch: maps user flows, drives a real browser, autonomously fixes small breakages with regression tests and commits, judges experience against product personas, and writes a durable dogfood report. Manual invocation only.",
         "steps": [],
         "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin/blob/HEAD/skills/ce-dogfood/SKILL.md",
-        "sourceHash": "7b8723b454bff5977c7bd72e1ebac4298abe2d6c7e9ab5c38c66e7da82f9e553",
-        "extractedAt": 1791635472001
+        "sourceHash": "efb1550fd925f99af105a42573a35d0e6d68c618e2fddd9c1c25fcfc2a555e19",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -46492,8 +46467,8 @@
         "trigger": "Explain how and why something has its current shape, or what happened over a window of work, grounded in evidence. Use when the user asks for an explanation. Use ce-pov for a judgment or recommendation.",
         "steps": [],
         "sourceUrl": "https://github.com/EveryInc/compound-engineering-plugin/blob/HEAD/skills/ce-explain/SKILL.md",
-        "sourceHash": "fe1a05fa429338524374b2428bac9a0338a7e7c2f7ff4e1e510da123e834cafe",
-        "extractedAt": 1791635472001
+        "sourceHash": "0c27456102aa1da0583ecbb36f3abdbe8ec1930e07bff79dacee19df46f5cf69",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47339,11 +47314,11 @@
       "usageGuide": {
         "extractorVersion": 3,
         "summary": "花叔Design——用HTML做高保真原型、幻灯片、动画、可视化与专家评审。任何新设计100%先出三个方向初稿给用户选（指定风格/品牌也不豁免），选定后才执行。触发词：做原型、PPT、幻灯片、动画、设计风格、评审、做个HTML页面、UI mockup、导出MP4/GIF、做个好看的。生产级Web App/需后端的系统不适用。",
-        "trigger": "花叔Design——用HTML做高保真原型、幻灯片、动画、可视化与专家评审。任何新设计100%先出三个方向初稿给用户选（指定风格/品牌也不豁免），选定后才执行。触发词：做原型、PPT、幻灯片、动画、设计风格、评审、做个HTML页面、UI mockup、导出MP4/GIF、做个好看的。生产级Web App/需后端的系统不适用。",
+        "trigger": "用 HTML 做视觉产出：交互原型、设计变体探索、1920×1080 的 HTML deck、时间轴驱动的动画与视频、 信息图与可视化。生产级 Web App、SEO 网站、需要后端的系统不走本 skill。",
         "steps": [],
         "sourceUrl": "https://github.com/alchaincyf/huashu-design/blob/HEAD/SKILL.md",
-        "sourceHash": "4317648da4431bbbb2e77a837804f8c23c494acfa8871134b2edbc40cd1e3cc5",
-        "extractedAt": 1791635472652
+        "sourceHash": "a6c9beaa87d182b93792d3d0e7a212b9af28d54d89d7e1784c323b7a5cf479f7",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47386,8 +47361,8 @@
         "trigger": "Open or update a pull request on pascalorg/editor from the current branch, describing only what the branch actually did. Use when the user asks to open/create a PR, push and PR, or ship a branch in the editor repo.",
         "steps": [],
         "sourceUrl": "https://github.com/pascalorg/editor/blob/HEAD/.agents/skills/open-pr/SKILL.md",
-        "sourceHash": "8546a098ec27605322a92a5db2e6ca55b40e5b02899b26f4e05b93f28a716bf8",
-        "extractedAt": 1791635473512
+        "sourceHash": "d2a66d21c2f9ac6fed9a9e87db764e5a50281ab789445551eccf3a66d6db6112",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47430,8 +47405,8 @@
         "trigger": "Would the read-only /viewer/[id] route need this? If no, it belongs in apps/editor / packages/editor.；Does the name contain an editor-specific word? (Floorplan, Paint…, Draft…, Marquee, CursorBadge, HoverMode, …Tool, Moving…, Curving….) Default to editor and justify loudly if it's anywhere else.",
         "steps": [],
         "sourceUrl": "https://github.com/pascalorg/editor/blob/HEAD/.agents/skills/review-architecture/SKILL.md",
-        "sourceHash": "935da5c81728e52503ed46852b4d14a02d7a0f0902f011609f2be5b83b739d1e",
-        "extractedAt": 1791635473512
+        "sourceHash": "6720e28a87de194b2fa9027bdae67d3ca88d2f0b97eb0011dea8a8ded70a3640",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47473,8 +47448,8 @@
         "summary": "Assess whether furniture fits in a measured Pascal room or layout. Use this skill for sofa, table, bed, cabinet, appliance, staging, placement, collision, clearance, or rotated-footprint questions. Produce a tool-backed spatial report that distinguishes footprint fit from unsupported height, door-swing, assembly, and delivery-route claims, and return insufficient evidence when dimensions or scale…",
         "steps": [],
         "sourceUrl": "https://github.com/pascalorg/editor/blob/HEAD/skills/furniture-fit/SKILL.md",
-        "sourceHash": "fbb1829c89f0edce94e9c62cd9fe4e933257ba27276bb48b666ffe9c5eb7e928",
-        "extractedAt": 1791635473513
+        "sourceHash": "4fe0a45d1ad286f3150b9452f72e4d72283792798739c00160f83f56f9e88fac",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47516,8 +47491,8 @@
         "summary": "Connect to Pascal and use its MCP tools to create, inspect, edit, validate, save, or hand off editable 3D building scenes. Use this skill whenever a user asks an agent to work in Pascal, make a room or building model, inspect a Pascal project, perform spatial edits, connect Pascal MCP, or return a verified Pascal editor link. It also governs safe local, existing-account, and explicitly authorized…",
         "steps": [],
         "sourceUrl": "https://github.com/pascalorg/editor/blob/HEAD/skills/pascal-3d/SKILL.md",
-        "sourceHash": "af5d80cbe83c2ce49578598bd422f134c0d9c6385eed1608fc7056068ac1b927",
-        "extractedAt": 1791635473514
+        "sourceHash": "f7c819f7a8149138e40b538f61d178e521acc8a35c174823bc57a5222ab3241f",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47602,11 +47577,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Add a new feature, put work behind a feature flag, roll something out (per organization, for everyone, cloud or self-hosted), revert or kill a feature, or make a big change to existing behavior such as a new engine. Use BEFORE writing the feature code, and when finishing or removing a rollout.",
+        "summary": "Decide whether work needs a feature flag (any change to product behavior users can see does), then declare it, roll it out (per organization, for everyone, cloud or self-hosted), revert or kill it. Use for any user-visible behavior change, and when finishing or removing a rollout.",
         "steps": [],
         "sourceUrl": "https://github.com/different-ai/openwork/blob/HEAD/.opencode/skills/add-a-feature/SKILL.md",
-        "sourceHash": "06e8b0a2b28e96a8eb8f73dbf114948d229165b6d8d1af9c597602ceec1ec11f",
-        "extractedAt": 1791635474690
+        "sourceHash": "fe82ea4083aa4ad19b2154efb6213a0b32af0fb1bbaae290f0d60c5fef77a53f",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47649,8 +47624,8 @@
         "trigger": "Local OpenWork Electron browser automation with CDP. Use when driving a local Electron dev app, browserlist, browsersnapshot, browsereval, composer automation, or local UI smoke tests.",
         "steps": [],
         "sourceUrl": "https://github.com/different-ai/openwork/blob/HEAD/.opencode/skills/browser-automation/SKILL.md",
-        "sourceHash": "a30dd6e01f96083f31228f1c0b9863164b42ccf98aab6c063ac1c61b0a28be53",
-        "extractedAt": 1791635474691
+        "sourceHash": "f03be9ea68582acd2504c327614f4b7e68a29abd3d3c9bd375402a3398ce5d2d",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47868,12 +47843,12 @@
       "howToUse": "Drive a running OpenWork desktop window over CDP from the shell. Evaluate JS, take screenshots, open a new session, send a prompt with a chosen model, wait for the run to finish. Use when checking a UI change by hand in a world or pnpm dev, or when reproducing a chat state.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Drive a running OpenWork desktop window over CDP from the shell. Evaluate JS, take screenshots, open a new session, send a prompt with a chosen model, wait for the run to finish. Use when checking a UI change by hand in a world or pnpm dev, or when reproducing a chat state.",
-        "trigger": "Drive a running OpenWork desktop window over CDP from the shell. Evaluate JS, take screenshots, open a new session, send a prompt with a chosen model, wait for the run to finish. Use when checking a UI change by hand in a world or pnpm dev, or when reproducing a chat state.",
+        "summary": "Drive the running OpenWork app over CDP from the shell, headless by default (nothing opens on screen). Evaluate JS, take screenshots, open a new session, send a prompt with a chosen model, wait for the run to finish. Use when checking a UI change by hand in a world or pnpm dev, or when reproducing a chat state.",
+        "trigger": "Drive the running OpenWork app over CDP from the shell, headless by default (nothing opens on screen). Evaluate JS, take screenshots, open a new session, send a prompt with a chosen model, wait for the run to finish. Use when checking a UI change by hand in a world or pnpm dev, or when reproducing a chat state.",
         "steps": [],
         "sourceUrl": "https://github.com/different-ai/openwork/blob/HEAD/.opencode/skills/drive-desktop-cdp/SKILL.md",
-        "sourceHash": "5acae8e5b987d568421f15b6206399d2a475bc2fda5a00273f6b22f5b55a8c32",
-        "extractedAt": 1791635474693
+        "sourceHash": "15e58ba066e97cd9244310354e82392b71af916ecacf281a0e05bed317466d1b",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -47959,8 +47934,8 @@
         "summary": "Design notes on a PR, \"Design review (advisory)\" in the evidence check, \"worth fixing\", layout.split-row, OW-LIST, a reviewer says the UI looks off. Use to read what the design review found on a PR's screenshots, fix it in code, and prove the note is gone.",
         "steps": [],
         "sourceUrl": "https://github.com/different-ai/openwork/blob/HEAD/.opencode/skills/fix-design-notes/SKILL.md",
-        "sourceHash": "6d5ed666e55c9394f77fc23ddad76904a9a244f7e0efa9278c807c60c27ae949",
-        "extractedAt": 1791635474693
+        "sourceHash": "438920c2acb7f1a3f72a9f64d63a8810c17e7dc8bb42216c96c1d47ff9509423",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -48133,8 +48108,8 @@
         "summary": "Open a PR, write or rewrite a PR description, \"the PR body is too long\", or check whether a PR description is readable. Use whenever a PR is created or its body is edited.",
         "steps": [],
         "sourceUrl": "https://github.com/different-ai/openwork/blob/HEAD/.opencode/skills/open-a-pr/SKILL.md",
-        "sourceHash": "bf02facf0eedd5b8230cdc6f793a718c8087d6542b1e90f3942f0d01c5cc11de",
-        "extractedAt": 1791635474694
+        "sourceHash": "9392032e1cf27a6055a92c0f2141a7984d0400c52d2f7e51505eda93395cc44c",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -48184,8 +48159,8 @@
           "Run openwork-models.mjs remove \"\"."
         ],
         "sourceUrl": "https://github.com/different-ai/openwork/blob/HEAD/.opencode/skills/openwork-models/SKILL.md",
-        "sourceHash": "4739ec03b9862cceaae97ad09d35522422455988141f788c33ebb4c0e3d90dc4",
-        "extractedAt": 1791635474694
+        "sourceHash": "95ed292f08702078f1db0430f647659ca677f21e4f964e18fb1e1dfe2c83e36d",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -50111,8 +50086,8 @@
         "summary": "查询 AIHOT（aihot.news）的中文 AI 资讯。用户问今天或最近 AI 圈发生了什么、AI 新闻和 AI 日报、大模型与 AI 产品发布、OpenAI／Anthropic／Google 等公司或某个 AI 话题的最新消息、当前最热的 AI 事件及来龙去脉、AI 模型排行、Codex 额度重置，或其它 AI 行业动态时使用。必须实时查询 AIHOT，不凭训练记忆回答新闻；匿名只读，无需 API Key。",
         "steps": [],
         "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/blob/HEAD/aihot/SKILL.md",
-        "sourceHash": "1fe3b86de1309617713c4b205b6dbaef0fe2cf28cb61cfb9f4c9b4accae521a1",
-        "extractedAt": 1791635478303
+        "sourceHash": "dfa82adb48d5f1959485b41eeb7b3be0a2d5c7217c9cc815349353932b629630",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -50151,12 +50126,12 @@
       "howToUse": "以下AI味标记无论什么文体都要避免：；套话：\"首先...其次...最后\"、\"综上所述\"、\"值得注意的是\"、\"不难发现\"",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "横纵分析法（Horizontal-Vertical Analysis）深度研究Skill。由数字生命卡兹克提出，融合了索绪尔的历时-共时分析、社会科学的纵向-横截面研究设计、商学院案例研究法与竞争战略分析的核心思想。 当用户想要系统性研究一个产品、公司、概念、技术或人物时使用。核心是双轴分析：纵轴追踪从诞生到当下的完整生命历程（以叙事故事呈现），横轴在当下时间截面上与竞品/同类进行系统性横向对比，最后交叉两条轴产出独到洞察。最终产出一份排版精美的PDF研究报告。 触发词包括但不限于：横纵分析、研究一下、帮我分析、深度研究、做个研究、调研一下、竞品分析、帮我看看这个东西怎么样、这个产品/公司/概念是怎么回事、帮我摸清楚、帮我搞懂、帮我做个deep research。…",
+        "summary": "横纵分析法（Horizontal-Vertical Analysis）深度研究Skill。由数字生命卡兹克提出，融合了索绪尔的历时-共时分析、社会科学的纵向-横截面研究设计、商学院案例研究法与竞争战略分析的核心思想。 当用户想要系统性研究一个产品、公司、概念、技术或人物时使用。核心是双轴分析：纵轴追踪从诞生到当下的完整生命历程（以叙事故事呈现），横轴在当下时间截面上与竞品/同类进行系统性横向对比，最后交叉两条轴产出独到洞察。默认产出 PDF 和 Markdown，用户可指定 HTML 或 Markdown。 触发词包括但不限于：横纵分析、研究一下、帮我分析、深度研究、做个研究、调研一下、竞品分析、帮我看看这个东西怎么样、这个产品/公司/概念是怎么回事、帮我摸清楚、帮我搞懂、帮我做个deep research。…",
         "trigger": "以下AI味标记无论什么文体都要避免：；套话：\"首先...其次...最后\"、\"综上所述\"、\"值得注意的是\"、\"不难发现\"",
         "steps": [],
         "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/blob/HEAD/hv-analysis/SKILL.md",
-        "sourceHash": "898f21b1f7b45456a54419b1b31765c896662a1e3f614d2c3413f809824de3a2",
-        "extractedAt": 1791635478304
+        "sourceHash": "c130c453c449025f8fc0dc096ba5ea6a971b861ff869327470a81e5b51fc993c",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -50195,12 +50170,12 @@
       "howToUse": "数字生命卡兹克（Khazix）的公众号长文写作skill。当用户需要撰写公众号文章、写稿子、续写文章、根据素材产出长文时使用。触发词包括但不限于：写文章、写稿子、帮我写、续写、扩写、公众号文章、长文、出稿、按我的风格写。即使用户只是说\"帮我把这个写成文章\"或\"用我的风格写一下\"，只要上下文涉及内容创作和公众号输出，都应该触发。也适用于用户丢过来一个PDF、brief、新闻链接、语音转文字或任何素材说\"帮我写篇文章\"的场景。不要用于短内容（小红书帖子、推特、朋友圈）或纯标题摘要生成（那个用wechat-title skill）。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "数字生命卡兹克（Khazix）的公众号长文写作skill。当用户需要撰写公众号文章、写稿子、续写文章、根据素材产出长文时使用。触发词包括但不限于：写文章、写稿子、帮我写、续写、扩写、公众号文章、长文、出稿、按我的风格写。即使用户只是说\"帮我把这个写成文章\"或\"用我的风格写一下\"，只要上下文涉及内容创作和公众号输出，都应该触发。也适用于用户丢过来一个PDF、brief、新闻链接、语音转文字或任何素材说\"帮我写篇文章\"的场景。不要用于短内容（小红书帖子、推特、朋友圈）或纯标题摘要生成（那个用wechat-title skill）。",
-        "trigger": "数字生命卡兹克（Khazix）的公众号长文写作skill。当用户需要撰写公众号文章、写稿子、续写文章、根据素材产出长文时使用。触发词包括但不限于：写文章、写稿子、帮我写、续写、扩写、公众号文章、长文、出稿、按我的风格写。即使用户只是说\"帮我把这个写成文章\"或\"用我的风格写一下\"，只要上下文涉及内容创作和公众号输出，都应该触发。也适用于用户丢过来一个PDF、brief、新闻链接、语音转文字或任何素材说\"帮我写篇文章\"的场景。不要用于短内容（小红书帖子、推特、朋友圈）或纯标题摘要生成（那个用wechat-title skill）。",
+        "summary": "数字生命卡兹克（Khazix）的公众号长文写作skill。当用户需要撰写公众号文章、写稿子、续写文章、根据素材产出长文时使用。触发词包括但不限于：写文章、写稿子、帮我写、续写、扩写、公众号文章、长文、出稿、按我的风格写。即使用户只是说\"帮我把这个写成文章\"或\"用我的风格写一下\"，只要上下文涉及内容创作和公众号输出，都应该触发。也适用于用户丢过来一个PDF、brief、新闻链接、语音转文字或任何素材说\"帮我写篇文章\"的场景。不要用于短内容（小红书帖子、推特、朋友圈）或纯标题摘要生成（按用户的标题需求直接处理）。",
+        "trigger": "数字生命卡兹克（Khazix）的公众号长文写作skill。当用户需要撰写公众号文章、写稿子、续写文章、根据素材产出长文时使用。触发词包括但不限于：写文章、写稿子、帮我写、续写、扩写、公众号文章、长文、出稿、按我的风格写。即使用户只是说\"帮我把这个写成文章\"或\"用我的风格写一下\"，只要上下文涉及内容创作和公众号输出，都应该触发。也适用于用户丢过来一个PDF、brief、新闻链接、语音转文字或任何素材说\"帮我写篇文章\"的场景。不要用于短内容（小红书帖子、推特、朋友圈）或纯标题摘要生成（按用户的标题需求直接处理）。",
         "steps": [],
         "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/blob/HEAD/khazix-writer/SKILL.md",
-        "sourceHash": "081bfbf5bc0f0c9a2c5a6410eaaa9de18a0cc50f932a1195f45df04e30018602",
-        "extractedAt": 1791635478304
+        "sourceHash": "4e9316f731c4a7a9e33c5edcc1f6aa7e58bcf1437720303fa8de64f31dc3e3e2",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -50242,8 +50217,8 @@
         "summary": "把一句话的想法拆成 AI agent 能独立跑完的目标任务书。用户说「帮我给 agent 写个目标」「帮我详细拆一下这个目标」「写个任务书/brief 给 agent」「写个 goal 提示词」「让 agent 自己跑这个项目」「把活分给几个 agent 并行」时使用。先进代码库实测、必要时联网调研，再一次性提问（≤5 个），产出一份 ≤4000 字符、直接粘进 /goal 就能跑的任务书，含实测数字、白名单地界、防作弊验收和断点续跑。执行型与探索型（调研/选型/找方案）自动分流。",
         "steps": [],
         "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/blob/HEAD/leader/SKILL.md",
-        "sourceHash": "58fc7e8c5038b3f795a52985a5cd81abb4bf51075bf64705a3eaebe33cf4391b",
-        "extractedAt": 1791635478305
+        "sourceHash": "82380e0958e22d10c70f2a358efc795724c160d5010b24283b77d668c9610ec1",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -50285,8 +50260,8 @@
         "summary": "Knowledge and governance closeout: reconcile project docs, rule files (CLAUDE.md/AGENTS.md), authorized agent memory, and workspace residue with what the code and runtime actually do, so the next session or the next person starts from one current answer. Trigger when the user names \"neat-freak\", \"洁癖\", or \"/neat\" — and also on clear knowledge-closeout intent without the name: syncing or tidying…",
         "steps": [],
         "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/blob/HEAD/neat-freak/SKILL.md",
-        "sourceHash": "6c0ca2236d3518ccaad710f6db8e9c4aa7af67b685dc699ad347ae42186951e1",
-        "extractedAt": 1791635478305
+        "sourceHash": "6d10fb626bf72c53acc0b567d754837532859751ebb7be49ccd2b0ecd441c59c",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -50325,18 +50300,18 @@
       "howToUse": "macOS：扫 home、library、caches、containers、groupcontainers、appsupport、applications、downloads、devcaches，用 du 算大小。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "macOS / Windows 只读存储分析助手（自动识别系统）。扫描整机磁盘占用，找出 占空间大户，把每一项分成 🟢可自动清理 / 🟡需人工判断 / 🔴谨慎清理 三级并给出 可执行处置方案，生成排版精美、可折叠、命令可一键复制的交互式 HTML 报告，并可 起本地服务在网页上一键删除（移废纸篓/直接删）。扫描全程只读。务必在以下场景 使用：用户说\"存储分析\"\"磁盘满了\"\"C盘/硬盘满了\"\"空间不够\"\"清理空间\" \"清理磁盘\"\"占空间\"\"哪些东西占地方\"\"帮我看看存储\"\"看一下电脑存储/空间\" \"存储空间\"\"电脑空间不够\"\"内存满了/不够/不足\"\"看下内存/存储\"（中文口语里 \"内存\"常指存储空间）\"storage analysis\"\"disk cleanup\"\"清缓存\"\"磁盘清理\"； 或用户抱怨电脑没空间、想知道什么东西吃硬盘、想要清理建议时。注意：若用户明确…",
+        "summary": "macOS / Windows / Linux 只读存储分析助手（自动识别系统）。扫描整机磁盘占用，找出 占空间大户，把每一项分成 🟢可自动清理 / 🟡需人工判断 / 🔴谨慎清理 三级并给出 可执行处置方案，生成排版精美、可折叠、命令可一键复制的交互式 HTML 报告，并可 起本地服务在网页上一键删除（移废纸篓/直接删）。扫描全程只读。务必在以下场景 使用：用户说\"存储分析\"\"磁盘满了\"\"C盘/硬盘满了\"\"空间不够\"\"清理空间\" \"清理磁盘\"\"占空间\"\"哪些东西占地方\"\"帮我看看存储\"\"看一下电脑存储/空间\" \"存储空间\"\"电脑空间不够\"\"内存满了/不够/不足\"\"看下内存/存储\"（中文口语里 \"内存\"常指存储空间）\"storage analysis\"\"disk cleanup\"\"清缓存\"\"磁盘清理\"； 或用户抱怨电脑没空间、想知道什么东西吃硬盘、想要清理建议时。注意：若用户明确…",
         "steps": [
-          "macOS：扫 home、library、caches、containers、groupcontainers、appsupport、applications、downloads、devcaches，用 du 算大小。",
+          "macOS：扫 home、library、caches、containers、groupcontainers、appsupport、applications、downloads、devcaches，用 du -x 算大小（不跨卷）。挂载点会被跳过并写进 warnings，例如 Xcode 的 /Library/Developer/CoreDevice/DeviceFS：它是模拟器/设备文件系统的虚拟挂载，显示几十 GB…",
           "Windows：扫 userprofile、appdatalocal、appdataroaming、temp、downloads、programfiles(x86)、devcaches，用 os.scandir 算大小；system.disks 含所有盘符。",
+          "Linux：扫 home、.cache、.local/share、downloads、/var、/tmp、devcaches（pip/uv/cargo/npm/go/docker/snap 等），用 du 算大小，不跳过挂载点（ZFS 数据集、btrfs 子卷和本盘同池）；system.disks 来自 GNU df，按 ZFS 池或设备合并，主盘是装着 / 的那个（解析失败时降级为根分区信息）。",
           "挑 Top 5 占用大户，判定类型（系统资产/应用本体/应用数据/应用缓存/开发缓存/用户文件/媒体内容/下载内容/虚拟机镜像/回收站/其他）。",
           "识别\"神秘大目录\"：UUID 命名的 Container、不明的隐藏目录，要追查它属于哪个 App、装的是什么（例如某 97GB 的 UUID Container 实为 Bilibili 离线视频缓存）。必要时 ls/du 深入一层看清楚，但仍只读。",
-          "三级分类 = 清理决策清单，不是全盘点。 只把\"存在'要不要动它'这个决策\"的项放进三灯；日常在用的正常应用、操作系统本身、海量零碎小文件没有清理决策，不进三灯，它们落在磁盘条的蓝色\"系统及其他\"里。判定标准：",
-          "🟢 可自动清理：纯缓存、临时文件、安装包残留、明确可再生且不影响功能、不丢用户数据（pip/uv/npm/Xcode DerivedData 等开发缓存、浏览器缓存）。"
+          "三级分类 = 清理决策清单，不是全盘点。 只把\"存在'要不要动它'这个决策\"的项放进三灯；日常在用的正常应用、操作系统本身、海量零碎小文件没有清理决策，不进三灯，它们落在磁盘条的蓝色\"系统及其他\"里。判定标准："
         ],
         "sourceUrl": "https://github.com/KKKKhazix/khazix-skills/blob/HEAD/storage-analyzer/SKILL.md",
-        "sourceHash": "4b41cc77494638ee0f010f5c50b8015e4dff82e522c9184d4bbeba14b776eae4",
-        "extractedAt": 1791635478305
+        "sourceHash": "06334a2f500cda48373aa6ddbd12b1bc9944f0f85c26738cda4316918667c5a9",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -51306,8 +51281,8 @@
           "evidence snippets or finding messages"
         ],
         "sourceUrl": "https://github.com/NVIDIA/SkillSpector/blob/HEAD/skills/skill-inspector/SKILL.md",
-        "sourceHash": "89ab1550769752ffbad782ee63fee3c345d546bded672adaac5fd03d2941aa84",
-        "extractedAt": 1791635479407
+        "sourceHash": "1acc220016936ba68f7b9083c19575a8866c9cf74c251d689285a0d9fbe2a067",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -65145,8 +65120,8 @@
         ],
         "example": "Where PROMPTRE is a language-neutral pattern for the input prompt. The prompt placeholder is localized, so match on the stable markers rather than a localized string:",
         "sourceUrl": "https://github.com/XiaomiMiMo/MiMo-Code/blob/HEAD/.agents/skills/drive-mimo/SKILL.md",
-        "sourceHash": "a679673fc80b1f5322664c8001f53bce4d985acd714430e4f4b0842ef22d297a",
-        "extractedAt": 1791635462260
+        "sourceHash": "40738c240bc54666c4f10515b6cdc4a9e386ed5963ec4a1ee19862aa4d056986",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -65278,11 +65253,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Operate Claude Code CLI (v2.1+) via the terminal only when the user explicitly requests Claude Code or names this skill. Covers print mode (-p), interactive tmux sessions, and background (--bg) orchestration.",
+        "summary": "Operate Claude Code CLI (v2.1+) via the terminal. Load only when the user explicitly authorizes this skill or names Claude Code / claude-code. Before any command, confirm the claude binary is available; if missing, stop and give install or auth guidance. Covers print mode (-p), interactive tmux sessions, and background (--bg) orchestration.",
         "steps": [],
         "sourceUrl": "https://github.com/XiaomiMiMo/MiMo-Code/blob/HEAD/packages/cli/src/skill/builtin/.bundle/claude-code/SKILL.md",
-        "sourceHash": "a480900d16469f678d09a78ca4c94e0aaadcc50f17b13ceca57b67b361b5812c",
-        "extractedAt": 1791635462262
+        "sourceHash": "2312d87a35b6e521376614ad1607c84069dde28c9de9b996942ab2374ed836e4",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -65321,12 +65296,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Run, configure, and troubleshoot OpenAI Codex CLI in non-interactive headless environments. Use for Codex automation in Bash or PowerShell, native Windows or WSL2, shell scripts, CI/CD, Docker, Kubernetes, remote servers, agent harnesses, or batch jobs; for constructing codex exec commands; selecting sandbox and approval modes; consuming JSONL events or structured output; resuming sessions;…",
+        "summary": "Operate OpenAI Codex CLI in non-interactive headless environments. Load only when the user explicitly authorizes this skill or names Codex / codex. Before any command, confirm the codex binary is available; if missing, stop and give install or auth guidance. Covers codex exec automation in Bash or PowerShell, native Windows or WSL2, scripts, CI/CD, Docker, Kubernetes, remote servers, agent…",
         "steps": [],
         "example": "Work fully autonomously. Do not ask the user questions and do not request interactive input. Inspect the repository and available context before making assumptions. When several valid approaches exist, choose the option that: 1. minimizes unrelated changes, 2. preserves backward compatibility, 3. introduces the fewest new dependencies, 4. avoids destructive or irreversible actions. Continue until the task is complete or a concrete blocking error is reached. Record assumptions, validation performed, and unresolved blockers in the final response.",
         "sourceUrl": "https://github.com/XiaomiMiMo/MiMo-Code/blob/HEAD/packages/cli/src/skill/builtin/.bundle/codex/SKILL.md",
-        "sourceHash": "ccf6930ea4f1a09e18713f51a36c0f7192d82bfe44cc8dd6ccd526806b026eaa",
-        "extractedAt": 1791635462263
+        "sourceHash": "82d4322b49b05f80dd023700274f88080f23677abf97c15b4b4c80b41a0c4343",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -65375,8 +65350,8 @@
           "An explicit project instruction, AGENTS.md, or user-provided agent/worktree configuration may define a project-specific worktree path, branch convention, spec path, or spec format. Use that configuration instead of the…"
         ],
         "sourceUrl": "https://github.com/XiaomiMiMo/MiMo-Code/blob/HEAD/packages/cli/src/skill/builtin/.bundle/compose-next/SKILL.md",
-        "sourceHash": "dbeb5c1e4252c9a598243c3dc6ae3e384c51f70ce22441df03f48f35843e4952",
-        "extractedAt": 1791635462263
+        "sourceHash": "75612de22a26ebf4e46f94fc51f4b9cef5ff38f32c8dcbeb86ac4dfcb194a1f6",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90609,8 +90584,8 @@
         "trigger": "Provide technical guidance for Android camera development with CameraX. Use when implementing camera features, handling asynchronous recording lifecycles, wiring low-level hardware interop using CameraX, or integrating ML Kit or Media3 effects.",
         "steps": [],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/camera/camerax/SKILL.md",
-        "sourceHash": "f2f5cac0bb70ff648e52f76ad3bab38dfc59ccd7e4be6a71796649967d1641fa",
-        "extractedAt": 1791668603883
+        "sourceHash": "e3f1930af89bda0ccc0528e6a61250c3d48bb9c067712d1c0e765a87e953f9e3",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90649,18 +90624,18 @@
       "howToUse": "Step 1: Discovery: Analyze Android codebases to identify and recommend potential AppFunctions. Use this step when a user asks to \"discover AppFunctions,\" \"find features for AI,\" or \"analyze my app for agentic tools.\"",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Analyzes Android apps to identify key user workflows for AppFunctions such as creating a note, playing media, or sending an automated or AI agent triggered message, voice commands, or system shortcuts, without needing to open the app UI. Generates Kotlin code to expose these workflows to the Android system, allowing agents to discover and execute them on-device. Also refines KDoc documentation to…",
+        "summary": "Analyzes Android apps to find user workflows to expose as AppFunctions, such as creating a note, playing media, or sending a message. AI agents, voice commands, and system shortcuts then run them without opening the app UI. Generates Kotlin code with the androidx.appfunctions library, and refines KDoc and the app description so that agents choose and call functions correctly. Use this skill when…",
         "steps": [
           "Step 1: Discovery: Analyze Android codebases to identify and recommend potential AppFunctions. Use this step when a user asks to \"discover AppFunctions,\" \"find features for AI,\" or \"analyze my app for agentic tools.\"",
           "Step 2: Implementation and configuration: Generate Kotlin implementations of AppFunctions, manage system-wide configuration, and configure build dependencies. Use this step when a user asks to \"implement AppFunctions,\"…",
-          "Step 3: KDoc refinement: Optimize AppFunction KDoc for AI agents and Model Context Protocol. If a user asks to \"write KDoc\", \"optimize for MCP\", or \"refactor tool descriptions for LLMs\", use this step.",
+          "Step 3: KDoc refinement: Optimize AppFunction KDoc and the app description for AI agents and Model Context Protocol. If a user asks to \"write KDoc\", \"optimize for MCP\", or \"refactor tool descriptions for LLMs\", use this…",
           "Step 4: Testing and debugging: Provide commands to interact with AppFunctions using ADB for testing and debugging. If a user wants to \"list app functions\", \"invoke an app function\", or \"verify app function registration\"…",
           "Context and terminology: Defines the ubiquitous language, architecture definitions, and design patterns across the AppFunctions skill suite. Load when you need to understand core architecture terminology or check the…",
-          "Migration to service entry point : Documents the systematic procedure for migrating Android applications using AppFunctions versions 1.0.0-alpha09 and lower to AppFunctionServiceEntryPoint architecture introduced in…"
+          "Migration to service entry point : Migrates apps on AppFunctions 1.0.0-alpha09 or lower to the AppFunctionServiceEntryPoint architecture from 1.0.0-alpha10, and upgrades apps to 1.0.0-beta01. Load it when a user asks to…"
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/device-ai/appfunctions/SKILL.md",
-        "sourceHash": "d41b75cb243dd48a661d787e9b6eb37ebf6ac8ccb9f215f090f5f72fe515c8bb",
-        "extractedAt": 1791668603885
+        "sourceHash": "161a64851884046163d5501db6b9932110ce81458098689262b79b3ed09f437d",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90744,10 +90719,13 @@
       "usageGuide": {
         "extractorVersion": 3,
         "summary": "Provides knowledge and workflows to implement Android's Restore Credentials feature using the androidx.credentials library. Use this skill to create, sign in with, and delete restore keys, enabling silent user sign-in on new devices after a restore. It covers version compatibility, dependencies, server-side prerequisites, and the complete client-side implementation for creating, retrieving, and…",
-        "steps": [],
+        "steps": [
+          "Test Restore Credentials: Test cloud and device-to-device (D2D) restore flows using Android Studio or adb shell bmgr.",
+          "Automated backup and restore testing: Write JUnit 5 host tests with BackupRestoreController to verify CLOUDENCRYPTED and DEVICETODEVICE restores in CI."
+        ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/identity/restore-credentials/SKILL.md",
-        "sourceHash": "e1fefb897e1f1d9f4bf216223b700c215c532f0a88207ee73627128f995230ba",
-        "extractedAt": 1791668603888
+        "sourceHash": "c594f1a914f55d7661005bd328bf3b0f7094a806ed88de22c70a84b402fc4828",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90790,8 +90768,8 @@
         "steps": [],
         "example": "OpenID4VP Standard: The specification used to create digital credentials requests.",
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/identity/verified-email/SKILL.md",
-        "sourceHash": "5d916099370dc81761c8fc235f91c8cdd2cea6c559b22170c85b7a4a51791452",
-        "extractedAt": 1791668603889
+        "sourceHash": "7cf5fcfdc361bb483eccbf1bc2a98086b9a092edd3f7b95c8738da111d919086",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90830,18 +90808,18 @@
       "howToUse": "Step 1: Verify current UI",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Instructions to make or update an app's UI so that it adapts to different Android devices including phones, tablets, foldables, laptops, desktop, TV, Auto and XR. It includes how to handle different window sizes, pointing devices (such as mouse) and text entry devices (such as keyboard) using the Compose MediaQuery API. It also covers multi-pane layouts using Navigation3 Scenes, adaptive UI…",
+        "summary": "Instructions to make or update an app's UI so that it adapts to different Android devices including phones, tablets, foldables, laptops, desktop, TV, Auto, and XR. It includes how to handle different window sizes, pointing devices (such as mouse) and text entry devices (such as keyboard) using the Compose MediaQuery API, and how to preserve UI, navigation, scroll, and media playback state across…",
         "steps": [
           "Step 1: Verify current UI",
           "Step 2: Make the navigation bar adaptive",
           "Step 3: Add multi-pane layouts",
           "Step 4: Make vertical lists adaptive by changing the number of columns",
           "Step 5: Hide app bars when scrolling",
-          "Hiding the navigation bar when the user scrolls down and showing it again when the user scrolls up. The assumption is that when the user is scrolling down, they are consuming content but when scrolling up they are…"
+          "Step 6: Preserve UI state across configuration changes"
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/jetpack-compose/adaptive/SKILL.md",
-        "sourceHash": "5067113bb22ff5eb4b6e971bd7aa52000fbf0bd625c7d0bf1765cb4024b1da68",
-        "extractedAt": 1791668603889
+        "sourceHash": "c1e674393d0ea57d04349f8ec85df5b7e043d4ea1cbbe5b0c5989ac3dac456a1",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90991,8 +90969,8 @@
           "If the application uses legacy Views, add media3-ui."
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/media/media3-cast-integration/SKILL.md",
-        "sourceHash": "aee98e108dcf6186e81ee8bcca57db56e2d60daded21e841dcec99dee4c3a99d",
-        "extractedAt": 1791668603892
+        "sourceHash": "34dd7b45a71c6029ec099d97256f956d0e97d7ab64fd60c3421b2293aa025b6b",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -91038,8 +91016,8 @@
           "Entry provider DSL: Shows basic API usage using the entryProvider DSL."
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/navigation/navigation-3/SKILL.md",
-        "sourceHash": "e5f448fc82a30e3a5efdb154dcc32fa77b806291d7fa571f201f3fb5530973fa",
-        "extractedAt": 1791668603893
+        "sourceHash": "da661728611eb5b0e474128ee8aeb926ac916e5ceff3589310e3916da0df9cc3",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -91088,8 +91066,8 @@
           "For setting up compile SDKs, declaring catalog versions, and adding dependencies, follow setup guide."
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/navigation/navigation-event/SKILL.md",
-        "sourceHash": "dbf8e9e28ba22d40e36443b377f8208a914fe06357ce09ae09ff017858755e8b",
-        "extractedAt": 1791668603894
+        "sourceHash": "4e9acfb0190cdee56dafb063868965992fdba2ad1694a7fc2524b9046a199609",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -91128,19 +91106,18 @@
       "howToUse": "Analyzes Android build files and R8 keep rules to identify redundancies, broad package-wide rules, and rules that subsume library consumer keep rules. Use when developers want to optimize their app's size, remove redundant or overly broad keep rules, or troubleshoot Proguard configurations.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Analyzes Android build files and R8 keep rules to identify redundancies, broad package-wide rules, and rules that subsume library consumer keep rules. Use when developers want to optimize their app's size, remove redundant or overly broad keep rules, or troubleshoot Proguard configurations.",
-        "trigger": "Analyzes Android build files and R8 keep rules to identify redundancies, broad package-wide rules, and rules that subsume library consumer keep rules. Use when developers want to optimize their app's size, remove redundant or overly broad keep rules, or troubleshoot Proguard configurations.",
+        "summary": "Analyzes Android build files and R8 keep rules to identify redundancies, broad package-wide rules, and rules that subsume library consumer keep rules. Use this skill when developers want to optimize their Android app's size, remove redundant or overly broad keep rules, or troubleshoot ProGuard configurations. Don't use for general Gradle build errors, Compose UI performance, or runtime CPU…",
         "steps": [
           "Inspect build.gradle, build.gradle.kts, and gradle.properties.",
           "Use references/CONFIGURATION.md to identify missing optimizations.",
-          "AGP : If version is lower than 9.0, suggest migration to 9.0 for build-time performance improvement.",
-          "Full Mode : Verify android.enableR8.fullMode=false is removed from gradle.properties.",
-          "Inspect build.gradle, build.gradle.kts, and gradle.properties and libs.versions.toml to get the AGP and R8 versions.",
-          "If AGP \\>= 9.3.0 : Proceed to Path A (Standalone Task)."
+          "AGP : If the version is lower than 9.3, suggest migration to 9.3 for the simplified optimization {} DSL and the Configuration Analyzer task.",
+          "Full mode : Verify android.enableR8.fullMode=false is removed from the gradle.properties file.",
+          "Inspect build.gradle, build.gradle.kts, settings.gradle, settings.gradle.kts, gradle.properties, and libs.versions.toml to get the AGP and R8 versions. An R8 version pinned in settings.gradle(.kts) replaces the R8…",
+          "Find the app module (usually app) and a build variant with R8 enabled (usually release). The following commands use them as and , for example :app:minifyReleaseWithR8."
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/performance/r8-analyzer/SKILL.md",
-        "sourceHash": "896f499155dcb4e8808c43e771d1f3f0b89c520c1bdb4aca36d91d743fc7ca74",
-        "extractedAt": 1791668603896
+        "sourceHash": "b6001b06ff0ebcbe87b98534a239c8c22b818b97681972db50d5b26466d2bf06",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -91190,8 +91167,8 @@
           "Always refer to common.md for common entities."
         ],
         "sourceUrl": "https://github.com/android/skills/blob/HEAD/play/engage-sdk-integration/SKILL.md",
-        "sourceHash": "a9b37b01e54a27f701e2bdf27c05cca6bedf142180b39d47d16e62d3eb977257",
-        "extractedAt": 1791668603897
+        "sourceHash": "2bfe2f8dac7cc6bceb0f280c9c735545669ecadbb5a27fc0fc6f251c8f216a07",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -94033,8 +94010,8 @@
         "summary": "为 claude-desktop-zh-cn 项目补全 Claude Desktop 未汉化界面。当用户发来 Claude Desktop 界面截图并指出未翻译的英文（如\"这些没汉化\"、\"帮我汉化一下\"），或要求为新版 UI 增加简体/繁体中文翻译时立即使用。覆盖 i18n 键值词表、硬编码词表与 DOM 动态正则三层，并自动验证映射命中率。",
         "steps": [],
         "sourceUrl": "https://github.com/javaht/claude-desktop-zh-cn/blob/HEAD/skills/claude-desktop-zh-localize/SKILL.md",
-        "sourceHash": "d97145213b89aa6e308aa389718c483e97768ae8686d6c65c0b221c414988537",
-        "extractedAt": 1791668607203
+        "sourceHash": "9be793edc9a7942b241994c9d7deb09baeabcde0ec9d077c5dff912fccd63ad8",
+        "extractedAt": 1794262851775
       },
       "compatibleAgents": [],
       "isBundle": false,
