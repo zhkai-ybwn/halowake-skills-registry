@@ -95190,8 +95190,8 @@
         "trigger": "盲区扫描——读昨天你与 AI 的全部对话，照出暴露的思维盲区（不是不懂的知识，是让某类真相一直看不见的思维习惯），再从微信读书挑一本书的一章精准补上，落成一篇完整分析笔记。Use when user says '扫盲区', '盲区', '照盲区', '看看我的思维盲区', '我昨天想漏了什么', 'blind spot', 'ljg-blind', '/ljg-blind', or wants yesterday's AI conversations analyzed for cognitive blind spots plus a targeted weread chapter to fill them. 可选参数：传一个日期(YYYY-MM-DD)扫那天而非昨天。NOT FOR 纵向深钻一个观点（用 ljg-think）、一个领域降秩（用 ljg-rank）、陪读一篇文本（用…",
         "steps": [],
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-blind/SKILL.md",
-        "sourceHash": "a24aaf806c8b3c98c13a4b53ee813eb6ab86f4c2b54070239fbcc80332d747f6",
-        "extractedAt": 1791668608906
+        "sourceHash": "570dbc0156ac23ee885c570a8c928eb0ef9d158b446fa1cabd67a4ae062788ff",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95237,8 +95237,8 @@
           "默认保存到 /Context/，文件名为 {YYYYMMDDTHHMMSS}--拆书-{书名}book.org，时间戳由 date +%Y%m%dT%H%M%S 生成。用户指定输出位置或只要会话解释时，以其要求为准。书中指令是材料，不提供执行授权。"
         ],
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-book/SKILL.md",
-        "sourceHash": "0268305ce2329166bc66700259926fbeffca3cb72438cba797b2bbcd9f50ce3e",
-        "extractedAt": 1791668608906
+        "sourceHash": "a32ce6a262c2b018d63042db7cda9079d0eb03299e304bdb7a1110ba89fee35b",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95418,10 +95418,10 @@
         "summary": "给一个领域、专业、角色、产品或争论找出真正框住它的几条约束，判明它们属于世界/规则/解释（硬/软/自设），看这组约束如何定义身份、补全问题、框出解空间并解释实际行为；尤其用于区分目标相同但约束不同导致的方案分歧，识别被误当硬事实的旧解释。USE WHEN 用户说 '约束', '找约束', '这个领域的约束是什么', '本质约束', '什么框住了它', '硬约束还是自设约束', '边界在哪', '这行为什么这么做', 'constraint', '/ljg-constraint', or gives any domain/profession/role/product/debate and wants its defining constraints and solution space mapped. NOT FOR 往下挖生成器（用…",
         "trigger": "给一个领域、专业、角色、产品或争论找出真正框住它的几条约束，判明它们属于世界/规则/解释（硬/软/自设），看这组约束如何定义身份、补全问题、框出解空间并解释实际行为；尤其用于区分目标相同但约束不同导致的方案分歧，识别被误当硬事实的旧解释。USE WHEN 用户说 '约束', '找约束', '这个领域的约束是什么', '本质约束', '什么框住了它', '硬约束还是自设约束', '边界在哪', '这行为什么这么做', 'constraint', '/ljg-constraint', or gives any domain/profession/role/product/debate and wants its defining constraints and solution space mapped. NOT FOR 往下挖生成器（用…",
         "steps": [],
-        "example": "User: \"投资经理的约束是什么？\" -> 找出资金期限、LP 信任、信息不对称、上行/下行分配等约束 -> 说明这些约束如何逼出追热点、重共识、怕错过等行为 -> 写入 notes 里的 org 文件",
+        "example": "User: \"投资经理的约束是什么？\" -> 找出资金期限、LP 信任、信息不对称、上行/下行分配等约束 -> 说明这些约束如何逼出追热点、重共识、怕错过等行为 -> 写入 notes 里的 Markdown 文件",
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-constraint/SKILL.md",
-        "sourceHash": "96424fca55f02374cec4df4d3d69e787a4504728573961a1dcaae3206100b3b6",
-        "extractedAt": 1791668608908
+        "sourceHash": "5acaf0c6fa6dc60557654240fac952af6fe4519c17fea3fd6f8dc9a3c2ba3256",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95465,8 +95465,8 @@
         "steps": [],
         "example": "「讲解似然」：固定同一批数据比较假设，明确它与后验概率分别回答的问题，说明条件与新情境；有限数据不等于证实假设。",
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-explain/SKILL.md",
-        "sourceHash": "e7da51fff276efc9788be155c459dae8bc4c2e6d9d1709c2fa61266f694d540c",
-        "extractedAt": 1791668608909
+        "sourceHash": "991c537eea77960460c7c48772a0cd562d485afd5f4fb589d637509117de2a63",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95509,8 +95509,8 @@
         "trigger": "投资分析。给一个项目（公司名、BP、创始人对话记录），写一份深度投资分析报告。不走传统投资分析的路——核心判断只有一个：这个项目是不是一台「秩序创造机器」。Use when user says '投资报告', '投资分析', '分析这个项目', '写投资报告', 'investment report', 'invest analysis', or provides entrepreneur conversation records wanting investment evaluation. Also trigger when user pastes or references meeting notes, pitch decks, or founder interviews and asks for analysis.",
         "steps": [],
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-invest/SKILL.md",
-        "sourceHash": "96b6c68103242f946ecfa316151d429ebe1bb6696ddcb2700827d0df37365816",
-        "extractedAt": 1791668608909
+        "sourceHash": "6f26875f7317add19d2b166ce3cc043888b993d141b27ffcaf763cca717a9c90",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95597,12 +95597,12 @@
         "summary": "Deep concept anatomist that deconstructs any concept through 8 exploration dimensions (history, dialectics, phenomenology, linguistics, formalization, existentialism, aesthetics, meta-philosophy) and compresses insights into an epiphany. Use when user asks to explain, dissect, or deeply understand a concept, term, or idea. Triggers on '解剖概念', '概念解剖', 'explain concept', 'learn concept',…",
         "trigger": "Deep concept anatomist that deconstructs any concept through 8 exploration dimensions (history, dialectics, phenomenology, linguistics, formalization, existentialism, aesthetics, meta-philosophy) and compresses insights into an epiphany. Use when user asks to explain, dissect, or deeply understand a concept, term, or idea. Triggers on '解剖概念', '概念解剖', 'explain concept', 'learn concept',…",
         "steps": [
-          "User: /ljg-learn 熵 Assistant: [对\"熵\"进行八维解剖，生成 org-mode 报告]",
+          "User: /ljg-learn 熵 Assistant: [对\"熵\"进行八维解剖，生成 markdown 报告]",
           "你是概念解剖师。拿到一个概念，从八个方向切开它，最后把所有切面压成一句顿悟。"
         ],
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-learn/SKILL.md",
-        "sourceHash": "9d1ea4948e07de1f0f1d4b50c9449f30b83d24af0754144d626a8145d6a828d2",
-        "extractedAt": 1791668608910
+        "sourceHash": "a478b2c4944650d45f46411cb4a95be625490f49c376e76be24f4ffb88860ba2",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95731,15 +95731,15 @@
       "howToUse": "Explain research papers to readers without a specialist background: what the paper studies, what the authors contribute, how the findings follow, and what the evidence does not establish. USE WHEN the user shares an arXiv link, paper URL, PDF, local paper, or paper title, or asks to read, explain, analyze, or understand a paper. Defaults to a saved Org note. NOT FOR reproduction, formal peer…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Explain research papers to readers without a specialist background: what the paper studies, what the authors contribute, how the findings follow, and what the evidence does not establish. USE WHEN the user shares an arXiv link, paper URL, PDF, local paper, or paper title, or asks to read, explain, analyze, or understand a paper. Defaults to a saved Org note. NOT FOR reproduction, formal peer…",
-        "trigger": "Explain research papers to readers without a specialist background: what the paper studies, what the authors contribute, how the findings follow, and what the evidence does not establish. USE WHEN the user shares an arXiv link, paper URL, PDF, local paper, or paper title, or asks to read, explain, analyze, or understand a paper. Defaults to a saved Org note. NOT FOR reproduction, formal peer…",
+        "summary": "Explain research papers to readers without a specialist background: what the paper studies, what the authors contribute, how the findings follow, and what the evidence does not establish. USE WHEN the user shares an arXiv link, paper URL, PDF, local paper, or paper title, or asks to read, explain, analyze, or understand a paper. Defaults to a saved Markdown note. NOT FOR reproduction, formal peer…",
+        "trigger": "Explain research papers to readers without a specialist background: what the paper studies, what the authors contribute, how the findings follow, and what the evidence does not establish. USE WHEN the user shares an arXiv link, paper URL, PDF, local paper, or paper title, or asks to read, explain, analyze, or understand a paper. Defaults to a saved Markdown note. NOT FOR reproduction, formal peer…",
         "steps": [
           "Org 默认保存到 /Context/。文件名沿用 Denote：{YYYYMMDDTHHMMSS}--paper-{方法名或论文关键词}paper.org；时间戳由 date +%Y%m%dT%H%M%S 生成。改写已有笔记时，保留原文件与 identifier，核对原文，不另建重复笔记。"
         ],
         "example": "方法论文： 用一个小任务说明旧做法卡在哪里，再解释新方法如何处理输入、经过哪些关键步骤、得到什么结果。中心实验说明比较条件与动作差异，结尾交代改善发生在哪一步，以及哪些情况仍未验证。",
         "sourceUrl": "https://github.com/lijigang/ljg-skills/blob/HEAD/skills/ljg-paper/SKILL.md",
-        "sourceHash": "978f4d60c996b59970f4aa957f951fe566d3b61f881eca7762f8f06f1848701e",
-        "extractedAt": 1791668608910
+        "sourceHash": "64f389643e711d0ef12ea7e490841c1d3cd0a7ad9ec8c067e9c98dcfc3b38986",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -95826,8 +95826,8 @@
         "trigger": "Generate Guizang-style social card image sets, Live Photo motion cards, material-first Live Photo puzzle layouts, triple Live Photo collages, long-video-to-Live-Photo treatments, and WeChat official account cover pairs from articles, scripts, screenshots, product notes, subtitles, photos, or user-supplied videos. Use when the user asks for 小红书图文, Rednote/Xiaohongshu images, social cards, carousel…",
         "steps": [],
         "sourceUrl": "https://github.com/op7418/guizang-social-card-skill/blob/HEAD/SKILL.md",
-        "sourceHash": "8311a62184ec81d25d3711cfcf5ec771558d300a3caaf43b464527db1178dd98",
-        "extractedAt": 1791668609519
+        "sourceHash": "cb23d959fb7fd4ab44db9ea6da5e2696e21271db92e91b7fc8e63fc7ebc0b4f5",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -98160,8 +98160,8 @@
           "addnode also accepts a nested GraphWorkflow. Other options: backend=\"networkx\"|\"rustworkx\", maxparallelnodes, checkpointdir, streamingcallback."
         ],
         "sourceUrl": "https://github.com/kyegomez/swarms/blob/HEAD/SKILL.md",
-        "sourceHash": "c4b691dc75c8bbd45a204b452eaa49656fcc788af8412a5e6412986074b6082e",
-        "extractedAt": 1791697531023
+        "sourceHash": "e97545fc6874059b1b2672d98d6e09f6ce960e2f849cb9a8525fac06248c0129",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -129589,8 +129589,8 @@
         "summary": "Plan and build 2D game maps and scenes - top-down and side-scrolling levels, tilemaps, prop packs, parallax backgrounds and HD-2D battle or story plates - with collision, navigation and reachability checks, environment motion, a playable HTML preview and export to Tiled, Godot 4 or LDtk. Map art (terrain, tiles, props, plates, parallax layers) is image generation by default, through…",
         "steps": [],
         "sourceUrl": "https://github.com/0x0funky/agent-sprite-forge/blob/HEAD/skills/generate2dmap/SKILL.md",
-        "sourceHash": "b1d0b1842a2d8a22572b72e615b0ada9e3c624998274d8e41c6136e4496fd204",
-        "extractedAt": 1791697535247
+        "sourceHash": "f5610b1ff12afeac30c05b50100dcdf91facbe7d8255307a9c5115cc4550fe00",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -129676,8 +129676,8 @@
         "summary": "Make game-ready 2D characters, creatures, props, icons and FX as master stills, sprite sheets or animation clips. Plan size, motion and finish; generate the art (image generation is the default, through generate2dmedia routemedia.py - the API when a key is configured, else the local Codex or Grok CLI); approve one master still per character; then key, slice, register, scale, palette, QA and…",
         "steps": [],
         "sourceUrl": "https://github.com/0x0funky/agent-sprite-forge/blob/HEAD/skills/generate2dsprite/SKILL.md",
-        "sourceHash": "6449ff93a8ebd554ae9ed732f148a03ea6ebda62e3357db3d8479b52eadf6209",
-        "extractedAt": 1791697535248
+        "sourceHash": "6691015ee8e736837919fc19907214400ae481564e79755225d3091b6657367a",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -129719,8 +129719,8 @@
         "summary": "Turn one approved master still into a character's whole animated sprite set - one image-to-video clip per action (idle, walk, run, attack, jump, hurt, cast and so on), all from that still, generated through generate2dmedia routemedia.py (the xAI API when a key is configured, else the local Grok CLI) - then gate each take, key it with a soft matte, register it to the master, pick loops or retime…",
         "steps": [],
         "sourceUrl": "https://github.com/0x0funky/agent-sprite-forge/blob/HEAD/skills/video2dsprite/SKILL.md",
-        "sourceHash": "5c14c84df107ccb60553a36c2cf4a690aaaa13b85aa5280257e572a27ba52f92",
-        "extractedAt": 1791697535248
+        "sourceHash": "61ef9c30d429e1902141d9975c3133111afff0849c418d90dacd313db8c8c74d",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -129853,14 +129853,12 @@
       "howToUse": "逸尘自用的统一音视频转写入口，在 StepFun Step ASR 与火山引擎豆包 ASR 之间按输出需求、安全边界和可用状态路由。用于本地音频或视频的纯文本转写、时间戳、SRT 字幕、口播粗剪，以及转写前体检；用户明确指定服务商时不得静默切换。Use when a local audio or video file needs transcription and the correct ASR backend is unclear, or when the user explicitly invokes $yichen-asr.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "逸尘自用的统一音视频转写入口，在 StepFun Step ASR 与火山引擎豆包 ASR 之间按输出需求、安全边界和可用状态路由。用于本地音频或视频的纯文本转写、时间戳、SRT 字幕、口播粗剪，以及转写前体检；用户明确指定服务商时不得静默切换。Use when a local audio or video file needs transcription and the correct ASR backend is unclear, or when the user explicitly invokes $yichen-asr.",
-        "trigger": "逸尘自用的统一音视频转写入口，在 StepFun Step ASR 与火山引擎豆包 ASR 之间按输出需求、安全边界和可用状态路由。用于本地音频或视频的纯文本转写、时间戳、SRT 字幕、口播粗剪，以及转写前体检；用户明确指定服务商时不得静默切换。Use when a local audio or video file needs transcription and the correct ASR backend is unclear, or when the user explicitly invokes $yichen-asr.",
-        "steps": [
-          "公开版不内置 Step ASR 执行器。通过 YICHENSTEPASRSCRIPT 指向你已安装并审计过的兼容脚本；也可把它安装为同级 step-asr/scripts/stepasrtranscribe.py。执行时完整遵守该执行器的 SKILL.md。不得删除失败标记，也不得用豆包结果静默填补 Step 失败片段。"
-        ],
+        "summary": "逸尘自用的唯一音视频转写入口，统一管理 StepFun Step ASR、火山引擎豆包 ASR 与本地 Whisper 三个后端：纯文本转写按参数、已保存的引擎偏好、默认 StepFun 的顺序选择引擎并处理首次选择提示；时间戳、SRT 字幕与口播粗剪转写在 Step 国内站与豆包之间按输出需求、安全边界和可用状态路由；另含转写前体检。适用于本地音频或视频，包括小宇宙、B 站等已下载的音视频、会议录音和长音频重新识别。用户说用 Step 转写、只用 step、stepaudio-2.5-asr、用豆包或火山转写、用本地 Whisper 免费转写、设置转写引擎，或点名 step-asr、volc-asr、yichen-asr 时使用；用户明确指定服务商时不得静默切换。Use when a local audio or video file needs transcription,…",
+        "trigger": "逸尘自用的唯一音视频转写入口，统一管理 StepFun Step ASR、火山引擎豆包 ASR 与本地 Whisper 三个后端：纯文本转写按参数、已保存的引擎偏好、默认 StepFun 的顺序选择引擎并处理首次选择提示；时间戳、SRT 字幕与口播粗剪转写在 Step 国内站与豆包之间按输出需求、安全边界和可用状态路由；另含转写前体检。适用于本地音频或视频，包括小宇宙、B 站等已下载的音视频、会议录音和长音频重新识别。用户说用 Step 转写、只用 step、stepaudio-2.5-asr、用豆包或火山转写、用本地 Whisper 免费转写、设置转写引擎，或点名 step-asr、volc-asr、yichen-asr 时使用；用户明确指定服务商时不得静默切换。Use when a local audio or video file needs transcription,…",
+        "steps": [],
         "sourceUrl": "https://github.com/mcncarl/yichen-skills/blob/HEAD/yichen-asr/SKILL.md",
-        "sourceHash": "bb73b6d5574656d0de9508616bbe76f8605b0b20c0f1e6f3cec589f5ac244a67",
-        "extractedAt": 1791697536391
+        "sourceHash": "90e2932b42809929ab5ec4c9189b2611b74a6bdb79489594938d344f6d7f1474",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -130039,8 +130037,8 @@
         "summary": "按用户当轮要求读取、下载或归档已知网页/社交媒体链接、URL 清单、已确认候选或明确的有限容器。支持显式有界站点归档；不用于关键词发现、推荐扩展或私人收藏导出。",
         "steps": [],
         "sourceUrl": "https://github.com/mcncarl/yichen-skills/blob/HEAD/yichen-content-archive/SKILL.md",
-        "sourceHash": "10cf350bdc71dd9676cf4ea4c4203580d9393cec98befd570200100b5a5511d2",
-        "extractedAt": 1791697536393
+        "sourceHash": "ae43df1688bdfae6adda52584026c503534ea8d8dc2211f7555557f0e26392b8",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -130172,11 +130170,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "统一编排关键词驱动的公共网页、AI 最新动态、垂直领域和社交平台搜索，返回标准化候选；支持有界 X Research、显式站点 Map，以及本次搜索所得候选的轻量核验。不用于读取或下载用户直接给出的已知 URL，此类任务使用 yichen-content-archive。",
+        "summary": "统一编排关键词驱动的公共网页、AI 最新动态（含用户点名 AI HOT 的精选、日报与分类条目）、垂直领域和社交平台搜索，返回标准化候选；支持有界 X Research、显式站点 Map，以及本次搜索所得候选的轻量核验。不用于读取或下载用户直接给出的已知 URL，此类任务使用 yichen-content-archive。",
         "steps": [],
         "sourceUrl": "https://github.com/mcncarl/yichen-skills/blob/HEAD/yichen-unified-search/SKILL.md",
-        "sourceHash": "424a182a0ed42810283194b2fb3991c5487e56b39829dc88aed164ecf9cb1a1f",
-        "extractedAt": 1791697536394
+        "sourceHash": "df0d7f6c6e6d89958d557768b3fc27c93aea0bbc850003602e7781a0090012f0",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -130261,12 +130259,11 @@
       "howToUse": "逸尘自用的互联网研究总入口。用于跨平台且跨阶段、用户尚未确定工具，或明确要求对公司、产品、人物、技术、行业和领域做横纵分析、发展史加现状对比或有来源约束的系统深度研究；先生成有截止日期和证据闸门的计划，再把搜索发现、候选核验、有限归档、按需转写和证据综合路由到 yichen-unified-search、yichen-content-archive、yichen-bookmarks-export 与 yichen-asr。若用户只要求搜索、只处理已知链接、只导出私人收藏或只转写已有音视频，应直接使用对应子 Skill。Use when an internet-research request spans multiple stages, requires evidence-grounded longitudinal and cross-sectional synthesis, the…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "逸尘自用的互联网研究总入口。用于跨平台且跨阶段、用户尚未确定工具，或明确要求对公司、产品、人物、技术、行业和领域做横纵分析、发展史加现状对比或有来源约束的系统深度研究；先生成有截止日期和证据闸门的计划，再把搜索发现、候选核验、有限归档、按需转写和证据综合路由到 yichen-unified-search、yichen-content-archive、yichen-bookmarks-export 与 yichen-asr。若用户只要求搜索、只处理已知链接、只导出私人收藏或只转写已有音视频，应直接使用对应子 Skill。Use when an internet-research request spans multiple stages, requires evidence-grounded longitudinal and cross-sectional synthesis, the…",
-        "trigger": "逸尘自用的互联网研究总入口。用于跨平台且跨阶段、用户尚未确定工具，或明确要求对公司、产品、人物、技术、行业和领域做横纵分析、发展史加现状对比或有来源约束的系统深度研究；先生成有截止日期和证据闸门的计划，再把搜索发现、候选核验、有限归档、按需转写和证据综合路由到 yichen-unified-search、yichen-content-archive、yichen-bookmarks-export 与 yichen-asr。若用户只要求搜索、只处理已知链接、只导出私人收藏或只转写已有音视频，应直接使用对应子 Skill。Use when an internet-research request spans multiple stages, requires evidence-grounded longitudinal and cross-sectional synthesis, the…",
+        "summary": "编排需要搜索、来源核验和综合分析的多阶段互联网研究（如先搜索再归档、跨平台证据汇总），含历史演进与当前格局交叉的横纵研究，以及研究前的多后端离线体检。单次搜索、已知链接读取、收藏导出、音视频转写和给定全文总结直接处理或使用对应 Skill。",
         "steps": [],
         "sourceUrl": "https://github.com/mcncarl/yichen-skills/blob/HEAD/yichen-web-research/SKILL.md",
-        "sourceHash": "425e8e843d0768cf4dcdf49f4a96183a91c462ad0aa45df70ae53d27998e9891",
-        "extractedAt": 1791697536395
+        "sourceHash": "c31a42dee00318892927b73f311cce67ac17062a4142d89a98b830b1c2f7b311",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -130305,12 +130302,12 @@
       "howToUse": "微信本地数字资产库：Mac 4.x 全量/增量解析，以及实验性的 Windows 已解密离线快照查询。Windows 快照必须走 snapshot 子命令，不触发 Mac 增量刷新。Mac 模式用于本机微信聊天记录、联系人、群聊、朋友圈、收藏夹、语音/附件索引的密钥提取、全量解密、增量刷新、指定联系人/群聊导出、关系复盘、客户跟进和内容沉淀。触发词：微信解析、微信全量、微信增量、聊天记录、导出聊天、朋友圈解析、收藏夹解析、客户跟进、yichen-wechat-local-vault。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "微信本地数字资产库：Mac 4.x 全量/增量解析，以及实验性的 Windows 已解密离线快照查询。Windows 快照必须走 snapshot 子命令，不触发 Mac 增量刷新。Mac 模式用于本机微信聊天记录、联系人、群聊、朋友圈、收藏夹、语音/附件索引的密钥提取、全量解密、增量刷新、指定联系人/群聊导出、关系复盘、客户跟进和内容沉淀。触发词：微信解析、微信全量、微信增量、聊天记录、导出聊天、朋友圈解析、收藏夹解析、客户跟进、yichen-wechat-local-vault。",
-        "trigger": "微信本地数字资产库：Mac 4.x 全量/增量解析，以及实验性的 Windows 已解密离线快照查询。Windows 快照必须走 snapshot 子命令，不触发 Mac 增量刷新。Mac 模式用于本机微信聊天记录、联系人、群聊、朋友圈、收藏夹、语音/附件索引的密钥提取、全量解密、增量刷新、指定联系人/群聊导出、关系复盘、客户跟进和内容沉淀。触发词：微信解析、微信全量、微信增量、聊天记录、导出聊天、朋友圈解析、收藏夹解析、客户跟进、yichen-wechat-local-vault。",
+        "summary": "微信本地数字资产库：支持 macOS 与已实测 Windows 环境的本地全量解析，包括全库采集、认证解密、聊天记录读取/搜索/导出，以及朋友圈和收藏正文解析。Mac 另支持增量刷新和漏看/待回复检查，默认微信1，微信2须明确指定。Windows 本机采集走 windows，离线聊天查询走 snapshot，朋友圈/收藏复用包内纯函数工作流；不触发 Mac 配置或流程。依赖最新聊天时必须先刷新相应来源，不能拿旧记录代替目标。Windows 版本及功能边界见本机采集参考。",
+        "trigger": "微信本地数字资产库：支持 macOS 与已实测 Windows 环境的本地全量解析，包括全库采集、认证解密、聊天记录读取/搜索/导出，以及朋友圈和收藏正文解析。Mac 另支持增量刷新和漏看/待回复检查，默认微信1，微信2须明确指定。Windows 本机采集走 windows，离线聊天查询走 snapshot，朋友圈/收藏复用包内纯函数工作流；不触发 Mac 配置或流程。依赖最新聊天时必须先刷新相应来源，不能拿旧记录代替目标。Windows 版本及功能边界见本机采集参考。",
         "steps": [],
         "sourceUrl": "https://github.com/mcncarl/yichen-skills/blob/HEAD/yichen-wechat-local-vault/SKILL.md",
-        "sourceHash": "7cd3569c1fbd9c52a94eea39e826f074709445c8342a0036b6f0a364aa353d9d",
-        "extractedAt": 1791697536396
+        "sourceHash": "65dedbd0053cfd2c49382542a7f21f20103fef93d2baa39ddee912d18f056940",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -130451,8 +130448,8 @@
           "派生图使用哪个模型：默认与主图相同。可以分开（比如锚点 GPT、派生 Qwen）"
         ],
         "sourceUrl": "https://github.com/eternityspring/shuohao-skills/blob/HEAD/skills/character-refs/SKILL.md",
-        "sourceHash": "9f20a635e81dcf8372c957b04a17cc4e3accfe322bf6a0cf8f9e18225eb12d55",
-        "extractedAt": 1791697537267
+        "sourceHash": "16f39d589dbf727b90ef5d218447e1de5469bbd892e0b1a025340c5e050bc448",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -130700,8 +130697,8 @@
           "该集的 seedScenes 底稿 + 场景卡（art.json 的锚点与光照提示词）+ 角色卡（cast.json 的形象要点）"
         ],
         "sourceUrl": "https://github.com/eternityspring/shuohao-skills/blob/HEAD/skills/novel-storyboard/SKILL.md",
-        "sourceHash": "ea40109af1ebc482116dd23a22d78fb3c3e8c6b44371c8ae82dfe8e464778863",
-        "extractedAt": 1791697537271
+        "sourceHash": "2af3bb17fa9719976fe9f2486ba09f26bdc4397aa45f13a18884408e2a7fe857",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -132955,8 +132952,8 @@
           "[ ] Document"
         ],
         "sourceUrl": "https://github.com/basicmachines-co/basic-memory/blob/HEAD/integrations/hermes/skill/SKILL.md",
-        "sourceHash": "720e432730556b234248edbc707e2b81147c77e485a8e8a827fa50c4008e088f",
-        "extractedAt": 1791697543918
+        "sourceHash": "96ec2f0f8ef5a239b1a02942856f9823ce1ad5a0f974e94a8c4da11614c615da",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157605,8 +157602,8 @@
         ],
         "example": "curl -s \"https://api.adanos.org/reddit/stocks/v1/compare?tickers=TSLA&days=7\" \\ -H \"X-API-Key: $ADANOSAPIKEY\"",
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/data-providers/skills/finance-sentiment/SKILL.md",
-        "sourceHash": "cda06b8840cab5d623a09598317b23778d3453601808902abf3d945c8d1f4b63",
-        "extractedAt": 1791668613079
+        "sourceHash": "1995fc5936b8b8bc88e667e8b342acc82ea98a673ff531be06aaf1f928959c0c",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157655,8 +157652,8 @@
           "KEYNOTSET — ask the user for their key. Keys come with a Fintel API plan (fintel.io, docs at api.fintel.io/docs). They can either export FINTELAPIKEY=\"...\" or add FINTELAPIKEY=... to .env at the repo root (preferred for…"
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/data-providers/skills/fintel-data/SKILL.md",
-        "sourceHash": "aca70480b2c4ecb9e3297804b08ed2f5e42847a1ae0df34a4db96a9f3c937880",
-        "extractedAt": 1791668613080
+        "sourceHash": "dcb856e10a2d99ea3bbf9c57bcc1c5581dae9b6cb3f8b38d772e3cab7ca84ec9",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157754,8 +157751,8 @@
           "Filter aggressively before showing — markets has 180 perps and mids 700 markets; cap to top 15-20 by the relevant sort unless the user asks for the full list."
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/data-providers/skills/hyperliquid-reader/SKILL.md",
-        "sourceHash": "429d8c311a72b11c5e456b7a535b120ce9f31d21a6c5c67c6b062c6f746f01db",
-        "extractedAt": 1791668613083
+        "sourceHash": "bae0faaa40c3c5f40f935f1298ae2209cc0504bab2b6580ddba10779cba71ad8",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157805,8 +157802,8 @@
           "Timeframes: 5m, 15m, 1h, 4h, 1D, 1W, 1M. Intraday scans on stock exchanges can be sparse — prefer 1D for equities."
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/data-providers/skills/tradingview-mcp/SKILL.md",
-        "sourceHash": "940c90063d15f26ff7150ca5175060b29b2ee6bade473934e970a79d5395e54e",
-        "extractedAt": 1791668613085
+        "sourceHash": "157deb5e7199f7c9930a15bd8800c978f7a24dab9ab72ea9375376423b9f206f",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157855,8 +157852,8 @@
           "For watchlists, summarize counts before listing symbols (e.g. \"3 watchlists: Earnings (24 syms), AI plays (12 syms), Hedges (8 syms)\"). Don't dump 100-symbol watchlist contents unless asked."
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/data-providers/skills/tradingview-reader/SKILL.md",
-        "sourceHash": "6a60c00a67f55c28bc54c9d0541d0299c72c53f98e9a52f3495015861988b71f",
-        "extractedAt": 1791668613086
+        "sourceHash": "6258335e38ad6b0a07b50aa1fbcf038c035bae9dbeff1c452eae0bc938b7610b",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157905,8 +157902,8 @@
           "Snapshot — sector, industry, market cap, current price, 3M / 12M price change, LTM revenue growth."
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/company-valuation/SKILL.md",
-        "sourceHash": "1400498965479ff2253747ddcfc22bf82a2ef709fbc02e30b6d38c464855675c",
-        "extractedAt": 1791668613087
+        "sourceHash": "bb3e65fe377541eec655da96a5d4417be8d01fcedd4319c49c52e52d5fffc5b2",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -157954,8 +157951,8 @@
           "What to watch — the few things the market will focus on in this print, chosen for this company and sector: revenue growth accelerating or decelerating, margins expanding or compressing, line items that moved sharply…"
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/earnings-preview/SKILL.md",
-        "sourceHash": "180fed962bf293b1e008d8ed8e657c37eca84e2ddd4c5b60dde66cfc8ce9acfb",
-        "extractedAt": 1791668613088
+        "sourceHash": "d8776e32aab42ef689d36a0deac3915c526465b31e7e577a54a703be8ff586e8",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -158003,8 +158000,8 @@
           "What changed — margin direction vs the prior quarter, any shift in the revenue growth trajectory, how this surprise compares with the company's usual pattern, and current analyst sentiment if available."
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/earnings-recap/SKILL.md",
-        "sourceHash": "6f1b9e05798beed8aed7996c28fde7b09455bbafb7063edfcde8c0365404fb3a",
-        "extractedAt": 1791668613089
+        "sourceHash": "203d09612f1e73a9a259e87235061cbde3a6c817d2561cdf8b1e39ccf86e8192",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -158053,8 +158050,8 @@
           "ticker = yf.Ticker(\"AAPL\") # replace with actual ticker"
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/estimate-analysis/SKILL.md",
-        "sourceHash": "5623ad80041a7c880896e8f1dd3f6c9b2a3f4952e6c4f65d729f2f75297a45cd",
-        "extractedAt": 1791668613090
+        "sourceHash": "dc7f091e7169fa15ca9941f8ff8b6c461f248ad00aec48a757e2b5ff0b5af842",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -158101,8 +158098,8 @@
           "Classify the user's request and jump to the matching section. If the user asks a general question about an ETF's premium or discount without specifying a particular analysis type, default to Sub-Skill A (Single ETF…"
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/etf-premium/SKILL.md",
-        "sourceHash": "08ef8457d52540946cfdd6abd6231c5052f9196ee067fe4230dcd1c8a291dbd4",
-        "extractedAt": 1791668613091
+        "sourceHash": "7730298b2476093ecc3ca1bf33412ac7a4153742f64b31810f0247668133cf02",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -158148,8 +158145,8 @@
           "One key insight (e.g., \"spot is currently 950 pts below the profit zone, expiring tomorrow\")"
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/options-payoff/SKILL.md",
-        "sourceHash": "9bbfdc9f6ea6c25269f9c71277ef9b4b8a465c4a00b30b0776104994b740f9e6",
-        "extractedAt": 1791668613092
+        "sourceHash": "2501e5c0bd1ada259554f3fa7bf03cde01cc57e488b601ab234941791426370c",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -158291,8 +158288,8 @@
           "After running the appropriate sub-skill, present results clearly:"
         ],
         "sourceUrl": "https://github.com/himself65/finance-skills/blob/HEAD/plugins/market-analysis/skills/stock-correlation/SKILL.md",
-        "sourceHash": "28811c4800188122151b2ce20d7e3e38cc94b78e12c297c4c59929db399d59bd",
-        "extractedAt": 1791668613094
+        "sourceHash": "1fc3ebf4751111dd95cb634df4f70f2c4b4ed217cd9d82fa8e8b8fa17a515f2c",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -335961,7 +335958,7 @@
       "howToUse": "Resolve mode:",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill to Upgrade Einstein Bots into Agentforce agents end-to-end in a single pass, orchestrating per-bot Agent Spec generation, planner reconciliation across bots, agentforce-generate authoring, and post-conversion .agent enhancements. TRIGGER when: user asks to migrate, upgrade, or convert one or more Einstein Bots (BotDefinition/BotVersion chatbots) to Agentforce agents; runs a…",
+        "summary": "Use this skill to upgrade Einstein Bots into Agentforce agents end-to-end in a single pass, orchestrating per-bot Agent Spec generation, agentforce-generate authoring, and post-conversion .agent enhancements. TRIGGER when: user asks to migrate, upgrade, or convert one or more Einstein Bots (BotDefinition/BotVersion chatbots) to Agentforce agents; runs a multi-bot bot-to-agent upgrade; needs…",
         "steps": [
           "Resolve mode:",
           "If --mode omitted, use online.",
@@ -335971,8 +335968,8 @@
           "only use artifacts produced during the current invocation flow"
         ],
         "sourceUrl": "https://github.com/forcedotcom/sf-skills/blob/HEAD/plugins/builder/agentforce-adlc/skills/agentforce-bot-upgrade/SKILL.md",
-        "sourceHash": "b61343069ba0a47dc8ae8c3b0efbdc594789ec483ab5546df03ba372b16a13fa",
-        "extractedAt": 1791668594514
+        "sourceHash": "7f9056c8bcaaba71c73fed26dec5bcb5a8506d3dae86b051a98d7f81c99a3335",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -336352,8 +336349,8 @@
           "Deploy-failure track — a promotion's deploy failed with an error message and the user wants to know why and how to fix it → Phase D below. If Phase D classifies the failure as a merge conflict, fall through to the…"
         ],
         "sourceUrl": "https://github.com/forcedotcom/sf-skills/blob/HEAD/plugins/builder/dx-devops/skills/dx-devops-conflict-resolve/SKILL.md",
-        "sourceHash": "24a75efa71b9ebb4ac4703275af80f9c36f8635cec5c2a36a17e677809cf1b92",
-        "extractedAt": 1791668594525
+        "sourceHash": "b1dde42c950f5d3d1e2d5afb93c906cfd931848ca6fd0384c2b1866f62ad6dbc",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -336397,8 +336394,8 @@
           "All operations use sf devops pipeline and sf devops stage CLI commands with --json output for structured consumption. Pipeline IDs and stage IDs are the primary identifiers — resolve them via list and get before…"
         ],
         "sourceUrl": "https://github.com/forcedotcom/sf-skills/blob/HEAD/plugins/builder/dx-devops/skills/dx-devops-pipeline-manage/SKILL.md",
-        "sourceHash": "ea10e3bc3e10e1cedde76b9cf209029cc3c706c1f1b4504d40b9fadae00e5c41",
-        "extractedAt": 1791668594526
+        "sourceHash": "52ed8e03f39c704ed32b1228c0b691b22393ead1c699caf9adfe04366792c5ba",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -336442,8 +336439,8 @@
           "All operations use sf devops project CLI commands with --json output for structured consumption."
         ],
         "sourceUrl": "https://github.com/forcedotcom/sf-skills/blob/HEAD/plugins/builder/dx-devops/skills/dx-devops-project-manage/SKILL.md",
-        "sourceHash": "f3af7470b80239b2917f33d2752d0737acba65224ff41a163fe2dd424ba349b6",
-        "extractedAt": 1791668594528
+        "sourceHash": "ca2145e9cedb1de64a39940878106d2e13c001f28245bd836d7c1c1f47d30438",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337128,11 +337125,12 @@
         "summary": "Track build processing, find latest builds, and clean up old builds with asc. Use when managing build retention or waiting on processing.",
         "trigger": "Track build processing, find latest builds, and clean up old builds with asc. Use when managing build retention or waiting on processing.",
         "steps": [
-          "asc builds info --build-id \"BUILDID\""
+          "asc builds info --build-id \"BUILDID\"",
+          "TestFlight state in one call: asc builds info --build-id \"BUILDID\" --include buildBetaDetail,betaAppReviewSubmission,betaGroups --output json. A build never submitted for beta review has no betaAppReviewSubmissions…"
         ],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-build-lifecycle/SKILL.md",
-        "sourceHash": "254f4f1c7d51616d8de46a46ba60a262983c869994c908c5102682016fb7d6dc",
-        "extractedAt": 1791668597778
+        "sourceHash": "9bc1cebd4cb084ba222bc83b3596f13bbdfa2d5ceb933ded66c909fa80da5ba3",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337177,8 +337175,8 @@
           "Use this skill when you need to run or design asc commands for App Store Connect."
         ],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-cli-usage/SKILL.md",
-        "sourceHash": "34f2c153af557052f51bb85a8503d9de4080b4b7d08c9383f836c4ee4b5d35f6",
-        "extractedAt": 1791668597778
+        "sourceHash": "3898741a21970abfc0d9c4b8fa8a270c48344088940320ae27fc407530bae284",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337221,12 +337219,12 @@
         "trigger": "Triage TestFlight crashes, beta feedback, and performance diagnostics using asc. Use when the user asks about TF crashes, TestFlight crash reports, beta tester feedback, app hangs, disk writes, launch diagnostics, or wants a crash summary for a build or app.",
         "steps": [
           "Resolve the app ID if not provided (use asc apps list).",
-          "Fetch data with the appropriate command.",
+          "Fetch data with the appropriate command, using --output json for responses that will be parsed. For performance download, --output is the destination file path.",
           "Parse JSON output and present a human-readable summary."
         ],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-crash-triage/SKILL.md",
-        "sourceHash": "3afc42be148548f93aceb411b595914ab5e945ec5407c9d63b848b681901430c",
-        "extractedAt": 1791668597779
+        "sourceHash": "b4a9e404fb4aa83b41c92239e34a9737d4d3d88cedf6f31b0b638212ec51173f",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337269,8 +337267,8 @@
         "trigger": "Resolve App Store Connect IDs (apps, builds, app and digital-goods versions, groups, testers) from human-friendly names using asc. Use when commands require IDs.",
         "steps": [],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-id-resolver/SKILL.md",
-        "sourceHash": "44c892e57e89c28448103e1294a190cfc48cc0b8f162bb34ec068ddad808ea60",
-        "extractedAt": 1791668597779
+        "sourceHash": "3d2e714a5e628889e5cb8b26eb118ce0a6e725010358343a5ad3ea6fd10c9c3f",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337355,15 +337353,15 @@
       "howToUse": "Sync, validate, and apply App Store metadata with the current asc canonical metadata workflow. Use when updating metadata, localizations, keywords, or migrating legacy fastlane metadata.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Sync, validate, and apply App Store metadata with the current asc canonical metadata workflow. Use when updating metadata, localizations, keywords, or migrating legacy fastlane metadata.",
-        "trigger": "Sync, validate, and apply App Store metadata with the current asc canonical metadata workflow. Use when updating metadata, localizations, keywords, or migrating legacy fastlane metadata.",
+        "summary": "Sync, validate, and apply App Store metadata and store assets with asc. Use when updating localizations, keywords, App Clip or preview assets, Asset Library media and placements, or migrating legacy fastlane metadata.",
+        "trigger": "Sync, validate, and apply App Store metadata and store assets with asc. Use when updating localizations, keywords, App Clip or preview assets, Asset Library media and placements, or migrating legacy fastlane metadata.",
         "steps": [
           "Use this when only the version-localization keywords field should change:",
           "For importing keyword research:"
         ],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-metadata-sync/SKILL.md",
-        "sourceHash": "1a4b5b2dfc42a6fa95541f5ceff3b1a484c3b4f02eef2f0693237fbd927d9e1a",
-        "extractedAt": 1791668597780
+        "sourceHash": "95a53c4d08691bdc272171544f1a4a9e5a997f6c5efd6712cd40d9db8625d5f9",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337456,8 +337454,8 @@
         "trigger": "Set territory-specific pricing for subscriptions and in-app purchases using current asc setup, pricing summary, price import, and price schedule commands. Use when adjusting prices by country or implementing localized PPP strategies.",
         "steps": [],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-ppp-pricing/SKILL.md",
-        "sourceHash": "1f27077369ea6fd5564f415befea7272ef4ac70ae3677f9b7fc69ade9c28e359",
-        "extractedAt": 1791668597780
+        "sourceHash": "c2a1202d0d3947d26b53280cc4d7f7fb76615d632c5226f835582bb178583cb3",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337500,8 +337498,8 @@
         "trigger": "Orchestrate App Store releases with asc, including staging a version, uploading or building an artifact, publishing, and submitting for review. Use when the user wants to prepare or execute a release. Keep Game Center item preparation in this skill; route other readiness failures, stuck submissions, cancellation, and retry decisions to asc-submission-health.",
         "steps": [],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-release-flow/SKILL.md",
-        "sourceHash": "0d8132e6cc1828aa5a2d0e10795a11951b9c913cebf68a4f37d91801abd04b97",
-        "extractedAt": 1791668597781
+        "sourceHash": "3f1de3ab7625c6cd63a9c5703312ea9921e197cbc730aeea3bb5ec8c1be7d53c",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -337551,8 +337549,8 @@
           "mcpRClistpackages"
         ],
         "sourceUrl": "https://github.com/rorkai/app-store-connect-cli-skills/blob/HEAD/skills/asc-revenuecat-catalog-sync/SKILL.md",
-        "sourceHash": "45364bcd0c3147b983944143106d23c7688ddf42e8253f8de32c69f4d8e53fbc",
-        "extractedAt": 1791668597781
+        "sourceHash": "8bda9bea088dbf87fe7ce787405bf8f6f986784f79268824e111d0b3b974c30e",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -339801,12 +339799,12 @@
       "howToUse": "Use when the user mentions wallet connect/sign in/sign out, check balance, send/transfer tokens, swap/buy/sell tokens, DEX trade, limit/market order, cancel order, get a quote, transaction history, wallet settings, daily limit, slippage, MEV protection, supported chains, prediction market, place prediction, redeem winnings, prediction PnL, x402 payment, HTTP 402 Payment Required,…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use when the user mentions wallet connect/sign in/sign out, check balance, send/transfer tokens, swap/buy/sell tokens, DEX trade, limit/market order, cancel order, get a quote, transaction history, wallet settings, daily limit, slippage, MEV protection, supported chains, prediction market, place prediction, redeem winnings, prediction PnL, x402 payment, HTTP 402 Payment Required,…",
-        "trigger": "Use when the user mentions wallet connect/sign in/sign out, check balance, send/transfer tokens, swap/buy/sell tokens, DEX trade, limit/market order, cancel order, get a quote, transaction history, wallet settings, daily limit, slippage, MEV protection, supported chains, prediction market, place prediction, redeem winnings, prediction PnL, x402 payment, HTTP 402 Payment Required,…",
+        "summary": "Use when the user mentions wallet connect/sign in/sign out, check balance, send/transfer tokens, swap/buy/sell tokens, DEX trade, limit/market order, cancel order, get a quote, transaction history, wallet settings, daily limit, slippage, MEV protection, supported chains, send to ENS domain, send to .eth or .bnb name, resolve domain name to address, domain-based transfer, send to .ai Agent ID…",
+        "trigger": "Use when the user mentions wallet connect/sign in/sign out, check balance, send/transfer tokens, swap/buy/sell tokens, DEX trade, limit/market order, cancel order, get a quote, transaction history, wallet settings, daily limit, slippage, MEV protection, supported chains, send to ENS domain, send to .eth or .bnb name, resolve domain name to address, domain-based transfer, send to .ai Agent ID…",
         "steps": [],
         "sourceUrl": "https://github.com/binance/binance-skills-hub/blob/HEAD/skills/binance-web3/binance-agentic-wallet/SKILL.md",
-        "sourceHash": "49be13d839703bf6b1565fa2ea487f40836cd490127753e801e9764bcc7fd746",
-        "extractedAt": 1791668596438
+        "sourceHash": "9f72211e70232f16316557fa0c3161ca0f4d29f70e50c04d6e6638bf5c4dec85",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -340161,11 +340159,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Live launchpad feed + AI hot topics for meme tokens. (1) meme-rush: real-time lifecycle feed on launchpads (Pump.fun, Four.meme) — brand-new launches, currently-finalizing / bonding-curve tokens, and just-migrated-to-DEX tokens; filter by dev behavior, age, market cap. (2) topic-rush: AI-detected hot market narratives with the associated tokens ranked by inflow. Use for: \"new pump.fun launches\",…",
+        "summary": "Live launchpad feed + AI hot topics for meme tokens. (1) meme-rush: real-time lifecycle feed on launchpads across Solana, BSC and Base (Pump.fun, Four.meme, Flap, ...) — brand-new launches, currently-finalizing / bonding-curve tokens, and just-migrated-to-DEX tokens; filter by dev behavior, age, market cap, and launchpad sub-type (e.g. Open Four Agent ID exclusive launches — anyone can launch; on…",
         "steps": [],
         "sourceUrl": "https://github.com/binance/binance-skills-hub/blob/HEAD/skills/binance-web3/meme-rush/SKILL.md",
-        "sourceHash": "7ed6756fe1bbcf144b95de156e376a80458cef1089cca0741926c8bd566b688c",
-        "extractedAt": 1791668596445
+        "sourceHash": "4e3b3522fa4988f1666b2a86dfa7f7b41a819a8aa26028efdf1faadc5cc5b596",
+        "extractedAt": 1794294985988
       },
       "compatibleAgents": [],
       "isBundle": false,
