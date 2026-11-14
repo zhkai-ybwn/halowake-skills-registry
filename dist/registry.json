@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1794637209827,
+  "updatedAt": 1794694981357,
   "description": "Halowake Skills Registry: curated skills and community source pointers",
   "skills": [
     {
@@ -18,13 +18,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/brainstorming",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -40,7 +40,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/brainstorming/SKILL.md",
         "sourceHash": "2c9ca71f94886f9ca9f4aef055f7cafb3e1a9bdf3aeebf8f4cb547c69405d207",
-        "extractedAt": 1794637222680
+        "extractedAt": 1794694993943
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -61,13 +61,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/diagnosing-superpowers",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -91,7 +91,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/diagnosing-superpowers/SKILL.md",
         "sourceHash": "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
-        "extractedAt": 1794637222681
+        "extractedAt": 1794694993944
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -112,13 +112,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/dispatching-parallel-agents",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -135,7 +135,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/dispatching-parallel-agents/SKILL.md",
         "sourceHash": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
-        "extractedAt": 1794637222682
+        "extractedAt": 1794694993944
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -156,13 +156,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/executing-plans",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -183,7 +183,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/executing-plans/SKILL.md",
         "sourceHash": "deaf176fa179827e80f2ea3101db3ea90fdf562ebef340eba761e4687940f5f5",
-        "extractedAt": 1794637222683
+        "extractedAt": 1794694993945
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -204,13 +204,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/finishing-a-development-branch",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -234,7 +234,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/finishing-a-development-branch/SKILL.md",
         "sourceHash": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
-        "extractedAt": 1794637222684
+        "extractedAt": 1794694993945
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -255,13 +255,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/receiving-code-review",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -279,7 +279,7 @@
         "example": "Reviewer: \"Remove legacy code\" ❌ \"You're absolutely right! Let me remove that...\"",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/receiving-code-review/SKILL.md",
         "sourceHash": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
-        "extractedAt": 1794637222684
+        "extractedAt": 1794694993946
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -300,13 +300,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/requesting-code-review",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -324,7 +324,7 @@
         "example": "[Just completed Task 2: Add verification function] You: Let me request code review before proceeding. BASESHA=$(git log --oneline | grep \"Task 1\" | head -1 | cut -d' ' -f1) HEADSHA=$(git rev-parse HEAD) [Dispatch code reviewer subagent] DESCRIPTION: Added verifyIndex() and repairIndex() with 4 issue types PLANORREQUIREMENTS: Task 2 from docs/superpowers/plans/deployment-plan.md BASESHA: a7981ec HEADSHA: 3df7661 [Subagent returns]: Strengths: Clean architecture, real tests Issues: Important: Missing progress indicators Minor: Magic number (100) for reporting interval Assessment: Ready to proceed You: [Fix progress indicators] [Continue to Task 3]",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/requesting-code-review/SKILL.md",
         "sourceHash": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
-        "extractedAt": 1794637222685
+        "extractedAt": 1794694993946
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345,13 +345,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/subagent-driven-development",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -368,7 +368,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/subagent-driven-development/SKILL.md",
         "sourceHash": "1baf70e307bde682c462513c86116333f1f066168c6710f45145bf5f0b00828d",
-        "extractedAt": 1794637222685
+        "extractedAt": 1794694993946
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -388,13 +388,13 @@
         "avatar": "https://github.com/obra.png"
       },
       "gitUrl": "https://github.com/obra/superpowers",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -546,13 +546,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/systematic-debugging",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -576,7 +576,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/systematic-debugging/SKILL.md",
         "sourceHash": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
-        "extractedAt": 1794637222686
+        "extractedAt": 1794694993946
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -597,13 +597,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/test-driven-development",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -621,7 +621,7 @@
         "example": "test('rejects empty email', async () => { const result = await submitForm({ email: '' }); expect(result.error).toBe('Email required'); });",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/test-driven-development/SKILL.md",
         "sourceHash": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
-        "extractedAt": 1794637222686
+        "extractedAt": 1794694993947
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -642,13 +642,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/using-git-worktrees",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -671,7 +671,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/using-git-worktrees/SKILL.md",
         "sourceHash": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
-        "extractedAt": 1794637222687
+        "extractedAt": 1794694993947
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -692,13 +692,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/using-superpowers",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -717,7 +717,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/using-superpowers/SKILL.md",
         "sourceHash": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
-        "extractedAt": 1794637222687
+        "extractedAt": 1794694993947
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -738,13 +738,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/verification-before-completion",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -761,7 +761,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/verification-before-completion/SKILL.md",
         "sourceHash": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
-        "extractedAt": 1794637222687
+        "extractedAt": 1794694993947
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -782,13 +782,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/writing-plans",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -812,7 +812,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/writing-plans/SKILL.md",
         "sourceHash": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
-        "extractedAt": 1794637222693
+        "extractedAt": 1794694993948
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -833,13 +833,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/writing-skills",
-      "stars": 317318,
+      "stars": 317620,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 317318,
-        "forks": 28255,
-        "lastCommitDaysAgo": 10,
+        "githubStars": 317620,
+        "forks": 28284,
+        "lastCommitDaysAgo": 11,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -864,7 +864,7 @@
         "example": "One excellent example beats many mediocre ones",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/writing-skills/SKILL.md",
         "sourceHash": "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
-        "extractedAt": 1794637222693
+        "extractedAt": 1794694993948
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -885,13 +885,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/academy-guide",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -907,7 +907,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/academy-guide/SKILL.md",
         "sourceHash": "f27992510c051355dfe68c92394d509af730da5298094ec86834ee40bbd31376",
-        "extractedAt": 1794637221112
+        "extractedAt": 1794694993034
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -928,13 +928,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/algorithmic-art",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -958,7 +958,7 @@
         "example": "\"Organic Turbulence\" Philosophy: Chaos constrained by natural law, order emerging from disorder. Algorithmic expression: Flow fields driven by layered Perlin noise. Thousands of particles following vector forces, their trails accumulating into organic density maps. Multiple noise octaves create turbulent regions and…",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/algorithmic-art/SKILL.md",
         "sourceHash": "3bc4092c09804853186524c826bc0621b940bb6122c05b84496dff95388e6eef",
-        "extractedAt": 1794637221116
+        "extractedAt": 1794694993037
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -979,13 +979,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/brand-guidelines",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1001,7 +1001,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/brand-guidelines/SKILL.md",
         "sourceHash": "1120b3769e2985cefb3d25be981b1f914abeba57ae079b83c20c666c164fa9fe",
-        "extractedAt": 1794637221118
+        "extractedAt": 1794694993038
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1022,13 +1022,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/canvas-design",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1049,7 +1049,7 @@
         "example": "\"Concrete Poetry\" Philosophy: Communication through monumental form and bold geometry. Visual expression: Massive color blocks, sculptural typography (huge single words, tiny labels), Brutalist spatial divisions, Polish poster energy meets Le Corbusier. Ideas expressed through visual weight and spatial tension, not…",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/canvas-design/SKILL.md",
         "sourceHash": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b",
-        "extractedAt": 1794637221119
+        "extractedAt": 1794694993039
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1070,13 +1070,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/claude-api",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1094,7 +1094,7 @@
         "example": "Prefix match. Any byte change anywhere in the prefix invalidates everything after it. Render order is tools -> system -> messages. Keep stable content first (frozen system prompt, deterministic tool list), put volatile content (timestamps, per-request IDs, varying questions) after the last cachecontrol breakpoint.",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/claude-api/SKILL.md",
         "sourceHash": "40537cca17c4aa86e4ce83ced39efcbfb1204905e3cf4c4ff98f2eab011e4b7f",
-        "extractedAt": 1794637221121
+        "extractedAt": 1794694993040
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1115,13 +1115,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/discernment-nudge",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1138,7 +1138,7 @@
         "example": "The nudge is two or three follow-up questions the user could send back to you, each one referencing something concrete from the answer you just gave — a number, a named step, an assumption. Generic prompts (\"Can you verify those facts?\") defeat the purpose; the value is in the specificity.",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/discernment-nudge/SKILL.md",
         "sourceHash": "9191177c4a8ef11a20dace786d708506b22d43e748c71287bb823de0dc812dad",
-        "extractedAt": 1794637221123
+        "extractedAt": 1794694993041
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1159,13 +1159,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/doc-coauthoring",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1189,7 +1189,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/doc-coauthoring/SKILL.md",
         "sourceHash": "2e47d78846faeea4a56e9809c52700087a15a2155a3f293a3efbaded81398ef4",
-        "extractedAt": 1794637221123
+        "extractedAt": 1794694993041
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1210,13 +1210,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/docx",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1232,8 +1232,8 @@
         "trigger": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', '.dotx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from…",
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/docx/SKILL.md",
-        "sourceHash": "9e8202e2524a9ed87da67a5b3eaa76e8e6038f4171f8251ad6aaefd34e82a3df",
-        "extractedAt": 1794637221125
+        "sourceHash": "e094096faf2861e4dbed2dd4ba1960dbc1a137f8a71403b22bf1e4df41b31051",
+        "extractedAt": 1794694993042
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1254,13 +1254,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/frontend-design",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1283,7 +1283,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md",
         "sourceHash": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
-        "extractedAt": 1794637221125
+        "extractedAt": 1794694993042
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1304,13 +1304,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/internal-comms",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1334,7 +1334,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/internal-comms/SKILL.md",
         "sourceHash": "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475",
-        "extractedAt": 1794637221126
+        "extractedAt": 1794694993043
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1355,13 +1355,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/mcp-builder",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1380,7 +1380,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/mcp-builder/SKILL.md",
         "sourceHash": "b483b56d6673134497e45489c317f26ae0f1429c194db0297e43073e17e6748c",
-        "extractedAt": 1794637221126
+        "extractedAt": 1794694993043
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1401,13 +1401,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/pdf",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1428,7 +1428,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/pdf/SKILL.md",
         "sourceHash": "d1c7caf5f35eb7d37877dd7fc33a095037be2b34fb5d2f7f4d43bde3165bb4ee",
-        "extractedAt": 1794637221127
+        "extractedAt": 1794694993044
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1449,13 +1449,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/pptx",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1470,8 +1470,8 @@
         "summary": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx or .potx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting…",
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/pptx/SKILL.md",
-        "sourceHash": "b60bd282c6e01297f0eefe71594d1756dbf60a584f524c04a803ec6950b7fba2",
-        "extractedAt": 1794637221127
+        "sourceHash": "1b54d26d78bcb35e3c6a2c723615c4a33c29732de2e5b29c9ecf10b34fb1a2e5",
+        "extractedAt": 1794694993044
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1492,13 +1492,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/skill-creator",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1522,7 +1522,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/skill-creator/SKILL.md",
         "sourceHash": "dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf",
-        "extractedAt": 1794637221128
+        "extractedAt": 1794694993045
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1542,13 +1542,13 @@
         "avatar": "https://github.com/anthropics.png"
       },
       "gitUrl": "https://github.com/anthropics/skills",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1732,13 +1732,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/slack-gif-creator",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1757,7 +1757,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/slack-gif-creator/SKILL.md",
         "sourceHash": "2efca615ce55a3edd8fc05c779068a8085816617991987e446606403cd3abb22",
-        "extractedAt": 1794637221129
+        "extractedAt": 1794694993045
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1778,13 +1778,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/theme-factory",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1807,7 +1807,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/theme-factory/SKILL.md",
         "sourceHash": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552",
-        "extractedAt": 1794637221129
+        "extractedAt": 1794694993046
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1828,13 +1828,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/web-artifacts-builder",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1857,7 +1857,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/web-artifacts-builder/SKILL.md",
         "sourceHash": "81c5002c6643b0de7b8710b00e7a9038daa6fb9b68d59870ee6adb12da8d10f8",
-        "extractedAt": 1794637221130
+        "extractedAt": 1794694993046
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1878,13 +1878,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/webapp-testing",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1901,7 +1901,7 @@
         "example": "python scripts/withserver.py --server \"npm run dev\" --port 5173 -- python yourautomation.py",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/webapp-testing/SKILL.md",
         "sourceHash": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2",
-        "extractedAt": 1794637221130
+        "extractedAt": 1794694993046
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1922,13 +1922,13 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/xlsx",
-      "stars": 194229,
+      "stars": 194592,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 194229,
-        "forks": 22850,
-        "lastCommitDaysAgo": 7,
+        "githubStars": 194592,
+        "forks": 22896,
+        "lastCommitDaysAgo": 0,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -1943,8 +1943,8 @@
         "summary": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger…",
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/xlsx/SKILL.md",
-        "sourceHash": "caa1e1c29cf974c8d874bf3d0a70838445e7342b570f856ddb3e4a21ef7c7e8b",
-        "extractedAt": 1794637221131
+        "sourceHash": "f32b1c2b5d5d31e02964df110d6489613d9345f86830c118cfe24159d8448ce6",
+        "extractedAt": 1794694993047
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -289207,6 +289207,685 @@
       "sourceId": "openraiser-nanoresearch"
     },
     {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-blueprint-figure",
+      "name": "blueprint-figure",
+      "titleZh": "blueprint-figure",
+      "description": "为从零开始学 AI 工程课程、README 和手册绘制静态 SVG 图。 使用纸张面板、蓝图强调色、九种图形、固定语义色、八种箭头，并检查可读性与标记。 触发短语：“画一张图”“蓝图风格图”“时序图”“状态机图”“本课图表”“给手册加图”。\n",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/blueprint-figure",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "svg",
+        "figures",
+        "diagrams",
+        "accessibility",
+        "documentation"
+      ],
+      "recommendedWith": [],
+      "howToUse": "课程、README 或手册需要解释系统部件如何通信、存储数据或改变状态。；已有运行记录、日志、规范或源代码，可取得真实名称。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "为从零开始学 AI 工程课程、README 和手册绘制静态 SVG 图。 使用纸张面板、蓝图强调色、九种图形、固定语义色、八种箭头，并检查可读性与标记。 触发短语：“画一张图”“蓝图风格图”“时序图”“状态机图”“本课图表”“给手册加图”。",
+        "trigger": "课程、README 或手册需要解释系统部件如何通信、存储数据或改变状态。；已有运行记录、日志、规范或源代码，可取得真实名称。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/blueprint-figure/SKILL.md",
+        "sourceHash": "6ef3599787b23dddc8c2e0af73867eed7a6db9b9c2bcd6a48c937af1c139658f",
+        "extractedAt": 1794694996936
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-build-project",
+      "name": "build-project",
+      "titleZh": "build-project",
+      "description": "从零开始学 AI 工程实战项目导师。每次会话指导一个真实项目阶段：阅读阶段课程、 预测、写代码、运行阶段评分器、反思，并将进度记录到 PROJECTS-LEARNING.md。 给提示，不直接给完整解答。触发短语：“做一个项目”“下一项目阶段”“继续我的项目” “开始研究报告 agent”。\n",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/build-project",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "tutor",
+        "projects",
+        "hands-on",
+        "ai-engineering"
+      ],
+      "recommendedWith": [],
+      "howToUse": "从零开始学 AI 工程实战项目导师。每次会话指导一个真实项目阶段：阅读阶段课程、 预测、写代码、运行阶段评分器、反思，并将进度记录到 PROJECTS-LEARNING.md。 给提示，不直接给完整解答。触发短语：“做一个项目”“下一项目阶段”“继续我的项目” “开始研究报告 agent”。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "从零开始学 AI 工程实战项目导师。每次会话指导一个真实项目阶段：阅读阶段课程、 预测、写代码、运行阶段评分器、反思，并将进度记录到 PROJECTS-LEARNING.md。 给提示，不直接给完整解答。触发短语：“做一个项目”“下一项目阶段”“继续我的项目” “开始研究报告 agent”。",
+        "trigger": "从零开始学 AI 工程实战项目导师。每次会话指导一个真实项目阶段：阅读阶段课程、 预测、写代码、运行阶段评分器、反思，并将进度记录到 PROJECTS-LEARNING.md。 给提示，不直接给完整解答。触发短语：“做一个项目”“下一项目阶段”“继续我的项目” “开始研究报告 agent”。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/build-project/SKILL.md",
+        "sourceHash": "19df480ecde0b63727ebf60bf7c3e96710022f068db1d710a3ff448165fb555a",
+        "extractedAt": 1794694996937
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-check-understanding",
+      "name": "check-understanding",
+      "titleZh": "check-understanding",
+      "description": "AI Engineering from Scratch 的阶段测验。用于“给我测验一下”、“测试阶段”、“检查我的理解”、“我掌握第 3 阶段了吗”，也支持 \"quiz me\", \"test phase\", \"check my understanding\", \"do I know phase 3\" 或 `/check-understanding <phase>`。",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/check-understanding",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "当用户说出类似下面的话时启用此 skill：；/check-understanding 3 或 /check-understanding deep-learning",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 的阶段测验。用于“给我测验一下”、“测试阶段”、“检查我的理解”、“我掌握第 3 阶段了吗”，也支持 \"quiz me\", \"test phase\", \"check my understanding\", \"do I know phase 3\" 或 /check-understanding 。",
+        "trigger": "当用户说出类似下面的话时启用此 skill：；/check-understanding 3 或 /check-understanding deep-learning",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/check-understanding/SKILL.md",
+        "sourceHash": "bc409ce44acaf72b1ade507c5658a90b092090c58771c9038ccb5aef098bde1a",
+        "extractedAt": 1794694996937
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-claude-certification",
+      "name": "claude-certification",
+      "titleZh": "claude-certification",
+      "description": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。\n",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/claude-certification",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。",
+        "trigger": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/claude-certification/SKILL.md",
+        "sourceHash": "07f68aa1d5d823052b2d02dbf7243ca8fa89f99f113f2cf056a0c1dc49d75123",
+        "extractedAt": 1794694996938
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-course-guide",
+      "name": "course-guide",
+      "titleZh": "course-guide",
+      "description": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"\n",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/course-guide",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "navigation",
+        "curriculum",
+        "ai-engineering",
+        "router"
+      ],
+      "recommendedWith": [],
+      "howToUse": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"",
+        "trigger": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/course-guide/SKILL.md",
+        "sourceHash": "da41dae6348991be766cafba72c5cadcc2faea5d08bb012fafcbd6a31b21a7ca",
+        "extractedAt": 1794694996938
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-course-style",
+      "name": "course-style",
+      "titleZh": "course-style",
+      "description": "从零开始学 AI 工程页面、图表与手册共用的视觉和写作参考。 用于明暗主题颜色 token、字体栈、FIG_ 标签、卡片布局、清晰的技术写作规则， 以及无障碍和减少动态效果默认值。触发短语：“课程风格”“蓝图配色”“课程 token” “FIG 标签”“检查技术文案”“课程字体”“深色主题 token”。\n",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/course-style",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "design-system",
+        "tokens",
+        "typography",
+        "writing",
+        "accessibility"
+      ],
+      "recommendedWith": [],
+      "howToUse": "从零开始学 AI 工程页面、图表与手册共用的视觉和写作参考。 用于明暗主题颜色 token、字体栈、FIG 标签、卡片布局、清晰的技术写作规则， 以及无障碍和减少动态效果默认值。触发短语：“课程风格”“蓝图配色”“课程 token” “FIG 标签”“检查技术文案”“课程字体”“深色主题 token”。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "从零开始学 AI 工程页面、图表与手册共用的视觉和写作参考。 用于明暗主题颜色 token、字体栈、FIG 标签、卡片布局、清晰的技术写作规则， 以及无障碍和减少动态效果默认值。触发短语：“课程风格”“蓝图配色”“课程 token” “FIG 标签”“检查技术文案”“课程字体”“深色主题 token”。",
+        "trigger": "从零开始学 AI 工程页面、图表与手册共用的视觉和写作参考。 用于明暗主题颜色 token、字体栈、FIG 标签、卡片布局、清晰的技术写作规则， 以及无障碍和减少动态效果默认值。触发短语：“课程风格”“蓝图配色”“课程 token” “FIG 标签”“检查技术文案”“课程字体”“深色主题 token”。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/course-style/SKILL.md",
+        "sourceHash": "9f81d85fd3651b320101a03a3e0a87725dcf5171b0e4460277c76e764137857b",
+        "extractedAt": 1794694996938
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-find-your-level",
+      "name": "find-your-level",
+      "titleZh": "find-your-level",
+      "description": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"\n",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/find-your-level",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "assessment",
+        "onboarding",
+        "curriculum",
+        "ai-engineering"
+      ],
+      "recommendedWith": [],
+      "howToUse": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"",
+        "trigger": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/find-your-level/SKILL.md",
+        "sourceHash": "dc74b800517357387f86a9c90550edeec873e1cb8b6cd74be8b54d4c925d6ed1",
+        "extractedAt": 1794694996938
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-interview-prep",
+      "name": "interview-prep",
+      "titleZh": "interview-prep",
+      "description": "Mock interview coach for AI engineering roles, built on the interview bank of AI Engineering from Scratch. Asks one question or one incident scenario, stops, and waits for the learner's own answer. Then it grades the answer against the bank, asks follow-ups one at a time, sends each gap to the lessons and manual sections that teach it, and keeps an append-only record in INTERVIEW-LEARNING.md. Trigger phrases: \"interview prep\", \"mock interview\", \"ask me an interview question\", \"practise for my AI engineering interview\", \"run an incident scenario\", \"debugging round\", \"system design round\", \"inference engineer loop\", \"review my interview gaps\", \"how ready am I for the interview\"\n",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/interview-prep",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "interview",
+        "tutor",
+        "ai-engineering",
+        "mock-interview"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Mock interview coach for AI engineering roles, built on the interview bank of AI Engineering from Scratch. Asks one question or one incident scenario, stops, and waits for the learner's own answer. Then it grades the answer against the bank, asks follow-ups one at a time, sends each gap to the lessons and manual sections that teach it, and keeps an append-only record in INTERVIEW-LEARNING.md.…",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/interview-prep/SKILL.md",
+        "sourceHash": "7bc6312d6ed318d65dc950c7d456fedb8d9f868eb837e6e2f45ba17c809aea58",
+        "extractedAt": 1794694996939
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-isometric-explainer",
+      "name": "isometric-explainer",
+      "titleZh": "isometric-explainer",
+      "description": "构建交互式等距机器页面，机器每个工位对应流程一步。 纯函数且经过测试的状态模型驱动运动、读数与文案，页面提供控件和验证循环。 触发短语：“等距讲解”“机器讲解”“用机器解释”“等距交互图”“可探索讲解”“展示内部工作方式”。\n",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/isometric-explainer",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "isometric",
+        "svg",
+        "interactive",
+        "explainer",
+        "simulation"
+      ],
+      "recommendedWith": [],
+      "howToUse": "概念是带工位、顺序和失败模式的流程，例如循环、流水线、缓存、队列、重试策略。；读者能禁用一个部件并观察故障。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "构建交互式等距机器页面，机器每个工位对应流程一步。 纯函数且经过测试的状态模型驱动运动、读数与文案，页面提供控件和验证循环。 触发短语：“等距讲解”“机器讲解”“用机器解释”“等距交互图”“可探索讲解”“展示内部工作方式”。",
+        "trigger": "概念是带工位、顺序和失败模式的流程，例如循环、流水线、缓存、队列、重试策略。；读者能禁用一个部件并观察故障。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/isometric-explainer/SKILL.md",
+        "sourceHash": "ff617a13b814d7f136d78f4c647e1823dd6bd3519d5210d1fd20458550767102",
+        "extractedAt": 1794694996939
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn",
+      "name": "learn",
+      "titleZh": "learn",
+      "description": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"\n",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/learn",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "tutor",
+        "curriculum",
+        "ai-engineering",
+        "interactive-learning"
+      ],
+      "recommendedWith": [],
+      "howToUse": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"",
+        "trigger": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn/SKILL.md",
+        "sourceHash": "d06961a9c442295b6bcf0220724711a586086d58e32ae30a1a894b9cdc05d638",
+        "extractedAt": 1794694996940
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn-agent-skills",
+      "name": "learn-agent-skills",
+      "titleZh": "learn-agent-skills",
+      "description": "AI Engineering from Scratch 中 Agent Skills Engineering 路线的专注交互 tutor。 学习者想创建、发现、调用、保护、评估、打包或迁移 Agent Skills 时，开始或续学此路线。 每次调用教学一课，并将证据记录在 AGENT-SKILLS-LEARNING.md。 Start or resume this route when a learner wants to create, discover, invoke, secure, evaluate, package, or port Agent Skills.\n",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/learn-agent-skills",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 中 Agent Skills Engineering 路线的专注交互 tutor。 学习者想创建、发现、调用、保护、评估、打包或迁移 Agent Skills 时，开始或续学此路线。 每次调用教学一课，并将证据记录在 AGENT-SKILLS-LEARNING.md。 Start or resume this route when a learner wants to create, discover, invoke, secure, evaluate, package, or port Agent Skills.",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn-agent-skills/SKILL.md",
+        "sourceHash": "a4b6abc2ac85761925a6e05b660e11480938522f911150be7efb6e915d499bc5",
+        "extractedAt": 1794694996939
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn-mcp",
+      "name": "learn-mcp",
+      "titleZh": "learn-mcp",
+      "description": "AI Engineering from Scratch 中 Model Context Protocol (MCP) 路线的专注交互 tutor。 学习者想构建、保护、调试、验证或运行 MCP clients、servers、transports、gateways、 registries 或 conformance gates 时，开始或续学此路线。每次调用教学一课，并将 wire evidence 记录到 MCP-LEARNING.md。Start or resume this route when a learner wants to build, secure, debug, verify, or operate MCP clients, servers, transports, gateways, registries, or conformance gates.\n",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/learn-mcp",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 中 Model Context Protocol (MCP) 路线的专注交互 tutor。 学习者想构建、保护、调试、验证或运行 MCP clients、servers、transports、gateways、 registries 或 conformance gates 时，开始或续学此路线。每次调用教学一课，并将 wire evidence 记录到 MCP-LEARNING.md。Start or resume this route when a learner wants to build, secure, debug, verify, or operate MCP clients, servers, transports, gateways, registries, or conformance gates.",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn-mcp/SKILL.md",
+        "sourceHash": "e62f699fd94d04fa0002729c6f18cabc2973138a23f3c4b1369ef9c6f187e6df",
+        "extractedAt": 1794694996940
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn-reverse-engineering",
+      "name": "learn-reverse-engineering",
+      "titleZh": "learn-reverse-engineering",
+      "description": "从零开始学 AI 工程中逆向工程专项路径的交互导师。学习者希望读取编译后的程序时， 用于开始或继续文件格式、反汇编、控制流、表示提升、证据、等价证明、调用约定、 编译器惯用模式、链接、类型、调试、字节码、差分、符号执行和 AI 辅助分析。 每次调用讲授一课，并将证据记录到 REVERSE-ENGINEERING-LEARNING.md。\n",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/learn-reverse-engineering",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "从零开始学 AI 工程中逆向工程专项路径的交互导师。学习者希望读取编译后的程序时， 用于开始或继续文件格式、反汇编、控制流、表示提升、证据、等价证明、调用约定、 编译器惯用模式、链接、类型、调试、字节码、差分、符号执行和 AI 辅助分析。 每次调用讲授一课，并将证据记录到 REVERSE-ENGINEERING-LEARNING.md。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn-reverse-engineering/SKILL.md",
+        "sourceHash": "c4c23547f4e64d5c42af932e6554eaa8680c2c5222c5ea5f828b82845b2d3530",
+        "extractedAt": 1794694996940
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-lesson-screen",
+      "name": "lesson-screen",
+      "titleZh": "lesson-screen",
+      "description": "课程导师在终端教学时，在旁边打开浏览器学习屏幕。展示课程已注册的图表、带真实数值的 代码执行过程和可点击的预测题。也可结合课程与宿主已安装的图表技能，为当前课程制作 蓝图、机制图、等距机器或 3D 模型。点击以事件形式返回导师。 触发短语：“打开学习屏幕”、“用图展示”、“用 3D 展示”、“画出架构”、“为这节课制作图表”， 或 \"open the lesson screen\", \"show me this visually\", \"show this in 3D\", \"draw the architecture\", \"visualize this lesson\", \"build a figure for this lesson\", \"lesson screen\"。\n",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/lesson-screen",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "tutor",
+        "visual",
+        "figures",
+        "3d",
+        "blueprint",
+        "interactive-learning"
+      ],
+      "recommendedWith": [],
+      "howToUse": "课程导师在终端教学时，在旁边打开浏览器学习屏幕。展示课程已注册的图表、带真实数值的 代码执行过程和可点击的预测题。也可结合课程与宿主已安装的图表技能，为当前课程制作 蓝图、机制图、等距机器或 3D 模型。点击以事件形式返回导师。 触发短语：“打开学习屏幕”、“用图展示”、“用 3D 展示”、“画出架构”、“为这节课制作图表”， 或 \"open the lesson screen\", \"show me this visually\", \"show this in 3D\", \"draw the architecture\", \"visualize this lesson\", \"build a figure for this lesson\", \"lesson screen\"。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "课程导师在终端教学时，在旁边打开浏览器学习屏幕。展示课程已注册的图表、带真实数值的 代码执行过程和可点击的预测题。也可结合课程与宿主已安装的图表技能，为当前课程制作 蓝图、机制图、等距机器或 3D 模型。点击以事件形式返回导师。 触发短语：“打开学习屏幕”、“用图展示”、“用 3D 展示”、“画出架构”、“为这节课制作图表”， 或 \"open the lesson screen\", \"show me this visually\", \"show this in 3D\", \"draw the architecture\", \"visualize this lesson\", \"build a figure for this lesson\", \"lesson screen\"。",
+        "trigger": "课程导师在终端教学时，在旁边打开浏览器学习屏幕。展示课程已注册的图表、带真实数值的 代码执行过程和可点击的预测题。也可结合课程与宿主已安装的图表技能，为当前课程制作 蓝图、机制图、等距机器或 3D 模型。点击以事件形式返回导师。 触发短语：“打开学习屏幕”、“用图展示”、“用 3D 展示”、“画出架构”、“为这节课制作图表”， 或 \"open the lesson screen\", \"show me this visually\", \"show this in 3D\", \"draw the architecture\", \"visualize this lesson\", \"build a figure for this lesson\", \"lesson screen\"。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/lesson-screen/SKILL.md",
+        "sourceHash": "cf3c3f764582421038fecf69daffc27da6ff6adaa37902f918c94c8d52606102",
+        "extractedAt": 1794694996940
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
+      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-mcpa-certification",
+      "name": "mcpa-certification",
+      "titleZh": "mcpa-certification",
+      "description": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。\n",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "fancyboi999",
+        "url": "https://github.com/fancyboi999",
+        "verified": false,
+        "avatar": "https://github.com/fancyboi999.png"
+      },
+      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
+      "subPath": ".claude/skills/mcpa-certification",
+      "stars": 1340,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1340,
+        "forks": 195,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。",
+        "trigger": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。",
+        "steps": [],
+        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/mcpa-certification/SKILL.md",
+        "sourceHash": "4385a45998b4045dc1ba5cac2ee6fc90021d021424bee34b7d9e4a31489eeba4",
+        "extractedAt": 1794694996941
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
+    },
+    {
       "id": "first-fluke-oh-my-agent--agents-skills-oma-academic-writing",
       "name": "oma-academic-writing",
       "titleZh": "oma-academic-writing",
@@ -307416,6 +308095,61 @@
       "sourceId": "mikiarlo3-ai-copywriter"
     },
     {
+      "id": "strands-agents-agent-sop-skills-agent-sop-author",
+      "name": "agent-sop-author",
+      "titleZh": "agent-sop-author",
+      "description": "Create (or update) and validate Agent SOPs (Standard Operating Procedures) - markdown-based workflows that guide AI agents through complex, multi-step tasks with RFC 2119 constraints.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "strands-agents",
+        "url": "https://github.com/strands-agents",
+        "verified": false,
+        "avatar": "https://github.com/strands-agents.png"
+      },
+      "gitUrl": "https://github.com/strands-agents/agent-sop",
+      "subPath": "skills/agent-sop-author",
+      "stars": 1228,
+      "halowakeScore": 95,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1228,
+        "forks": 136,
+        "lastCommitDaysAgo": 20,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "skill",
+        "agent-sop",
+        "workflow",
+        "automation",
+        "sop",
+        "rfc2119"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Create new workflow automation SOPs",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Create (or update) and validate Agent SOPs (Standard Operating Procedures) - markdown-based workflows that guide AI agents through complex, multi-step tasks with RFC 2119 constraints.",
+        "steps": [
+          "Create new workflow automation SOPs",
+          "Update existing workflow automation SOPs",
+          "Structure multi-step agent workflows",
+          "Apply RFC 2119 constraints (MUST, SHOULD, MAY)",
+          "Validate SOP format and structure",
+          "Convert workflows into reusable templates"
+        ],
+        "example": "[Concrete usage examples]",
+        "sourceUrl": "https://github.com/strands-agents/agent-sop/blob/HEAD/skills/agent-sop-author/SKILL.md",
+        "sourceHash": "5fcf4bad72fdada1daaeb539a318d31b39e1e1d8b52f30f6b7d697ca63a6df43",
+        "extractedAt": 1794694994755
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "strands-agents-agent-sop"
+    },
+    {
       "id": "laude-institute-headlong-contrib-opencode-skill",
       "name": "opencode",
       "titleZh": "opencode",
@@ -309245,6 +309979,51 @@
         "sourceHash": "2ba2f1c5da3cee38e208949da374210f5488144b5cff90035044c6abc093ff29",
         "extractedAt": 1793278812112
       }
+    },
+    {
+      "id": "199-biotechnologies-claude-deep-research-skill-root",
+      "name": "deep-research",
+      "titleZh": "deep-research",
+      "description": "Use when the user needs multi-source research with citation tracking, evidence persistence, and structured report generation. Triggers on \"deep research\", \"comprehensive analysis\", \"research report\", \"compare X vs Y\", \"analyze trends\", or \"state of the art\". Not for simple lookups, debugging, or questions answerable with 1-2 searches.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "199-biotechnologies",
+        "url": "https://github.com/199-biotechnologies",
+        "verified": false,
+        "avatar": "https://github.com/199-biotechnologies.png"
+      },
+      "gitUrl": "https://github.com/199-biotechnologies/claude-deep-research-skill",
+      "stars": 1217,
+      "halowakeScore": 83,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 1217,
+        "forks": 131,
+        "lastCommitDaysAgo": 217,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use: Comprehensive analysis, technology comparisons, state-of-the-art reviews, multi-perspective investigation, market analysis.；Do NOT use: Simple lookups, debugging, 1-2 search answers, quick time-sensitive queries.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use when the user needs multi-source research with citation tracking, evidence persistence, and structured report generation. Triggers on \"deep research\", \"comprehensive analysis\", \"research report\", \"compare X vs Y\", \"analyze trends\", or \"state of the art\". Not for simple lookups, debugging, or questions answerable with 1-2 searches.",
+        "trigger": "Use: Comprehensive analysis, technology comparisons, state-of-the-art reviews, multi-perspective investigation, market analysis.；Do NOT use: Simple lookups, debugging, 1-2 search answers, quick time-sensitive queries.",
+        "steps": [
+          "Note: Phases 3-5 operate as an evidence loop per section (retrieve → evidence store → refine outline → draft → verify claims → delta-retrieve if needed), not as strict sequential gates."
+        ],
+        "sourceUrl": "https://github.com/199-biotechnologies/claude-deep-research-skill/blob/HEAD/SKILL.md",
+        "sourceHash": "0c8e777eb13d37b4d5130f59c9237a82528224ba31b58b774cd490a742df8620",
+        "extractedAt": 1794694998416
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "199-biotechnologies-claude-deep-research-skill"
     },
     {
       "id": "ferdinandobons-startup-skill-startup-competitors",
@@ -315582,417 +316361,6 @@
       "sourceId": "krishhgg-insomnia"
     },
     {
-      "id": "strands-agents-agent-sop-skills-agent-sop-author",
-      "name": "agent-sop-author",
-      "titleZh": "agent-sop-author",
-      "description": "Create (or update) and validate Agent SOPs (Standard Operating Procedures) - markdown-based workflows that guide AI agents through complex, multi-step tasks with RFC 2119 constraints.",
-      "stage": "requirement",
-      "category": "Community",
-      "author": {
-        "name": "strands-agents",
-        "url": "https://github.com/strands-agents",
-        "verified": false,
-        "avatar": "https://github.com/strands-agents.png"
-      },
-      "gitUrl": "https://github.com/strands-agents/agent-sop",
-      "subPath": "skills/agent-sop-author",
-      "stars": 1174,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1174,
-        "forks": 130,
-        "lastCommitDaysAgo": 14,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "skill",
-        "agent-sop",
-        "workflow",
-        "automation",
-        "sop",
-        "rfc2119"
-      ],
-      "recommendedWith": [],
-      "howToUse": "Create new workflow automation SOPs",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Create (or update) and validate Agent SOPs (Standard Operating Procedures) - markdown-based workflows that guide AI agents through complex, multi-step tasks with RFC 2119 constraints.",
-        "steps": [
-          "Create new workflow automation SOPs",
-          "Update existing workflow automation SOPs",
-          "Structure multi-step agent workflows",
-          "Apply RFC 2119 constraints (MUST, SHOULD, MAY)",
-          "Validate SOP format and structure",
-          "Convert workflows into reusable templates"
-        ],
-        "example": "[Concrete usage examples]",
-        "sourceUrl": "https://github.com/strands-agents/agent-sop/blob/HEAD/skills/agent-sop-author/SKILL.md",
-        "sourceHash": "5fcf4bad72fdada1daaeb539a318d31b39e1e1d8b52f30f6b7d697ca63a6df43",
-        "extractedAt": 1791245003874
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "strands-agents-agent-sop"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-check-understanding",
-      "name": "check-understanding",
-      "titleZh": "check-understanding",
-      "description": "AI Engineering from Scratch 的阶段测验。用于“给我测验一下”、“测试阶段”、“检查我的理解”、“我掌握第 3 阶段了吗”，也支持 \"quiz me\", \"test phase\", \"check my understanding\", \"do I know phase 3\" 或 `/check-understanding <phase>`。",
-      "stage": "design",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/check-understanding",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "当用户说出类似下面的话时启用此 skill：；/check-understanding 3 或 /check-understanding deep-learning",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 的阶段测验。用于“给我测验一下”、“测试阶段”、“检查我的理解”、“我掌握第 3 阶段了吗”，也支持 \"quiz me\", \"test phase\", \"check my understanding\", \"do I know phase 3\" 或 /check-understanding 。",
-        "trigger": "当用户说出类似下面的话时启用此 skill：；/check-understanding 3 或 /check-understanding deep-learning",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/check-understanding/SKILL.md",
-        "sourceHash": "bc409ce44acaf72b1ade507c5658a90b092090c58771c9038ccb5aef098bde1a",
-        "extractedAt": 1791245006493
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-claude-certification",
-      "name": "claude-certification",
-      "titleZh": "claude-certification",
-      "description": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。\n",
-      "stage": "coding",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/claude-certification",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。",
-        "trigger": "AI Engineering from Scratch 中四条独立 Claude 认证路线的 AI 原生导师与入门流程。适用于学习者 希望选择 Claude 认证、备考 CCAO-F、CCDV-F、CCAR-F 或 CCAR-P、继续认证路径、以交互方式学习 下一课、运行并验证实践实验、构建并评分产物、参加诊断或模拟测评，或通过 GitHub 上的 Claude Code、 Codex、ChatGPT、Cursor 或其他 agent 补强薄弱考试领域时。",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/claude-certification/SKILL.md",
-        "sourceHash": "07f68aa1d5d823052b2d02dbf7243ca8fa89f99f113f2cf056a0c1dc49d75123",
-        "extractedAt": 1793861091774
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-course-guide",
-      "name": "course-guide",
-      "titleZh": "course-guide",
-      "description": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"\n",
-      "stage": "design",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/course-guide",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "navigation",
-        "curriculum",
-        "ai-engineering",
-        "router"
-      ],
-      "recommendedWith": [],
-      "howToUse": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"",
-        "trigger": "AI Engineering from Scratch 课程的主题路由器。给它一个主题、问题或正在处理的 bug， 它会指出精确教授它的课程，以及下一条正确命令。触发短语： “在哪里学习”、“哪节课涵盖”、“课程导航”、“我卡在”、“接下来该做什么”、 “教我 MCP”、“教我 Agent Skills”、“在哪里准备 Claude certification”，或 \"where do I learn\", \"which lesson covers\", \"course guide\", \"I'm stuck on\", \"what should I do next\", \"teach me MCP\", \"teach me Agent Skills\", \"where do I prepare for a Claude certification\"",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/course-guide/SKILL.md",
-        "sourceHash": "da41dae6348991be766cafba72c5cadcc2faea5d08bb012fafcbd6a31b21a7ca",
-        "extractedAt": 1793861091774
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-find-your-level",
-      "name": "find-your-level",
-      "titleZh": "find-your-level",
-      "description": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"\n",
-      "stage": "testing",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/find-your-level",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "assessment",
-        "onboarding",
-        "curriculum",
-        "ai-engineering"
-      ],
-      "recommendedWith": [],
-      "howToUse": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"",
-        "trigger": "交互式测验，将你的 AI/ML 知识映射到 523 节课、20 个阶段的 AI Engineering from Scratch 课程起点。 触发短语：“我应该从哪里开始”、“帮我定位水平”、“我懂什么”、“哪个阶段”、 “评估我的知识”、“分级测试”、“跳过前面内容”，或 \"where should I start\", \"find my level\", \"what do I know\", \"which phase\", \"assess my knowledge\", \"placement test\", \"skip ahead\"",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/find-your-level/SKILL.md",
-        "sourceHash": "dc74b800517357387f86a9c90550edeec873e1cb8b6cd74be8b54d4c925d6ed1",
-        "extractedAt": 1791245006495
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn",
-      "name": "learn",
-      "titleZh": "learn",
-      "description": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"\n",
-      "stage": "delivery",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/learn",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "tutor",
-        "curriculum",
-        "ai-engineering",
-        "interactive-learning"
-      ],
-      "recommendedWith": [],
-      "howToUse": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"",
-        "trigger": "AI Engineering from Scratch 课程的交互式课程 tutor。读取 LEARNING.md，获取下一课， 在终端按章节教学，结尾测验并记录进度。可在克隆仓库中或完全通过 raw.githubusercontent.com 工作—— 无需设置。触发短语：“下一课”、“教我”、“继续课程”、“我们来学习”、“继续学习”，或 \"next lesson\", \"teach me\", \"continue the course\", \"let's learn\", \"resume learning\"",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn/SKILL.md",
-        "sourceHash": "d06961a9c442295b6bcf0220724711a586086d58e32ae30a1a894b9cdc05d638",
-        "extractedAt": 1793861091774
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn-agent-skills",
-      "name": "learn-agent-skills",
-      "titleZh": "learn-agent-skills",
-      "description": "AI Engineering from Scratch 中 Agent Skills Engineering 路线的专注交互 tutor。 学习者想创建、发现、调用、保护、评估、打包或迁移 Agent Skills 时，开始或续学此路线。 每次调用教学一课，并将证据记录在 AGENT-SKILLS-LEARNING.md。 Start or resume this route when a learner wants to create, discover, invoke, secure, evaluate, package, or port Agent Skills.\n",
-      "stage": "coding",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/learn-agent-skills",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 中 Agent Skills Engineering 路线的专注交互 tutor。 学习者想创建、发现、调用、保护、评估、打包或迁移 Agent Skills 时，开始或续学此路线。 每次调用教学一课，并将证据记录在 AGENT-SKILLS-LEARNING.md。 Start or resume this route when a learner wants to create, discover, invoke, secure, evaluate, package, or port Agent Skills.",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn-agent-skills/SKILL.md",
-        "sourceHash": "a4b6abc2ac85761925a6e05b660e11480938522f911150be7efb6e915d499bc5",
-        "extractedAt": 1793861091774
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-learn-mcp",
-      "name": "learn-mcp",
-      "titleZh": "learn-mcp",
-      "description": "AI Engineering from Scratch 中 Model Context Protocol (MCP) 路线的专注交互 tutor。 学习者想构建、保护、调试、验证或运行 MCP clients、servers、transports、gateways、 registries 或 conformance gates 时，开始或续学此路线。每次调用教学一课，并将 wire evidence 记录到 MCP-LEARNING.md。Start or resume this route when a learner wants to build, secure, debug, verify, or operate MCP clients, servers, transports, gateways, registries, or conformance gates.\n",
-      "stage": "design",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/learn-mcp",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 中 Model Context Protocol (MCP) 路线的专注交互 tutor。 学习者想构建、保护、调试、验证或运行 MCP clients、servers、transports、gateways、 registries 或 conformance gates 时，开始或续学此路线。每次调用教学一课，并将 wire evidence 记录到 MCP-LEARNING.md。Start or resume this route when a learner wants to build, secure, debug, verify, or operate MCP clients, servers, transports, gateways, registries, or conformance gates.",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/learn-mcp/SKILL.md",
-        "sourceHash": "e62f699fd94d04fa0002729c6f18cabc2973138a23f3c4b1369ef9c6f187e6df",
-        "extractedAt": 1793861091774
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
-      "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-mcpa-certification",
-      "name": "mcpa-certification",
-      "titleZh": "mcpa-certification",
-      "description": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。\n",
-      "stage": "coding",
-      "category": "Community",
-      "author": {
-        "name": "fancyboi999",
-        "url": "https://github.com/fancyboi999",
-        "verified": false,
-        "avatar": "https://github.com/fancyboi999.png"
-      },
-      "gitUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh",
-      "subPath": ".claude/skills/mcpa-certification",
-      "stars": 1173,
-      "halowakeScore": 98,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 1173,
-        "forks": 183,
-        "lastCommitDaysAgo": 7,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。",
-        "trigger": "AI Engineering from Scratch 中文版中的 MCPA（Model Context Protocol Associate）AI 原生导师与入门流程。学习者需要备考 MCPA、继续认证路线、 交互式学习下一课、运行并验证实践实验、参加诊断或全真模拟、根据薄弱领域 补弱时使用。适用于 Claude Code、Codex、ChatGPT、Cursor 或其他 agent。",
-        "steps": [],
-        "sourceUrl": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh/blob/HEAD/.claude/skills/mcpa-certification/SKILL.md",
-        "sourceHash": "4385a45998b4045dc1ba5cac2ee6fc90021d021424bee34b7d9e4a31489eeba4",
-        "extractedAt": 1793861091774
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "fancyboi999-ai-engineering-from-scratch-zh"
-    },
-    {
       "id": "fancyboi999-ai-engineering-from-scratch-zh--claude-skills-start-learning",
       "name": "start-learning",
       "titleZh": "start-learning",
@@ -316317,8 +316685,8 @@
       "badge": "trending",
       "metrics": {
         "githubStars": 1172,
-        "forks": 111,
-        "lastCommitDaysAgo": 39,
+        "forks": 112,
+        "lastCommitDaysAgo": 33,
         "issueCloseRate": 95,
         "securityAuditPassed": true
       },
@@ -316338,56 +316706,11 @@
         ],
         "sourceUrl": "https://github.com/highcharts/highcharts-react/blob/HEAD/.claude/skills/highcharts-react/SKILL.md",
         "sourceHash": "a68ae98084aa4e02473e14884a87bff59da9a2c2d37d775ec160fa9a7af1cf42",
-        "extractedAt": 1791245007738
+        "extractedAt": 1794694997737
       },
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "highcharts-highcharts-react"
-    },
-    {
-      "id": "199-biotechnologies-claude-deep-research-skill-root",
-      "name": "deep-research",
-      "titleZh": "deep-research",
-      "description": "Use when the user needs multi-source research with citation tracking, evidence persistence, and structured report generation. Triggers on \"deep research\", \"comprehensive analysis\", \"research report\", \"compare X vs Y\", \"analyze trends\", or \"state of the art\". Not for simple lookups, debugging, or questions answerable with 1-2 searches.",
-      "stage": "delivery",
-      "category": "Community",
-      "author": {
-        "name": "199-biotechnologies",
-        "url": "https://github.com/199-biotechnologies",
-        "verified": false,
-        "avatar": "https://github.com/199-biotechnologies.png"
-      },
-      "gitUrl": "https://github.com/199-biotechnologies/claude-deep-research-skill",
-      "stars": 1171,
-      "halowakeScore": 87,
-      "badge": "security",
-      "metrics": {
-        "githubStars": 1171,
-        "forks": 126,
-        "lastCommitDaysAgo": 177,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "Use: Comprehensive analysis, technology comparisons, state-of-the-art reviews, multi-perspective investigation, market analysis.；Do NOT use: Simple lookups, debugging, 1-2 search answers, quick time-sensitive queries.",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Use when the user needs multi-source research with citation tracking, evidence persistence, and structured report generation. Triggers on \"deep research\", \"comprehensive analysis\", \"research report\", \"compare X vs Y\", \"analyze trends\", or \"state of the art\". Not for simple lookups, debugging, or questions answerable with 1-2 searches.",
-        "trigger": "Use: Comprehensive analysis, technology comparisons, state-of-the-art reviews, multi-perspective investigation, market analysis.；Do NOT use: Simple lookups, debugging, 1-2 search answers, quick time-sensitive queries.",
-        "steps": [
-          "Note: Phases 3-5 operate as an evidence loop per section (retrieve → evidence store → refine outline → draft → verify claims → delta-retrieve if needed), not as strict sequential gates."
-        ],
-        "sourceUrl": "https://github.com/199-biotechnologies/claude-deep-research-skill/blob/HEAD/SKILL.md",
-        "sourceHash": "0c8e777eb13d37b4d5130f59c9237a82528224ba31b58b774cd490a742df8620",
-        "extractedAt": 1791245008719
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "199-biotechnologies-claude-deep-research-skill"
     },
     {
       "id": "dpearson2699-swift-ios-skills-skills-accessorysetupkit",
@@ -335545,6 +335868,416 @@
       "sourceId": "manycoretech-aholo-viewer"
     },
     {
+      "id": "mgdaaslab-wharttest-wharttest_skills-api-automation-skill",
+      "name": "api-automation",
+      "titleZh": "api-automation",
+      "description": "WHartTest 接口自动化管理工具。用于按真实后端接口管理接口模块、数据库配置、环境与变量、自定义函数、接口定义与调试、单接口用例 ApiInterfaceCase、场景用例 ApiTestCase、任务套件、执行报告与同步配置。当需要创建、查询、修改、执行 API 自动化资源，区分单接口测试和场景用例，或排查执行、同步、任务套件问题时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/api-automation-skill",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "可覆盖默认服务地址和 API Key：",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "WHartTest 接口自动化管理工具。用于按真实后端接口管理接口模块、数据库配置、环境与变量、自定义函数、接口定义与调试、单接口用例 ApiInterfaceCase、场景用例 ApiTestCase、任务套件、执行报告与同步配置。当需要创建、查询、修改、执行 API 自动化资源，区分单接口测试和场景用例，或排查执行、同步、任务套件问题时使用。",
+        "steps": [
+          "可覆盖默认服务地址和 API Key："
+        ],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/api-automation-skill/SKILL.md",
+        "sourceHash": "e1f21bfb996b0b8cd439732755cd36e55ca391ae65bfd52c3ec40d1011baefcb",
+        "extractedAt": 1794695002920
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-browser-use",
+      "name": "browser-use",
+      "titleZh": "browser-use",
+      "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/browser-use",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Invoke as browser-use. Use heredocs for multi-line commands.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+        "steps": [
+          "Invoke as browser-use. Use heredocs for multi-line commands.",
+          "Helpers are pre-imported. run.py calls ensuredaemon() before exec.",
+          "First navigation is newtab(url), not gotourl(url).",
+          "The normal local flow attaches to the running Chrome/Chromium CDP endpoint. No browser ids or local profile selection.",
+          "Prefer to find elements with the accessibility tree, not screenshots: cdp(\"Accessibility.getFullAXTree\")[\"nodes\"] has every element's role, name, and backendDOMNodeId — filter in Python before printing (it is thousands…",
+          "Clicking: AX node -> box center -> clickatxy(x, y) -> verify with a targeted js(...)/pageinfo() check."
+        ],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/browser-use/SKILL.md",
+        "sourceHash": "e4f757d64aa7841c6d65cbcb762de9b43329581af41dc4497fd75efd389579f5",
+        "extractedAt": 1794695002920
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-draw-skill-drawio",
+      "name": "drawio",
+      "titleZh": "drawio",
+      "description": "Generate draw.io diagrams as .drawio files, optionally export to PNG/SVG/PDF with embedded XML",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/draw-skill/drawio",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Generate draw.io diagrams as .drawio files, optionally export to PNG/SVG/PDF with embedded XML",
+        "steps": [],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/draw-skill/drawio/SKILL.md",
+        "sourceHash": "4fa2ee65eb785ddd8a51ef6e6d1d70212146976e6539d7b23b7d93f60021804b",
+        "extractedAt": 1794695002921
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-playwright-cli",
+      "name": "playwright-cli",
+      "titleZh": "playwright-cli",
+      "description": "基于微软官方 @playwright/cli 的交互式浏览器自动化技能。通过标准化命令行会话实现极高稳定性的浏览器操作，防止挂起超时。",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/playwright-cli",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "playwright-cli snapshot --filename=after-click.yaml",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "基于微软官方 @playwright/cli 的交互式浏览器自动化技能。通过标准化命令行会话实现极高稳定性的浏览器操作，防止挂起超时。",
+        "steps": [
+          "playwright-cli snapshot --filename=after-click.yaml",
+          "playwright-cli kill-all"
+        ],
+        "example": "playwright-cli open https://example.com/form playwright-cli snapshot playwright-cli fill e1 \"user@example.com\" playwright-cli fill e2 \"password123\" playwright-cli click e3 playwright-cli snapshot playwright-cli close",
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/playwright-cli/SKILL.md",
+        "sourceHash": "fb1dfb4915a080e0d065305360e0a2a2edffa2dcaa773f8dc9d41ea7463f8073",
+        "extractedAt": 1794695002921
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-playwright-skill",
+      "name": "playwright-skill",
+      "titleZh": "playwright-skill",
+      "description": "浏览器自动化执行工具。用于执行 Web 页面测试、表单填写、登录验证、截图等浏览器操作。",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/playwright-skill",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "通过 executeskillscript 工具调用，传入 inline 代码：",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "浏览器自动化执行工具。用于执行 Web 页面测试、表单填写、登录验证、截图等浏览器操作。",
+        "steps": [
+          "通过 executeskillscript 工具调用，传入 inline 代码：",
+          "重要：代码必须写在一行，语句用分号分隔。run.js 会自动包装 async IIFE 和 require 语句。禁止添加 --session、--inline、--eval 等参数，run.js 不支持这些参数。"
+        ],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/playwright-skill/SKILL.md",
+        "sourceHash": "abfa828ac0a7c15067513247b02e50b6b8d91b0a939b94135df1c6b5197eb945",
+        "extractedAt": 1794695002921
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-ui-automation-skill",
+      "name": "ui-automation",
+      "titleZh": "ui-automation",
+      "description": "WHartTest UI 自动化管理工具。用于创建、编辑、删除 UI 测试模块、页面、元素、页面步骤和测试用例。支持执行记录查询和错误分析。当需要将浏览器技能获取到的页面元素保存到平台、创建 UI 自动化用例、执行测试或分析执行结果时使用。元素采集默认优先 browser-use，无法覆盖时再用 playwright-skill 兜底。",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/ui-automation-skill",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "WHartTest UI 自动化管理工具。用于创建、编辑、删除 UI 测试模块、页面、元素、页面步骤和测试用例。支持执行记录查询和错误分析。当需要将浏览器技能获取到的页面元素保存到平台、创建 UI 自动化用例、执行测试或分析执行结果时使用。元素采集默认优先 browser-use，无法覆盖时再用 playwright-skill 兜底。",
+        "steps": [],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/ui-automation-skill/SKILL.md",
+        "sourceHash": "3d68f0daac7ffbbbac5f80e29ad51d1ae3c0f43af3862993e54ad85f3e81d8a8",
+        "extractedAt": 1794695002921
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-url-reader",
+      "name": "url-reader",
+      "titleZh": "url-reader",
+      "description": "读取和分析任意在线 URL，包括普通网页、文章、产品/帮助文档、Markdown、JSON/YAML、纯文本、PDF 入口、Swagger/OpenAPI/Redoc 接口文档等。用户提供链接并要求获取页面内容、总结网页、提取标题/正文/链接/结构化数据/接口信息、判断访问状态、分析文档内容，或基于 URL 内容生成代码、测试、说明文档时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/url-reader",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "documentkind: html、json、yaml、text、openapi、swagger、binary 或 error",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "读取和分析任意在线 URL，包括普通网页、文章、产品/帮助文档、Markdown、JSON/YAML、纯文本、PDF 入口、Swagger/OpenAPI/Redoc 接口文档等。用户提供链接并要求获取页面内容、总结网页、提取标题/正文/链接/结构化数据/接口信息、判断访问状态、分析文档内容，或基于 URL 内容生成代码、测试、说明文档时使用。",
+        "steps": [
+          "documentkind: html、json、yaml、text、openapi、swagger、binary 或 error",
+          "fetchedurl: 实际成功读取的 URL",
+          "status / contenttype / sizebytes: 访问状态与内容信息",
+          "title / description / headings / textpreview / links: HTML 页面提取结果",
+          "structuredsummary: 普通 JSON/YAML 的顶层结构摘要",
+          "discoveredspecs / api / endpoints: OpenAPI/Swagger 规格发现和接口解析结果"
+        ],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/url-reader/SKILL.md",
+        "sourceHash": "596f166edaff95dd18633a2c59804a85d06f4c589f8a5a6fbd5f58bb0acd6111",
+        "extractedAt": 1794695002922
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-weknora-kb-skill",
+      "name": "weknora-kb",
+      "titleZh": "weknora-kb",
+      "description": "WeKnora知识库查询工具。用于在WeKnora知识管理平台中搜索知识库文档片段。当用户需要检索知识库内容、搜索相关文档时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/weknora-kb-skill",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "WeKnora知识库查询工具。用于在WeKnora知识管理平台中搜索知识库文档片段。当用户需要检索知识库内容、搜索相关文档时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/weknora-kb-skill/SKILL.md",
+        "sourceHash": "885b34bb06cb450802ca30d3bf693719aa886f9a20685f816ce15491b60f7b8e",
+        "extractedAt": 1794695002922
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
+      "id": "mgdaaslab-wharttest-wharttest_skills-wharttest_skills",
+      "name": "whart-test",
+      "titleZh": "whart-test",
+      "description": "WHartTest测试管理平台工具集。用于管理项目、模块、测试用例、测试截图和项目文件附件的增删改查。当用户需要操作测试用例、查询项目信息、上传截图、上传/下载/预览/删除项目文件、校验 file_ids 或管理文件清理设置时使用。",
+      "stage": "testing",
+      "category": "Community",
+      "author": {
+        "name": "MGdaasLab",
+        "url": "https://github.com/MGdaasLab",
+        "verified": false,
+        "avatar": "https://github.com/MGdaasLab.png"
+      },
+      "gitUrl": "https://github.com/MGdaasLab/WHartTest",
+      "subPath": "WHartTest_Skills/wharttest_skills",
+      "stars": 1085,
+      "halowakeScore": 94,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1085,
+        "forks": 183,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "WHartTest测试管理平台工具集。用于管理项目、模块、测试用例、测试截图和项目文件附件的增删改查。当用户需要操作测试用例、查询项目信息、上传截图、上传/下载/预览/删除项目文件、校验 fileids 或管理文件清理设置时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/MGdaasLab/WHartTest/blob/HEAD/WHartTest_Skills/wharttest_skills/SKILL.md",
+        "sourceHash": "e948d610118989e7675a1cce399c3b028bf0052af3506c032f42377441a0ae4d",
+        "extractedAt": 1794695002922
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "mgdaaslab-wharttest"
+    },
+    {
       "id": "corpus-massgen-massgen-massgen-skills-backend-integrator-60f34168",
       "name": "backend-integrator",
       "titleZh": "backend-integrator",
@@ -335641,6 +336374,49 @@
         "sourceHash": "b426c861c920abd5f332fff52c2e1d9eaa06771a2f76c16e7361b69173f42b38",
         "extractedAt": 1790686331879
       }
+    },
+    {
+      "id": "konlu-story-studio-root",
+      "name": "story-studio",
+      "titleZh": "story-studio",
+      "description": "历史与真实人物故事的中文内容制作，按需独立执行写作、豆包配音、分镜与配图、剪映草稿，支持自动初始化依赖和接续已有项目。用户提到story-studio、故事工坊，或要求这些题材的文案配音配图剪映一条龙时使用。现有写作风格为历史叙事和玉玲2711人物故事风；民间故事等赛道可扩展。",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "konlu",
+        "url": "https://github.com/konlu",
+        "verified": false,
+        "avatar": "https://github.com/konlu.png"
+      },
+      "gitUrl": "https://github.com/konlu/story-studio",
+      "stars": 1081,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1081,
+        "forks": 238,
+        "lastCommitDaysAgo": 1,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "历史与真实人物故事的中文内容制作，按需独立执行写作、豆包配音、分镜与配图、剪映草稿，支持自动初始化依赖和接续已有项目。用户提到story-studio、故事工坊，或要求这些题材的文案配音配图剪映一条龙时使用。现有写作风格为历史叙事和玉玲2711人物故事风；民间故事等赛道可扩展。",
+        "steps": [],
+        "example": "使用 $story-studio，只写一篇秦怡的人物故事口播稿，玉玲风格，约1500字。",
+        "sourceUrl": "https://github.com/konlu/story-studio/blob/HEAD/SKILL.md",
+        "sourceHash": "4a8352a4aebb22bc7f6a3521c19734040adac9f7af2d4590ff5a7bbb28dfef35",
+        "extractedAt": 1794695003663
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "konlu-story-studio"
     },
     {
       "id": "humblemuzzu-dumbtv-skills-firetv-debloat",
@@ -346286,6 +347062,100 @@
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "feimacode-open-design-agent-kit"
+    },
+    {
+      "id": "schpet-linear-cli--claude-skills-release",
+      "name": "Release",
+      "titleZh": "Release",
+      "description": "This skill should be used when the user asks to \"make a release\", \"create a release\", \"cut a release\", \"release a new version\", \"publish a release\", or mentions preparing for release. Provides comprehensive workflow for reviewing changes, updating changelog, determining semver bump, and publishing.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "schpet",
+        "url": "https://github.com/schpet",
+        "verified": false,
+        "avatar": "https://github.com/schpet.png"
+      },
+      "gitUrl": "https://github.com/schpet/linear-cli",
+      "subPath": ".claude/skills/release",
+      "stars": 1048,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1048,
+        "forks": 95,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use this skill when preparing to release a new version of linear-cli. The workflow ensures all changes are documented, tests pass, and versions are properly tagged before publishing.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "This skill should be used when the user asks to \"make a release\", \"create a release\", \"cut a release\", \"release a new version\", \"publish a release\", or mentions preparing for release. Provides comprehensive workflow for reviewing changes, updating changelog, determining semver bump, and publishing.",
+        "trigger": "Use this skill when preparing to release a new version of linear-cli. The workflow ensures all changes are documented, tests pass, and versions are properly tagged before publishing.",
+        "steps": [
+          "New features",
+          "Breaking changes",
+          "Significant improvements",
+          "Deprecations",
+          "Internal refactoring without user impact",
+          "Documentation-only changes"
+        ],
+        "sourceUrl": "https://github.com/schpet/linear-cli/blob/HEAD/.claude/skills/release/SKILL.md",
+        "sourceHash": "c4b770a614c4bb85dc1e8789faacefa8ea571f950e5fe69b3c094992e3062dda",
+        "extractedAt": 1794695004289
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "schpet-linear-cli"
+    },
+    {
+      "id": "schpet-linear-cli-skills-linear-cli",
+      "name": "linear-cli",
+      "titleZh": "linear-cli",
+      "description": "Use the linear CLI to find, create and update Linear issues, comments, projects, cycles, documents and labels, and to call Linear's GraphQL API. Use it whenever a task involves Linear or an issue ID such as ENG-123.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "schpet",
+        "url": "https://github.com/schpet",
+        "verified": false,
+        "avatar": "https://github.com/schpet.png"
+      },
+      "gitUrl": "https://github.com/schpet/linear-cli",
+      "subPath": "skills/linear-cli",
+      "stars": 1048,
+      "halowakeScore": 98,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 1048,
+        "forks": 95,
+        "lastCommitDaysAgo": 0,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use the linear CLI to find, create and update Linear issues, comments, projects, cycles, documents and labels, and to call Linear's GraphQL API. Use it whenever a task involves Linear or an issue ID such as ENG-123.",
+        "steps": [],
+        "sourceUrl": "https://github.com/schpet/linear-cli/blob/HEAD/skills/linear-cli/SKILL.md",
+        "sourceHash": "56cd488f4417fca875a913d3f2a82b9cc631c3f5aed1fd9a80dbbcb8b570db25",
+        "extractedAt": 1794695004290
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "schpet-linear-cli"
     },
     {
       "id": "getsentry-skills-skills-agents-md",
@@ -465609,10 +466479,10 @@
         "summary": "LinkDR is a managed backlink service. Use when the user wants authority backlinks, link building, guest posts, or DR-tier placements with human approval. Trigger on \"get me backlinks\", \"link building\", \"build links for [site]\", budget mentions, or when the user asks you to fetch or run https://linkdr.com/SKILL.md. Fetch this file before quoting prices. Served as UTF-8 text/markdown or text/plain…",
         "trigger": "LinkDR is a managed backlink service. Use when the user wants authority backlinks, link building, guest posts, or DR-tier placements with human approval. Trigger on \"get me backlinks\", \"link building\", \"build links for [site]\", budget mentions, or when the user asks you to fetch or run https://linkdr.com/SKILL.md. Fetch this file before quoting prices. Served as UTF-8 text/markdown or text/plain…",
         "steps": [],
-        "example": "New account credit: effective $1,025 → 4 × DR 40+ = $960, $65 left. With AGENTIC ($50 off, first order): effective $1,075 → $115 left.",
+        "example": "New account credit: effective $1,025 → 3 × DR 40+ + 1 × DR 30+ = $1,000, $25 left. With AGENTIC ($50 off, first order): effective $1,075 → $75 left.",
         "sourceUrl": "https://github.com/Illyism/seo-skills/blob/HEAD/seo/linkdr/SKILL.md",
-        "sourceHash": "a517345ff4e43cffe713ce7911d3f1962f25bb8a1df046fb1a1a9d42877f3e34",
-        "extractedAt": 1792039061988
+        "sourceHash": "d75a5bed355d25ad0758a9871d1af9f2711f4382742f4d791265e5f986b4d5b7",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -465651,12 +466521,12 @@
       "howToUse": "When the user wants an agent to run SEO for a product end to end on a daily schedule, with state kept in a seo/ folder in the repo. Covers site health checks, fact checks against commits, page 2 to page 1 pushes, AI answer tracking, competitor sitemap diffs, a monthly keyword map, articles, comparison pages, free tools and link drafts. Also use when the user mentions \"seo autopilot\" or asks for a…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants an agent to run SEO for a product end to end on a daily schedule, with state kept in a seo/ folder in the repo. Covers site health checks, fact checks against commits, page 2 to page 1 pushes, AI answer tracking, competitor sitemap diffs, a monthly keyword map, articles, comparison pages, free tools and link drafts. Also use when the user mentions \"seo autopilot\" or asks for a…",
-        "trigger": "When the user wants an agent to run SEO for a product end to end on a daily schedule, with state kept in a seo/ folder in the repo. Covers site health checks, fact checks against commits, page 2 to page 1 pushes, AI answer tracking, competitor sitemap diffs, a monthly keyword map, articles, comparison pages, free tools and link drafts. Also use when the user mentions \"seo autopilot\" or asks for a…",
+        "summary": "Runs end-to-end daily SEO for a product inside its repository with persistent state in seo/, covering site health checks, commit fact-checks, Page 2 to Page 1 pushes, AI answer tracking, competitor sitemap diffs, monthly keyword maps, articles, comparison pages, free tools, and link drafts. Use when the user mentions \"seo autopilot\", wants autonomous daily SEO PRs, or asks an agent to own a…",
+        "trigger": "Runs end-to-end daily SEO for a product inside its repository with persistent state in seo/, covering site health checks, commit fact-checks, Page 2 to Page 1 pushes, AI answer tracking, competitor sitemap diffs, monthly keyword maps, articles, comparison pages, free tools, and link drafts. Use when the user mentions \"seo autopilot\", wants autonomous daily SEO PRs, or asks an agent to own a…",
         "steps": [],
         "sourceUrl": "https://github.com/Illyism/seo-skills/blob/HEAD/seo/seo-autopilot/SKILL.md",
-        "sourceHash": "73d504d5dfcfbe8195a80197c63da5697346ff0c9b09eccb4a5ed9de77c7ab22",
-        "extractedAt": 1792039061988
+        "sourceHash": "7116fbdf57772ad9a1e196381f4c55856c3b297c9de56cb57b72529350d0e523",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -469084,12 +469954,11 @@
       "howToUse": "Качество русского текста для агента. Russian text quality for agents: proofreading and AI-slop cleanup for Cyrillic text. Триггеры: очеловечь, вычитай, отредактируй, поправь, причеши, проверь текст, убери канцелярит, humanizer. Молча снимает жёсткие запреты в собственном русском выводе агента; чужой текст молча не трогает. Use when надо убрать из русского текста канцелярит, воду и нейросетевую…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Качество русского текста для агента. Russian text quality for agents: proofreading and AI-slop cleanup for Cyrillic text. Триггеры: очеловечь, вычитай, отредактируй, поправь, причеши, проверь текст, убери канцелярит, humanizer. Молча снимает жёсткие запреты в собственном русском выводе агента; чужой текст молча не трогает. Use when надо убрать из русского текста канцелярит, воду и нейросетевую…",
-        "trigger": "Качество русского текста для агента. Russian text quality for agents: proofreading and AI-slop cleanup for Cyrillic text. Триггеры: очеловечь, вычитай, отредактируй, поправь, причеши, проверь текст, убери канцелярит, humanizer. Молча снимает жёсткие запреты в собственном русском выводе агента; чужой текст молча не трогает. Use when надо убрать из русского текста канцелярит, воду и нейросетевую…",
+        "summary": "Редактура русского текста без следов нейросети. НЕ используй для кода, перевода, написания с нуля и грамматики без стилистики; работает ТОЛЬКО с русским, для английского humanizer. Снимает канцелярит, воду и нейросетевую манеру, сохраняя смысл, факты и голос автора. Триггеры: очеловечь, вычитай, отредактируй, причеши, проверь текст, убери канцелярит, humanizer. Свой русский вывод агента молча…",
         "steps": [],
         "sourceUrl": "https://github.com/ilyautov/humanizer-ru/blob/HEAD/skills/humanizer-ru/SKILL.md",
-        "sourceHash": "9f538eee440359aa11f1cf4b751a0e60662954f57b042112d8fcbcb522b1bb8f",
-        "extractedAt": 1792039066948
+        "sourceHash": "73abc68a8d086b3c1750e0bc14591aa8c05d6726c2d0086845ae6e094b22fb14",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -472535,12 +473404,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "聚宽（JoinQuant）官网策略开发指南，涵盖回测、模拟交易、数据 API、交易函数、因子与技术指标。当用户编写聚宽策略、回测、模拟盘、查询聚宽 API、getprice/order/rundaily、Alpha 因子、技术指标，或提及 joinquant、聚宽、jqdata 策略时使用。本地数据获取请用 jqdatasdk 技能。",
+        "summary": "聚宽（JoinQuant）官网策略开发指南，涵盖回测、模拟交易、数据 API、交易函数、因子与技术指标。当用户编写聚宽策略、回测、模拟盘，排查模拟盘改代码不生效/替换代码，查询聚宽 API、getprice/order/rundaily、Alpha 因子、技术指标，或提及 joinquant、聚宽、jqdata 策略时使用。本地数据获取请用 jqdatasdk 技能。",
         "steps": [],
         "example": "完整示例见 api.md 末尾「策略示例」：均线策略、多股票持仓、追涨策略、万圣节效应等。",
         "sourceUrl": "https://github.com/lzwme/finance-quant-skills/blob/HEAD/skills/joinquant-strategy/SKILL.md",
-        "sourceHash": "fd9b6e2ac47d54facd8601ab78fff1af86d8249b043843dd9232404d34fd85fa",
-        "extractedAt": 1792039069115
+        "sourceHash": "d376c706f9ade151b85c2459ef834f03dc7f5e1c13b9b2cf9505c9bad32b6573",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -472728,11 +473597,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "QMT 客户端（迅投极速策略交易系统）内置 Python 策略引擎开发指南，涵盖策略编写、回测、实盘交易、内置 API 参考与代码示例（基于 ContextInfo/passorder/gettradedetaildata 等，非 xtquant 库）。当用户需要在 QMT 客户端中编写/回测/运行策略、查询 QMT 内置 API、从聚宽迁移至 QMT，或提及 QMT 策略、迅投策略、QMT 回测时使用。若需用外部 Python 程序通过 xtquant 库连接 QMT 获取行情或下单，请改用 miniqmt 技能。",
+        "summary": "QMT 客户端（迅投极速策略交易系统）内置 Python 策略引擎开发指南，涵盖策略编写、回测、实盘交易、内置 API 参考与代码示例（基于 ContextInfo/passorder/gettradedetaildata 等，非 xtquant 库）。当用户需要在 QMT 客户端中编写/回测/运行策略、查询 QMT 内置 API、从聚宽迁移至 QMT，或提及 QMT 策略、迅投策略、QMT 回测时使用；直接提及 passorder、ContextInfo、handlebar、getmarketdataex、gettradedetaildata 等内置 API，或描述 QMT 策略报错、回测无成交、GBK 编码报错等问题时同样适用。外部 xtquant/xtdata 连接场景不适用，请用 miniqmt 技能。",
+        "trigger": "QMT 客户端（迅投极速策略交易系统）内置 Python 策略引擎开发指南，涵盖策略编写、回测、实盘交易、内置 API 参考与代码示例（基于 ContextInfo/passorder/gettradedetaildata 等，非 xtquant 库）。当用户需要在 QMT 客户端中编写/回测/运行策略、查询 QMT 内置 API、从聚宽迁移至 QMT，或提及 QMT 策略、迅投策略、QMT 回测时使用；直接提及 passorder、ContextInfo、handlebar、getmarketdataex、gettradedetaildata 等内置 API，或描述 QMT 策略报错、回测无成交、GBK 编码报错等问题时同样适用。外部 xtquant/xtdata 连接场景不适用，请用 miniqmt 技能。",
         "steps": [],
         "sourceUrl": "https://github.com/lzwme/finance-quant-skills/blob/HEAD/skills/qmt-strategy/SKILL.md",
-        "sourceHash": "158018b850de3bb50893a29de9f8340f352372614a5b278a55af799021454d97",
-        "extractedAt": 1792039069117
+        "sourceHash": "182b569bd664da078ccd31188258785714a8e4c55be54b80e5f50a2ca4d023fe",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -480087,8 +480957,8 @@
           "flutter test — skip silently when there is no test directory; a fresh project with no tests is normal"
         ],
         "sourceUrl": "https://github.com/Odevio/Odevio-CLI/blob/HEAD/src/odevio/skill/SKILL.md",
-        "sourceHash": "93a1811a956dd1d6c3c683d752a9603b75ab48e1ffbeca5e33428845160211fb",
-        "extractedAt": 1792039071776
+        "sourceHash": "c0c617a66d8b04c4b985b88e33b1de5192b60c6e315d32bb847fd4ccae773b83",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -482494,8 +483364,8 @@
         "trigger": "Author, maintain, and consume Open Knowledge Format (OKF) knowledge bundles — portable markdown + YAML frontmatter that both humans and agents read. Use when capturing project knowledge (services, APIs, schemas, metrics, runbooks, decisions) into an OKF bundle, when updating one after code or docs change, or when a repository contains an .okf/ (or other OKF) bundle that should inform the task.…",
         "steps": [],
         "sourceUrl": "https://github.com/scaccogatto/okf-skills/blob/HEAD/skills/okf/SKILL.md",
-        "sourceHash": "ad4a2d130643816d579f9c394ee1bffa8881a42ed6dc17e4ff75fa3cb0ff272a",
-        "extractedAt": 1792039075706
+        "sourceHash": "34ed98afdccd8f7febd2972fa4d25049ee8ce2ed140f80668199adcad4a74d6a",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -526243,8 +527113,8 @@
           "用户直接调用本 Skill： 本 Skill 单独启动，在对话中确认对象、研究范围、地域、时间、用户口径要求及已有材料，再决定是否搜索。"
         ],
         "sourceUrl": "https://github.com/hexiaofeier/hehe-industry-research-skill-pack/blob/HEAD/skills/hehe-competitive-landscape/SKILL.md",
-        "sourceHash": "17e446483147e00669da675a3bc455e25acb0187ad6ca912068b9295b4da904e",
-        "extractedAt": 1792063671037
+        "sourceHash": "1efa19b624c38c3a9a052cfedcb2b791ed337afdf5efbcdf17183c0e1bbd21cc",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -526513,11 +527383,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "行研分析师，盒子原创行业与企业研究skill组合中的总路由入口，负责把研究开题、公开信息搜索、材料审核、行业或企业分析、Markdown 主报告和 HTML 阅读版整合成一条完整路线。支持四类任务：行业研究（规模、产业链、商业模式、竞争、PEST 外部环境、趋势、驱动力、痛点）、企业研究（业务、经营、财务、治理、估值、投资逻辑）、行业+企业研究，以及只回答其中一个或几个问题的单独专项研究。 当用户说“研究/分析/调研某行业”“做行业全景或行业报告”“研究某公司、企业或标的”“做企业商业尽调、融资或并购研究”，或明显需要多个专项共同完成时使用；用户明确要求本 Skill 统筹一个或几个专项时也可启动。用户直接点名某个专项 Skill 时，由该专项独立执行。 不设计或执行访谈、问卷，不分析一手用户样本；不用于新闻稿、宣传稿、公众号文章、简单名词解释、翻译或纯…",
+        "summary": "行研分析师，盒子原创行业与企业研究skill组合中的总路由入口，负责把研究开题、公开信息搜索、材料审核、行业或企业分析、Markdown 成稿及 HTML 报告交付整合成一条完整路线。支持四类任务：行业研究（规模、产业链、商业模式、竞争、PEST 外部环境、趋势、驱动力、痛点）、企业研究（业务、经营、财务、治理、估值、投资逻辑）、行业+企业研究，以及只回答其中一个或几个问题的单独专项研究。 当用户说“研究/分析/调研某行业”“做行业全景或行业报告”“研究某公司、企业或标的”“做企业商业尽调、融资或并购研究”，或明显需要多个专项共同完成时使用；用户明确要求本 Skill 统筹一个或几个专项时也可启动。用户直接点名某个专项 Skill 时，由该专项独立执行。 不设计或执行访谈、问卷，不分析一手用户样本；不用于新闻稿、宣传稿、公众号文章、简单名词解释、翻译或纯…",
         "steps": [],
         "sourceUrl": "https://github.com/hexiaofeier/hehe-industry-research-skill-pack/blob/HEAD/skills/hehe-industry-researcher/SKILL.md",
-        "sourceHash": "344ae224df5d6430b46b4a8b3266a5b079517f706d1cf0090e072725f2526c62",
-        "extractedAt": 1792063671040
+        "sourceHash": "4bd021f1706d79d1f1bd84ec841c92df9ff5f87b2d964cdd582247e45a410cba",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528233,8 +529103,8 @@
         "steps": [],
         "example": "Use the following questions in whatever order the task needs. They are prompts for reasoning, not mandatory stages or files.",
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-agent-pipeline/SKILL.md",
-        "sourceHash": "776e985fa77b2d570d1dbdff6e99d18ef91cd5bec15ea716a006f86022274beb",
-        "extractedAt": 1792063672953
+        "sourceHash": "41ef1a808ed43c81cc6b462de59b8e3db16f607e2610a75cc5eae1d09eefbb2f",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528277,8 +529147,8 @@
         "trigger": "Use when reviewing mathematical validity, evidence, reproducibility, figures or a submission draft.",
         "steps": [],
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-award-gates/SKILL.md",
-        "sourceHash": "3aebadb6a82c521a077c8be2714f538aace04f5a75538badee1cc0c91f8282e1",
-        "extractedAt": 1792063672953
+        "sourceHash": "a89a91c95d8e722fb368990ccefed6f618e12123f5e05ad3a5ce70675a7bfc64",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528321,8 +529191,8 @@
         "trigger": "Use when checking skill metadata, references or repository boundaries, or preparing an explicitly requested skills release.",
         "steps": [],
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-dev-test-release/SKILL.md",
-        "sourceHash": "a40d38de292f47b3f1cbf91c39f4d87132a313c42c836ce0684a45cbfd6c8cb6",
-        "extractedAt": 1792063672954
+        "sourceHash": "d04a113546f4ee70b0bd15596ca29c02676e1f31efdf812fa1814c64a4206610",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528365,8 +529235,8 @@
         "trigger": "Use when finding literature, datasets, domain facts, citation details or licensed figure references.",
         "steps": [],
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-evidence-search/SKILL.md",
-        "sourceHash": "2842d67dd34b59cda62a06145ff30816f5e7cd78e96ce6fce6539d8b119e9133",
-        "extractedAt": 1792063672954
+        "sourceHash": "c572007b2bfbf39fdee5eb55140a5e7a3eab897004464a4c17a9b8cc17ee3f37",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528408,10 +529278,10 @@
         "summary": "Use when selecting, designing, generating or reviewing scientific figures, complex modeling charts, paper illustrations or image2-assisted visuals.",
         "trigger": "Use when selecting, designing, generating or reviewing scientific figures, complex modeling charts, paper illustrations or image2-assisted visuals.",
         "steps": [],
-        "example": "python3 .claude/skills/mathodology-figure-presets/scripts/renderexamples.py --output work/figure-examples",
+        "example": "python3 .claude/skills/mathodology-figure-presets/scripts/renderexamples.py --output work/figure-examples python3 .claude/skills/mathodology-figure-presets/scripts/renderadvancedexamples.py --output work/figure-examples-advanced",
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-figure-presets/SKILL.md",
-        "sourceHash": "0340786508b7e4e1429ae85b334100a81d963cf3a573f8701274417276f23cee",
-        "extractedAt": 1792063672954
+        "sourceHash": "a183c6a2c20065288230b6e86190f32c7bb0e83beec324459210154670a3133c",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528454,8 +529324,8 @@
         "trigger": "Use when maintaining the skills-only repository or checking whether a change belongs here.",
         "steps": [],
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-project-orientation/SKILL.md",
-        "sourceHash": "fe7afbaf748e354515464860f3703241064fcce426ffd75f060f7f511cffcf12",
-        "extractedAt": 1792063672954
+        "sourceHash": "8f57cf7bbd9b793d302df365b9025bcd47efc0e53a6cb35855e6da3bee5b6ee5",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528498,8 +529368,8 @@
         "trigger": "Use when adding, editing or reviewing skills, role prompts or skill metadata.",
         "steps": [],
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-skill-authoring/SKILL.md",
-        "sourceHash": "3fea84c4e6d9cfd344a8ebab46e9cf658424083bcfc2f8db98e3a65b91f3de62",
-        "extractedAt": 1792063672955
+        "sourceHash": "2884214e92dfb7b41a3529466aacc2cce967c118960faa8f1ddc9c497005b1f3",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -528542,8 +529412,8 @@
         "trigger": "Use when starting a modeling task or installing, backing up or maintaining the skills pack.",
         "steps": [],
         "sourceUrl": "https://github.com/sweetcornna/mathodology/blob/HEAD/.claude/skills/mathodology-whole-project/SKILL.md",
-        "sourceHash": "b860b98d15c168f22e60ffdc7b6f388044824b4354c6a0fb74609907e08b79a9",
-        "extractedAt": 1792063672955
+        "sourceHash": "ca3333655c763f99029be3bb1879a9a7da20d0ecafbd5274d11e43fa8b960cec",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -530097,8 +530967,8 @@
         "summary": "Use this skill first for any Jetpack Compose or Compose Multiplatform task: a new feature or screen, a change to existing code, a bug fix, a review, making code follow the kit, project or build setup, or a question. It picks the task path and the exact kit files to read. Not for Kotlin work outside a Compose or CMP app.",
         "steps": [],
         "sourceUrl": "https://github.com/Meet-Miyani/compose-skill/blob/HEAD/skills/compose/SKILL.md",
-        "sourceHash": "f5704eb8a64f1be865ed3e81224d0e8827f4c963728d273fb8105ea7a8a8df6c",
-        "extractedAt": 1792063677058
+        "sourceHash": "944464fc20b104dcc1df92dc68960acbc2d17c496e648d10511f9796b28d2608",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -530247,8 +531117,8 @@
           "[ ] Enumerate lifecycle and concurrency cases: cold load vs reconcile, overlapping loads, process-death restore of a deep destination."
         ],
         "sourceUrl": "https://github.com/Meet-Miyani/compose-skill/blob/HEAD/skills/compose-feature/SKILL.md",
-        "sourceHash": "a9c405343f7fc89792c1ea549c14c4b4fd5ef45ea61acaa0872b71e8a5968a9f",
-        "extractedAt": 1792063677056
+        "sourceHash": "c26b8481bb43936ea30d14517a58c2ddf6f3760a435fdb8f5ecf44e6cb14355e",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -530396,8 +531266,8 @@
           "[ ] Inventory the design-system module for components, formatters, and tokens before writing anything."
         ],
         "sourceUrl": "https://github.com/Meet-Miyani/compose-skill/blob/HEAD/skills/compose-ui/SKILL.md",
-        "sourceHash": "e790cfe3ecd3b2f43dfb60f7dbd6146856fad2574333f7691ddc174e242aa598",
-        "extractedAt": 1792063677058
+        "sourceHash": "ce624d60ab3c62a5704f2e2fe8b4d8050f8c191366d120ddf65f08afad30f3ac",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -531317,15 +532187,15 @@
         "trigger": "Use this skill when:；Creating or scaffolding a new Cecil site",
         "steps": [
           "Download Cecil using curl:",
-          "If PHP is not available, use the standalone binary for the platform instead (e.g.: cecil-linux-x64, cecil-macos-arm64, cecil-windows-x64.exe from the latest GitHub release), and replace php cecil.phar with ./cecil in…",
-          "Use the new:site command to scaffold a new website:",
-          "Edit cecil.yml:",
-          "Create a page with:",
-          "Then edit the generated file in pages/:"
+          "Requirements: PHP 8.3+ with the fileinfo, gd and mbstring extensions (optional: intl to localize dates in a locale other than en, curl for doctor:links external checks, imagick for better image processing). If the CLI…",
+          "If PHP is not available, use the standalone binary for the platform instead (cecil-linux-x64, cecil-linux-arm64, cecil-macos-x64, cecil-macos-arm64, cecil-windows-x64.exe), and replace php cecil.phar with ./cecil in the…",
+          "If Cecil is already installed globally (Homebrew brew install cecilapp/tap/cecil, Scoop, PHIVE or composer global require cecil/cecil), run cecil instead of php cecil.phar (check with cecil --version); it is updated…",
+          "Use the new:site command to scaffold a new website. It asks questions (title, baseline, base URL, author, language, GitHub Pages workflow, etc.) and creates cecil.yml, pages/index.md, a README.md and a .gitignore: in a…",
+          "Starter kits are an alternative for a full site (Cecilapp/the-butler blog, Cecilapp/statidocs documentation, etc.): see https://cecil.app/starter-kits/."
         ],
         "sourceUrl": "https://github.com/Cecilapp/Cecil/blob/HEAD/skills/cecil/SKILL.md",
-        "sourceHash": "ebaa91f9ce75e9e954c2ed40c9d0f6d8415aa0f060b557bab8c441bef37354ba",
-        "extractedAt": 1792063680777
+        "sourceHash": "0398728900f4728e3958885f72213d9dcb724715258f19e457415008ab20a059",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -531368,15 +532238,15 @@
         "trigger": "Use this skill when:；Creating a new Cecil theme from scratch, or turning a site's layouts/ into a reusable theme",
         "steps": [
           "Always include partials/metatags.html.twig in the of every HTML base layout, and never hand-write , description, canonical, Open Graph or Twitter tags next to it (they would be duplicated). Since it replaces the theme's…",
-          "Reuse the other Cecil built-in partials instead of re-implementing them: partials/paginator.html.twig, partials/navigation.html.twig, partials/breadcrumb.html.twig, partials/languages.html.twig,…",
-          "Pre-wire optional component themes with ignoremissing = true so the theme works whether they are installed or not.",
-          "Pass an isolated context (withcontext = false) to partials that only need site/page.",
-          "Use static/ for files that must keep their name and not be processed: favicon.ico, web fonts, robots.txt overrides, etc. Link them with url('favicon.ico').",
-          "Leave minification and fingerprinting to the site config (assets.minify, assets.fingerprint) rather than forcing them in templates."
+          "Metatags already links the favicons (favicon.svg, favicon.png resized, favicon.ico, from assets or static) and outputs JSON-LD as a linked graph (WebSite, WebPage, BreadcrumbList, BlogPosting…) when metatags.data is…",
+          "Twig autoescape is disabled by default (layouts.autoescape: false): {{ page.content }} needs no |raw, but escape values printed in attributes (alt=\"{{ page.title|e('htmlattr') }}\"), and don't rely on autoescaping for…",
+          "Reuse the other Cecil built-in partials instead of re-implementing them: partials/paginator.html.twig, partials/navigation.html.twig (expects a menu variable, and optionally page to mark the current entry with…",
+          "Code highlighting: when replacing default/page.html.twig, keep the code blocks styled, e.g. {{ include('partials/highlight.css.twig') }} when config.pages.body.highlight is enabled, or ship CSS for both engines' classes…",
+          "Markdown output hooks: style the empty link added to h2/h3 headings (see pages.body.anchors, e.g. a # on hover) and use the data-lang attribute of code blocks (e.g. a language label)."
         ],
         "sourceUrl": "https://github.com/Cecilapp/Cecil/blob/HEAD/skills/cecil-theme/SKILL.md",
-        "sourceHash": "f2fb2e18ff7da0f81e084d5c2b955472931e740ac4187b0f4c293f4f86819790",
-        "extractedAt": 1792063680776
+        "sourceHash": "11c5d136762b3722c854ebdcda1b7bdc708a5340159eb22d5ae964959d67012b",
+        "extractedAt": 1794695011617
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -622180,6 +623050,381 @@
       "sourceId": "pliablepixels-gap-trap"
     },
     {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-office-files",
+      "name": "office-files",
+      "titleZh": "office-files",
+      "description": "Skill suite for creating, editing, and analyzing Office files (docx, pdf, pptx, xlsx).",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/office-files",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Identify Format: Determine the file type from user request or file extension",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Skill suite for creating, editing, and analyzing Office files (docx, pdf, pptx, xlsx).",
+        "steps": [
+          "Identify Format: Determine the file type from user request or file extension",
+          "Load Sub-Skill: Read the appropriate [format]/SKILL.md",
+          "Execute: Follow the sub-skill's workflow"
+        ],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/office-files/SKILL.md",
+        "sourceHash": "8df1d553d4ac1fafa774fd5316c442da557b31e7f9f87689d7a09e30e075bfe7",
+        "extractedAt": 1794695005210
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-office-files-docx",
+      "name": "docx",
+      "titleZh": "docx",
+      "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/office-files/docx",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "MANDATORY - READ ENTIRE FILE: Read docx-js.md (500 lines) completely from start to finish. NEVER set any range limits when reading this file. Read the full file content for detailed syntax, critical formatting rules,…",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction.",
+        "steps": [
+          "MANDATORY - READ ENTIRE FILE: Read docx-js.md (500 lines) completely from start to finish. NEVER set any range limits when reading this file. Read the full file content for detailed syntax, critical formatting rules,…",
+          "Create a JavaScript/TypeScript file using Document, Paragraph, TextRun components (You can assume all dependencies are installed, but if not, refer to the dependencies section below)",
+          "Export as .docx using Packer.toBuffer()",
+          "MANDATORY - READ ENTIRE FILE: Read ooxml.md (600 lines) completely from start to finish. NEVER set any range limits when reading this file. Read the full file content for the Document library API and XML patterns for…",
+          "Unpack the document: python ooxml/scripts/unpack.py",
+          "Create and run a Python script using the Document library (see \"Document Library\" section in ooxml.md)"
+        ],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/office-files/docx/SKILL.md",
+        "sourceHash": "1f4285082b069462c963fc2857c95d5b7af6c8be51d18abd95e1902cce830769",
+        "extractedAt": 1794695005211
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-office-files-pdf",
+      "name": "pdf",
+      "titleZh": "pdf",
+      "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/office-files/pdf",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "For advanced pypdfium2 usage, see reference.md",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.",
+        "steps": [
+          "For advanced pypdfium2 usage, see reference.md",
+          "For JavaScript libraries (pdf-lib), see reference.md",
+          "If you need to fill out a PDF form, follow the instructions in forms.md",
+          "For troubleshooting guides, see reference.md"
+        ],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/office-files/pdf/SKILL.md",
+        "sourceHash": "88c80f02450232c9a389228ec99ac6ea109bc72cee4a942f8be1163f5b9b7253",
+        "extractedAt": 1794695005211
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-office-files-pptx",
+      "name": "pptx",
+      "titleZh": "pptx",
+      "description": "Presentation creation, editing, and analysis for .pptx files.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/office-files/pptx",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "MANDATORY - READ ENTIRE FILE: Read html2pptx.md completely from start to finish. NEVER set any range limits when reading this file. Read the full file content for detailed syntax, critical formatting rules, and best…",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Presentation creation, editing, and analysis for .pptx files.",
+        "steps": [
+          "MANDATORY - READ ENTIRE FILE: Read html2pptx.md completely from start to finish. NEVER set any range limits when reading this file. Read the full file content for detailed syntax, critical formatting rules, and best…",
+          "Create an HTML file for each slide with proper dimensions (e.g., 720pt × 405pt for 16:9)",
+          "Use , -, , for all text content",
+          "Use class=\"placeholder\" for areas where charts/tables will be added (render with gray background for visibility)",
+          "CRITICAL: Rasterize gradients and icons as PNG images FIRST using Sharp, then reference in HTML",
+          "LAYOUT: For slides with charts/tables/images, use either full-slide layout or two-column layout for better readability"
+        ],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/office-files/pptx/SKILL.md",
+        "sourceHash": "20e1b288d186694f978e7a1dbda3841b97b9812b778f4d7ca8dd60e60b77aa7f",
+        "extractedAt": 1794695005212
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-office-files-xlsx",
+      "name": "xlsx",
+      "titleZh": "xlsx",
+      "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/office-files/xlsx",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Choose tool: pandas for data, openpyxl for formulas/formatting",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.",
+        "steps": [
+          "Choose tool: pandas for data, openpyxl for formulas/formatting",
+          "Create/Load: Create new workbook or load existing file",
+          "Modify: Add/edit data, formulas, and formatting",
+          "Save: Write to file",
+          "Recalculate formulas (MANDATORY IF USING FORMULAS): Use the recalc.py script",
+          "Verify and fix any errors:"
+        ],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/office-files/xlsx/SKILL.md",
+        "sourceHash": "78cc18819d87394e675f4403994a644ced6fbe1c86c182e091c63f49a3782dad",
+        "extractedAt": 1794695005213
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-resume-diagnosis",
+      "name": "resume-diagnosis",
+      "titleZh": "resume-diagnosis",
+      "description": "对已加载简历做一次有证据、只读的全面诊断。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/resume-diagnosis",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "对已加载简历做一次有证据、只读的全面诊断。",
+        "steps": [],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/resume-diagnosis/SKILL.md",
+        "sourceHash": "97d21c5f7b85d3aaae49339476e48382527ed967c68b3e35d4d28bd617b323d7",
+        "extractedAt": 1794695005213
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-backend-agent-skills-resume-suggest",
+      "name": "resume-suggest",
+      "titleZh": "resume-suggest",
+      "description": "把同一次简历评估转为字段级、只读的修改建议。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "backend/agent/skills/resume-suggest",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "把同一次简历评估转为字段级、只读的修改建议。",
+        "steps": [],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/backend/agent/skills/resume-suggest/SKILL.md",
+        "sourceHash": "f795651fd2095463d26c2e3d64875a0476ef63b466097399e1242afc2be5ab29",
+        "extractedAt": 1794695005214
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
+      "id": "wycocoyu-resume-agent-skills-resume-agent",
+      "name": "resume-agent",
+      "titleZh": "resume-agent",
+      "description": "Create, edit, validate, and render Resume-Agent JSON resumes into local XeLaTeX PDFs, or sync resumes with the Resume-Agent Web workspace via the resume-agent CLI. Use when the user asks to draft a new resume, tailor or update a ResumeData JSON file, export a resume PDF locally, or pull and push resumes to Resume-Agent.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "wycocoyu",
+        "url": "https://github.com/wycocoyu",
+        "verified": false,
+        "avatar": "https://github.com/wycocoyu.png"
+      },
+      "gitUrl": "https://github.com/wycocoyu/Resume-Agent",
+      "subPath": "skills/resume-agent",
+      "stars": 181,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 181,
+        "forks": 2,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Create, edit, validate, and render Resume-Agent JSON resumes into local XeLaTeX PDFs, or sync resumes with the Resume-Agent Web workspace via the resume-agent CLI. Use when the user asks to draft a new resume, tailor or update a ResumeData JSON file, export a resume PDF locally, or pull and push resumes to Resume-Agent.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Create, edit, validate, and render Resume-Agent JSON resumes into local XeLaTeX PDFs, or sync resumes with the Resume-Agent Web workspace via the resume-agent CLI. Use when the user asks to draft a new resume, tailor or update a ResumeData JSON file, export a resume PDF locally, or pull and push resumes to Resume-Agent.",
+        "trigger": "Create, edit, validate, and render Resume-Agent JSON resumes into local XeLaTeX PDFs, or sync resumes with the Resume-Agent Web workspace via the resume-agent CLI. Use when the user asks to draft a new resume, tailor or update a ResumeData JSON file, export a resume PDF locally, or pull and push resumes to Resume-Agent.",
+        "steps": [],
+        "sourceUrl": "https://github.com/wycocoyu/Resume-Agent/blob/HEAD/skills/resume-agent/SKILL.md",
+        "sourceHash": "2c779f230b4a808f8b61f1badc3d183099b07396294c4e3e398c0a97c68adb05",
+        "extractedAt": 1794695005214
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "wycocoyu-resume-agent"
+    },
+    {
       "id": "finderchangchang-brewreel-root",
       "name": "brewreel",
       "titleZh": "brewreel",
@@ -623205,6 +624450,221 @@
       "sourceId": "smnandre-symfony-ux-skills"
     },
     {
+      "id": "yeje-cpu-easy-jianying-skills-jyr-batch",
+      "name": "jyr-batch",
+      "titleZh": "jyr-batch",
+      "description": "批量出剪映草稿——一个模板计划 × 一张表（CSV/JSON），每行生成一个草稿（换标题/素材/颜色/时长）。当用户说\"批量做草稿 / 批量剪映 / 一个模板套 N 条 / 系列视频统一包装\"时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "YeJe-cpu",
+        "url": "https://github.com/YeJe-cpu",
+        "verified": false,
+        "avatar": "https://github.com/YeJe-cpu.png"
+      },
+      "gitUrl": "https://github.com/YeJe-cpu/easy-jianying",
+      "subPath": "skills/jyr-batch",
+      "stars": 180,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 180,
+        "forks": 62,
+        "lastCommitDaysAgo": 12,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "批量出剪映草稿——一个模板计划 × 一张表（CSV/JSON），每行生成一个草稿（换标题/素材/颜色/时长）。当用户说\"批量做草稿 / 批量剪映 / 一个模板套 N 条 / 系列视频统一包装\"时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/YeJe-cpu/easy-jianying/blob/HEAD/skills/jyr-batch/SKILL.md",
+        "sourceHash": "af71c815ef5f264884be8afd4ac342d5a34cfbc5ab198b76681357dbf8c9b0a2",
+        "extractedAt": 1794695006018
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "yeje-cpu-easy-jianying"
+    },
+    {
+      "id": "yeje-cpu-easy-jianying-skills-jyr-beats",
+      "name": "jyr-beats",
+      "titleZh": "jyr-beats",
+      "description": "卡点——识别音乐节拍（本地，纯 numpy），把一组视频/图片按拍切成剪映草稿，并在音乐上打好剪映原生\"踩点\"标记。当用户说\"卡点 / 踩点 / 按节奏剪 / 音乐卡点视频\"时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "YeJe-cpu",
+        "url": "https://github.com/YeJe-cpu",
+        "verified": false,
+        "avatar": "https://github.com/YeJe-cpu.png"
+      },
+      "gitUrl": "https://github.com/YeJe-cpu/easy-jianying",
+      "subPath": "skills/jyr-beats",
+      "stars": 180,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 180,
+        "forks": 62,
+        "lastCommitDaysAgo": 12,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "卡点——识别音乐节拍（本地，纯 numpy），把一组视频/图片按拍切成剪映草稿，并在音乐上打好剪映原生\"踩点\"标记。当用户说\"卡点 / 踩点 / 按节奏剪 / 音乐卡点视频\"时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/YeJe-cpu/easy-jianying/blob/HEAD/skills/jyr-beats/SKILL.md",
+        "sourceHash": "0b10ee30bb72a850632b671407a11d7402e35ab276781a73ad09e8e856d39fe8",
+        "extractedAt": 1794695006019
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "yeje-cpu-easy-jianying"
+    },
+    {
+      "id": "yeje-cpu-easy-jianying-skills-jyr-draft",
+      "name": "jyr-draft",
+      "titleZh": "jyr-draft",
+      "description": "用代码生成剪映专业版 / CapCut 国际版(macOS) 草稿并放到首页。多轨、切碎、变速、转场、关键帧、画中画、文字与识别字幕、贴纸、特效滤镜、BGM 淡入淡出、踩点；读 / 改 CapCut 草稿副本。草稿在剪映 / CapCut 里打开、微调、导出。当用户说\"用代码做剪映草稿 / 生成剪映工程 / 把素材拼进剪映 / 做 CapCut 草稿 / 剪映升级了\"时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "YeJe-cpu",
+        "url": "https://github.com/YeJe-cpu",
+        "verified": false,
+        "avatar": "https://github.com/YeJe-cpu.png"
+      },
+      "gitUrl": "https://github.com/YeJe-cpu/easy-jianying",
+      "subPath": "skills/jyr-draft",
+      "stars": 180,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 180,
+        "forks": 62,
+        "lastCommitDaysAgo": 12,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "用代码生成剪映专业版 / CapCut 国际版(macOS) 草稿并放到首页。多轨、切碎、变速、转场、关键帧、画中画、文字与识别字幕、贴纸、特效滤镜、BGM 淡入淡出、踩点；读 / 改 CapCut 草稿副本。草稿在剪映 / CapCut 里打开、微调、导出。当用户说\"用代码做剪映草稿 / 生成剪映工程 / 把素材拼进剪映 / 做 CapCut 草稿 / 剪映升级了\"时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/YeJe-cpu/easy-jianying/blob/HEAD/skills/jyr-draft/SKILL.md",
+        "sourceHash": "aa6e428acdeb4288336138cd9c56abff2a509f17d779d4b854261a262658b9a0",
+        "extractedAt": 1794695006019
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "yeje-cpu-easy-jianying"
+    },
+    {
+      "id": "yeje-cpu-easy-jianying-skills-jyr-roughcut",
+      "name": "jyr-roughcut",
+      "titleZh": "jyr-roughcut",
+      "description": "口播粗剪——把一条口播原片自动剪掉气口停顿、口癖、结巴、说错重来的半句，输出剪映草稿（A-roll 切碎在一条轨上 + 重新对齐的字幕）。规则先剪一遍，再由 Agent 读句子做语义取舍。当用户说\"粗剪 / 口播粗剪 / 剪气口 / 去口癖 / 把这条口播剪干净放进剪映\"时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "YeJe-cpu",
+        "url": "https://github.com/YeJe-cpu",
+        "verified": false,
+        "avatar": "https://github.com/YeJe-cpu.png"
+      },
+      "gitUrl": "https://github.com/YeJe-cpu/easy-jianying",
+      "subPath": "skills/jyr-roughcut",
+      "stars": 180,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 180,
+        "forks": 62,
+        "lastCommitDaysAgo": 12,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "口播粗剪——把一条口播原片自动剪掉气口停顿、口癖、结巴、说错重来的半句，输出剪映草稿（A-roll 切碎在一条轨上 + 重新对齐的字幕）。规则先剪一遍，再由 Agent 读句子做语义取舍。当用户说\"粗剪 / 口播粗剪 / 剪气口 / 去口癖 / 把这条口播剪干净放进剪映\"时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/YeJe-cpu/easy-jianying/blob/HEAD/skills/jyr-roughcut/SKILL.md",
+        "sourceHash": "b78c0f62645f8a819626c49e27f3cbd1fe58c4fa806296bfc1d1bf9b2a0857c7",
+        "extractedAt": 1794695006019
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "yeje-cpu-easy-jianying"
+    },
+    {
+      "id": "yeje-cpu-easy-jianying-skills-jyr-subtitles",
+      "name": "jyr-subtitles",
+      "titleZh": "jyr-subtitles",
+      "description": "字幕贴语音——把视频/音频里的话自动识别成剪映\"识别字幕\"（逐字时间轴、可在剪映里批量改样式），本地运行、不上传；或导入现成 SRT。当用户说\"上字幕 / 加字幕 / 自动字幕 / 识别字幕 / 把这个视频配上字幕放进剪映\"时使用。",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "YeJe-cpu",
+        "url": "https://github.com/YeJe-cpu",
+        "verified": false,
+        "avatar": "https://github.com/YeJe-cpu.png"
+      },
+      "gitUrl": "https://github.com/YeJe-cpu/easy-jianying",
+      "subPath": "skills/jyr-subtitles",
+      "stars": 180,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 180,
+        "forks": 62,
+        "lastCommitDaysAgo": 12,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "字幕贴语音——把视频/音频里的话自动识别成剪映\"识别字幕\"（逐字时间轴、可在剪映里批量改样式），本地运行、不上传；或导入现成 SRT。当用户说\"上字幕 / 加字幕 / 自动字幕 / 识别字幕 / 把这个视频配上字幕放进剪映\"时使用。",
+        "steps": [],
+        "sourceUrl": "https://github.com/YeJe-cpu/easy-jianying/blob/HEAD/skills/jyr-subtitles/SKILL.md",
+        "sourceHash": "1ad01011a862baf3225678064d936e80ff5bc4685a9996af3c64ad1214bc143f",
+        "extractedAt": 1794695006019
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "yeje-cpu-easy-jianying"
+    },
+    {
       "id": "yusuke710-manim-skill-skills-manim-skill",
       "name": "manim-skill",
       "titleZh": "manim-skill",
@@ -623481,6 +624941,364 @@
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "appautomaton-document-skills"
+    },
+    {
+      "id": "kairyou-agent-tools-capabilities-usage-skills-at-usage",
+      "name": "at-usage",
+      "titleZh": "at-usage",
+      "description": "Query and display the current API provider balance and recent usage.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "capabilities/usage/skills/at-usage",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Query and display the current API provider balance and recent usage.",
+        "steps": [],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/capabilities/usage/skills/at-usage/SKILL.md",
+        "sourceHash": "1d435ecc2d2edc565e3738eaabc82b26890013a3b7dc871639567ced4aaa9996",
+        "extractedAt": 1794695006890
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-capabilities-vision-skills-at-vision",
+      "name": "at-vision",
+      "titleZh": "at-vision",
+      "description": "Inspect screenshots, photos, diagrams, image paths, and image URLs when the task depends on visible content. Use when the prompt lacks actual image content, native inspection fails, or the user requests inspect_image; prefer the MCP tool, then the installed CLI.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "capabilities/vision/skills/at-vision",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Inspect screenshots, photos, diagrams, image paths, and image URLs when the task depends on visible content. Use when the prompt lacks actual image content, native inspection fails, or the user requests inspectimage; prefer the MCP tool, then the installed CLI.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Inspect screenshots, photos, diagrams, image paths, and image URLs when the task depends on visible content. Use when the prompt lacks actual image content, native inspection fails, or the user requests inspectimage; prefer the MCP tool, then the installed CLI.",
+        "trigger": "Inspect screenshots, photos, diagrams, image paths, and image URLs when the task depends on visible content. Use when the prompt lacks actual image content, native inspection fails, or the user requests inspectimage; prefer the MCP tool, then the installed CLI.",
+        "steps": [],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/capabilities/vision/skills/at-vision/SKILL.md",
+        "sourceHash": "733212fd2e069d428b9c6ba093b06810b1acfa0dd92e4cb9bf476d203b543f08",
+        "extractedAt": 1794695006891
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-skills-systems-at-zentao",
+      "name": "at-zentao",
+      "titleZh": "at-zentao",
+      "description": "Handle ZenTao (禅道) Bugs and Tasks end to end, including updating or writing back an item after code changes, managing Task status and hours, and reading linked Stories. Use for referenced ZenTao items, requirements, status changes, time entries, or post-implementation synchronization.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "skills/systems/at-zentao",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Fetch details — use the CLI get command. Review every returned comment, including comments attached to resolution, activation, and lifecycle actions. Read every downloaded image now so screenshots inform the fix. If no…",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Handle ZenTao (禅道) Bugs and Tasks end to end, including updating or writing back an item after code changes, managing Task status and hours, and reading linked Stories. Use for referenced ZenTao items, requirements, status changes, time entries, or post-implementation synchronization.",
+        "steps": [
+          "Fetch details — use the CLI get command. Review every returned comment, including comments attached to resolution, activation, and lifecycle actions. Read every downloaded image now so screenshots inform the fix. If no…",
+          "Restate and confirm — explain the problem and intended fix in your own words. Ask before editing when the item is ambiguous.",
+          "Locate the code — search the current project and explain how the relevant code was identified.",
+          "Fix — change only what this item requires.",
+          "Verify — run the narrowest meaningful test, build, or typecheck. Reproduce a code-observable bug before and after when practical. For visual changes, state what was checked and what still needs the user's eyes. Stop on…",
+          "Stage — first inspect git diff --staged --name-only. If unrelated files are staged, stop and ask how to handle them. Otherwise stage only files for this item by explicit path; never use git add -A."
+        ],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/skills/systems/at-zentao/SKILL.md",
+        "sourceHash": "b538103670e5d3dcdba873964f15ff981492f2449c6529efddccbcb550016517",
+        "extractedAt": 1794695006891
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-skills-workflow-at-commit",
+      "name": "at-commit",
+      "titleZh": "at-commit",
+      "description": "Generate a Conventional Commits message from staged changes and wait for confirmation before committing. Use when the user asks to commit or generate a commit message.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "skills/workflow/at-commit",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Generate a Conventional Commits message from staged changes and wait for confirmation before committing. Use when the user asks to commit or generate a commit message.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Generate a Conventional Commits message from staged changes and wait for confirmation before committing. Use when the user asks to commit or generate a commit message.",
+        "trigger": "Generate a Conventional Commits message from staged changes and wait for confirmation before committing. Use when the user asks to commit or generate a commit message.",
+        "steps": [
+          "Run git diff --staged to inspect staged changes. If it is empty, tell the user to run git add first and stop.",
+          "Determine the description language using the Language Policy below.",
+          "Generate the message(s) and show them for confirmation; do not commit immediately. When more than one framing is reasonable, present them as a short numbered list (1), 2), …) so the user can pick by replying with just…",
+          "Run git commit -m only after the user picks or explicitly confirms — a number from the list, \"commit\", or \"ok\" all count. Do not run git push unless the user explicitly asks."
+        ],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/skills/workflow/at-commit/SKILL.md",
+        "sourceHash": "b7761adc395688984aa945c7bba296d95fd00778b1cc72751212e0ef8586804e",
+        "extractedAt": 1794695006892
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-skills-workflow-at-daily-log",
+      "name": "at-daily-log",
+      "titleZh": "at-daily-log",
+      "description": "Summarize each day's Git activity into a concise daily work log, for a single date or a range. Uses the current repository, optional configured work projects, or paths named in conversation; configuration is never required.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "skills/workflow/at-daily-log",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Summarize each day's Git activity into a concise daily work log, for a single date or a range. Uses the current repository, optional configured work projects, or paths named in conversation; configuration is never required.",
+        "steps": [],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/skills/workflow/at-daily-log/SKILL.md",
+        "sourceHash": "d25a18281c3caf6b43c1ca8a3a475300b2cc5a5b4d3bfd5f936e9e7f02269a53",
+        "extractedAt": 1794695006893
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-skills-workflow-at-review",
+      "name": "at-review",
+      "titleZh": "at-review",
+      "description": "Review code changes for bugs, regressions, convention violations, and high-value cleanup opportunities. Use for diffs, commit ranges, hosted PR/MR URLs, branches, paths, staged changes, or working-tree changes.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "skills/workflow/at-review",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Review code changes for bugs, regressions, convention violations, and high-value cleanup opportunities. Use for diffs, commit ranges, hosted PR/MR URLs, branches, paths, staged changes, or working-tree changes.",
+        "steps": [],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/skills/workflow/at-review/SKILL.md",
+        "sourceHash": "c164b4f8d24f24168170481326f63efaa55f7f6f3c2ac7cf76ce33c840d9859e",
+        "extractedAt": 1794695006893
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-skills-workflow-at-self-eval",
+      "name": "at-self-eval",
+      "titleZh": "at-self-eval",
+      "description": "Summarize a contributor's Git history, a provided work log, or both into a concise, review-friendly self-evaluation for quarterly, semi-annual, or promotion cycles.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "skills/workflow/at-self-eval",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Summarize a contributor's Git history, a provided work log, or both into a concise, review-friendly self-evaluation for quarterly, semi-annual, or promotion cycles.",
+        "steps": [],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/skills/workflow/at-self-eval/SKILL.md",
+        "sourceHash": "30da1c56f181b324f467427132aaeae04f42b62418dc8565724c416b4afca8ac",
+        "extractedAt": 1794695006893
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
+    },
+    {
+      "id": "kairyou-agent-tools-skills-workflow-at-simplify",
+      "name": "at-simplify",
+      "titleZh": "at-simplify",
+      "description": "Refactor changed code to reduce duplication, complexity, and wasted work. Use for diffs, commit ranges, PRs, paths, staged changes, or working-tree changes.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "kairyou",
+        "url": "https://github.com/kairyou",
+        "verified": false,
+        "avatar": "https://github.com/kairyou.png"
+      },
+      "gitUrl": "https://github.com/kairyou/agent-tools",
+      "subPath": "skills/workflow/at-simplify",
+      "stars": 179,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 179,
+        "forks": 0,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Refactor changed code to reduce duplication, complexity, and wasted work. Use for diffs, commit ranges, PRs, paths, staged changes, or working-tree changes.",
+        "steps": [],
+        "sourceUrl": "https://github.com/kairyou/agent-tools/blob/HEAD/skills/workflow/at-simplify/SKILL.md",
+        "sourceHash": "1fa0426e12991cc123c62be9d5ba6291cdaed9b3b92818cc230c00ac3885a3f2",
+        "extractedAt": 1794695006894
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "kairyou-agent-tools"
     },
     {
       "id": "margelo-react-native-skills-skills-api-design",
@@ -628611,6 +630429,49 @@
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "wednesday-solutions-ai-agent-skills"
+    },
+    {
+      "id": "fullbleed-engine-fullbleed-official-skills-fullbleed",
+      "name": "fullbleed",
+      "titleZh": "fullbleed",
+      "description": "Use Fullbleed PDF Engine to create or modify document-generation projects for PDFs, reports, invoices, statements, forms, certificates, letters, accessible PDF/PDF-UA, archival PDF/PDF-A, print-ready PDF/PDF-X, transactional output, and fixed or reflowing variable-data/VDP jobs from structured content using Python and HTML/CSS. Trigger for agent-authored print documents, deterministic PDF workflows, existing PDF-template overlays, preview/inspection, validation, or compiled high-volume output; do not trigger merely to screenshot or automate an arbitrary live website.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "fullbleed-engine",
+        "url": "https://github.com/fullbleed-engine",
+        "verified": false,
+        "avatar": "https://github.com/fullbleed-engine.png"
+      },
+      "gitUrl": "https://github.com/fullbleed-engine/fullbleed-official",
+      "subPath": "skills/fullbleed",
+      "stars": 171,
+      "halowakeScore": 92,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 171,
+        "forks": 6,
+        "lastCommitDaysAgo": 7,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use Fullbleed PDF Engine to create or modify document-generation projects for PDFs, reports, invoices, statements, forms, certificates, letters, accessible PDF/PDF-UA, archival PDF/PDF-A, print-ready PDF/PDF-X, transactional output, and fixed or reflowing variable-data/VDP jobs from structured content using Python and HTML/CSS. Trigger for agent-authored print documents, deterministic PDF…",
+        "steps": [],
+        "sourceUrl": "https://github.com/fullbleed-engine/fullbleed-official/blob/HEAD/skills/fullbleed/SKILL.md",
+        "sourceHash": "6905e110c8f42fd1d3f44ec507c2e14ed0cf07c901f806d1525926767fc61af8",
+        "extractedAt": 1794695011588
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "fullbleed-engine-fullbleed-official"
     },
     {
       "id": "redis-agent-skills-plugins-redis-development-skills-iris-development",
