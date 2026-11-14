@@ -60043,8 +60043,8 @@
           "When music is selected, include a compact Music cue guidance section: read the bundled track's cue preset from /assets/music/cues/ if present, otherwise note cues will be detected at composition time (any track now…"
         ],
         "sourceUrl": "https://github.com/latent-spaces/brag/blob/HEAD/skills/brag/SKILL.md",
-        "sourceHash": "4cd47d39c35bbc70d99ad6ad76aaae7b15b84f14721cf94fd65417fd51658cae",
-        "extractedAt": 1792083608922
+        "sourceHash": "db8e65608a61a28ac051eec42d4c23ef2a01bae92112d0735f1b08cd45569711",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -60087,8 +60087,8 @@
         "trigger": "Turn a project directory or a website URL into a short, shareable launch video with music, motion, and share copy. One file, no bundled assets — built entirely by the model with the tools already on the machine. Use when someone says \"/brag-slim\", \"let's /brag about this\", \"brag about a website\", \"make a launch video\", or wants to show off what they built. If the /brag skill is also installed,…",
         "steps": [],
         "sourceUrl": "https://github.com/latent-spaces/brag/blob/HEAD/skills/brag-slim/SKILL.md",
-        "sourceHash": "3079af81f4239682fb2d1d6a1a008f1542b20bee8a3ceb06030e2fcae38b2e29",
-        "extractedAt": 1792083608921
+        "sourceHash": "42f58aa8a2e0c0c1aa5b072ae77fd2674ccca699f8ecb01e97713e1eb56749af",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -69093,12 +69093,12 @@
       "howToUse": "时长：最适合 5–60 秒。纯音乐驱动、没有旁白的片子可以做到 2 分钟左右（比如 mixed-media-era 那种年代回顾）；超过 60 秒时按段落分别制作、分别检查，开工前跟用户说清楚渲染和审片的成本。需要旁白讲解的视频不在本 Skill 范围内。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "用代码制作以图形、文字或界面动画为主的短视频（常见 5–60 秒，纯音乐片最长约 2 分钟），输出 MP4 和可编辑源码：产品宣传短片、动效作品集、UI 动效演示、动态排版与金句卡点、Logo 演绎与片头、生成艺术循环、年代回顾短片。配乐可选：代码合成，或按用户提供的曲子卡点。用户想做这类短视频或动效时使用，例如「做个 15 秒动效视频」「做个 Logo 动画 / 片头」「做个产品宣传短片」「用代码做视频」。不用于：口播讲解类长视频、网页与交互原型、写实人物或实拍内容、剪辑已有视频。",
-        "trigger": "时长：最适合 5–60 秒。纯音乐驱动、没有旁白的片子可以做到 2 分钟左右（比如 mixed-media-era 那种年代回顾）；超过 60 秒时按段落分别制作、分别检查，开工前跟用户说清楚渲染和审片的成本。需要旁白讲解的视频不在本 Skill 范围内。",
+        "summary": "用代码制作图形、文字或界面动画视频，输出 MP4 和可编辑源码，最长 20 分钟。适用于动效作品集、产品片、UI 动效、动态排版、Logo 片头、生成艺术与讲解视频；支持独立选择 BGM/音效来源、用户口播，以及用用户提供的口播稿通过 TTS 合成语音。不用于实拍制作、写实人物生成或一般视频剪辑。",
+        "trigger": "时长：最长 20 分钟（1200 秒），以用户确认的时长为准。短片仍适合 5–60 秒，不把长片做成连续二十分钟的高密度卡点。超过 2 分钟，读 references/long-form.md，按章节规划、制作和审片。用户指定时长与口播实际长度或内容量冲突时，停下来确认调整方案，不擅自截断、加速口播或改变片长。",
         "steps": [],
         "sourceUrl": "https://github.com/ConardLi/garden-skills/blob/HEAD/skills/motion-showreel/SKILL.md",
-        "sourceHash": "dca0fd8d037e9d016f20578c91641fdd094e9fe9df733be6f55c3297fdb391fa",
-        "extractedAt": 1792083606161
+        "sourceHash": "1f4c26afebac69aa2b6a8e61c3440c636c686623161f74905143993bcf4af343",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -242463,8 +242463,8 @@
         "steps": [],
         "example": "A hyper-realistic, {camera} shot {subject with age/build/hair state}, {one pose from §4, limb by limb}. {Setting + lighting}. Her skin is {glistening/visible pores/slick oily sheen}. {explicit anatomy/reveal wording}. {face/expression}. 8k resolution, cinematic lighting, candid \"caught in the moment\" atmosphere, photorealistic anatomy.",
         "sourceUrl": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill/blob/HEAD/SKILL.md",
-        "sourceHash": "007eb1a77be87810a9232a427eff07e9faf5538464c1125fbdf0ed12e1a69274",
-        "extractedAt": 1792063669482
+        "sourceHash": "74cbf68f339d266af06f86bdd639aa4e1e681d6679b2f8a7870ea6b06a5e783b",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -255050,11 +255050,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Agentlas 시스템 운용 절차 — hep-network 편성, hep-graph 자동화, cargo/Agent Cloud·marketplace 활용, workforce 로스터 재사용, 메모리 계약. One(개인 에이전트)이 Agentlas를 조작할 때 이 절차를 따른다.",
+        "summary": "Agentlas 시스템 운용 절차 — hep-network 편성, cargo/Agent Cloud·marketplace 활용, workforce 로스터 재사용, 메모리 계약. One(개인 에이전트)이 Agentlas를 조작할 때 이 절차를 따른다.",
         "steps": [],
         "sourceUrl": "https://github.com/agentlas-ai/Agentlas-OS/blob/HEAD/.agents/skills/agentlas-operations/SKILL.md",
-        "sourceHash": "c70069629740b10d9368f5fd6931fd2ba9b94c5051677d3942da51c929c1d7c4",
-        "extractedAt": 1792083613256
+        "sourceHash": "b83e275d5f1d408acd11c207713643888bc5edf1fbc0f5202031f3be8b1c4183",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -409832,8 +409832,8 @@
         "summary": "Take a one-time in-app purchase from MISSINGMETADATA to READYTOSUBMIT in App Store Connect — set its price schedule and localized display name/description (and optional review screenshot) via the ASC REST API. Use at Phase 6 (Pre-Release), after the IAP is built in-app (Phase 4) and its ASC record exists. NOT for subscriptions, and NOT the same as promoted-iap (which displays IAPs in-app).",
         "steps": [],
         "sourceUrl": "https://github.com/rshankras/claude-code-apple-skills/blob/HEAD/skills/app-store/iap-finalizer/SKILL.md",
-        "sourceHash": "c428eb9d67521cd9deebb7bd66e8d6610077bd6a6cef3df75fe565776256ac6e",
-        "extractedAt": 1792014049031
+        "sourceHash": "9de565a323f596010a0222ceb84163af55989170a5308a61957314c2d8383279",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -410071,8 +410071,8 @@
           "\"Which guideline number was cited?\""
         ],
         "sourceUrl": "https://github.com/rshankras/claude-code-apple-skills/blob/HEAD/skills/app-store/rejection-handler/SKILL.md",
-        "sourceHash": "a943a789c5bdc7462e1c9ea65bef14d32dd19b4de518396902b7c5e255100127",
-        "extractedAt": 1792014049034
+        "sourceHash": "d392dacaa12e6532424b92b82cc48cafb1bf723bec2634d71f6d8261161806af",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -410115,8 +410115,8 @@
         "trigger": "Write professional, empathetic responses to App Store reviews that build trust and turn critics into fans. Use when responding to negative reviews, drafting templates for common review types, or improving review management strategy.",
         "steps": [],
         "sourceUrl": "https://github.com/rshankras/claude-code-apple-skills/blob/HEAD/skills/app-store/review-response-writer/SKILL.md",
-        "sourceHash": "aaa9295dcaad1928471a5763be871700b6318005f390a1704ad90ff4e31835ff",
-        "extractedAt": 1792014049034
+        "sourceHash": "772db1a4507f6a669a7df417951025d9ff5573f74f9727fe10059d0df43dcb28",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -410160,8 +410160,8 @@
         "steps": [],
         "example": "Productivity:",
         "sourceUrl": "https://github.com/rshankras/claude-code-apple-skills/blob/HEAD/skills/app-store/screenshot-planner/SKILL.md",
-        "sourceHash": "89d29d6434e00cabd92b8f86c048cbad94c84b5a330197952bcec6da48ec0da3",
-        "extractedAt": 1792014049035
+        "sourceHash": "05662f2cfd9f0c63fc64015f70353c109784b6502974e5768db4a1fd5622af03",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -410945,8 +410945,8 @@
         "trigger": "发布并验收 TrailSnap 新版本：汇总提交、同步全项目版本号、更新官网日志与客户端更新清单、执行发布前测试、创建 GitHub Release、监控标签 CI、核验 Release 附件，并生成小红书和公众号文案。Use when the user asks to 发布新版本、发版、创建或检查 GitHub Release、总结版本变更、监控发布 CI、检查发布产物，或撰写版本更新帖子。",
         "steps": [],
         "sourceUrl": "https://github.com/LC044/TrailSnap/blob/HEAD/.agents/skills/release-publisher/SKILL.md",
-        "sourceHash": "1b33eab52c531dfe8a928fb4f08ef30e266b218a3e60bde5c513117da14bcc72",
-        "extractedAt": 1792014052096
+        "sourceHash": "07d61bc8f5ced8bd8177f228404f678d7f6966e50712d1e19b6f75d2d7748fd1",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -410985,12 +410985,12 @@
       "howToUse": "TrailSnap 仓库提交、推送、需求平台与 PR 工作流规则。Use when preparing commits, pushing branches, managing the corresponding platform requirement, creating or merging pull requests, or monitoring PR CI in this repository; do not use for ordinary code changes that do not involve submission.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "TrailSnap 仓库提交、推送、需求平台与 PR 工作流规则。Use when preparing commits, pushing branches, managing the corresponding platform requirement, creating or merging pull requests, or monitoring PR CI in this repository; do not use for ordinary code changes that do not involve submission.",
-        "trigger": "TrailSnap 仓库提交、推送、需求平台与 PR 工作流规则。Use when preparing commits, pushing branches, managing the corresponding platform requirement, creating or merging pull requests, or monitoring PR CI in this repository; do not use for ordinary code changes that do not involve submission.",
+        "summary": "TrailSnap 需求规格、Agent 编码交付、提交与 PR 工作流。Use when implementing TrailSnap requirements, managing platform requirements and acceptance criteria, preparing commits, pushing branches, creating pull requests, or monitoring PR CI in this repository.",
+        "trigger": "TrailSnap 需求规格、Agent 编码交付、提交与 PR 工作流。Use when implementing TrailSnap requirements, managing platform requirements and acceptance criteria, preparing commits, pushing branches, creating pull requests, or monitoring PR CI in this repository.",
         "steps": [],
         "sourceUrl": "https://github.com/LC044/TrailSnap/blob/HEAD/.agents/skills/trailsnap-commit/SKILL.md",
-        "sourceHash": "67874cdd795d6439d2e2addd4cb0941474762d2a21e0a7fd662865c974299011",
-        "extractedAt": 1792014052098
+        "sourceHash": "a845969fd60975d6aaa1fd076786dd78462d2b9794a6fc41976bffaec7123abf",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -411033,8 +411033,8 @@
         "trigger": "基于 TrailSnap（行影集）现有设计系统设计、实现和审查前端 UI。适用于 package/website 的新页面、组件、布局、主题、移动端适配与界面改版；纯后端任务和其他项目不适用。",
         "steps": [],
         "sourceUrl": "https://github.com/LC044/TrailSnap/blob/HEAD/.agents/skills/trailsnap-ui-design/SKILL.md",
-        "sourceHash": "7cceb1fdc687ccfd7aca305b9f77ebdfb4ab66d504ce2a0f7f7dbfb7a97f0b1a",
-        "extractedAt": 1792014052098
+        "sourceHash": "4f98308bbe3a830fa03a82a1496caf0f5ea1561f39aa1d0d33c1aba9b0e5eee8",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -411291,8 +411291,8 @@
         "summary": "逐步检索并理解用户相册，适合回答照片、人物、地点和时间相关问题。",
         "steps": [],
         "sourceUrl": "https://github.com/LC044/TrailSnap/blob/HEAD/package/server/app/service/agent/skills/trailsnap-search/SKILL.md",
-        "sourceHash": "dc1f4bc35c3a120245cf41ed0e65687391fbcc1dcd78647ac95de0c97a7dc072",
-        "extractedAt": 1792014052100
+        "sourceHash": "b5456827b82a41bc8821e88160f6a709642744d9e36e575377a8785e06e43924",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -411914,12 +411914,12 @@
       "howToUse": "图片分析与识别，可分析本地图片、网络图片、视频、文件。适用于 OCR、物体识别、场景理解等。当用户发送图片或要求分析图片时必须使用此技能。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "图片分析与识别，可分析本地图片、网络图片、视频、文件。适用于 OCR、物体识别、场景理解等。当用户发送图片或要求分析图片时必须使用此技能。",
-        "trigger": "图片分析与识别，可分析本地图片、网络图片、视频、文件。适用于 OCR、物体识别、场景理解等。当用户发送图片或要求分析图片时必须使用此技能。",
+        "summary": "图片分析与识别，可分析本地图片、网络图片、视频、文件。适用于 OCR、物体识别、场景理解，以及主模型不支持图片输入或需要独立视觉模型复核时。多模态主模型能直接查看附件时不需要调用。",
+        "trigger": "图片分析与识别，可分析本地图片、网络图片、视频、文件。适用于 OCR、物体识别、场景理解，以及主模型不支持图片输入或需要独立视觉模型复核时。多模态主模型能直接查看附件时不需要调用。",
         "steps": [],
         "sourceUrl": "https://github.com/countbot-ai/CountBot/blob/HEAD/workspace/skills/image-analysis/SKILL.md",
-        "sourceHash": "b78017024eca519bdf53e09f52e77c22b20265c82d7ccdc01c7188b75d753c45",
-        "extractedAt": 1792014054590
+        "sourceHash": "62c815f27bac5b3ab7825428b6a1adfc1b8afdc49ebecbf24fed2fbcca08e2b1",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -412955,15 +412955,15 @@
       "howToUse": "Expert knowledge for Azure Advisor development including best practices, decision making, limits & quotas, security, configuration, and integrations & coding patterns. Use when configuring Advisor alerts/digests, managing rec states, using workbooks, Resource Graph, or RBAC for access, and other Azure Advisor related development tasks. Not for Cost Management (use azure-cost-management), Azure…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Expert knowledge for Azure Advisor development including best practices, decision making, limits & quotas, security, configuration, and integrations & coding patterns. Use when configuring Advisor alerts/digests, managing rec states, using workbooks, Resource Graph, or RBAC for access, and other Azure Advisor related development tasks. Not for Cost Management (use azure-cost-management), Azure…",
-        "trigger": "Expert knowledge for Azure Advisor development including best practices, decision making, limits & quotas, security, configuration, and integrations & coding patterns. Use when configuring Advisor alerts/digests, managing rec states, using workbooks, Resource Graph, or RBAC for access, and other Azure Advisor related development tasks. Not for Cost Management (use azure-cost-management), Azure…",
+        "summary": "Expert knowledge for Azure Advisor development including best practices, decision making, limits & quotas, security, configuration, and integrations & coding patterns. Use when managing Advisor alerts, digests, recommendation states, Resource Graph queries, or RBAC access, and other Azure Advisor related development tasks. Not for Cost Management (use azure-cost-management), Azure Monitor (use…",
+        "trigger": "Expert knowledge for Azure Advisor development including best practices, decision making, limits & quotas, security, configuration, and integrations & coding patterns. Use when managing Advisor alerts, digests, recommendation states, Resource Graph queries, or RBAC access, and other Azure Advisor related development tasks. Not for Cost Management (use azure-cost-management), Azure Monitor (use…",
         "steps": [
           "Preferred: Use mcpmicrosoftdocs:microsoftdocsfetch with query string from=learn-agent-skill. Returns Markdown.",
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-advisor/SKILL.md",
-        "sourceHash": "535c511910f9b67847d497a3376408b2a7ad48e7df638389ac261b2544ba63ac",
-        "extractedAt": 1792014056105
+        "sourceHash": "fd4ab4aa3a76e1c8eda52fa89ef2f269e8a05577ce08fe739ad186d5097ad1e1",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -413009,8 +413009,8 @@
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-ai-vision/SKILL.md",
-        "sourceHash": "2d7cf3ffb22ac737ef054cc5b183f4340d1584bd69df4635594f84b04703bac6",
-        "extractedAt": 1792014056105
+        "sourceHash": "70db5ec54534d4bd8fbe99d0173218ca70b3c285042337f86241c9b12e4b2511",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -413190,15 +413190,15 @@
       "howToUse": "Expert knowledge for Azure Anyscale On Azure development including limits & quotas, security, configuration, and deployment. Use when authoring ARM templates, hardening images, configuring Private Link, or checking Anyscale regional availability, and other Azure Anyscale On Azure related development tasks. Not for Azure Databricks (use azure-databricks), Azure Machine Learning (use…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Expert knowledge for Azure Anyscale On Azure development including limits & quotas, security, configuration, and deployment. Use when authoring ARM templates, hardening images, configuring Private Link, or checking Anyscale regional availability, and other Azure Anyscale On Azure related development tasks. Not for Azure Databricks (use azure-databricks), Azure Machine Learning (use…",
-        "trigger": "Expert knowledge for Azure Anyscale On Azure development including limits & quotas, security, configuration, and deployment. Use when authoring ARM templates, hardening images, configuring Private Link, or checking Anyscale regional availability, and other Azure Anyscale On Azure related development tasks. Not for Azure Databricks (use azure-databricks), Azure Machine Learning (use…",
+        "summary": "Expert knowledge for Azure Anyscale On Azure development including limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when registering AKS with Anyscale, wiring ACR images, Private Link/RBAC, ARM templates, or region availability, and other Azure Anyscale On Azure related development tasks. Not for Azure Kubernetes Service (AKS) (use…",
+        "trigger": "Expert knowledge for Azure Anyscale On Azure development including limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when registering AKS with Anyscale, wiring ACR images, Private Link/RBAC, ARM templates, or region availability, and other Azure Anyscale On Azure related development tasks. Not for Azure Kubernetes Service (AKS) (use…",
         "steps": [
           "Preferred: Use mcpmicrosoftdocs:microsoftdocsfetch with query string from=learn-agent-skill. Returns Markdown.",
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-anyscale-on-azure/SKILL.md",
-        "sourceHash": "6cb7b2e286bee4e0d0d6925eac0b867bf345a41bd5175685c147ecd60e1fc7c3",
-        "extractedAt": 1792014056108
+        "sourceHash": "acb649e22305614f73f721a1cc4f63094fd269b443bde4ae2359b4109ba32386",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -413331,15 +413331,15 @@
       "howToUse": "Expert knowledge for Azure App Configuration development including troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using feature flags, dynamic config refresh, snapshots, Key Vault integration, or CI/CD config sync, and other Azure App Configuration related development tasks. Not for Azure App…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Expert knowledge for Azure App Configuration development including troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using feature flags, dynamic config refresh, snapshots, Key Vault integration, or CI/CD config sync, and other Azure App Configuration related development tasks. Not for Azure App…",
-        "trigger": "Expert knowledge for Azure App Configuration development including troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using feature flags, dynamic config refresh, snapshots, Key Vault integration, or CI/CD config sync, and other Azure App Configuration related development tasks. Not for Azure App…",
+        "summary": "Expert knowledge for Azure App Configuration development including troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using feature flags, snapshots, dynamic refresh, Event Grid/REST APIs, or Kubernetes/Spring providers, and other Azure App Configuration related development tasks. Not for Azure App…",
+        "trigger": "Expert knowledge for Azure App Configuration development including troubleshooting, best practices, decision making, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using feature flags, snapshots, dynamic refresh, Event Grid/REST APIs, or Kubernetes/Spring providers, and other Azure App Configuration related development tasks. Not for Azure App…",
         "steps": [
           "Preferred: Use mcpmicrosoftdocs:microsoftdocsfetch with query string from=learn-agent-skill. Returns Markdown.",
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-app-configuration/SKILL.md",
-        "sourceHash": "4e3abd2616a9f8e23115fdcc0740ad3bdcd31f5cad0c48470f05f33d4114b48a",
-        "extractedAt": 1792014056111
+        "sourceHash": "0fb5fdaa348fca9ff47492340d310fb938330b5b8e9b4d0a4f83daab498d00b9",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -413378,15 +413378,15 @@
       "howToUse": "Expert knowledge for Azure App Service development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Service plans/slots, VNet integration, managed identity/Key Vault, CI/CD deployments, or diagnostics, and other Azure App Service related…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Expert knowledge for Azure App Service development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Service plans/slots, VNet integration, managed identity/Key Vault, CI/CD deployments, or diagnostics, and other Azure App Service related…",
-        "trigger": "Expert knowledge for Azure App Service development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Service plans/slots, VNet integration, managed identity/Key Vault, CI/CD deployments, or diagnostics, and other Azure App Service related…",
+        "summary": "Expert knowledge for Azure App Service development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using deployment slots, ASE/VNet integration, managed identity/Key Vault, CI/CD, or OpenTelemetry sidecars, and other Azure App Service related development…",
+        "trigger": "Expert knowledge for Azure App Service development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when using deployment slots, ASE/VNet integration, managed identity/Key Vault, CI/CD, or OpenTelemetry sidecars, and other Azure App Service related development…",
         "steps": [
           "Preferred: Use mcpmicrosoftdocs:microsoftdocsfetch with query string from=learn-agent-skill. Returns Markdown.",
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-app-service/SKILL.md",
-        "sourceHash": "6ccc180f3ef3a3f3a6127ff7bfb21c3890ce1f92ad827a33e00a9adcf40b6a7f",
-        "extractedAt": 1792014056112
+        "sourceHash": "aa66592d1b6fac09a7e27127dde6253cf29c1fb7269d426b0445f1d8bd609f7e",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -413472,15 +413472,15 @@
       "howToUse": "Expert knowledge for Azure Application Gateway development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Gateway v2 listeners/routing, WAF/TLS with Key Vault, AKS/AGIC, Private Link, or Containers, and other Azure Application Gateway…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Expert knowledge for Azure Application Gateway development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Gateway v2 listeners/routing, WAF/TLS with Key Vault, AKS/AGIC, Private Link, or Containers, and other Azure Application Gateway…",
-        "trigger": "Expert knowledge for Azure Application Gateway development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Gateway v2 listeners/routing, WAF/TLS with Key Vault, AKS/AGIC, Private Link, or Containers, and other Azure Application Gateway…",
+        "summary": "Expert knowledge for Azure Application Gateway development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Gateway/AGIC for AKS, WAF/TLS, Private Link, header rewrites, or autoscaling, and other Azure Application Gateway related development…",
+        "trigger": "Expert knowledge for Azure Application Gateway development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when configuring App Gateway/AGIC for AKS, WAF/TLS, Private Link, header rewrites, or autoscaling, and other Azure Application Gateway related development…",
         "steps": [
           "Preferred: Use mcpmicrosoftdocs:microsoftdocsfetch with query string from=learn-agent-skill. Returns Markdown.",
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-application-gateway/SKILL.md",
-        "sourceHash": "5b465da289298aea40fb35512791ce362ec3a809ebda06d59e3cd2622449369f",
-        "extractedAt": 1792014056115
+        "sourceHash": "ea08f58ceb9f56210241dc79d0ae193abed01865c13481d77f11bab897602687",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -413519,15 +413519,15 @@
       "howToUse": "Expert knowledge for Azure Application Network development including decision making, and configuration. Use when enabling App Network logs, Azure Monitor metrics, AKS/App Gateway versioning, or upgrade compatibility, and other Azure Application Network related development tasks. Not for Azure Virtual Network (use azure-virtual-network), Azure Virtual Network Manager (use…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Expert knowledge for Azure Application Network development including decision making, and configuration. Use when enabling App Network logs, Azure Monitor metrics, AKS/App Gateway versioning, or upgrade compatibility, and other Azure Application Network related development tasks. Not for Azure Virtual Network (use azure-virtual-network), Azure Virtual Network Manager (use…",
-        "trigger": "Expert knowledge for Azure Application Network development including decision making, and configuration. Use when enabling App Network logs, Azure Monitor metrics, AKS/App Gateway versioning, or upgrade compatibility, and other Azure Application Network related development tasks. Not for Azure Virtual Network (use azure-virtual-network), Azure Virtual Network Manager (use…",
+        "summary": "Expert knowledge for Azure Application Network development including best practices, decision making, architecture & design patterns, security, and configuration. Use when onboarding AKS to App Network, securing private app traffic, routing multi-cluster AKS, or planning version upgrades, and other Azure Application Network related development tasks. Not for Azure Networking (use…",
+        "trigger": "Expert knowledge for Azure Application Network development including best practices, decision making, architecture & design patterns, security, and configuration. Use when onboarding AKS to App Network, securing private app traffic, routing multi-cluster AKS, or planning version upgrades, and other Azure Application Network related development tasks. Not for Azure Networking (use…",
         "steps": [
           "Preferred: Use mcpmicrosoftdocs:microsoftdocsfetch with query string from=learn-agent-skill. Returns Markdown.",
           "Fallback: Use fetchwebpage with query string from=learn-agent-skill&accept=text/markdown. Returns Markdown."
         ],
         "sourceUrl": "https://github.com/MicrosoftDocs/Agent-Skills/blob/HEAD/skills/azure-application-network/SKILL.md",
-        "sourceHash": "22d148e92f0311285d32848ea3a9edd33931fc4c3a33f71f7eb8bf6ed4abe16a",
-        "extractedAt": 1792014056115
+        "sourceHash": "ed08efea60d8e9c0cb6162ff298a0c1a7f8a4f7316ba30d59f0d8d8a31e13539",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -415739,8 +415739,8 @@
         "summary": "根据候选人简历与岗位要求生成可审计的后台评估、简明的候选人介绍、按岗位重要性排列的简历疑点、12–18 道可直接照读的面试题，以及支持重点标记和本机保存的离线 HTML。用于招聘方准备结构化面试、核验岗位能力和记录回答。不要用于求职者模拟面试、私人背景调查、心理或人格诊断、从敏感属性推断表现，或自动录用、淘汰、排序候选人。",
         "steps": [],
         "sourceUrl": "https://github.com/dongshuyan/compass-skills/blob/HEAD/skills/assess-interview-candidate/SKILL.md",
-        "sourceHash": "45aadc03fc077c78c2c45f04563300c71e82419005cc9db2c0a6220652de5996",
-        "extractedAt": 1792014057489
+        "sourceHash": "cc3c7c1e1e2c6a8d37abc9a4e060e3dab40adabefc5ab591c7cbc627cd3fd055",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -415975,11 +415975,16 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Deep need-clarification skill. Use only when the user explicitly invokes $task-clarifier. Once activated, keep asking until all three goals are met: the user fully understands their own needs, the AI fully understands the user's needs, and the user confirms the AI's understanding is correct. Do not intervene in task execution unless explicitly invoked.",
-        "steps": [],
+        "summary": "Deep need-clarification skill. Use only when the user explicitly invokes $task-clarifier. Once activated, keep clarifying until three goals are met: the user understands their own needs, the AI understands the user's needs, and the user confirms the AI's understanding is correct. Do not intervene in task execution unless explicitly invoked.",
+        "steps": [
+          "User: $task-clarifier 设计一个三步注册流程，邮箱验证码可能失败",
+          "The ambiguity is multi-step, so a text step table that includes the failure branches is the first medium:",
+          "Ask the user to walk one failure path and correct any row. Offer a flow diagram only if the host can render it and the user accepts it. Until it is inspected, label it unverified."
+        ],
+        "example": "These examples are illustrative.",
         "sourceUrl": "https://github.com/dongshuyan/compass-skills/blob/HEAD/skills/task-clarifier/SKILL.md",
-        "sourceHash": "dca80e18fa0a1324342ed0577543de41da30e3b00fb2c04b751800d675738792",
-        "extractedAt": 1792014057491
+        "sourceHash": "95dc3a717cbf0a8de33d93c6a71486933c888545230037b7309da93f867edb7c",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -417948,8 +417953,8 @@
         "summary": "Read one conversation window and return every independently mutable claim it states, one record each, with who or what it is about, whether it happened or stands, and the words that carry its time. Used by the memory extraction model on every conversation window; the engine resolves dates, validates keys, and repairs format.",
         "steps": [],
         "sourceUrl": "https://github.com/sno-ai/sno-station/blob/HEAD/packages/memory/skills/extract-atomic-memory/SKILL.md",
-        "sourceHash": "e0388d56298489483bad8d9449001c2f621f4d26a088ed4b33def0f63a8aafa0",
-        "extractedAt": 1792014063660
+        "sourceHash": "f78bf3974f10b93327c5791142afa2c1064643e3f635962b1b338563d05a132e",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -418701,8 +418706,8 @@
         ],
         "example": "See references/EXAMPLE.md for a completed example based on a realistic e-commerce checkout flow.",
         "sourceUrl": "https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-acceptance-criteria/SKILL.md",
-        "sourceHash": "b36f3a14c660d261f3e49885b8a993aca4ac0db1649087abe8b0b779694c9e8a",
-        "extractedAt": 1792014065154
+        "sourceHash": "60785011f3aea766058f11b8afc345e24ebf99d340913069147483382d6be4f4",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -418852,13 +418857,13 @@
           "Define Goals and Success Metrics Articulate what success looks like. Include specific, measurable metrics with baselines and targets. These metrics should connect directly to the problem being solved.",
           "Outline the Solution Describe the proposed solution at a high level. Focus on user-facing functionality and key capabilities. Include enough detail for stakeholders to evaluate the approach without over-specifying…",
           "Detail Functional Requirements Break down what the system must do. Use user stories or requirement statements. Each requirement should be testable - someone should be able to verify if it's met.",
-          "Link AI Behavior to Evidence (only when the feature's output comes from a model) Skip this step entirely for deterministic features. When a model produces the output, the behavior varies run to run, so \"it works\" is a…",
+          "Link AI Behavior to Evidence (only when the feature's output comes from a model) Skip this step entirely for deterministic features. A property that a deterministic check can decide, such as a required field being…",
           "Define Scope Boundaries Explicitly state what's in scope, out of scope, and deferred to future iterations. Clear scope prevents scope creep and sets realistic expectations."
         ],
         "example": "See references/EXAMPLE.md for a completed example.",
         "sourceUrl": "https://github.com/product-on-purpose/pm-skills/blob/HEAD/skills/deliver-prd/SKILL.md",
-        "sourceHash": "2b48e0af712dafd8c52bb04a437f02e3f965f05bece4f0bdd57452dbb8bad472",
-        "extractedAt": 1792014065158
+        "sourceHash": "f11df00bcf0812c3d7d5add844cd6a4fffc24b2d96012087192ed79738d2db78",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -465312,13 +465317,13 @@
       "howToUse": "Pull at least 2-3 of these neurochemical levers per piece:；🔍 Curiosity: \"What am I missing?\"",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants high-converting copy for landing pages, headlines, cold emails, X/LinkedIn posts, video intros, or SEO titles — and already knows their audience. Also use when the user mentions \"blitz copy\", \"dopamine copywriting\", hooks, or asks to rewrite flat copy that explains instead of sells. For audience research first, use the understand-customers skill.",
+        "summary": "Writes high-converting landing pages, hero headlines, cold outreach emails, social hooks, video intros, and SERP titles using the Hook, Spike, and Payoff copywriting system. Use when rewriting flat marketing copy that explains instead of sells, or when the user mentions \"blitz copy\", \"dopamine copywriting\", or conversion hooks.",
         "trigger": "Pull at least 2-3 of these neurochemical levers per piece:；🔍 Curiosity: \"What am I missing?\"",
         "steps": [],
         "example": "Before: \"AI Presentation Generator. Make presentations with AI. Save time. No experience required.\" > > After: \"Still Wasting Hours on Slides? Let AI Build Your Deck in Seconds. Stop fighting templates and design blocks. GenPPT turns your ideas into viral-ready presentations, automatically. No design skills, no wasted…",
         "sourceUrl": "https://github.com/Illyism/seo-skills/blob/HEAD/copywriting/blitz-copy/SKILL.md",
-        "sourceHash": "86c8ca5612d36d6f4bc14a0f2b058a953bd64ccf6097e7d28d9178a41f211892",
-        "extractedAt": 1792039061985
+        "sourceHash": "6f1a3809a7b346ca86a0dd1b1af3c3541204c0bed3a375a982e800f6d9275391",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -465357,12 +465362,12 @@
       "howToUse": "When the user wants to deeply understand their ideal customer before writing copy — pains, desires, inner monologue, and language. Also use when the user mentions \"empathy engine\", \"know your target\", \"customer pain points\", or asks to research their audience before writing Blitz Copy.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to deeply understand their ideal customer before writing copy — pains, desires, inner monologue, and language. Also use when the user mentions \"empathy engine\", \"know your target\", \"customer pain points\", or asks to research their audience before writing Blitz Copy.",
-        "trigger": "When the user wants to deeply understand their ideal customer before writing copy — pains, desires, inner monologue, and language. Also use when the user mentions \"empathy engine\", \"know your target\", \"customer pain points\", or asks to research their audience before writing Blitz Copy.",
+        "summary": "Builds a buyer-psychology research brief covering customer pains, switching triggers, objections, inner monologue, and verbatim phrasing before writing a word of copy. Use when researching an ICP before landing page or ad copy, or when the user mentions \"understand customers\", \"empathy engine\", or \"customer pain points\".",
+        "trigger": "Builds a buyer-psychology research brief covering customer pains, switching triggers, objections, inner monologue, and verbatim phrasing before writing a word of copy. Use when researching an ICP before landing page or ad copy, or when the user mentions \"understand customers\", \"empathy engine\", or \"customer pain points\".",
         "steps": [],
         "sourceUrl": "https://github.com/Illyism/seo-skills/blob/HEAD/copywriting/understand-customers/SKILL.md",
-        "sourceHash": "7b213d66c1f7ea3b327c0a5089c9806c6e83bd39502e7ed96308e885b042415c",
-        "extractedAt": 1792039061986
+        "sourceHash": "79e36cfa540f6227635fe6c9f2e026f03b3883df528affeb3c4f6c4336ac8d3b",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -465503,7 +465508,7 @@
       "howToUse": "Use Blitz SEO when:；Stuck on page 2 for a keyword that actually matters",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "When the user wants to rank one high-value page fast, run a focused SEO sprint, or is stuck on page 2 for a money keyword. Also use when the user mentions \"blitz seo\", an SEO war room, a 30-day SEO sprint, or asks how to prioritize SEO when everything feels spread too thin.",
+        "summary": "Runs a focused 30-day SEO sprint that concentrates search-intent alignment, internal link equity, first-hand proof, and targeted backlinks onto a single money page to push it into the Top 3. Use when a high-value page is stuck on Page 2, the user mentions \"blitz seo\" or a 30-day SEO sprint, or SEO effort is spread too thin across dozens of URLs.",
         "trigger": "Use Blitz SEO when:；Stuck on page 2 for a keyword that actually matters",
         "steps": [
           "High intent, tied to the core offering, with real revenue behind it",
@@ -465514,8 +465519,8 @@
           "LSI/related phrases in subheadings"
         ],
         "sourceUrl": "https://github.com/Illyism/seo-skills/blob/HEAD/seo/blitz-seo/SKILL.md",
-        "sourceHash": "168dfc95fdad27ff648138e36012a7e27c2c091a04260f1d453246e1092070e8",
-        "extractedAt": 1792039061987
+        "sourceHash": "270381312c91e2e3fc012100d797760a359569c7a71d77fd83cd14176c9e9f51",
+        "extractedAt": 1794679215776
       },
       "compatibleAgents": [],
       "isBundle": false,
