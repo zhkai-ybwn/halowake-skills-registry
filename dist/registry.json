@@ -103270,12 +103270,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "使用 MonkeyDev 在 Apple Silicon Mac 上创建 Xcode MonkeyApp、MonkeyPod 插件库、越狱 Logos/CaptainHook Tweak 和 iOS 命令行工具，完成插件开发、签名打包、USB/SSH 安装，以及 LLDB 调试、OC 头文件导出、符号还原、Reveal 检查和方法追踪。",
+        "summary": "使用 MonkeyDev 在 Apple Silicon Mac 上创建 Xcode MonkeyApp、MonkeyPod 插件库、越狱 Logos/CaptainHook Tweak 和 iOS 命令行工具，完成插件开发、签名打包、USB/SSH 安装，以及 LLDB 调试、OC 头文件导出、符号还原、Reveal/Lookin 视图检查和方法追踪。",
         "steps": [],
         "example": "%config(generator=internal); #import %hook UIViewController - (void)viewDidAppear:(BOOL)animated { %orig(animated); static BOOL logged = NO; if (!logged) { logged = YES; NSLog(@\"[MonkeyDev] Hook executed: %@\", NSStringFromClass(self.class)); } } %end %ctor { NSLog(@\"[MonkeyDev] dylib loaded\"); %init; }",
         "sourceUrl": "https://github.com/AloneMonkey/MonkeyDev/blob/HEAD/SKILL.md",
-        "sourceHash": "e061d9aa5c7d4ce698929e458348852afdc23e51cace2e5d9c7cdf3ff3be3a8c",
-        "extractedAt": 1792448471831
+        "sourceHash": "a39aa2a597255b2c82b5a7449735c473cea166b9e55709d9ccd1332b2f452e69",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -183880,8 +183880,8 @@
           "Spec: requirements missing or partial, behavior nobody asked for, and requirements implemented wrongly. Quote the spec line for each."
         ],
         "sourceUrl": "https://github.com/runkids/skillshare/blob/HEAD/.skillshare/skills/skillshare-code-review/SKILL.md",
-        "sourceHash": "db7db0e2651713e2d2d63bdebe4815351b371fcf54fc688b6d60555c4f29b9df",
-        "extractedAt": 1792471767174
+        "sourceHash": "c2d9d7d5ddbfe71778c5b07c8663cc98b43ddffbd7ec44e81db8258716a2b8cc",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -184065,8 +184065,8 @@
         "summary": "Skillshare frontend design system for the React dashboard (ui/) and Docusaurus website (website/). Use this skill whenever you: build or modify a dashboard page or component in ui/src/, style or layout website pages or custom CSS in website/, create new React components for the dashboard, add pages to the dashboard, fix visual bugs in either frontend, or need to know which design tokens, ss-…",
         "steps": [],
         "sourceUrl": "https://github.com/runkids/skillshare/blob/HEAD/.skillshare/skills/skillshare-ui-website-style/SKILL.md",
-        "sourceHash": "ea6950c396971c8285a078aa9a1d0f1d0db87baa258cdd879813e1f45f7d52ec",
-        "extractedAt": 1792471767177
+        "sourceHash": "e165ea5b4b9bec6e8091550186202e72a1e185a173b55f9c40dddcf1ceef24b1",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -184198,12 +184198,12 @@
       "howToUse": "Manage skills, agents, extras, hooks, plugins, and MCP connection settings with the Skillshare CLI. Use when the user asks to configure or run Skillshare, install or sync resources across AI tools, manage shared memory notes, review a session for lessons or dream over saved memories, import MCP settings, manage targets, audit skills, recover backups, or troubleshoot Skillshare configuration and…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Manage skills, agents, extras, hooks, plugins, and MCP connection settings with the Skillshare CLI. Use when the user asks to configure or run Skillshare, install or sync resources across AI tools, manage shared memory notes, review a session for lessons or dream over saved memories, import MCP settings, manage targets, audit skills, recover backups, or troubleshoot Skillshare configuration and…",
-        "trigger": "Manage skills, agents, extras, hooks, plugins, and MCP connection settings with the Skillshare CLI. Use when the user asks to configure or run Skillshare, install or sync resources across AI tools, manage shared memory notes, review a session for lessons or dream over saved memories, import MCP settings, manage targets, audit skills, recover backups, or troubleshoot Skillshare configuration and…",
+        "summary": "Manage skills, agents, extras, hooks, plugins, and MCP connection settings with the Skillshare CLI. Use when the user asks to configure or run Skillshare, install or sync resources across AI tools, manage shared memory notes, review a session for lessons or dream over saved memories, import MCP settings, manage targets and project folders, audit skills, recover backups, or troubleshoot Skillshare…",
+        "trigger": "Manage skills, agents, extras, hooks, plugins, and MCP connection settings with the Skillshare CLI. Use when the user asks to configure or run Skillshare, install or sync resources across AI tools, manage shared memory notes, review a session for lessons or dream over saved memories, import MCP settings, manage targets and project folders, audit skills, recover backups, or troubleshoot Skillshare…",
         "steps": [],
         "sourceUrl": "https://github.com/runkids/skillshare/blob/HEAD/skills/skillshare/SKILL.md",
-        "sourceHash": "f16ecdd1e2c3bdc5caf319b4192026e0bd5197ea0990cb008190d74441ce265d",
-        "extractedAt": 1792471767178
+        "sourceHash": "a83faf3a1a1d6ae6f27d648ff360098a48561615fc20c0daa76abf7a52286092",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -390700,8 +390700,8 @@
         "summary": "Motion graphics, launch videos and explainers as editable code. A director picks the motion language for your product; you point at frames to change them. 动画、发布片、解说视频，指着画面改。",
         "steps": [],
         "sourceUrl": "https://github.com/alchaincyf/huashu-motion/blob/HEAD/skills/huashu-motion/SKILL.md",
-        "sourceHash": "8c836ae7d729a1f433012dfd23d5f8603f83eea181fe0f42edaef5a8553f6e7c",
-        "extractedAt": 1792448477221
+        "sourceHash": "7de1e1bb0e50834d1f2dece4c93c63be08bb0e88446d8c80c65efa5cc849549b",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -394168,8 +394168,8 @@
         "trigger": "Use when coordinating multiple AI agents with Agent Relay's workflow engine and need to pick the right orchestration pattern - covers the 10 core patterns (fan-out, pipeline, hub-spoke, consensus, mesh, handoff, cascade, dag, debate, hierarchical) plus 14 specialized ones, with decision framework and accurate SDK/YAML examples.",
         "steps": [],
         "sourceUrl": "https://github.com/AgentWorkforce/relay/blob/HEAD/.agents/skills/choosing-swarm-patterns/SKILL.md",
-        "sourceHash": "a04d7d8a5c9e82eb8ddbafc78fec5e89900c456cf9948b44544963ce3c7d462f",
-        "extractedAt": 1792448480630
+        "sourceHash": "b442e6a4cd2542bdc669735c62d05c3efdb0e8f607b523b0ad2b213a735a0d38",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -394300,14 +394300,14 @@
       "howToUse": "Agent needs full control over its worker team；No human available to run agent-relay node up manually",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "The canonical way to run agent-relay - self-bootstrap the local broker and autonomously spawn, monitor, and coordinate a team of worker agents without human intervention. Covers infrastructure startup, agent spawning, lifecycle monitoring, message-based reading via the relay MCP, and team coordination.",
-        "trigger": "Agent needs full control over its worker team；No human available to run agent-relay node up manually",
+        "summary": "The canonical way to run agent-relay - set up the Agent Relay core with agent-relay init and autonomously spawn, monitor, and coordinate a team of worker agents without human intervention. Covers infrastructure startup, agent spawning, lifecycle monitoring, message-based reading via the relay MCP, and team coordination.",
+        "trigger": "Agent needs full control over its worker team；No human available to run agent-relay init manually",
         "steps": [
           "text You are an autonomous orchestrator. Bootstrap the local broker (Bootstrap Flow Steps 0–2), then spawn and manage workers per the Quick Reference. Then enforce this protocol:"
         ],
         "sourceUrl": "https://github.com/AgentWorkforce/relay/blob/HEAD/.agents/skills/orchestrating-agent-relay/SKILL.md",
-        "sourceHash": "e08adf11101148f68ea3643127d954932d886434fdc39f858e8f6fc289020174",
-        "extractedAt": 1792448480631
+        "sourceHash": "3d7ac13a65a792c50a5d55e6177215d4fb96b1c25c0531077dfb5106067d1630",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -394755,8 +394755,8 @@
         "trigger": "Creating new rules in .claude/rules/；Fixing rules that use wrong frontmatter (globs instead of paths)",
         "steps": [],
         "sourceUrl": "https://github.com/AgentWorkforce/relay/blob/HEAD/.claude/skills/creating-claude-rules-skill/SKILL.md",
-        "sourceHash": "3956becfdc7784ebc8e97256dda07acca8756a1aee553e2ef294a53bf7248ec6",
-        "extractedAt": 1792448480637
+        "sourceHash": "57bebe34f4d00a2a48f8ffa19093afb14146760655d12321f48646e9f8cb2ebf",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -394799,8 +394799,8 @@
         "trigger": "Use when composing an askuserquestion round inside a workflow, or when a workflow skill names it at a question step. Shared norms for the tool — not a workflow, nothing to execute.",
         "steps": [],
         "sourceUrl": "https://github.com/JetBrains/thinkrail/blob/HEAD/packages/pi-thinkrail-workflow/skills/asking-user-questions/SKILL.md",
-        "sourceHash": "978a3ec34fb8dff0a2e08ea0a1c565e0c42c5b9eed6f0b485e5c5a5f49de56b4",
-        "extractedAt": 1792448478953
+        "sourceHash": "c4b97367fff7d40b8b16ece6a59a356f7cfaccbdddcda817c1af5bf126612282",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -394891,11 +394891,11 @@
         "extractorVersion": 3,
         "summary": "Use at the start of new project onboarding, PR lifecycle work including PR checks, or any change to what the product does — a feature, a behavior change, or a bug fix. Not for continuing work already routed to a workflow, non-PR questions, checks, explanations, or edits that change no behavior.",
         "steps": [
-          "The root router of the workflow family in packages/pi-thinkrail-workflow. It classifies new workflow-eligible work and names the workflow skill that governs it — nothing more. Work already routed resumes its active…"
+          "The root router of the workflow family. It classifies new workflow-eligible work and names the workflow skill that governs it — nothing more. Work already routed resumes its active workflow instead. A routed skill's…"
         ],
         "sourceUrl": "https://github.com/JetBrains/thinkrail/blob/HEAD/packages/pi-thinkrail-workflow/skills/choosing-a-workflow/SKILL.md",
-        "sourceHash": "e49782b3da8a4d221d13b3da245ec2c05d6761cb5cc7fddb1ae56afcb84771dd",
-        "extractedAt": 1792448478954
+        "sourceHash": "a1e850b0744c981ebce3b24ef1615c0e3364136573c8c7879acbfc01b719447d",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -395026,8 +395026,8 @@
         "trigger": "Use when finished work needs to ship as a pull request, or when creating, syncing, updating metadata, checking status, monitoring CI, or addressing review comments on a PR. Not for reviewing a PR you are not shipping.",
         "steps": [],
         "sourceUrl": "https://github.com/JetBrains/thinkrail/blob/HEAD/packages/pi-thinkrail-workflow/skills/shipping-a-pr/SKILL.md",
-        "sourceHash": "3ae71d4c6d20bfc7440855448853cffbf5cfcef4ede335e330e27a20071aa83c",
-        "extractedAt": 1792448478955
+        "sourceHash": "8fda724569846bcc84c17603af924f06693daf5c14573836229de42dfdedfe1d",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -395161,8 +395161,8 @@
           "Workspace guard. This checklist edits packages/pi-thinkrail-workflow in the thinkrail repo. If that package is not in the current workspace (a ThinkRail-managed project, where these skills are a read-only staged cache),…"
         ],
         "sourceUrl": "https://github.com/JetBrains/thinkrail/blob/HEAD/packages/pi-thinkrail-workflow/skills/writing-workflow-skills/SKILL.md",
-        "sourceHash": "4373707e66e76a581e9aa1df18e2e34b58892531929cd986c7713c4549d9a204",
-        "extractedAt": 1792448478956
+        "sourceHash": "99e63901d33addd94dc7a9459758784bb4a27f04822bee9579e6591581ee1f9c",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -395293,8 +395293,8 @@
         "trigger": "Use when locating, reading, creating, updating, or validating project specs, or when work is governed by or may alter a documented boundary, contract, invariant, behavior, or architecture decision.",
         "steps": [],
         "sourceUrl": "https://github.com/JetBrains/thinkrail/blob/HEAD/packages/spec-graph/skills/spec-graph/SKILL.md",
-        "sourceHash": "e065115b1e3e12d13fc77b1ddd369e36d6c9831f0ddf9af0998625563ce86463",
-        "extractedAt": 1792448478956
+        "sourceHash": "1ab59fd184ea4f081572ec640d4f61a2033a847ad4be5f9c1cecdadd7344ff3f",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -404184,11 +404184,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use native WebMCP tools to edit the project open in Timeline Studio. Inspect clips and available assets, preview and apply multi-track, caption style/position and project framing edits; sample rendered media; run local voiceover, transcription, relighting analysis and depth-video jobs; insert media; undo; save; or export video with progress and cancellation. Use for the live browser editor, not…",
+        "summary": "Use native WebMCP tools to edit the project open in Timeline Studio. Inspect clips and available assets, preview and apply multi-track, caption style/position and project framing edits; append beat templates and set transitions; sample rendered media; run local voiceover, transcription, relighting analysis and depth-video jobs; insert media; undo; save; or export video with progress and…",
         "steps": [],
         "sourceUrl": "https://github.com/MartinDelophy/ai-video-editor/blob/HEAD/public/.well-known/agent-skills/edit-timeline-studio-browser/SKILL.md",
-        "sourceHash": "874d60736b8a228c005de1ef2aa9669f7401833dc4b258f54cca8faf61bed6c1",
-        "extractedAt": 1792471770259
+        "sourceHash": "23059d7034228c77cfd7b89fe36401964ea5c3f8c3c9c8a8d3c45f21b08a60ba",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -404271,13 +404271,13 @@
       "howToUse": "For a marker-only request, read references/timeline-markers.md and follow its inspect → plan → validate → diff → apply → inspect workflow through annotation handoff. Markers, chapter cues, ranges, and notes are project…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Analyze images, video, speech, motion, products, and websites; route local vision, audio, depth, tracking, matting, identity, and restoration models; auto-edit, replicate, enhance, caption, voice, assemble, annotate, validate, and export editable Timeline Studio projects and videos. Use for reference-video remakes, filter and repeated-shot reconstruction, subject-aware reframing, clip splitting,…",
+        "summary": "Analyze images, video, speech, motion, products, and websites; route local media models; auto-edit, replicate, enhance, caption, voice, assemble, annotate, validate, and export editable Timeline Studio projects and videos. Use for reference-video remakes, filter and repeated-shot reconstruction, subject-aware reframing, clip splitting, split-screen layouts, reference-frame synchronization,…",
         "steps": [
           "For a marker-only request, read references/timeline-markers.md and follow its inspect → plan → validate → diff → apply → inspect workflow through annotation handoff. Markers, chapter cues, ranges, and notes are project…"
         ],
         "sourceUrl": "https://github.com/MartinDelophy/ai-video-editor/blob/HEAD/skills/edit-timeline-studio/SKILL.md",
-        "sourceHash": "1d2de8df174886b8eee640c0ac5e8f5d500ea4285d9df97932c7e5ede4b94be6",
-        "extractedAt": 1792471770261
+        "sourceHash": "16ae9721f02451fb75257fd88f92cf3918faa4e414c56cf5838e3a179ac793b5",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -418772,7 +418772,7 @@
       "usageGuide": {
         "extractorVersion": 3,
         "summary": "Captures and maintains learnings, errors, and corrections. Use when a command fails, the user corrects an assumption, a capability is missing, knowledge is outdated, or a better approach is found. Review relevant saved guidance before major tasks, reuse, and promotion; revalidate it according to what could change and how quickly.",
-        "trigger": "Automatically log when you notice:；Corrections (→ learning with correction category):",
+        "trigger": "Evaluate the event in context before logging. The phrases below are cues, not automatic logging commands; ordinary questions and follow-up tasks alone do not justify persistent entries.；Corrections (→ learning with correction category):",
         "steps": [
           "Read simplifyandharden.learningloop.candidates from the task summary.",
           "For each candidate, use patternkey as the stable dedupe key.",
@@ -418783,8 +418783,8 @@
         ],
         "example": "Learning (verbose): > Project uses pnpm workspaces. Attempted npm install but failed. > Lock file is pnpm-lock.yaml. Must use pnpm install.",
         "sourceUrl": "https://github.com/pskoett/self-improving-agent/blob/HEAD/self-improving-agent/SKILL.md",
-        "sourceHash": "529b5aa692a5d050b42564ac7a01750fe30d2026db9daf4a6421bbfcfb30398a",
-        "extractedAt": 1792471774018
+        "sourceHash": "0a952df58c7e996577cd28b87825108bb2a807c696ca7840be61baecca5f65f2",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -432871,8 +432871,8 @@
           "Interact - Scrape first, then interact with the page (pagination, modals, form submissions, multi-step navigation)."
         ],
         "sourceUrl": "https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl/SKILL.md",
-        "sourceHash": "38f90475b891d16787109ccd04f21693518c476d33ed720ad1582ab51e8e4f1d",
-        "extractedAt": 1792471780731
+        "sourceHash": "bb8af1c77b34a14e6d1d43587d3611af5f6b0c2cd89e0da997be1c53dfc58ef8",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -433044,8 +433044,8 @@
         "summary": "Searches current documentation, release notes, API references and public repository issues for libraries, frameworks, SDKs, APIs and CLI tools with firecrawl developer. Use before answering when the user names a version, is upgrading, pastes an error from a library or tool, or asks how to use, configure or migrate a specific library or API. Model knowledge stops at a training cutoff and misses…",
         "steps": [],
         "sourceUrl": "https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl-developer-index/SKILL.md",
-        "sourceHash": "868ab511facf98a6f53cea786bde8228bbf209eedb48e1527aba228058777a48",
-        "extractedAt": 1792471780727
+        "sourceHash": "021b2701e0b555eef2b738fccc2718294eae45676653a6cb1c02dce624b88fa8",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -433307,8 +433307,8 @@
         "summary": "Find the papers that answer a research query in Firecrawl's research paper index — a corpus of paper abstracts whose largest share is biomedical and life-science literature (PubMed, bioRxiv, medRxiv), alongside arXiv preprints in CS, physics, and math — using semantic search, semantic and structural expansion, and in-body verification. Use this skill for literature-finding and paper-retrieval…",
         "steps": [],
         "sourceUrl": "https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl-research-index/SKILL.md",
-        "sourceHash": "39c6a6cff3fdb1c684c3212834e68bc6168f374b57d3acd002523b8c4fe3d07a",
-        "extractedAt": 1792471780730
+        "sourceHash": "abf7ff6d73e1dfd6d958ac9ad6eee6a9abee53326c21a476ff2f394fa60c09c5",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -433349,9 +433349,10 @@
         "extractorVersion": 3,
         "summary": "Read a known webpage or execute a discovered workflow or data-provider capability. Use for page content or structured results once the URL or tool is selected.",
         "steps": [],
+        "example": "firecrawl batch-scrape --urls-file urls.txt --wait \\ --schema '{\"type\":\"object\",\"properties\":{\"title\":{\"type\":\"string\"}}}' -o .firecrawl/batch.json",
         "sourceUrl": "https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl-scrape/SKILL.md",
-        "sourceHash": "afb5885258595b1ee606da7d24c568aa69f435612a566fac35b27b2402360f15",
-        "extractedAt": 1792471780730
+        "sourceHash": "98c9b2cc2944270caba6c73e4ea9dbb38c7af73b6bfb35ab9ad70f7e8ee79170",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -433393,8 +433394,8 @@
         "summary": "Find web sources with query-relevant page excerpts and optional full-page content, and discover workflows, data APIs, and indexes. Use for web research or finding structured records, listings, transcripts, and datasets. Supports semantic tool discovery, domain matching, and progressive catalogue browsing.",
         "steps": [],
         "sourceUrl": "https://github.com/firecrawl/cli/blob/HEAD/skills/firecrawl-search/SKILL.md",
-        "sourceHash": "51955e92d17cdc2a647d8c9051456af9464bddb7bb0a2e613f302acbc7f83287",
-        "extractedAt": 1792471780730
+        "sourceHash": "86eff5f134da2e35a22aabea79013d0d1eca518c0ad3761fb3eae47ffcddc2d2",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -435890,8 +435891,8 @@
         "trigger": "Use when the user is launching or running a DROPSHIPPING business end to end — the full 12-phase pipeline: product research with winning criteria, Minea and PiPiAds, supplier sourcing on AliExpress, CJ, Spocket, and Zendrop, Shopify store and app setup, the 10-ads-per-week creative pipeline, interest and lookalike targeting, 3-5x markup and BE-ROAS math, customer service, and scaling. Trigger on…",
         "steps": [],
         "sourceUrl": "https://github.com/minhnv0807/ai-business-skills/blob/HEAD/modules/dropshipping/en/29-dropshipping-mastery-global/SKILL.md",
-        "sourceHash": "15582abf445cf622705dc7061dd663237358b509409b99c62329523bcfeb923b",
-        "extractedAt": 1792471783287
+        "sourceHash": "1129380542fd2cd4568814d1cb7f19cc697acd2d8ce0f10987345b67d7e03ad4",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -436044,8 +436045,8 @@
         ],
         "example": "Use this when the user drops one or more reference images and wants to create an avatar, replace a face, adapt brand colors, add a logo, or create the prompt before uploading assets into a tool.",
         "sourceUrl": "https://github.com/minhnv0807/ai-business-skills/blob/HEAD/modules/personal-branding/en/24-ai-avatar-production-global/SKILL.md",
-        "sourceHash": "3ded2ded6ad0336757d8c51fb92ef13dbeff2dfc148096ca8d0ee56477f12011",
-        "extractedAt": 1792471783291
+        "sourceHash": "1c4f6a00b9dfb1866f91e85dc7e93270d2bddcdfc354fa3858379a5131a093c5",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -436354,8 +436355,9 @@
       "howToUse": "Skill nay la flagship cua cluster AI Content. > Bao gom toan bo quy trinh tao video AI Avatar tu zero den publish, > voice clone, anti-detection, va chuan phap ly VN.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Dung khi mot CA NHAN muon len hinh bang AI thay vi tu quay — pipeline avatar AI: 3 tier cong cu, 4 workflow gom avatar don, dich da ngon ngu, san xuat hang loat va hybrid nguoi that cong AI; nhan anh reference de tao prompt avatar; thay mat, style, logo; ghep voice clone; tranh bi nen tang danh dau; cong bo AI theo Nghi dinh 147/2024 va QA 100 diem. Cong cu HeyGen, Synthesia, ElevenLabs,…",
+        "summary": "Dung khi mot CA NHAN muon len hinh bang AI thay vi tu quay — pipeline avatar AI: 3 tier cong cu, 4 workflow gom avatar don, dich da ngon ngu, san xuat hang loat va hybrid nguoi that cong AI; nhan anh reference de tao prompt avatar; thay mat, style, logo; ghep voice clone; tranh bi nen tang danh dau; cong bo AI theo Luat Tri tue nhan tao 134/2025 + ND 142/2026 va QA 100 diem. Cong cu HeyGen,…",
         "steps": [
+          "Quy tac van hanh chung: skills/vi/references/quy-tac-van-hanh.md (dac biet quy tac 2, 3, 7).",
           "Skill nay la flagship cua cluster AI Content. > Bao gom toan bo quy trinh tao video AI Avatar tu zero den publish, > voice clone, anti-detection, va chuan phap ly VN.",
           "1 video don — tu script den publish trong 30-60 phut.",
           "1 video goc (VN) → nhieu ngon ngu (EN, TH, ID, JA) cho thi truong Dong Nam A + quoc te.",
@@ -436364,8 +436366,8 @@
         ],
         "example": "Dung khi user nem 1 hoac nhieu anh reference va muon tao avatar, thay mat, doi mau brand, them logo, hoac tao prompt truoc khi upload vao tool.",
         "sourceUrl": "https://github.com/minhnv0807/ai-business-skills/blob/HEAD/modules/personal-branding/vi/24-ai-avatar-production/SKILL.md",
-        "sourceHash": "d3f1af283c4725c8de470ca3a377bf6a8217444f80b2f4e946e80d771c4fd8d1",
-        "extractedAt": 1792471783296
+        "sourceHash": "ba2d4229f0bae037fbaf4c8168a04d9377ba142a45fa0cddfbc4a4650b6b9791",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -436410,8 +436412,8 @@
         ],
         "example": "Ten: [Ten AI co-host] Tinh cach: Tro mo, hay hoi sau, doi khi hai huoc nhe Vai tro: Dat cau hoi cho host, khong tu noi qua nhieu Phong cach noi: Casual, tu nhien, dung \"minh/ban\" (khong \"toi/anh\") Cap do kien thuc: Trung binh — dat cau hoi nhu listener Cau cam thuong dung: \"Wow, hay quoc!\", \"Vay nghia la sao?\", \"Cu the hon nha?\"",
         "sourceUrl": "https://github.com/minhnv0807/ai-business-skills/blob/HEAD/modules/personal-branding/vi/25-voice-clone-podcast/SKILL.md",
-        "sourceHash": "6bc5268f62a813ba13fcf9c263f1f3055e4839e91270dc1f83c2890729b3d15a",
-        "extractedAt": 1792471783297
+        "sourceHash": "166740220c62ffe7ea38926b8224e1e82a540780f4a2584549c7d13c5446796d",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -436496,8 +436498,8 @@
         "summary": "Dung khi mot CA NHAN da co nguoi theo doi va muon RA TIEN — 3 phien ban funnel cho founder, coach, creator; offer ladder tu mien phi den high-ticket; tam ly gia cho dich vu gan voi con nguoi; inbound vs outbound; dam phan brand deal cho creator; thue va phap ly ca nhan tai VN. Kich hoat khi user nhac 'kiem tien tu personal brand', 'offer ladder ca nhan', 'ban khoa hoc', 'coaching 1-1', 'nhan…",
         "steps": [],
         "sourceUrl": "https://github.com/minhnv0807/ai-business-skills/blob/HEAD/modules/personal-branding/vi/27-personal-brand-monetize/SKILL.md",
-        "sourceHash": "87a4da78a48140364dfde090c8dec5c8dfef66c20284c244456cddd443108daa",
-        "extractedAt": 1792471783299
+        "sourceHash": "a321391eb4d43af0bc9876aec267dbaa9109af1b4688afc8a9158e458ce908bb",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -436841,11 +436843,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "将已确认的母题、证据和创作简报写成平台原生内容。用于 X 短帖、长帖或线程，小红书图文，微信公众号文章，视频号、抖音或小红书视频发布文案，YouTube 标题、描述、章节、标签和缩略图方案，以及同一母题的多平台适配。强调各平台独立设计标题、开头、证据顺序、结构和行动，不做机械缩写或共享正文式的一稿多发。",
+        "summary": "将已确认的母题、证据和创作简报写成平台原生内容。用于 X 短帖、长帖或线程，小红书图文，Reddit 回复或发帖，微信公众号文章，视频号、抖音或小红书视频发布文案，YouTube 标题、描述、章节、标签和缩略图方案，以及同一母题的多平台适配。强调各平台独立设计标题、开头、证据顺序、结构和行动，不做机械缩写或共享正文式的一稿多发。",
         "steps": [],
         "sourceUrl": "https://github.com/yanhua1010/self-media-content-workflow/blob/HEAD/skills/self-media-platform-copywriting/SKILL.md",
-        "sourceHash": "400fcb483c56b4773114c610c45b791301b4df6d0143e3bb96a82f6048bac9cf",
-        "extractedAt": 1792471784431
+        "sourceHash": "d5d3ddcaaac6d9abcb1c951f97d5c03b110a27c96736e11cb9febadb9919a0aa",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -436927,11 +436929,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "安全追踪热点、研究关键词和拆解竞品内容，并将结果转成原创选题和证据包。用于用户要求找热点、看趋势、分析爆款、研究竞品账号、拆标题或开头、比较内容结构、发现评论需求和判断时效窗口。只做公开信息研究和只读采集，不自动互动、发布或使用主账号登录态抓取竞品。",
+        "summary": "安全追踪热点、研究关键词和拆解竞品内容，并将结果转成原创选题和证据包。用于用户要求找热点、看趋势、分析爆款、研究竞品账号、拆标题或开头、比较内容结构、发现评论需求、判断时效窗口，对比同一话题在海外与国内平台的热度差，以及为产品寻找值得参与的 Reddit 子版块和讨论帖。只做公开信息研究和只读采集，不自动互动、发布或使用主账号登录态抓取竞品。",
         "steps": [],
         "sourceUrl": "https://github.com/yanhua1010/self-media-content-workflow/blob/HEAD/skills/self-media-trend-radar/SKILL.md",
-        "sourceHash": "23f3f1ea78c3682098b6d3fabfff1e87cd0be91a32b0f5aafb2cb266926b4355",
-        "extractedAt": 1792471784431
+        "sourceHash": "7a6b0a865131be802facfec05e7fbb6c199e198343af5c9c2bfa699e08a86e94",
+        "extractedAt": 1795073052431
       },
       "compatibleAgents": [],
       "isBundle": false,
