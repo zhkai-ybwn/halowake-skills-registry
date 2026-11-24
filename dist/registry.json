@@ -310319,12 +310319,12 @@
       "howToUse": "User asks to configure a model for code generation, production deployment, Embedded Coder, or Simulink Coder rapid prototyping；User mentions GRT, ERT, AUTOSAR, ARM, embedded target, production code, or rapid-prototyping code",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Configure Simulink models for Embedded Coder (ERT), Simulink Coder (GRT rapid-prototyping), or AUTOSAR code generation. Use when the user asks to generate embedded C or C++ code, run a full build of a model, produce a code generation report, configure a model for production/ECU deployment or rapid-prototyping code, target ARM or x86 hardware, apply MISRA C/C++ compliance (ERT/AUTOSAR only —…",
+        "summary": "Configure Simulink models for Embedded Coder (ERT), Simulink Coder (GRT rapid-prototyping), or AUTOSAR code generation. Use when the user asks to generate embedded C or C++ code, run a full build of a model, produce a code generation report, configure a model for production/ECU deployment or rapid-prototyping code, target ARM or x86 hardware, apply a MISRA C/C++ code-generation profile…",
         "trigger": "User asks to configure a model for code generation, production deployment, Embedded Coder, or Simulink Coder rapid prototyping；User mentions GRT, ERT, AUTOSAR, ARM, embedded target, production code, or rapid-prototyping code",
         "steps": [],
         "sourceUrl": "https://github.com/matlab/simulink-agentic-toolkit/blob/HEAD/skills-catalog/code-generation/simulink-configure-model-for-code-generation/SKILL.md",
-        "sourceHash": "87aab7265b566906e55f3237f6de9bf335980b743138c111aeca50586cdf76ee",
-        "extractedAt": 1792903199315
+        "sourceHash": "863f8dd85f0962ef2edb8d030d404f212a8c11ed44b015a9af8720a615265eed",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -310410,19 +310410,20 @@
       "howToUse": "User asks to reduce runtime, RAM, ROM, or stack usage of generated code from a Simulink model；User wants to optimize Embedded Coder output for a specific hardware target",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Optimizes Simulink models for Embedded Coder generated code. Use when asked to optimize or improve generated code, or reduce code metrics for a Simulink model. Targets: execution time, memory footprint (RAM, ROM, stack, data copies), code size, MISRA compliance, or any semantically similar generated-code metric. Works iteratively — measures baseline, suggests changes, applies, and re-measures to…",
-        "trigger": "User asks to reduce runtime, RAM, ROM, or stack usage of generated code from a Simulink model；User wants to optimize Embedded Coder output for a specific hardware target",
+        "summary": "Routes Embedded Coder workflows for Simulink models. Use when asked to optimize or improve generated code, reduce code metrics, author Code Replacement Libraries, or improve Embedded Coder output. Targets: execution time, memory (RAM, ROM, stack), code size, MISRA compliance. Works iteratively with measurement, gating, and rollback. Triggers: optimize generated code, reduce runtime, shrink code…",
+        "trigger": "User asks to optimize generated code (speed, RAM, ROM, stack, MISRA, code size)；User asks to author or modify a Code Replacement Library (CRL)",
         "steps": [
-          "Append decision trace to .ecodiagnostics/ecodecisiontrace.md. Steps 2-6 blocked until written.",
-          "Verify token ledger (tokenledger.json non-empty). Steps 3-6 blocked until verified.",
-          "Write updated state.json with NEXTACTION, CURRENTSTAGE, versionMap, LATESTMETRICS.",
-          "If new versionMap entry has commitSHA = null: Skip if all entries already have commitSHA.",
-          "If step 4 ran: Re-write state.json with populated commitSHA and updated liveVersion.",
-          "Proceed to next phase per NEXTACTION."
+          "Add skill scripts to the MATLAB path:",
+          "Find open models:",
+          "Branch on result:",
+          "None open: \"No Simulink models are currently open. Please open the model you want to work with and try again.\" Stop.",
+          "One model: Use it. Derive = the directory containing the model's .slx file (i.e., fileparts(which(''))). This is the working directory for all skill operations — .diagnostics/state.json and all artifacts live here.…",
+          "Multiple models: Present list, ask which to use. Wait for answer."
         ],
+        "example": "For every matched route (all routes on the PROCEDURESTACK), read its askuser fields from router.json. Check whether the user's original prompt already provides a value for any of these fields. If so, write it to state under the workflow scope immediately (e.g., ecostatewrite('', 'wfoptimize.GOAL', 'speed')).",
         "sourceUrl": "https://github.com/matlab/simulink-agentic-toolkit/blob/HEAD/skills-catalog/code-generation/simulink-optimizing-embedded-code/SKILL.md",
-        "sourceHash": "121f216e2e0d75ff2fb2c7f2eaa42e885f27d298fd207d08d6a5ac9852786433",
-        "extractedAt": 1792903199316
+        "sourceHash": "5b6e819f604117053ce5dadea2d2d3f9b9527280f48d74c503b2659e6c26ef41",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -310604,8 +310605,8 @@
           "Unit Delay on voltage path to plant"
         ],
         "sourceUrl": "https://github.com/matlab/simulink-agentic-toolkit/blob/HEAD/skills-catalog/control-systems/simulink-control-motors/SKILL.md",
-        "sourceHash": "76da18bf72cb512dbc2f108ee5023c86b248317d9d9d59d6e9b1f0adec60e996",
-        "extractedAt": 1792903199318
+        "sourceHash": "f768c5762683ca5af06873bb9479021ac0a28249ebfac5c55cd023740bfd37ac",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -310745,8 +310746,8 @@
           "Verify: Use modelread on the scope to confirm the structure matches your intent."
         ],
         "sourceUrl": "https://github.com/matlab/simulink-agentic-toolkit/blob/HEAD/skills-catalog/model-based-design-core/building-simulink-models/SKILL.md",
-        "sourceHash": "4e57fff2d6c962def8b0d056e0d8c05169147b8e8933d277ac1b427e78420b14",
-        "extractedAt": 1792903199321
+        "sourceHash": "bc4094ad788e84fe48224b65b6f56ad702d561505827259ce57d4d218712da58",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -456768,8 +456769,8 @@
           "Analyze - Track performance with platform and post-level analytics"
         ],
         "sourceUrl": "https://github.com/gitroomhq/postiz-agent/blob/HEAD/SKILL.md",
-        "sourceHash": "18f19536c86de201a8823628482101b77adab8f47d28e989587f495188fa2437",
-        "extractedAt": 1792903200600
+        "sourceHash": "5ebc81bb99d2238bea0806ad4f33adca4d37ed96f7ac9c7e0c999a382725aad9",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -456819,8 +456820,8 @@
           "Analyze - Track performance with platform and post-level analytics"
         ],
         "sourceUrl": "https://github.com/gitroomhq/postiz-agent/blob/HEAD/skills/postiz/SKILL.md",
-        "sourceHash": "18f19536c86de201a8823628482101b77adab8f47d28e989587f495188fa2437",
-        "extractedAt": 1792903200602
+        "sourceHash": "5ebc81bb99d2238bea0806ad4f33adca4d37ed96f7ac9c7e0c999a382725aad9",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -458265,8 +458266,8 @@
         "summary": "Claude Code plugin for Butterbase — 39 guided skills, 34 slash commands, and auto-configured MCP for the AI-native backend-as-a-service.",
         "steps": [],
         "sourceUrl": "https://github.com/butterbase-ai/butterbase-skills/blob/HEAD/SKILL.md",
-        "sourceHash": "7b0ed199d779449a2ff3c851c5bdb9be388ff50dd951e6ea78a1d798de798726",
-        "extractedAt": 1792903202345
+        "sourceHash": "0d9bb0449ad9063ab0ddf18c140bfc658a2b3bbdfd460ff224407641b0458412",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -458355,8 +458356,8 @@
           "Returns aggregate token counts + cost. Useful for billing reconciliation, spending-cap diagnostics, and showing dashboards."
         ],
         "sourceUrl": "https://github.com/butterbase-ai/butterbase-skills/blob/HEAD/skills/ai/SKILL.md",
-        "sourceHash": "439f7881ff4fe45e94206bc3359729f1a1403cedb2f000d13da725aa1a4d440f",
-        "extractedAt": 1792903202347
+        "sourceHash": "20cd2fb268e263381c45db49f238612148b61be3d7ae18fb067c5452e39eff07",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -458503,8 +458504,8 @@
           "Add tool to the relevant section's table in the SECTIONS object"
         ],
         "sourceUrl": "https://github.com/butterbase-ai/butterbase-skills/blob/HEAD/skills/contributing/SKILL.md",
-        "sourceHash": "f264a72a67c8ad8e32ec49632b8432b727f19d51c0b700075db6f5891e07d9bb",
-        "extractedAt": 1792903202348
+        "sourceHash": "3fa3dd43f3087c91dd1af56111741eb64fa605be5d950c026467befad6fa1a28",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -469880,8 +469881,8 @@
         "summary": "Initialize and configure the Operator Project Brain.",
         "steps": [],
         "sourceUrl": "https://github.com/aerovato/operator-memory/blob/HEAD/packages/claude-code/skills/project-init/SKILL.md",
-        "sourceHash": "fe8cffc69ee0e137f90b07b3b079e126c7ec93ad327c438c0ffd2072cda93456",
-        "extractedAt": 1792857425212
+        "sourceHash": "aa19b43b2bb0ce3327e9b91180ba56670760aff96636f2371e5dc0b00f620400",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -470052,8 +470053,8 @@
         "summary": "Initialize and configure the Operator Project Brain.",
         "steps": [],
         "sourceUrl": "https://github.com/aerovato/operator-memory/blob/HEAD/packages/codex/skills/operator-project-init/SKILL.md",
-        "sourceHash": "a3f4e2d628f2f735b23d61a1d66ff5f6f578c0aea32e63270d7c6cf07d11009e",
-        "extractedAt": 1792857425213
+        "sourceHash": "8e601ec2edc4abe058f1af90c0af213874b2329239c90cd59b963daa35a8891b",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478116,8 +478117,8 @@
           "Only when the caller requests machine-readable evidence or a declared downstream consumer requires it, persist canonical verdict.v2 with store-verdict --draft --intent-source --subject-manifest --author-context-id…"
         ],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/packs/agentops-executor/agents/validator/skills/validate/SKILL.md",
-        "sourceHash": "799a90844a2447bb72d8d83e8eb0f04497901570628e6df8f3b76ac398cd5a95",
-        "extractedAt": 1792874918075
+        "sourceHash": "b18011fc5dcc098ac940247e5f4aed69d168ce9cd9a170218ce415aeeb78deb6",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478247,8 +478248,8 @@
         "trigger": "Run a supplied task in headless AGY (Antigravity, Gemini) and collect its result. Use when: AGY, Antigravity or Gemini is requested by name; never a fallback.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/agy-native/SKILL.md",
-        "sourceHash": "ed50d4590413c4250c59cba3f255df365b5eaf79bb403cbbb5817ae505da41a3",
-        "extractedAt": 1792874918079
+        "sourceHash": "ba7290f213275458e7dcf615e11a912d664c1a24a8fe19cf73069b903aebde7d",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478291,8 +478292,8 @@
         "trigger": "Compare interface designs and find structural friction. Use when: a change spreads across modules or a boundary is unclear. For code changes, use Refactor.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/architecture/SKILL.md",
-        "sourceHash": "ee7f40ad543549334d1f15012c1b0d4276c4ee634d45612ad1e7c5576280137c",
-        "extractedAt": 1792874918081
+        "sourceHash": "78a538af59e11056ddf795648f8cb47f8880e3ed098aad903768617941a3a82b",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478335,8 +478336,8 @@
         "trigger": "Run one prompt through headless Claude with scoped permissions and a time bound. Use when: scripting or automating a claude -p call, even a simple one.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/claude-exec/SKILL.md",
-        "sourceHash": "1d44559f75a40bee190bb3269188b4467600a267ca25421e95e743e9e6c85339",
-        "extractedAt": 1792874918083
+        "sourceHash": "db3c9aa304a10cf03b8dd7f79bcba97c7a6c6f5fdbf161f09ea5a3985cd14013",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478379,8 +478380,8 @@
         "trigger": "Run one prompt through headless Codex and capture the result. Use when: wanting a one-shot codex exec run or CI step. Not for batches or retries.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/codex-exec/SKILL.md",
-        "sourceHash": "c411c68b637c2e2bdcb3224c47bf805f1e0821ce6aadd7f06fb6d2d0fb37c3e4",
-        "extractedAt": 1792874918085
+        "sourceHash": "77f02bb34d01d4cd7e66b8e7a831a64a9785194fa6bfd400e4d69a8adb8824a3",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478419,13 +478420,12 @@
       "howToUse": "Compare independent opinions from several models or contexts without inflating agreement. Use when: wanting a second opinion or debate, or summarizing several reviewers' results.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Compare independent opinions from several models or contexts without inflating agreement. Use when: wanting a second opinion or debate, or summarizing several reviewers' results.",
-        "trigger": "Compare independent opinions from several models or contexts without inflating agreement. Use when: wanting a second opinion or debate, or summarizing several reviewers' results.",
+        "summary": "Compare independent opinions from models or contexts without inflating agreement. Use when: wanting several opinions or a debate, or summarizing several reviewers' results.",
+        "trigger": "Compare independent opinions from models or contexts without inflating agreement. Use when: wanting several opinions or a debate, or summarizing several reviewers' results.",
         "steps": [],
-        "example": "Use /agentops:council to compare architectures for reliable Job redelivery. Use four distinct available models I authorize for this source. Have each propose an approach independently, then debate the alternatives. Require three of four to support the same exact recommendation. Cap debate at five rounds and the whole council at 60 minutes. Preserve objections and explain what evidence we still need before implementation or validation.",
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/council/SKILL.md",
-        "sourceHash": "4973fbc9596b0fa935125ae41c1c0d00f91bec5fe13adee377719548b81b5ed4",
-        "extractedAt": 1792874918087
+        "sourceHash": "cac6be2cdcd7284ca48e1cd24259c3e4f005072b83763ae704caf6ab588e27d6",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478468,8 +478468,8 @@
         "trigger": "Draft or lint a bounded long-running goal prompt with a finish line and hard limits. Use when: asked to craft or lint a goal (a /goal prompt); one change goes to Plan.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/craft-goal/SKILL.md",
-        "sourceHash": "9ba22488f422f6d620abec91d7ebba423440b953d77cb1f65ae97f1566aff4e6",
-        "extractedAt": 1792874918088
+        "sourceHash": "14598592634c0029851ed4195ce0c6d95545d3a986b1f0f42d990cb4c4e32e6d",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478512,8 +478512,8 @@
         "trigger": "Write source-checked docs, READMEs, change descriptions and handoffs. Use when: documenting a change, leaving or resuming a handoff, or drafting a questionnaire for someone else.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/doc/SKILL.md",
-        "sourceHash": "20629df5b5474b72dafd849488bc6e5467e619a8a8e7e57d523a94bd25bc8081",
-        "extractedAt": 1792874918089
+        "sourceHash": "2d8b1dce5b6cabafdf9000398834985879c03722b084b89c4ac84138adeeff01",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478556,8 +478556,8 @@
         "trigger": "Settle what domain terms mean per context, and which repository conventions or language standards (Go, Python) apply. Use when: names disagree or a rename is proposed.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/domain/SKILL.md",
-        "sourceHash": "8e3862a4c81978ad3605c9e2a0740b516fc0c241e83b828a3ceee054ad214fc6",
-        "extractedAt": 1792874918091
+        "sourceHash": "f11364e6a032a8a871f05a1681a330ea7b7857f199423fa650479aa53ae24dd9",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478600,8 +478600,8 @@
         "trigger": "Audit CLI, API, MCP or SDK discovery, first use and error recovery. Use when: designing an agent-facing tool or investigating misuse, including one command.",
         "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/ergonomics/SKILL.md",
-        "sourceHash": "6bd92ccaf278d0a1fa43ec724e7e2f7a508d0d44d5865bed3db87b01ddb8b09c",
-        "extractedAt": 1792874918093
+        "sourceHash": "21fd6f3021545abc9e420f3c4fc2e5e597a14ccd780eceb93b6a87c719d5a901",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -478642,16 +478642,10 @@
         "extractorVersion": 3,
         "summary": "Brainstorm evidence-backed options for what to build, or stress-test an idea. Use when: deciding what to build next, comparing options or testing an idea.",
         "trigger": "Brainstorm evidence-backed options for what to build, or stress-test an idea. Use when: deciding what to build next, comparing options or testing an idea.",
-        "steps": [
-          "Freeze the question, constraints, evidence paths and comparison rubric. Leave unknowns open. An assumption only one approach needs stays with that approach; in the shared constraints it would rule rivals out unseen.",
-          "For a one-way door, start at least two fresh contexts: separate subagents or sessions with no shared transcript, one prompt each carrying the frozen question and evidence paths and asking for the return in sealed…",
-          "Reveal the sealed perspectives and cross-review each by evidence, reversibility, system fit, failure modes and cost. Compare perspectives by mechanism, not by name: two that rely on the same mechanism count as one…",
-          "Attempt concrete refutations. A premise of the frozen question that every perspective builds on gains no support from their agreement: check it at its source. Refute a stateful mechanism with a state trace, not prose.…",
-          "Write idea-challenge.v1, validate it, and pass it to Plan as one optional input alongside research and operator intent."
-        ],
+        "steps": [],
         "sourceUrl": "https://github.com/boshu2/agentops/blob/HEAD/plugin/skills/idea-genie/SKILL.md",
-        "sourceHash": "632531c6748bd71d293b84668bdccc9fb90a7e690aad5a3df6bacc6d7fe68894",
-        "extractedAt": 1792874918095
+        "sourceHash": "17ace416c4219f518330f6c554318a23fcfb0d6825f8c0751b40d09b47c2462c",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -479641,12 +479635,13 @@
       "howToUse": "Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini). Use when user mentions \"AI search,\" \"how do I show up in ChatGPT,\" \"AI discoverability,\" \"AEO,\" \"LLM visibility,\" or wants to understand their brand's AI presence.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini). Use when user mentions \"AI search,\" \"how do I show up in ChatGPT,\" \"AI discoverability,\" \"AEO,\" \"LLM visibility,\" or wants to understand their brand's AI presence.",
-        "trigger": "Audit how a brand appears in AI-powered search (ChatGPT, Perplexity, Claude, Gemini). Use when user mentions \"AI search,\" \"how do I show up in ChatGPT,\" \"AI discoverability,\" \"AEO,\" \"LLM visibility,\" or wants to understand their brand's AI presence.",
+        "summary": "Use when a founder, marketer, or consultant wants to audit how visible their brand is to AI search (ChatGPT, Perplexity, Claude, Gemini). Also use when mentioned: 'AI SEO', 'GEO', 'ChatGPT can't find me', 'AI search visibility', 'how do I show up in AI answers'. NOT for: traditional Google SEO, ad strategy, or content writing.",
+        "trigger": "Use when a founder, marketer, or consultant wants to audit how visible their brand is to AI search (ChatGPT, Perplexity, Claude, Gemini). Also use when mentioned: 'AI SEO', 'GEO', 'ChatGPT can't find me', 'AI search visibility', 'how do I show up in AI answers'. NOT for: traditional Google SEO, ad strategy, or content writing.",
         "steps": [],
+        "example": "Here's a complete audit for a fictional SaaS company:",
         "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/ai-discoverability-audit/SKILL.md",
-        "sourceHash": "a46da03dd777b5864116f399d453eab1da8b24cb13edf3aff33d5806954a21a0",
-        "extractedAt": 1792874919544
+        "sourceHash": "c9cf24c911465618e5d9c906381df2a61887698e9c78134cb7444bb9a993d754",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -479828,8 +479823,8 @@
           "When this skill is invoked, follow these phases exactly."
         ],
         "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/daily-briefing-builder/SKILL.md",
-        "sourceHash": "56d9b91d74fd21da6b09dad36c8cd79faa35e955f93138bb13b2a5aeeb76aa42",
-        "extractedAt": 1792874919545
+        "sourceHash": "d87b30c6e46a5928d705f1775633e342065e57fa5bbdd05f57c3693ee06b0dfc",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -480124,8 +480119,8 @@
           "comprehensive, robust"
         ],
         "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/linkedin-profile-optimizer/SKILL.md",
-        "sourceHash": "6e5a527aac9863089ebb253c56ea1ec116c3849e2577f1e37ceae5c2b2af23a4",
-        "extractedAt": 1792874919548
+        "sourceHash": "65b0441be03f78e3ad49cf0eb3b75b2c1f9dc319f37c8c8d0ed03e260c06836b",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -480214,8 +480209,8 @@
           "Open Claude Code in your vault directory and say:"
         ],
         "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-claude-code-skills/blob/HEAD/meeting-prep/SKILL.md",
-        "sourceHash": "bf4ab06b95375d3ef2951c63271e7c903b5b0193d5284539ed5bafceebd163a3",
-        "extractedAt": 1792874919548
+        "sourceHash": "d45b815eb72cabed5ccab45f24281901a49cd63c17afbf9d859dd9205d7bab90",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521151,8 +521146,8 @@
         "trigger": "Use when a target journal has no profile yet. Reads the journal's author guidelines and writes a detailed /write-paper profile plus a compact /find-journal profile, public or user-local private, in the canonical format with quality gates.",
         "steps": [],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/add-journal/SKILL.md",
-        "sourceHash": "3df90500dbde0825f4d4f668405fcadeb36e8ae4c64caa2ea075b78a89a24a53",
-        "extractedAt": 1792874921087
+        "sourceHash": "d84661f4e9f0ee8237eda146c3eb63604e4af1089ae7f5bba590af219406fc73",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521377,8 +521372,8 @@
         "trigger": "Use when planning how many patients or cases a study needs before data collection (power analysis, IRB justification). Walks a decision tree to the right test and returns reproducible R/Python code and IRB-ready justification text. Analyzing collected data is /analyze-stats.",
         "steps": [],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/calc-sample-size/SKILL.md",
-        "sourceHash": "ee07845a609e1132a8e093b1fabd708561bedc634fccd82bfa3362e7eea93b2f",
-        "extractedAt": 1792874921090
+        "sourceHash": "d49ee99c27b167a345bb4e11d0bbcbb843d37135d21c4382ce562e7efac3db74",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521472,8 +521467,8 @@
         "trigger": "Use when a clinical CSV/Excel dataset needs profiling and cleaning before analysis (missing values, outliers, duplicates, type mismatches). Profiles, flags and generates cleaning code in three stages, each gated on the researcher's approval. Never auto-cleans.",
         "steps": [],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/clean-data/SKILL.md",
-        "sourceHash": "6acb2b638a089e4f703dfd2b3dfb38028e894471f99d7ed2a435a3446e1d79b0",
-        "extractedAt": 1792874921092
+        "sourceHash": "e52c40f1a2aebff2db98c5db0498ffed919d363b4cbf74a66e95856a2e863cce",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521604,8 +521599,8 @@
         "trigger": "Use when exposure, outcome, covariate or eligibility definitions and cutoffs need a citable basis before the protocol. Reads the data dictionary first, then maps each variable to a guideline or published definition and the database columns in a citation-backed table.",
         "steps": [],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/define-variables/SKILL.md",
-        "sourceHash": "9bf85903bf29437f41bdaaafbf46ee789262d5bf6d15989cfb3ebb9db5f62219",
-        "extractedAt": 1792874921093
+        "sourceHash": "dd4da6674d15495a33889b2eb9a00216a0b772481be3a90e505add5b98c9c4c4",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521651,8 +521646,8 @@
           "python3 ${CLAUDESKILLDIR}/deidentify.py review ./deidentified/scanreport.json"
         ],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/deidentify/SKILL.md",
-        "sourceHash": "6e242ae5ebb380b98b6efe669307c95945b4808ef40bc9b129c032e8783635fc",
-        "extractedAt": 1792874921093
+        "sourceHash": "bd441874b1d5667b6c39f7948954090076347434aef42f217e15f67d65dc0021",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521695,8 +521690,8 @@
         "trigger": "Use when designing a study that benchmarks AI systems against a human-expert panel, before data collection. Plans the arms, decoupled rubrics with anchors, planted calibration probes, reviewer panel, inter-rater reliability targets and LLM-as-judge versus human adjudication.",
         "steps": [],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/design-ai-benchmarking/SKILL.md",
-        "sourceHash": "fb18e9acb611a51132e25f4f8690ea61138c424ebdda5a18ea32da5c0cfb99d7",
-        "extractedAt": 1792874921093
+        "sourceHash": "e878a3ff45a9d848d2c17e4f7340fbeb4d27b76ebce12a4c1f7ced68bd9d1c9f",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -521739,8 +521734,8 @@
         "trigger": "Use when checking a radiology or medical AI study design before drafting or submission. Reviews the analysis unit, cohort logic, leakage risks, comparator, validation strategy and reporting-guideline fit. AI-vs-expert benchmarks are /design-ai-benchmarking.",
         "steps": [],
         "sourceUrl": "https://github.com/Aperivue/medsci-skills/blob/HEAD/skills/design-study/SKILL.md",
-        "sourceHash": "ee49cc85fe95901d752d55a9fe7f78de0af3864523fabcc4ef37012135c47b62",
-        "extractedAt": 1792874921094
+        "sourceHash": "9e0476d0d448f0b9d7fde3ae6736703f3b79174c3d69482c7b96b84ae654c5e4",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522433,16 +522428,12 @@
         "summary": "Explain plugin, skill, command, agent, and hook mechanics used here. Use when authoring or debugging plugins. Do not use for ops; use night-market-operations.",
         "trigger": "Explain plugin, skill, command, agent, and hook mechanics used here. Use when authoring or debugging plugins. Do not use for ops; use night-market-operations.",
         "steps": [
-          "Location: workflows/ at the plugin root. Two official plugins use it today (claude-security/workflows/scan.js, code-modernization/workflows/.js), and neither declares a workflows key in plugin.json, so discovery is by…",
-          "Invocation: namespaced, /plugin-name:workflow-name, where the name comes from the script's meta.name.",
-          "Format: JavaScript opening with a literal export const meta = { name, description, whenToUse?, phases? }. The body uses agent(), pipeline(), parallel(), phase() and log(), and may await and return at top level.",
-          "Not an ES module. The export and the top-level return cannot coexist in real ESM, so node --check on a valid script reports \"Illegal return statement\". The runtime extracts meta and runs the body inside an async…",
-          "Permissions: subagents spawned by a workflow run in acceptEdits and inherit the tool allowlist, whatever the session's permission mode.",
-          "A script that cannot start returns {started: false, reason, next} instead of dispatching agents against missing input. next names the command that produces what was missing."
+          "Every plugin ships dynamic-workflow scripts under workflows/, invoked as /plugin-name:workflow-name. Location, the meta format, the forbidden calls and the refuse-with-next convention are in modules/workflows.md.",
+          "rg -n 'def main' -A 12 plugins/sanctum/scripts/updateversions.py"
         ],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/claude-code-plugin-reference/SKILL.md",
-        "sourceHash": "0a2173f6f0f2625cf4cac14e9b06ee4236ef39d5ecee871a52ae19e5659b03c9",
-        "extractedAt": 1792874923483
+        "sourceHash": "f707ae3b077c590371e770012b5b825bfe6222e984d09db1fcb9dcc2b9c18d3a",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522485,8 +522476,8 @@
         "trigger": "States load-bearing decisions, invariants, and weak points. Use when judging a design change. Do not use for gating; use night-market-change-control.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-architecture-contract/SKILL.md",
-        "sourceHash": "0adc25e6adefbe0ccbb29fcd7087b3bd32919f6d50621841033a07fe188af54a",
-        "extractedAt": 1792874923484
+        "sourceHash": "ba5fcaf896a19f7d46df313c050e5231723969babf3530502edbff79605f175b",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522529,8 +522520,8 @@
         "trigger": "Rebuild the dev environment: uv, Python tiers, pins, traps. Use when onboarding or toolchain breaks. Do not use for daily commands; use night-market-operations.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-build-and-env/SKILL.md",
-        "sourceHash": "d254d7591b9eb12ef217bd98ed26f9a7e3bdfc8331fa7b3470181d0c61c252c8",
-        "extractedAt": 1792874923484
+        "sourceHash": "87026619d70dfb958140b5c3347a840b261f62fb4eb56fb2c4ae0371aa93464c",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522573,8 +522564,8 @@
         "trigger": "Classify, gate, and review changes. Use when landing a PR, releasing, or amending rules. Do not use for failure triage; use night-market-debugging-playbook.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-change-control/SKILL.md",
-        "sourceHash": "c737d1f702d54c6f7f7db2aeb2ed9df8039021684ad680afd57cf8c60e6459f6",
-        "extractedAt": 1792874923485
+        "sourceHash": "da4b23c0d28e2e689855e76e7a57b55219bc1b06e3bdfc85966a0f2e8830927e",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522616,8 +522607,8 @@
         "summary": "Search and record project memory (Discussions, journal, ADRs). Use before re-investigating anything. Do not use for settled battles; see failure-archaeology.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-collective-memory/SKILL.md",
-        "sourceHash": "64d6aa838dec10795e67e19f7238d21f4b7d2e0eda2c030761b330e95a33f93b",
-        "extractedAt": 1792874923485
+        "sourceHash": "b8658cf37aabe5ea5bb3006dce992b416a329d4e8d1f8d2521879d4d03c2ff62",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522659,8 +522650,8 @@
         "summary": "Bind loop 'done' to unfakeable gates. Use to harden egregore/herald loops or promote completionintegrity. Not for QA gates; use night-market-validation-and-qa.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-completion-integrity-campaign/SKILL.md",
-        "sourceHash": "3aabdc215b5d1bc94f56e8b089ab0de0b6308bb8078e3702913bf95f17726ea8",
-        "extractedAt": 1792874923485
+        "sourceHash": "f9ec29374b581b52f005efbdd252f87cb8c765e225fa3691dcc545a80cb2f4ee",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522703,8 +522694,8 @@
         "trigger": "Catalog every config axis, its defaults and guards. Use when adding or auditing configuration. Do not use for running gates; use night-market-operations.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-config-catalog/SKILL.md",
-        "sourceHash": "9929f6e5776b2a1b90439e6b1579334e6350285452182ea0d249d9253c88b876",
-        "extractedAt": 1792874923486
+        "sourceHash": "4d5a908805a55751f2a58cdf1c4eb9956a45899de2bccb221b4cdd17ccda8f9b",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522747,8 +522738,8 @@
         "trigger": "Triage night-market failures by symptom (hooks, CI, tests). Use when a check fails unexpectedly. Do not use for routine gates; use night-market-operations.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-debugging-playbook/SKILL.md",
-        "sourceHash": "f64fb78a77d919f5348c332d38a0acd97221281230adc1d123af95d9c4b94585",
-        "extractedAt": 1792874923486
+        "sourceHash": "2f90b7c4c74e6bd6819c944581c46c3a5f276200003be74c56161253cbd7f729",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522793,8 +522784,8 @@
           "bash scripts/capabilities-sync-check.sh | tail -3; python3 plugins/abstract/scripts/validatebudget.py | tail -3"
         ],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-diagnostics-toolkit/SKILL.md",
-        "sourceHash": "0b621a8db4ab0bf3c8b03ca33cd6b37ab562d2e3198a21ce86b702ca9d115c3e",
-        "extractedAt": 1792874923486
+        "sourceHash": "17ae96e0362e724341f0f34bf1cb1e3544a9b0e615b9dd4affe1e232277a2a6a",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522837,8 +522828,8 @@
         "trigger": "Maintain docs of record, ADRs, changelog, and house style. Use when writing repo docs. Do not use for release steps; use night-market-operations instead.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-docs-and-writing/SKILL.md",
-        "sourceHash": "e68c57f457469d30aa441864652ebca828e79a4b9ef43eb3c0e95dd24f77c02e",
-        "extractedAt": 1792874923487
+        "sourceHash": "7c5eb8ab522a7610a1e62fb21e35ecd48afd9666ec60965ab70beadc04e16be2",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522886,8 +522877,8 @@
           "When your own battle settles, add an entry (format at the bottom)."
         ],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-failure-archaeology/SKILL.md",
-        "sourceHash": "c362bc5eda92a34708580d33f8075377a09fc8339271d21d4feda0c3c670ce26",
-        "extractedAt": 1792874923487
+        "sourceHash": "2def3b3d9cea6bb244983821635a8ea737f6b7afb75559910f56a133f120081d",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -522976,8 +522967,8 @@
         "trigger": "Run and ship this repo: make targets, artifacts, release runbook. Use when testing, linting, or releasing. Do not use for setup; use night-market-build-and-env.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-operations/SKILL.md",
-        "sourceHash": "6e13abf934528c362257a974ce91b7fa54328397940828634ab5665b6b911d77",
-        "extractedAt": 1792874923488
+        "sourceHash": "a3a95332038afa2abe8b120afb2ef0a8e568d460e54fed15e2a1e23e3d7f1087",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -523018,17 +523009,10 @@
         "extractorVersion": 3,
         "summary": "Map open problems where this repo can advance SOTA. Use when scoping research. Do not use to run the campaign; use night-market-completion-integrity-campaign.",
         "trigger": "Map open problems where this repo can advance SOTA. Use when scoping research. Do not use to run the campaign; use night-market-completion-integrity-campaign.",
-        "steps": [
-          "Read the executable plan in night-market-completion-integrity-campaign. That skill owns the campaign. This entry only frames the research question.",
-          "Run egregore on a small manifest with the gate on (raw-JSON opt-in, completionintegrity: true) and again with it off, on the same work items. Log every quality verdict.",
-          "Compare false-done rates: items the ungated loop shipped that the gated loop held as fix-required, adjudicated by a human.",
-          "Expand prototypes/forced-eval/activationcases.json with labeled positive and true-negative prompts for the pensive review skills.",
-          "Baseline: run the harness dry, then live.",
-          "Consolidate pensive:shell-review and pensive:makefile-review into pensive:unified-review as modules (issue #574 item 1, one PR per skill, thin command alias stubs kept), then re-run step 2."
-        ],
+        "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-research-frontier/SKILL.md",
-        "sourceHash": "d5201cdd76c9558b9687247f361e49f7a8fa774941b0565312352086c2d1eaaf",
-        "extractedAt": 1792874923488
+        "sourceHash": "b79646fc636d1fa5a6e011d5936af753b66b30e31e729a8d2d00cc2e67fc02bc",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -523071,8 +523055,8 @@
         "trigger": "Turn hunches into accepted results: worthiness score, evidence bar, research-to-rules. Use when vetting ideas. Not for QA; use night-market-validation-and-qa.",
         "steps": [],
         "sourceUrl": "https://github.com/athola/claude-night-market/blob/HEAD/.claude/skills/night-market-research-methodology/SKILL.md",
-        "sourceHash": "870d7484a2b82d9734283068172e1b13282716d9dd35f0af235963bea980b0a7",
-        "extractedAt": 1792874923488
+        "sourceHash": "3ba8eb2659c3e1ee72b5130fbe4765dbd9284cf43d2b286d1ecde139af2e9d6f",
+        "extractedAt": 1795513968184
       },
       "compatibleAgents": [],
       "isBundle": false,
