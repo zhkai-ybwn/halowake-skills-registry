@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1795642828423,
+  "updatedAt": 1795680896808,
   "description": "Halowake Skills Registry: curated skills and community source pointers",
   "skills": [
     {
@@ -18,13 +18,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/brainstorming",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -40,7 +40,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/brainstorming/SKILL.md",
         "sourceHash": "2c9ca71f94886f9ca9f4aef055f7cafb3e1a9bdf3aeebf8f4cb547c69405d207",
-        "extractedAt": 1795642846968
+        "extractedAt": 1795680912661
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -61,13 +61,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/diagnosing-superpowers",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -91,7 +91,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/diagnosing-superpowers/SKILL.md",
         "sourceHash": "3143de8695c5a2d63e8b1675f33837578076f464deb127c2ebdd0b46fceef886",
-        "extractedAt": 1795642846969
+        "extractedAt": 1795680912662
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -112,13 +112,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/dispatching-parallel-agents",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -135,7 +135,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/dispatching-parallel-agents/SKILL.md",
         "sourceHash": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
-        "extractedAt": 1795642846969
+        "extractedAt": 1795680912662
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -156,13 +156,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/executing-plans",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -183,7 +183,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/executing-plans/SKILL.md",
         "sourceHash": "deaf176fa179827e80f2ea3101db3ea90fdf562ebef340eba761e4687940f5f5",
-        "extractedAt": 1795642846970
+        "extractedAt": 1795680912663
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -204,13 +204,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/finishing-a-development-branch",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -234,7 +234,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/finishing-a-development-branch/SKILL.md",
         "sourceHash": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65",
-        "extractedAt": 1795642846971
+        "extractedAt": 1795680912663
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -255,13 +255,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/receiving-code-review",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -279,7 +279,7 @@
         "example": "Reviewer: \"Remove legacy code\" ❌ \"You're absolutely right! Let me remove that...\"",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/receiving-code-review/SKILL.md",
         "sourceHash": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438",
-        "extractedAt": 1795642846972
+        "extractedAt": 1795680912664
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -300,13 +300,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/requesting-code-review",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -324,7 +324,7 @@
         "example": "[Just completed Task 2: Add verification function] You: Let me request code review before proceeding. BASESHA=$(git log --oneline | grep \"Task 1\" | head -1 | cut -d' ' -f1) HEADSHA=$(git rev-parse HEAD) [Dispatch code reviewer subagent] DESCRIPTION: Added verifyIndex() and repairIndex() with 4 issue types PLANORREQUIREMENTS: Task 2 from docs/superpowers/plans/deployment-plan.md BASESHA: a7981ec HEADSHA: 3df7661 [Subagent returns]: Strengths: Clean architecture, real tests Issues: Important: Missing progress indicators Minor: Magic number (100) for reporting interval Assessment: Ready to proceed You: [Fix progress indicators] [Continue to Task 3]",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/requesting-code-review/SKILL.md",
         "sourceHash": "2180e14a448e9410bec88e6646a2d1f0ce7fdd58de27388c1e052e929679d2bc",
-        "extractedAt": 1795642846973
+        "extractedAt": 1795680912664
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -345,13 +345,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/subagent-driven-development",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -368,7 +368,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/subagent-driven-development/SKILL.md",
         "sourceHash": "1baf70e307bde682c462513c86116333f1f066168c6710f45145bf5f0b00828d",
-        "extractedAt": 1795642846973
+        "extractedAt": 1795680912664
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -388,13 +388,13 @@
         "avatar": "https://github.com/obra.png"
       },
       "gitUrl": "https://github.com/obra/superpowers",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 93,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -546,13 +546,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/systematic-debugging",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -576,7 +576,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/systematic-debugging/SKILL.md",
         "sourceHash": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
-        "extractedAt": 1795642846973
+        "extractedAt": 1795680912665
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -597,13 +597,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/test-driven-development",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -621,7 +621,7 @@
         "example": "test('rejects empty email', async () => { const result = await submitForm({ email: '' }); expect(result.error).toBe('Email required'); });",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/test-driven-development/SKILL.md",
         "sourceHash": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d",
-        "extractedAt": 1795642846974
+        "extractedAt": 1795680912665
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -642,13 +642,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/using-git-worktrees",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -671,7 +671,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/using-git-worktrees/SKILL.md",
         "sourceHash": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd",
-        "extractedAt": 1795642846974
+        "extractedAt": 1795680912666
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -692,13 +692,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/using-superpowers",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -717,7 +717,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/using-superpowers/SKILL.md",
         "sourceHash": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
-        "extractedAt": 1795642846975
+        "extractedAt": 1795680912666
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -738,13 +738,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/verification-before-completion",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -761,7 +761,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/verification-before-completion/SKILL.md",
         "sourceHash": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
-        "extractedAt": 1795642846975
+        "extractedAt": 1795680912666
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -782,13 +782,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/writing-plans",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -812,7 +812,7 @@
         ],
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/writing-plans/SKILL.md",
         "sourceHash": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
-        "extractedAt": 1795642846975
+        "extractedAt": 1795680912667
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -833,13 +833,13 @@
       },
       "gitUrl": "https://github.com/obra/superpowers",
       "subPath": "skills/writing-skills",
-      "stars": 326539,
+      "stars": 326901,
       "halowakeScore": 98,
       "badge": "verified",
       "metrics": {
-        "githubStars": 326539,
-        "forks": 28972,
-        "lastCommitDaysAgo": 21,
+        "githubStars": 326901,
+        "forks": 28999,
+        "lastCommitDaysAgo": 22,
         "issueCloseRate": 75,
         "securityAuditPassed": true
       },
@@ -864,7 +864,7 @@
         "example": "One excellent example beats many mediocre ones",
         "sourceUrl": "https://github.com/obra/superpowers/blob/HEAD/skills/writing-skills/SKILL.md",
         "sourceHash": "8cb3ac68c6d8c4bb46886b998b09af7989643cab8bd0e46ee86dd62e64546bbe",
-        "extractedAt": 1795642846976
+        "extractedAt": 1795680912667
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -885,12 +885,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/academy-guide",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -907,7 +907,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/academy-guide/SKILL.md",
         "sourceHash": "f27992510c051355dfe68c92394d509af730da5298094ec86834ee40bbd31376",
-        "extractedAt": 1795642845460
+        "extractedAt": 1795680911135
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -928,12 +928,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/algorithmic-art",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -958,7 +958,7 @@
         "example": "\"Organic Turbulence\" Philosophy: Chaos constrained by natural law, order emerging from disorder. Algorithmic expression: Flow fields driven by layered Perlin noise. Thousands of particles following vector forces, their trails accumulating into organic density maps. Multiple noise octaves create turbulent regions and…",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/algorithmic-art/SKILL.md",
         "sourceHash": "3bc4092c09804853186524c826bc0621b940bb6122c05b84496dff95388e6eef",
-        "extractedAt": 1795642845463
+        "extractedAt": 1795680911139
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -979,12 +979,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/brand-guidelines",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1001,7 +1001,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/brand-guidelines/SKILL.md",
         "sourceHash": "1120b3769e2985cefb3d25be981b1f914abeba57ae079b83c20c666c164fa9fe",
-        "extractedAt": 1795642845465
+        "extractedAt": 1795680911141
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1022,12 +1022,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/canvas-design",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1049,7 +1049,7 @@
         "example": "\"Concrete Poetry\" Philosophy: Communication through monumental form and bold geometry. Visual expression: Massive color blocks, sculptural typography (huge single words, tiny labels), Brutalist spatial divisions, Polish poster energy meets Le Corbusier. Ideas expressed through visual weight and spatial tension, not…",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/canvas-design/SKILL.md",
         "sourceHash": "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b",
-        "extractedAt": 1795642845466
+        "extractedAt": 1795680911142
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1070,12 +1070,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/claude-api",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1094,7 +1094,7 @@
         "example": "Prefix match. Any byte change anywhere in the prefix invalidates everything after it. Render order is tools -> system -> messages. Keep stable content first (frozen system prompt, deterministic tool list), put volatile content (timestamps, per-request IDs, varying questions) after the last cachecontrol breakpoint.",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/claude-api/SKILL.md",
         "sourceHash": "40537cca17c4aa86e4ce83ced39efcbfb1204905e3cf4c4ff98f2eab011e4b7f",
-        "extractedAt": 1795642845467
+        "extractedAt": 1795680911143
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1115,12 +1115,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/discernment-nudge",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1138,7 +1138,7 @@
         "example": "The nudge is two or three follow-up questions the user could send back to you, each one referencing something concrete from the answer you just gave — a number, a named step, an assumption. Generic prompts (\"Can you verify those facts?\") defeat the purpose; the value is in the specificity.",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/discernment-nudge/SKILL.md",
         "sourceHash": "9191177c4a8ef11a20dace786d708506b22d43e748c71287bb823de0dc812dad",
-        "extractedAt": 1795642845468
+        "extractedAt": 1795680911144
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1159,12 +1159,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/doc-coauthoring",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1189,7 +1189,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/doc-coauthoring/SKILL.md",
         "sourceHash": "2e47d78846faeea4a56e9809c52700087a15a2155a3f293a3efbaded81398ef4",
-        "extractedAt": 1795642845469
+        "extractedAt": 1795680911145
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1210,12 +1210,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/docx",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1233,7 +1233,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/docx/SKILL.md",
         "sourceHash": "895d5aa6c4cd98e4aed4c995d846f056f3549086e79bcd6617afea6014f82288",
-        "extractedAt": 1795642845470
+        "extractedAt": 1795680911146
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1254,12 +1254,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/frontend-design",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1283,7 +1283,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/frontend-design/SKILL.md",
         "sourceHash": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
-        "extractedAt": 1795642845471
+        "extractedAt": 1795680911146
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1304,12 +1304,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/internal-comms",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1334,7 +1334,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/internal-comms/SKILL.md",
         "sourceHash": "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475",
-        "extractedAt": 1795642845471
+        "extractedAt": 1795680911147
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1355,12 +1355,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/mcp-builder",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1380,7 +1380,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/mcp-builder/SKILL.md",
         "sourceHash": "b483b56d6673134497e45489c317f26ae0f1429c194db0297e43073e17e6748c",
-        "extractedAt": 1795642845472
+        "extractedAt": 1795680911147
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1401,12 +1401,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/pdf",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1428,7 +1428,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/pdf/SKILL.md",
         "sourceHash": "d1c7caf5f35eb7d37877dd7fc33a095037be2b34fb5d2f7f4d43bde3165bb4ee",
-        "extractedAt": 1795642845472
+        "extractedAt": 1795680911148
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1449,12 +1449,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/pptx",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1471,7 +1471,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/pptx/SKILL.md",
         "sourceHash": "598c981d93f2173b251f86a4bc94e9fb4e4f5ddaa314ba2dd4eca24b7a07808e",
-        "extractedAt": 1795642845473
+        "extractedAt": 1795680911149
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1492,12 +1492,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/skill-creator",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1522,7 +1522,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/skill-creator/SKILL.md",
         "sourceHash": "dcd4803e61e913e6fc27294184cd3a71f09f5e924ff20c8a9a20173e7b3c2bcf",
-        "extractedAt": 1795642845474
+        "extractedAt": 1795680911149
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1542,12 +1542,12 @@
         "avatar": "https://github.com/anthropics.png"
       },
       "gitUrl": "https://github.com/anthropics/skills",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 96,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1732,12 +1732,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/slack-gif-creator",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1757,7 +1757,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/slack-gif-creator/SKILL.md",
         "sourceHash": "2efca615ce55a3edd8fc05c779068a8085816617991987e446606403cd3abb22",
-        "extractedAt": 1795642845477
+        "extractedAt": 1795680911150
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1778,12 +1778,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/theme-factory",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1807,7 +1807,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/theme-factory/SKILL.md",
         "sourceHash": "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552",
-        "extractedAt": 1795642845477
+        "extractedAt": 1795680911151
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1828,12 +1828,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/web-artifacts-builder",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1857,7 +1857,7 @@
         ],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/web-artifacts-builder/SKILL.md",
         "sourceHash": "81c5002c6643b0de7b8710b00e7a9038daa6fb9b68d59870ee6adb12da8d10f8",
-        "extractedAt": 1795642845478
+        "extractedAt": 1795680911151
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1878,12 +1878,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/webapp-testing",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1901,7 +1901,7 @@
         "example": "python scripts/withserver.py --server \"npm run dev\" --port 5173 -- python yourautomation.py",
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/webapp-testing/SKILL.md",
         "sourceHash": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2",
-        "extractedAt": 1795642845478
+        "extractedAt": 1795680911152
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -1922,12 +1922,12 @@
       },
       "gitUrl": "https://github.com/anthropics/skills",
       "subPath": "skills/xlsx",
-      "stars": 200471,
+      "stars": 200711,
       "halowakeScore": 100,
       "badge": "verified",
       "metrics": {
-        "githubStars": 200471,
-        "forks": 23445,
+        "githubStars": 200711,
+        "forks": 23470,
         "lastCommitDaysAgo": 9,
         "issueCloseRate": 75,
         "securityAuditPassed": true
@@ -1944,7 +1944,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/anthropics/skills/blob/HEAD/skills/xlsx/SKILL.md",
         "sourceHash": "f32b1c2b5d5d31e02964df110d6489613d9345f86830c118cfe24159d8448ce6",
-        "extractedAt": 1795642845479
+        "extractedAt": 1795680911153
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -29831,8 +29831,8 @@
         "summary": "Inspect configured Sources and propose evidence-backed Backlog work.",
         "steps": [],
         "sourceUrl": "https://github.com/agno-agi/agno/blob/HEAD/libs/agno/agno/company/skills/intake/SKILL.md",
-        "sourceHash": "8826a6ac32df8fd5639f836c0e4754acf6bd56d4d91b1520f1970fb8bb4f7a29",
-        "extractedAt": 1793077398189
+        "sourceHash": "8138804ded0301a21e6751c5dd9728be20ba5a6d9d945cb5785af3c01d287ea1",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -29871,11 +29871,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Refresh Product status from current work and source evidence.",
+        "summary": "Refresh Goal status from current work and source evidence.",
         "steps": [],
         "sourceUrl": "https://github.com/agno-agi/agno/blob/HEAD/libs/agno/agno/company/skills/refresh/SKILL.md",
-        "sourceHash": "bdc91737d92631f528c0bc641e78881275165d6eae4132fff8de63d92225693a",
-        "extractedAt": 1793077398189
+        "sourceHash": "01abf1d9fd9aa2fe1b3c6bdcd483de379d4170cbcb1ee3d532e95bd612b1ee4a",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -29914,11 +29914,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Deliver the Product summary through its configured interface and wiki.",
+        "summary": "Deliver the Goal summary through its configured interface and wiki.",
         "steps": [],
         "sourceUrl": "https://github.com/agno-agi/agno/blob/HEAD/libs/agno/agno/company/skills/summary/SKILL.md",
-        "sourceHash": "eec03c23fe08e815b6878be57d24bdcf9fd19b274d1098385dbdc77396950c2a",
-        "extractedAt": 1793077398189
+        "sourceHash": "f7870a4b22c0b358748d13efe3e246926585976dda86b098b1db3d019f660d56",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -90178,6 +90178,50 @@
       }
     },
     {
+      "id": "simoneavogadro-android-reverse-engineering-skill-plugins-android-reverse-engineering-skills-android-reverse-engineering",
+      "name": "android-reverse-engineering",
+      "titleZh": "android-reverse-engineering",
+      "description": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "SimoneAvogadro",
+        "url": "https://github.com/SimoneAvogadro",
+        "verified": false,
+        "avatar": "https://github.com/SimoneAvogadro.png"
+      },
+      "gitUrl": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "subPath": "plugins/android-reverse-engineering/skills/android-reverse-engineering",
+      "stars": 8801,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 8801,
+        "forks": 1011,
+        "lastCommitDaysAgo": 45,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
+        "trigger": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
+        "steps": [],
+        "sourceUrl": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill/blob/HEAD/plugins/android-reverse-engineering/skills/android-reverse-engineering/SKILL.md",
+        "sourceHash": "a8cf297dc0126336519e3b9d73cda5c8846021d47e31f5269c3be6630e4e627f",
+        "extractedAt": 1795680914586
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "simoneavogadro-android-reverse-engineering-skill"
+    },
+    {
       "id": "corpus-anthropics-claude-for-legal-ip-legal-skills-cease-desist-54187cd7",
       "name": "cease-desist",
       "titleZh": "cease-desist",
@@ -90461,6 +90505,53 @@
       }
     },
     {
+      "id": "lightningpixel-modly-tools-modly-cli",
+      "name": "modly-cli",
+      "titleZh": "modly-cli",
+      "description": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "lightningpixel",
+        "url": "https://github.com/lightningpixel",
+        "verified": false,
+        "avatar": "https://github.com/lightningpixel.png"
+      },
+      "gitUrl": "https://github.com/lightningpixel/modly",
+      "subPath": "tools/modly-cli",
+      "stars": 8790,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 8790,
+        "forks": 829,
+        "lastCommitDaysAgo": 7,
+        "issueCloseRate": 75,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
+        "trigger": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
+        "steps": [
+          "The hidden batch helper generates meshes sequentially from a directory or manifest JSON through the canonical generate path:",
+          "Manifest files may be a JSON list, or an object with jobs or images. Each entry can be a string image path or an object with image, optional output, and optional format."
+        ],
+        "sourceUrl": "https://github.com/lightningpixel/modly/blob/HEAD/tools/modly-cli/SKILL.md",
+        "sourceHash": "d946cb6d443b1b6169a0fd373cc87dc8eb5b1ff6794cb9226b9dfda7c4a295c6",
+        "extractedAt": 1795680915575
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "lightningpixel-modly"
+    },
+    {
       "id": "evomap-evolver-root",
       "name": "capability-evolver",
       "titleZh": "capability-evolver",
@@ -90552,6 +90643,141 @@
         "sourceHash": "982a2b0b264d29270385a72b265fded5c2d90e2fae809def209b5e9cea47736c",
         "extractedAt": 1790588068054
       }
+    },
+    {
+      "id": "vercel-labs-deepsec--agents-skills-technical-writer",
+      "name": "technical-writer",
+      "titleZh": "technical-writer",
+      "description": "Write, review, and edit developer documentation for SDKs, libraries, and frameworks, including sites such as ai-sdk.dev and chat-sdk.dev. Use for getting-started guides, tutorials, API references, conceptual explanations, integration guides, migration guides, troubleshooting, and code examples.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "vercel-labs",
+        "url": "https://github.com/vercel-labs",
+        "verified": false,
+        "avatar": "https://github.com/vercel-labs.png"
+      },
+      "gitUrl": "https://github.com/vercel-labs/deepsec",
+      "subPath": ".agents/skills/technical-writer",
+      "stars": 8617,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 8617,
+        "forks": 528,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Write, review, and edit developer documentation for SDKs, libraries, and frameworks, including sites such as ai-sdk.dev and chat-sdk.dev. Use for getting-started guides, tutorials, API references, conceptual explanations, integration guides, migration guides, troubleshooting, and code examples.",
+        "steps": [],
+        "example": "Give the reader the prerequisites that determine whether a procedure works. Identify the working directory, relevant file path, environment, and required permissions when needed. Put warnings about concrete destructive or costly effects before the affected step.",
+        "sourceUrl": "https://github.com/vercel-labs/deepsec/blob/HEAD/.agents/skills/technical-writer/SKILL.md",
+        "sourceHash": "d88be539c15bc6de780018169dfbc0659d9031cd963e850e74a66f6b59d60dc2",
+        "extractedAt": 1795680913548
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "vercel-labs-deepsec"
+    },
+    {
+      "id": "vercel-labs-deepsec-packages-deepsec",
+      "name": "deepsec-docs",
+      "titleZh": "deepsec-docs",
+      "description": "Use deepsec (an AI-powered vulnerability scanner) — one-shot initialization, resumable setup, project/model credentials, scans, generated or hand-authored matchers, and plugins. Activates when the user asks how to initialize, scan, configure, resume, or extend deepsec.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "vercel-labs",
+        "url": "https://github.com/vercel-labs",
+        "verified": false,
+        "avatar": "https://github.com/vercel-labs.png"
+      },
+      "gitUrl": "https://github.com/vercel-labs/deepsec",
+      "subPath": "packages/deepsec",
+      "stars": 8617,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 8617,
+        "forks": 528,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use deepsec (an AI-powered vulnerability scanner) — one-shot initialization, resumable setup, project/model credentials, scans, generated or hand-authored matchers, and plugins. Activates when the user asks how to initialize, scan, configure, resume, or extend deepsec.",
+        "steps": [],
+        "sourceUrl": "https://github.com/vercel-labs/deepsec/blob/HEAD/packages/deepsec/SKILL.md",
+        "sourceHash": "64b46ff7793330ed5fc6949b882f157a73ad9d359e17af6072778b12f37ad378",
+        "extractedAt": 1795680913549
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "vercel-labs-deepsec"
+    },
+    {
+      "id": "vercel-labs-deepsec-root",
+      "name": "deepsec",
+      "titleZh": "deepsec",
+      "description": "Run deepsec, an AI-powered cyber-security vulnerability scanner. Activates when the user invokes /deepsec, asks to run deepsec, or wants to scan their repo, branch, or uncommitted changes for vulnerabilities.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "vercel-labs",
+        "url": "https://github.com/vercel-labs",
+        "verified": false,
+        "avatar": "https://github.com/vercel-labs.png"
+      },
+      "gitUrl": "https://github.com/vercel-labs/deepsec",
+      "stars": 8617,
+      "halowakeScore": 100,
+      "badge": "trending",
+      "metrics": {
+        "githubStars": 8617,
+        "forks": 528,
+        "lastCommitDaysAgo": 2,
+        "issueCloseRate": 88,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Onboarding normally ends with an AI processing pass over the whole repository. Since the user already chose a scope, stop setup after the coverage phase — that still includes install, login, threat model, matcher…",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Run deepsec, an AI-powered cyber-security vulnerability scanner. Activates when the user invokes /deepsec, asks to run deepsec, or wants to scan their repo, branch, or uncommitted changes for vulnerabilities.",
+        "steps": [
+          "Onboarding normally ends with an AI processing pass over the whole repository. Since the user already chose a scope, stop setup after the coverage phase — that still includes install, login, threat model, matcher…",
+          "From the repository root, inspect the read-only plan, then run setup:",
+          "If npx fails with EBADDEVENGINES, the repository's devEngines.packageManager requires another package manager. Run the same commands with pnpm dlx deepsec (or that package manager's equivalent) in place of npx -y…",
+          "Parse every output line as JSON. On a needsinput event, show the supplied message and actions to the user rather than inventing remediation. In particular, VERCELAUTHREQUIRED normally asks the user to run npx vercel…",
+          "Run from inside .deepsec/ (the config loader only finds deepsec.config.ts in the current directory or its ancestors; after step 3, npx deepsec resolves to the copy installed there):"
+        ],
+        "sourceUrl": "https://github.com/vercel-labs/deepsec/blob/HEAD/SKILL.md",
+        "sourceHash": "7d9871f136cb52103d8afcd67c9dd8fdfa0c6847609363f5538143682a8fbe9a",
+        "extractedAt": 1795680913548
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "vercel-labs-deepsec"
     },
     {
       "id": "jnmetacode-superpowers-zh-skills-brainstorming",
@@ -93639,141 +93865,6 @@
       "sourceId": "yaoapp-yao"
     },
     {
-      "id": "vercel-labs-deepsec--agents-skills-technical-writer",
-      "name": "technical-writer",
-      "titleZh": "technical-writer",
-      "description": "Write, review, and edit developer documentation for SDKs, libraries, and frameworks, including sites such as ai-sdk.dev and chat-sdk.dev. Use for getting-started guides, tutorials, API references, conceptual explanations, integration guides, migration guides, troubleshooting, and code examples.",
-      "stage": "design",
-      "category": "Community",
-      "author": {
-        "name": "vercel-labs",
-        "url": "https://github.com/vercel-labs",
-        "verified": false,
-        "avatar": "https://github.com/vercel-labs.png"
-      },
-      "gitUrl": "https://github.com/vercel-labs/deepsec",
-      "subPath": ".agents/skills/technical-writer",
-      "stars": 8116,
-      "halowakeScore": 100,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 8116,
-        "forks": 491,
-        "lastCommitDaysAgo": 8,
-        "issueCloseRate": 88,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Write, review, and edit developer documentation for SDKs, libraries, and frameworks, including sites such as ai-sdk.dev and chat-sdk.dev. Use for getting-started guides, tutorials, API references, conceptual explanations, integration guides, migration guides, troubleshooting, and code examples.",
-        "steps": [],
-        "example": "Give the reader the prerequisites that determine whether a procedure works. Identify the working directory, relevant file path, environment, and required permissions when needed. Put warnings about concrete destructive or costly effects before the affected step.",
-        "sourceUrl": "https://github.com/vercel-labs/deepsec/blob/HEAD/.agents/skills/technical-writer/SKILL.md",
-        "sourceHash": "d88be539c15bc6de780018169dfbc0659d9031cd963e850e74a66f6b59d60dc2",
-        "extractedAt": 1791379351916
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "vercel-labs-deepsec"
-    },
-    {
-      "id": "vercel-labs-deepsec-packages-deepsec",
-      "name": "deepsec-docs",
-      "titleZh": "deepsec-docs",
-      "description": "Use deepsec (an AI-powered vulnerability scanner) — one-shot initialization, resumable setup, project/model credentials, scans, generated or hand-authored matchers, and plugins. Activates when the user asks how to initialize, scan, configure, resume, or extend deepsec.",
-      "stage": "coding",
-      "category": "Community",
-      "author": {
-        "name": "vercel-labs",
-        "url": "https://github.com/vercel-labs",
-        "verified": false,
-        "avatar": "https://github.com/vercel-labs.png"
-      },
-      "gitUrl": "https://github.com/vercel-labs/deepsec",
-      "subPath": "packages/deepsec",
-      "stars": 8116,
-      "halowakeScore": 100,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 8116,
-        "forks": 491,
-        "lastCommitDaysAgo": 8,
-        "issueCloseRate": 88,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Use deepsec (an AI-powered vulnerability scanner) — one-shot initialization, resumable setup, project/model credentials, scans, generated or hand-authored matchers, and plugins. Activates when the user asks how to initialize, scan, configure, resume, or extend deepsec.",
-        "steps": [],
-        "sourceUrl": "https://github.com/vercel-labs/deepsec/blob/HEAD/packages/deepsec/SKILL.md",
-        "sourceHash": "64b46ff7793330ed5fc6949b882f157a73ad9d359e17af6072778b12f37ad378",
-        "extractedAt": 1793993057174
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "vercel-labs-deepsec"
-    },
-    {
-      "id": "vercel-labs-deepsec-root",
-      "name": "deepsec",
-      "titleZh": "deepsec",
-      "description": "Run deepsec, an AI-powered cyber-security vulnerability scanner. Activates when the user invokes /deepsec, asks to run deepsec, or wants to scan their repo, branch, or uncommitted changes for vulnerabilities.",
-      "stage": "coding",
-      "category": "Community",
-      "author": {
-        "name": "vercel-labs",
-        "url": "https://github.com/vercel-labs",
-        "verified": false,
-        "avatar": "https://github.com/vercel-labs.png"
-      },
-      "gitUrl": "https://github.com/vercel-labs/deepsec",
-      "stars": 8116,
-      "halowakeScore": 100,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 8116,
-        "forks": 491,
-        "lastCommitDaysAgo": 8,
-        "issueCloseRate": 88,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "Onboarding normally ends with an AI processing pass over the whole repository. Since the user already chose a scope, stop setup after the coverage phase — that still includes install, login, threat model, matcher…",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Run deepsec, an AI-powered cyber-security vulnerability scanner. Activates when the user invokes /deepsec, asks to run deepsec, or wants to scan their repo, branch, or uncommitted changes for vulnerabilities.",
-        "steps": [
-          "Onboarding normally ends with an AI processing pass over the whole repository. Since the user already chose a scope, stop setup after the coverage phase — that still includes install, login, threat model, matcher…",
-          "From the repository root, inspect the read-only plan, then run setup:",
-          "If npx fails with EBADDEVENGINES, the repository's devEngines.packageManager requires another package manager. Run the same commands with pnpm dlx deepsec (or that package manager's equivalent) in place of npx -y…",
-          "Parse every output line as JSON. On a needsinput event, show the supplied message and actions to the user rather than inventing remediation. In particular, VERCELAUTHREQUIRED normally asks the user to run npx vercel…",
-          "Run from inside .deepsec/ (the config loader only finds deepsec.config.ts in the current directory or its ancestors; after step 3, npx deepsec resolves to the copy installed there):"
-        ],
-        "sourceUrl": "https://github.com/vercel-labs/deepsec/blob/HEAD/SKILL.md",
-        "sourceHash": "7d9871f136cb52103d8afcd67c9dd8fdfa0c6847609363f5538143682a8fbe9a",
-        "extractedAt": 1793993057174
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "vercel-labs-deepsec"
-    },
-    {
       "id": "corpus-thesysdev-openui-skills-openui-58592619",
       "name": "openui",
       "titleZh": "openui",
@@ -93936,97 +94027,6 @@
       }
     },
     {
-      "id": "simoneavogadro-android-reverse-engineering-skill-plugins-android-reverse-engineering-skills-android-reverse-engineering",
-      "name": "android-reverse-engineering",
-      "titleZh": "android-reverse-engineering",
-      "description": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
-      "stage": "design",
-      "category": "Community",
-      "author": {
-        "name": "SimoneAvogadro",
-        "url": "https://github.com/SimoneAvogadro",
-        "verified": false,
-        "avatar": "https://github.com/SimoneAvogadro.png"
-      },
-      "gitUrl": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "subPath": "plugins/android-reverse-engineering/skills/android-reverse-engineering",
-      "stars": 7994,
-      "halowakeScore": 100,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 7994,
-        "forks": 903,
-        "lastCommitDaysAgo": 29,
-        "issueCloseRate": 95,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
-        "trigger": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints (Retrofit, OkHttp, Volley), and trace call flows from UI to network layer. Use when the user wants to decompile, analyze, or reverse engineer Android packages, find API endpoints, or follow call flows. 中文触发词：反编译APK、安卓逆向、提取API、分析安卓应用、反编译安卓、逆向工程、追踪调用链、提取接口",
-        "steps": [],
-        "sourceUrl": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill/blob/HEAD/plugins/android-reverse-engineering/skills/android-reverse-engineering/SKILL.md",
-        "sourceHash": "a8cf297dc0126336519e3b9d73cda5c8846021d47e31f5269c3be6630e4e627f",
-        "extractedAt": 1793993057174
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "simoneavogadro-android-reverse-engineering-skill"
-    },
-    {
-      "id": "lightningpixel-modly-tools-modly-cli",
-      "name": "modly-cli",
-      "titleZh": "modly-cli",
-      "description": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
-      "stage": "coding",
-      "category": "Community",
-      "author": {
-        "name": "lightningpixel",
-        "url": "https://github.com/lightningpixel",
-        "verified": false,
-        "avatar": "https://github.com/lightningpixel.png"
-      },
-      "gitUrl": "https://github.com/lightningpixel/modly",
-      "subPath": "tools/modly-cli",
-      "stars": 7954,
-      "halowakeScore": 100,
-      "badge": "trending",
-      "metrics": {
-        "githubStars": 7954,
-        "forks": 738,
-        "lastCommitDaysAgo": 2,
-        "issueCloseRate": 75,
-        "securityAuditPassed": true
-      },
-      "tags": [
-        "agent",
-        "skill"
-      ],
-      "recommendedWith": [],
-      "howToUse": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
-      "usageGuide": {
-        "extractorVersion": 3,
-        "summary": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
-        "trigger": "Use when an agent needs to call a running Modly desktop instance from the terminal to generate/export image-to-3D assets through canonical JSON-first automation commands.",
-        "steps": [
-          "The hidden batch helper generates meshes sequentially from a directory or manifest JSON through the canonical generate path:",
-          "Manifest files may be a JSON list, or an object with jobs or images. Each entry can be a string image path or an object with image, optional output, and optional format."
-        ],
-        "sourceUrl": "https://github.com/lightningpixel/modly/blob/HEAD/tools/modly-cli/SKILL.md",
-        "sourceHash": "a7c88a0d4a7d72e97ba4c43fe77ebde4e7a55d6a0c057b4acb1012aec49fcbd5",
-        "extractedAt": 1791379354036
-      },
-      "compatibleAgents": [],
-      "isBundle": false,
-      "sourceId": "lightningpixel-modly"
-    },
-    {
       "id": "rich-harris-degit-skills-degit",
       "name": "degit",
       "titleZh": "degit",
@@ -94041,13 +94041,13 @@
       },
       "gitUrl": "https://github.com/Rich-Harris/degit",
       "subPath": "skills/degit",
-      "stars": 7945,
+      "stars": 7975,
       "halowakeScore": 100,
       "badge": "trending",
       "metrics": {
-        "githubStars": 7945,
-        "forks": 283,
-        "lastCommitDaysAgo": 23,
+        "githubStars": 7975,
+        "forks": 280,
+        "lastCommitDaysAgo": 35,
         "issueCloseRate": 95,
         "securityAuditPassed": true
       },
@@ -94063,7 +94063,7 @@
         "steps": [],
         "sourceUrl": "https://github.com/Rich-Harris/degit/blob/HEAD/skills/degit/SKILL.md",
         "sourceHash": "a2a9b63e76d49416bbcf7f60ca07cfafcc00738b4cdb9b74be145ea84f7eb62b",
-        "extractedAt": 1793993057174
+        "extractedAt": 1795680916462
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111388,12 +111388,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill when writing melonJS code that may be based on pre-20.x knowledge, when migrating a game from melonJS 19.x or earlier, or when an API you expected does not exist. Covers the mandatory async Application.init(), the WebGL 2 baseline and WebGPU backend, renderable post effects replacing the shader property, and the deprecated exports still present. Triggers on: migration, upgrade,…",
+        "summary": "Use this skill when writing melonJS code that may be based on pre-20.x knowledge, when migrating a game from melonJS 19.x or earlier, or when an API you expected does not exist. Covers the mandatory async Application.init(), the WebGL 2 baseline and WebGPU backend, renderable post effects replacing the shader property, the deprecated exports still present, and what changed again during 20.x.…",
         "steps": [],
-        "example": "The examples in this repository are the best reference for how melonJS is assembled, but a few contain stale comments or legacy calls. Do not learn these from them:",
+        "example": "The examples in this repository are the best reference for how melonJS is assembled. Two things in them are easy to misread:",
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-20-migration/SKILL.md",
-        "sourceHash": "963531aa705190a762dd439f1710c2f52892bb6a6e41f695bcc2cba12b305c04",
-        "extractedAt": 1793077400718
+        "sourceHash": "02a66439e96e3013456f309ce3e6687f4a758c5b0eb8a13acafa24aea0fd490f",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111432,11 +111432,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill for anything 3D or 2.5D in melonJS — Camera3d, Mesh, InstancedMesh, Sprite3d billboards, Light3d, ground shadows, glTF/GLB scenes, and depth sorting. Covers the Y-down/+Z-forward convention that is the inverse of OpenGL, the cameraClass opt-in, clip planes, and what does not work on the Canvas fallback. Triggers on: Camera3d, Mesh, InstancedMesh, Sprite3d, Trail3d, ribbon, exhaust…",
+        "summary": "Use this skill for anything 3D or 2.5D in melonJS — Camera3d, Mesh, InstancedMesh, Sprite3d billboards, Light3d, ground shadows, glTF/GLB scenes, and depth sorting. Covers the Y-down/+Z-forward convention (OpenGL's inverse), the cameraClass opt-in, orthographic (isometric) projection, clip planes, and the Canvas fallback's limits. Triggers on: Camera3d, toon, cel shading, toonBands, outlineWidth,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-3d/SKILL.md",
-        "sourceHash": "856c66f66933655abdb51beb0c39c9b71ad375aa26093ad2a9fbae5a82f62763",
-        "extractedAt": 1793077400719
+        "sourceHash": "67605626905a4b12d76d8f02c6da4c8c9e311f50426cfbc47042439642545e78",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111475,12 +111475,12 @@
       "howToUse": "A Trigger authored in Tiled forwards these to level.load(), so a trigger that walks the player into a glTF level carries the scene's settings as Tiled properties:；Every level.load option above travels, including the whole ground-shadow set, and so do container, onLoaded, flatten and setViewportBounds. The list is derived from level.loadOptions rather than restated, so an option added to a level…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill when loading 3D models into melonJS — glTF and GLB scenes, OBJ/MTL models, materials, imported lights, node animation, ground shadows and GPU instancing. Covers level.load options including the async flag, the rightHanded conversion, and exactly what the loader does and does not support. Triggers on: glTF, gltf, glb, OBJ, MTL, 3D model, getGLTF, getOBJ, getMTL, GLTFModel,…",
-        "trigger": "A Trigger authored in Tiled forwards these to level.load(), so a trigger that walks the player into a glTF level carries the scene's settings as Tiled properties:；Every level.load option above travels, including the whole ground-shadow set, and so do container, onLoaded, flatten and setViewportBounds. The list is derived from level.loadOptions rather than restated, so an option added to a level…",
+        "summary": "Use this skill when loading 3D models into melonJS — glTF and GLB scenes, OBJ/MTL models, materials, imported lights, node animation, skinned characters, crossfades and attachments, ground shadows and GPU instancing. Covers level.load options including the async flag, the rightHanded conversion, and exactly what the loader does and does not support. Triggers on: glTF, gltf, glb, OBJ, MTL, 3D…",
+        "trigger": "A Trigger authored in Tiled forwards these to level.load(), so a trigger that walks the player into a glTF level carries the scene's settings as Tiled properties:；Every level.load option above travels, including the whole ground-shadow set, and so do container, onLoaded, flatten and setViewportBounds. The list is derived from the options each level format declares beside the code that reads them,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-3d-assets/SKILL.md",
-        "sourceHash": "40674060965a0f0637dc86fccfd423d3bd5f873a0bb09de49c71b1871c220bb0",
-        "extractedAt": 1793077400719
+        "sourceHash": "e489e1dd77f776d9de3dfbe3c9d4757a58453d1ff89a9726ecf2caa19014a4dc",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111522,8 +111522,8 @@
         "summary": "Use this skill for sound and music in melonJS — loading audio, playing effects, background tracks, audio sprites, volume and muting, spatial audio, procedural tone/noise generation, and effects such as reverb or a compressor on the whole mix. Covers the mandatory audio.init format list, the directory-not-file src convention, playTrack versus play, the fixed listener and pixel-scale distances of…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-audio/SKILL.md",
-        "sourceHash": "da41101802162c374113eb379247f5433a3348261e1c3e564d1b1ae5e686bb2a",
-        "extractedAt": 1793077400720
+        "sourceHash": "cb601e4fbb21280d8a8bae66708e84848224b6be49fe5276bc31883aefad5254",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111565,8 +111565,8 @@
         "summary": "Use this skill for camera control and immediate-mode drawing in melonJS — following a target, viewport bounds, shake and fade, secondary cameras and what each one draws, and drawing shapes, lines and gradients inside a custom draw(). Covers world versus screen coordinate conversion, clipping and masking, baking with CanvasRenderTarget, and reading pixels back. Triggers on: Camera2d, viewport,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-camera-and-drawing/SKILL.md",
-        "sourceHash": "1a1f7b8b9b31842f310cf57460cb4eef4361cdf288e1bb5ae297efcad3f022f6",
-        "extractedAt": 1793077400720
+        "sourceHash": "cfe732743774456deec84ecfe93b1a2ae99ca04a8c98c2d627c221658477f870",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111605,11 +111605,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill when packaging, shipping or scaffolding a melonJS game — starting a project with create-melonjs, building for the web, wrapping as a native app with Capacitor or Cordova, publishing to WeChat Mini Games or Facebook Instant Games, browser support and transpiling. Triggers on: create-melonjs, scaffold, new project, build, deploy, publish, Capacitor, Cordova, native app, iOS, Android,…",
+        "summary": "Use this skill when packaging, shipping or scaffolding a melonJS game — starting a project with create-melonjs, building for the web, browser support and transpiling, and bundle size. For running inside a game portal, a native app, a mini-game runtime or with no DOM, use melonjs-platforms. Triggers on: create-melonjs, scaffold, new project, build, deploy, publish, browser support, transpile,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-deployment/SKILL.md",
-        "sourceHash": "057b501368f33120f2d54264774aacf595ed7ef6721e15243bd90d0722384ba0",
-        "extractedAt": 1793077400720
+        "sourceHash": "b0ac1cc205d87143c9b5cfb2aba27a84ebe2350d5f846b137697385206676ab5",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111651,8 +111651,8 @@
         "summary": "Use this skill when a melonJS game looks blurry, soft, shimmering or cropped, or when choosing how the canvas fills its page. Covers the design resolution, scale and scaleMethod, scaleTarget, scaleRounding for pixel-perfect integer scaling, antiAlias, textureFilter and linear-mipmap for what is drawn small, subPixel, syncToDisplay for steady motion, devicePixelRatio, and which setting does which…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-display-and-scaling/SKILL.md",
-        "sourceHash": "04e157ba29f72827969ab06b1cf0b68f6cdd47dbc39528a63cac8cea1d764e83",
-        "extractedAt": 1793077400721
+        "sourceHash": "c93f652a8a5132ead9798043058e341ecf04058fbb93e4d9d5df78ae8d0a2c52",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111694,8 +111694,8 @@
         "summary": "Use this skill for post-processing effects, custom shaders, blend modes and colour grading in melonJS. Covers the built-in ShaderEffect presets, addPostEffect on renderables and cameras, writing a custom dual-language GLSL/WGSL effect, the screentexture builtins, and why effects silently do nothing on the Canvas fallback. Triggers on: Tween, easing, animate an effect, ShaderEffect, addPostEffect,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-effects-and-shaders/SKILL.md",
-        "sourceHash": "a5b5e01527b9f9a26957ef5b3c93ffb276f587d4723f281568ff5a62da8bace2",
-        "extractedAt": 1793077400721
+        "sourceHash": "40bd6e7a263c1f784711afcc9fb567e7732fe58efdac49981a30a2726a0ccd91",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111737,8 +111737,8 @@
         "summary": "Use this skill for the melonJS event bus and lifecycle hooks — subscribing to engine events, the per-frame and per-state event names, renderable lifecycle callbacks, and how to unsubscribe without leaking. Triggers on: event.on, event.off, event.once, event.emit, GAMEUPDATE, GAMEBEFOREDRAW, LEVELLOADED, LOADERCOMPLETE, STATECHANGE, CANVASONRESIZE, POINTERMOVE, WORLDSTEP, onActivateEvent,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-events/SKILL.md",
-        "sourceHash": "c6f8ec97fa7e8addd443da88938519c8a96f90e1f34856ca724ffd145233e759",
-        "extractedAt": 1793077400722
+        "sourceHash": "c6ebf19353be9b2f72d6c79a430f59c441116fa664d0e09e7da2efc1c8632c32",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111783,8 +111783,8 @@
           "Applies to: melonJS 20.x. Older major versions differ — see the melonjs-20-migration skill."
         ],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-getting-started/SKILL.md",
-        "sourceHash": "df7e025aee3b4068ec2ac06601210a21f3bd25f5c0f4486e99e619d8cb28b725",
-        "extractedAt": 1793077400722
+        "sourceHash": "81b413e7b6cc5a4f3921f318ca1378fcfe860638c1a4e39d5cca1bedfc46f04e",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111823,11 +111823,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill for keyboard, pointer, mouse, touch and gamepad input in melonJS. Covers the bindKey action indirection, registerPointerEvent on regions, the isKinematic requirement that silently blocks pointer events, which of several overlapping objects receives an event and how to consume it, world vs screen pointer coordinates, and gamepad mapping onto the same actions. Triggers on: input,…",
+        "summary": "Use this skill for keyboard, pointer, mouse, touch and gamepad input in melonJS. Covers the bindKey action indirection, registerPointerEvent on regions, the isKinematic requirement that silently blocks pointer events, which of several overlapping objects receives an event and how to consume it, world vs screen pointer coordinates, pointer events on 3D meshes, and gamepad mapping onto the same…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-input/SKILL.md",
-        "sourceHash": "ebf17c32f998bd28a98e36dced3efe8cf667692364062c7e5bc2c4f7142a1d39",
-        "extractedAt": 1793077400722
+        "sourceHash": "6da9666a03cb0b0d729cc153cef615a6156d6a120e1cf52a7a53390de7f28796",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111866,11 +111866,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill for 2D dynamic lighting in melonJS — Light2d, ambient light on a Stage, multiple lights, and per-pixel normal-mapped sprites authored in SpriteIlluminator. Covers specular highlights via shininess, the ambient-cutout model, which parts need a GPU backend, and why Light2d does not survive a Camera3d. Triggers on: Light2d, specular, shininess, highlight, glint, lighting,…",
+        "summary": "Use this skill for 2D dynamic lighting in melonJS — Light2d, ambient light on a Stage, multiple lights, and per-pixel normal-mapped sprites authored in SpriteIlluminator. Covers specular highlights via shininess, the ambient-cutout model, which parts need a GPU backend, and why Light2d does not survive a Camera3d. Triggers on: Light2d, softness, soft light, lightHeight, setRadii, specular,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-lighting/SKILL.md",
-        "sourceHash": "1ee9340f67784351173842ad57a7520804d7b7a710872db6f743cf6b7a5df16d",
-        "extractedAt": 1793077400723
+        "sourceHash": "312ed3927c2cf2b58384b55bb3fe9f36b249de144ef8856c606b5cf2d7e87f8a",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111909,11 +111909,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Use this skill for loading and managing game assets in melonJS — the resource descriptor format, the full asset type list, preload versus load, retrieving loaded assets, base URLs and cross-origin settings, and the loading screen. Triggers on: loader, loader.preload, loader.load, resources, getImage, getJSON, getTMX, getGLTF, getVideo, getFont, setBaseURL, setOptions, crossOrigin,…",
+        "summary": "Use this skill for loading and managing game assets in melonJS — the resource descriptor format, the full asset type list, organising a multi-level game's assets as bundles (an assets file exporting common plus one bundle per level, passed to loader.preload), loading and freeing a level's bundle, preload versus load, retrieving loaded assets, base URLs and cross-origin settings, and the loading…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-loading-assets/SKILL.md",
-        "sourceHash": "27087eea27390dce932811d93f30d52100fe5fd66dc122ef85bf72368004aa4f",
-        "extractedAt": 1793077400723
+        "sourceHash": "1d638b1e1d66e1d6185c65e7fc36d2507576ea6d3a829c45a80ddfc0b62f8a01",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111955,8 +111955,8 @@
         "summary": "Use this skill for vector and matrix maths in melonJS — Vector2d, Vector3d, their observable variants, Matrix2d, Matrix3d, and the math utility functions. Covers which methods mutate and which allocate, the vector pool and when clone() is the wrong tool, interpolation with lerp, slerp, damp and moveTowards, and the argument defaults that silently drop a component. Triggers on: Vector2d, Vector3d,…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-math/SKILL.md",
-        "sourceHash": "392fd9f999705d653382646f463b02e18efe9f8fc7e22887315ff13deef004fa",
-        "extractedAt": 1793077400724
+        "sourceHash": "b2955c4c9d2459c60df4f3ae1e84ce6c80a7e3a1f029b4f15953f69529e27086",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -111998,8 +111998,8 @@
         "summary": "Use this skill for particle effects and motion trails in melonJS — ParticleEmitter configuration, burst versus stream emission, the referenceSpace frame of reference introduced in 20.2, 3D particle motion through elevation and minSpread/maxSpread in 20.8, and the Trail renderable. Covers the emitter that silently does nothing until you call an emit method. Triggers on: Trail3d, ribbon, exhaust…",
         "steps": [],
         "sourceUrl": "https://github.com/melonjs/melonJS/blob/HEAD/packages/melonjs/skills/melonjs-particles-and-trails/SKILL.md",
-        "sourceHash": "54a221a99bc7e486563256428d7ba22a48bfd3faefe99ccf29e605d949e90c32",
-        "extractedAt": 1793077400726
+        "sourceHash": "f05467858c45ceb11c9a4f1fb999141b85cb86931c7170336d85e2ac76708943",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -344166,12 +344166,12 @@
       "howToUse": "Add, adjust or remove \"China user\" detection signals in the FuckClaude project (browser scan + /api/check). Use when adding detection methods, changing signal weights or scorers, or when the user mentions 检测信号 / 检测手段 / 新增检测 / signals / weights / detectors.",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Add, adjust or remove \"China user\" detection signals in the FuckClaude project (browser scan + /api/check). Use when adding detection methods, changing signal weights or scorers, or when the user mentions 检测信号 / 检测手段 / 新增检测 / signals / weights / detectors.",
-        "trigger": "Add, adjust or remove \"China user\" detection signals in the FuckClaude project (browser scan + /api/check). Use when adding detection methods, changing signal weights or scorers, or when the user mentions 检测信号 / 检测手段 / 新增检测 / signals / weights / detectors.",
+        "summary": "Add, adjust or remove detection signals in the FuckClaude project (browser scan + /api/check). Use when adding detection methods, changing signal weights or scorers, or when the user mentions 检测信号 / 检测手段 / 新增检测 / signals / weights / detectors / regions.",
+        "trigger": "Add, adjust or remove detection signals in the FuckClaude project (browser scan + /api/check). Use when adding detection methods, changing signal weights or scorers, or when the user mentions 检测信号 / 检测手段 / 新增检测 / signals / weights / detectors / regions.",
         "steps": [],
         "sourceUrl": "https://github.com/LinXiaoTao/FuckClaude/blob/HEAD/skills/detection-signals/SKILL.md",
-        "sourceHash": "b528713481eb8e74e095600582e4ee98200f84307a2a3089bf2a8816d1b5453e",
-        "extractedAt": 1793054387929
+        "sourceHash": "fc260846f61e33856ba0fc917d96ded7438901203f5a4c08a81f44f29aa191be",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -358405,8 +358405,8 @@
           "Confirm the change is visible. If a rule did nothing, the selector is wrong; do not add !important unless a built-in rule requires it."
         ],
         "sourceUrl": "https://github.com/xuzhougeng/wisp-science/blob/HEAD/skills/custom-theme/SKILL.md",
-        "sourceHash": "2810194aa183f599c366bb2415fb7212762d46ddc979e457ed0cd593f90d51c1",
-        "extractedAt": 1793054389254
+        "sourceHash": "b9970fdf259b4c8a9da1b78b7bc25f41df733b65666ecead64ca601e13c4a4e4",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -358582,11 +358582,11 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Correctness and legibility checklist for publication figures, plus a matplotlib sidecar. Load before plotting anything and call applyfigurestyle() (role-mapped font ladder, outward ticks, frameless legends, 300-dpi saves, CJK-safe fonts). Covers data fidelity, label budgets, axis/colour/type rules, chart choice by data shape, composition, and a mandatory render-then-inspect QA pass (bbox…",
+        "summary": "Correctness and legibility checklist for publication figures in Python or R. Load before plotting anything in either language. Covers data fidelity, label budgets, axis/colour/type rules, chart choice, composition, and a mandatory render-then-inspect QA pass (text-collision scan + per-panel crops for viewimage) with sidecars for both: matplotlib (applyfigurestyle, panelcrops, savepanelcrops,…",
         "steps": [],
         "sourceUrl": "https://github.com/xuzhougeng/wisp-science/blob/HEAD/skills/figure-style/SKILL.md",
-        "sourceHash": "999136495343c5f6430c18f191805bd878d783ec305fd425a27e8a3b011322a1",
-        "extractedAt": 1793054389256
+        "sourceHash": "c2bc01878a7a8edde5e92d2b590e181c1f12b41576aa0ce322d311191190113f",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -370228,11 +370228,11 @@
         "extractorVersion": 3,
         "summary": "Creates an SVG weather card showing the current temperature and writes it to orchestration-workflow/weather.svg and orchestration-workflow/output.md",
         "steps": [
-          "You will receive the temperature value, unit (Celsius or Fahrenheit), and city name from the calling context."
+          "Use the temperature value, unit (Celsius or Fahrenheit), city name, and fetch time from the conversation. If the fetch failed or the temperature is missing, leave the existing outputs untouched."
         ],
         "sourceUrl": "https://github.com/shanraisshan/codex-cli-best-practice/blob/HEAD/.agents/skills/weather-svg-creator/SKILL.md",
-        "sourceHash": "37f5b461c5556c2b94796c5be0a3e90c6ec5b6b389b310e66329ac2f0e9fe92b",
-        "extractedAt": 1793054387148
+        "sourceHash": "e5ab24a868064ce4b5cca948f289596d4b0a4ba5d79c4f780b37ebaa34ee3193",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -384715,12 +384715,12 @@
       "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "带着作者和社区的真实经验，陪用户准备 Claude 的订阅、账号、固定出口 IP 和运行环境：订阅与支付渠道、注册与养号节奏、本机（Clash TUN、Windows 防火墙、Mac LuLu）/ VM / VPS 三条路线的搭建与防火墙、整机只走 IPv4 的出口验证、线路优化、403/429/529 等故障分诊、旧设备清理规划；改动按 A/B/C 三档授权。也可直接用作 VPS、家宽、线路和封号经验的帖子与论坛搜索工具。",
+        "summary": "带着作者和社区的真实经验，陪用户准备 Claude 的订阅、账号、固定出口 IP 和运行环境：订阅与支付渠道、注册与养号节奏、本机（Clash TUN、Windows 防火墙、Mac PF）/ VM / VPS 三条路线的搭建与防火墙、整机只走 IPv4 的出口验证、线路优化、403/429/529 等故障分诊、旧设备清理规划；改动按 A/B/C 三档授权。也可直接用作 VPS、家宽、线路和封号经验的帖子与论坛搜索工具。",
         "steps": [],
         "example": "“这次先在 Codex 中做环境准备。你是第一次准备订阅、以前订阅过现在准备重订，还是目前已有订阅来处理问题？”",
         "sourceUrl": "https://github.com/DUNHKpcc/Claude-Guardian/blob/HEAD/skills/claude-guardian/SKILL.md",
-        "sourceHash": "6a319141011ed9c36c6b01dfd11e2c0bb37dad3ca323ad0257065d430c09179b",
-        "extractedAt": 1793054393297
+        "sourceHash": "11062ad71560c1e7ad6b559403e7cbc6ddf25b98d9e14946b2e9e8b62e7c3acc",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -384862,8 +384862,8 @@
         "trigger": "Implement tasks from an OpenSpec change. Use when the user wants to start implementing, continue implementation, or work through tasks.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/openspec-apply-change/SKILL.md",
-        "sourceHash": "679533b52454c3ee7a105a542243f232ec9bc0c041814b67cc4c874f0776899a",
-        "extractedAt": 1793077403550
+        "sourceHash": "31ae04cbf1fe3af0f5e8d321ae270d90aa2e711108fb4d19057d52830c3cf68a",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -384906,8 +384906,8 @@
         "trigger": "Archive a completed change in the experimental workflow. Use when the user wants to finalize and archive a change after implementation is complete.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/openspec-archive-change/SKILL.md",
-        "sourceHash": "c1c518e65ce665100765edac1402f1391f19f8218913e0e6067b19d43a118b3d",
-        "extractedAt": 1793077403550
+        "sourceHash": "53cbeb08ba544b32aeb3514865ff22cb9b88cb69ab7ec139044314d635c28e4b",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -384950,8 +384950,8 @@
         "trigger": "Enter explore mode - a thinking partner for exploring ideas, investigating problems, and clarifying requirements. Use when the user wants to think through something before or during a change.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/openspec-explore/SKILL.md",
-        "sourceHash": "2185e88065c00f69fab63e8e9680a97be51c1e7bcfc260b0631c5418666fcba8",
-        "extractedAt": 1793077403551
+        "sourceHash": "3ab1863d6ce9955547e1985aca1635b29a00b714a60c371b88feff5a98d25aab",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -384994,8 +384994,8 @@
         "trigger": "Propose a new change with all artifacts generated in one step. Use when the user wants to quickly describe what they want to build and get a complete proposal with design, specs, and tasks ready for implementation.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/openspec-propose/SKILL.md",
-        "sourceHash": "88ad070e30256107d8989c2bf4b0ff9e4ee1c8976dd32829675c88f00618dad6",
-        "extractedAt": 1793077403551
+        "sourceHash": "453fb9ed7c4ad8394cd8170b7ac8f8ee86311d25d2dbe9577cd02d97804981ba",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385037,8 +385037,8 @@
         "summary": "Implement tasks from an OpenSpec change (Experimental)",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/source-command-opsx-apply/SKILL.md",
-        "sourceHash": "b21e4faafe9825a8699cd37599ef37defe8d94746b8b488005c65e6057bb90be",
-        "extractedAt": 1793077403552
+        "sourceHash": "de0b84c40a62433716a2f7158e216659b34dc43739a7ef2cf649782d115f3267",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385080,8 +385080,8 @@
         "summary": "Archive a completed change in the experimental workflow",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/source-command-opsx-archive/SKILL.md",
-        "sourceHash": "d79648dacb469f5566828863990d22feea62b44eb5051721a28d925c96426298",
-        "extractedAt": 1793077403552
+        "sourceHash": "4f232d4794cd99ea796c321b90db1efa1cd77226f784395d4665e4879208b573",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385123,8 +385123,8 @@
         "summary": "Enter explore mode - think through ideas, investigate problems, clarify requirements",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/source-command-opsx-explore/SKILL.md",
-        "sourceHash": "95a82101e6ea49c9a39fe70ad1984b9a4697488cffb5cf5fa85e3feb105a03fe",
-        "extractedAt": 1793077403552
+        "sourceHash": "7f24e01e72d2b28e569e74d198b3c52319eec65a95effdc57e3ea09d8e8b6504",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385166,8 +385166,8 @@
         "summary": "Propose a new change - create it and generate all artifacts in one step",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.agents/skills/source-command-opsx-propose/SKILL.md",
-        "sourceHash": "c8497ebbe952ada365e9ad3ca7ed0544ea3cbbf03d1fa660603e3a42bcec8342",
-        "extractedAt": 1793077403552
+        "sourceHash": "8d888feb5bc2013b974d370cbeaa415daf9b16d1db1624c6edae954a6dcd90fc",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385210,8 +385210,8 @@
         "trigger": "Implement tasks from an OpenSpec change. Use when the user wants to start implementing, continue implementation, or work through tasks.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.claude/skills/openspec-apply-change/SKILL.md",
-        "sourceHash": "679533b52454c3ee7a105a542243f232ec9bc0c041814b67cc4c874f0776899a",
-        "extractedAt": 1793077403553
+        "sourceHash": "31ae04cbf1fe3af0f5e8d321ae270d90aa2e711108fb4d19057d52830c3cf68a",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385254,8 +385254,8 @@
         "trigger": "Archive a completed change in the experimental workflow. Use when the user wants to finalize and archive a change after implementation is complete.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.claude/skills/openspec-archive-change/SKILL.md",
-        "sourceHash": "c1c518e65ce665100765edac1402f1391f19f8218913e0e6067b19d43a118b3d",
-        "extractedAt": 1793077403553
+        "sourceHash": "53cbeb08ba544b32aeb3514865ff22cb9b88cb69ab7ec139044314d635c28e4b",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385298,8 +385298,8 @@
         "trigger": "Enter explore mode - a thinking partner for exploring ideas, investigating problems, and clarifying requirements. Use when the user wants to think through something before or during a change.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.claude/skills/openspec-explore/SKILL.md",
-        "sourceHash": "2185e88065c00f69fab63e8e9680a97be51c1e7bcfc260b0631c5418666fcba8",
-        "extractedAt": 1793077403553
+        "sourceHash": "3ab1863d6ce9955547e1985aca1635b29a00b714a60c371b88feff5a98d25aab",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -385342,8 +385342,8 @@
         "trigger": "Propose a new change with all artifacts generated in one step. Use when the user wants to quickly describe what they want to build and get a complete proposal with design, specs, and tasks ready for implementation.",
         "steps": [],
         "sourceUrl": "https://github.com/Gitruck/cli/blob/HEAD/.claude/skills/openspec-propose/SKILL.md",
-        "sourceHash": "88ad070e30256107d8989c2bf4b0ff9e4ee1c8976dd32829675c88f00618dad6",
-        "extractedAt": 1793077403554
+        "sourceHash": "453fb9ed7c4ad8394cd8170b7ac8f8ee86311d25d2dbe9577cd02d97804981ba",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -476215,6 +476215,704 @@
       "sourceId": "openaccountants-openaccountants"
     },
     {
+      "id": "brianrwagner-ai-marketing-skills-ai-discoverability-audit",
+      "name": "ai-discoverability-audit",
+      "titleZh": "ai-discoverability-audit",
+      "description": "Use when a founder, marketer, or consultant wants to audit how visible their brand is to AI search (ChatGPT, Perplexity, Claude, Gemini). Also use when mentioned: 'AI SEO', 'GEO', 'ChatGPT can't find me', 'AI search visibility', 'how do I show up in AI answers'. NOT for: traditional Google SEO, ad strategy, or content writing.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "ai-discoverability-audit",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use when a founder, marketer, or consultant wants to audit how visible their brand is to AI search (ChatGPT, Perplexity, Claude, Gemini). Also use when mentioned: 'AI SEO', 'GEO', 'ChatGPT can't find me', 'AI search visibility', 'how do I show up in AI answers'. NOT for: traditional Google SEO, ad strategy, or content writing.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use when a founder, marketer, or consultant wants to audit how visible their brand is to AI search (ChatGPT, Perplexity, Claude, Gemini). Also use when mentioned: 'AI SEO', 'GEO', 'ChatGPT can't find me', 'AI search visibility', 'how do I show up in AI answers'. NOT for: traditional Google SEO, ad strategy, or content writing.",
+        "trigger": "Use when a founder, marketer, or consultant wants to audit how visible their brand is to AI search (ChatGPT, Perplexity, Claude, Gemini). Also use when mentioned: 'AI SEO', 'GEO', 'ChatGPT can't find me', 'AI search visibility', 'how do I show up in AI answers'. NOT for: traditional Google SEO, ad strategy, or content writing.",
+        "steps": [],
+        "example": "Here's a complete audit for a fictional SaaS company:",
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/ai-discoverability-audit/SKILL.md",
+        "sourceHash": "c9cf24c911465618e5d9c906381df2a61887698e9c78134cb7444bb9a993d754",
+        "extractedAt": 1795680918118
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-brand-positioning-audit",
+      "name": "brand-positioning-audit",
+      "titleZh": "brand-positioning-audit",
+      "description": "Use when founder/marketer needs to diagnose positioning problems (ICP clarity, differentiation, proof). Also: 'our positioning is generic', 'what makes us different', 'struggling to explain what we do', 'positioning is weak'. NOT for: copywriting, website design, long-form content creation.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "brand-positioning-audit",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use when founder/marketer needs to diagnose positioning problems (ICP clarity, differentiation, proof). Also: 'our positioning is generic', 'what makes us different', 'struggling to explain what we do', 'positioning is weak'. NOT for: copywriting, website design, long-form content creation.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use when founder/marketer needs to diagnose positioning problems (ICP clarity, differentiation, proof). Also: 'our positioning is generic', 'what makes us different', 'struggling to explain what we do', 'positioning is weak'. NOT for: copywriting, website design, long-form content creation.",
+        "trigger": "Use when founder/marketer needs to diagnose positioning problems (ICP clarity, differentiation, proof). Also: 'our positioning is generic', 'what makes us different', 'struggling to explain what we do', 'positioning is weak'. NOT for: copywriting, website design, long-form content creation.",
+        "steps": [],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/brand-positioning-audit/SKILL.md",
+        "sourceHash": "18f1c1a34b8da74458e7068dcee50f43064b97348d0967225e893a3192646738",
+        "extractedAt": 1795680918119
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-brand-voice-extractor",
+      "name": "brand-voice-extractor",
+      "titleZh": "brand-voice-extractor",
+      "description": "Extract or build a distinct brand voice profile that AI agents can use to produce on-brand content every time. Two modes: Extract (analyze content you're proud of) or Build (construct a voice from scratch). Outputs a complete voice profile with personality traits, tone spectrum, vocabulary guide, rhythm patterns, and example phrases. Use this before any content creation skill for consistent, human-sounding output.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "brand-voice-extractor",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Extract: Paste 3-5 pieces of content",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Extract or build a distinct brand voice profile that AI agents can use to produce on-brand content every time. Two modes: Extract (analyze content you're proud of) or Build (construct a voice from scratch). Outputs a complete voice profile with personality traits, tone spectrum, vocabulary guide, rhythm patterns, and example phrases. Use this before any content creation skill for consistent,…",
+        "steps": [
+          "Extract: Paste 3-5 pieces of content",
+          "Build: Answer the 10-15 questions the agent asks"
+        ],
+        "example": "On-brand: [3 examples] Off-brand: [3 examples + why wrong]",
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/brand-voice-extractor/SKILL.md",
+        "sourceHash": "482b90cd2139e311e2f0f4889dd17dc8cbdda9c31a783a59ba337944d39d071f",
+        "extractedAt": 1795680918120
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-case-study-builder",
+      "name": "case-study-builder",
+      "titleZh": "case-study-builder",
+      "description": "Turn client wins into formatted case studies for proposals, social proof, and sales conversations. Use when someone needs to document results, build credibility, or create reusable proof assets.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "case-study-builder",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Turn client wins into formatted case studies for proposals, social proof, and sales conversations. Use when someone needs to document results, build credibility, or create reusable proof assets.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Turn client wins into formatted case studies for proposals, social proof, and sales conversations. Use when someone needs to document results, build credibility, or create reusable proof assets.",
+        "trigger": "Turn client wins into formatted case studies for proposals, social proof, and sales conversations. Use when someone needs to document results, build credibility, or create reusable proof assets.",
+        "steps": [
+          "[If no quote collected → run testimonial-collector] [If strong story → suggest LinkedIn post from story format]",
+          "Cross-reference: If a client quote was captured here, run testimonial-collector to properly format and score it for your testimonial library.",
+          "Skill by Brian Wagner | AI Marketing Architect | brianrwagner.com"
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/case-study-builder/SKILL.md",
+        "sourceHash": "680dba23ce33f81cffeb339485b67c96f7717dac62a07251424db28d58f4a44f",
+        "extractedAt": 1795680918121
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-cold-outreach-sequence",
+      "name": "cold-outreach-sequence",
+      "titleZh": "cold-outreach-sequence",
+      "description": "Build personalized cold outreach sequences for LinkedIn and email. Use when someone needs to reach prospects, warm up cold leads, or build a systematic outreach engine. Covers research, connection requests, follow-ups, and conversion.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "cold-outreach-sequence",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Build personalized cold outreach sequences for LinkedIn and email. Use when someone needs to reach prospects, warm up cold leads, or build a systematic outreach engine. Covers research, connection requests, follow-ups, and conversion.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Build personalized cold outreach sequences for LinkedIn and email. Use when someone needs to reach prospects, warm up cold leads, or build a systematic outreach engine. Covers research, connection requests, follow-ups, and conversion.",
+        "trigger": "Build personalized cold outreach sequences for LinkedIn and email. Use when someone needs to reach prospects, warm up cold leads, or build a systematic outreach engine. Covers research, connection requests, follow-ups, and conversion.",
+        "steps": [],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/cold-outreach-sequence/SKILL.md",
+        "sourceHash": "898710bceb062a0bc310e6b342a8bc190f1e4b07ceab6e0f0ae4a31a7e4a065f",
+        "extractedAt": 1795680918121
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-competitor-intel-brief",
+      "name": "competitor-intel-brief",
+      "titleZh": "competitor-intel-brief",
+      "description": "Use when the user wants a structured teardown of a real competitor to find positioning gaps, pricing signals, channel patterns, vulnerabilities, and a clear angle of attack. NOT for broad market overviews without named competitors, vanity benchmarking, or unsupported speculation.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "competitor-intel-brief",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use when the user wants a structured teardown of a real competitor to find positioning gaps, pricing signals, channel patterns, vulnerabilities, and a clear angle of attack. NOT for broad market overviews without named competitors, vanity benchmarking, or unsupported speculation.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use when the user wants a structured teardown of a real competitor to find positioning gaps, pricing signals, channel patterns, vulnerabilities, and a clear angle of attack. NOT for broad market overviews without named competitors, vanity benchmarking, or unsupported speculation.",
+        "trigger": "Use when the user wants a structured teardown of a real competitor to find positioning gaps, pricing signals, channel patterns, vulnerabilities, and a clear angle of attack. NOT for broad market overviews without named competitors, vanity benchmarking, or unsupported speculation.",
+        "steps": [
+          "Confirm target competitor and analysis objective.",
+          "Run node scripts/intel-checklist.mjs path/to/competitor.json if you have structured context.",
+          "Research in this order:",
+          "pricing page",
+          "reviews / complaints / alternatives",
+          "public content channels"
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/competitor-intel-brief/SKILL.md",
+        "sourceHash": "3825c428823c891b8dc287ef56d6256f8d5c9525020b1e8d8ff49b23d7de628a",
+        "extractedAt": 1795680918122
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-content-idea-generator",
+      "name": "content-idea-generator",
+      "titleZh": "content-idea-generator",
+      "description": "Generate content ideas rooted in positioning. Use when someone needs \"content ideas,\" \"what should I post,\" \"blog topics,\" \"LinkedIn ideas,\" or is stuck on what to create.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "content-idea-generator",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Generate content ideas rooted in positioning. Use when someone needs \"content ideas,\" \"what should I post,\" \"blog topics,\" \"LinkedIn ideas,\" or is stuck on what to create.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Generate content ideas rooted in positioning. Use when someone needs \"content ideas,\" \"what should I post,\" \"blog topics,\" \"LinkedIn ideas,\" or is stuck on what to create.",
+        "trigger": "Generate content ideas rooted in positioning. Use when someone needs \"content ideas,\" \"what should I post,\" \"blog topics,\" \"LinkedIn ideas,\" or is stuck on what to create.",
+        "steps": [],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/content-idea-generator/SKILL.md",
+        "sourceHash": "e83b1398124939d4fef3928df5ff7236af897e91427a0f04ce6260aa7821e03a",
+        "extractedAt": 1795680918122
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-daily-briefing-builder",
+      "name": "daily-briefing-builder",
+      "titleZh": "daily-briefing-builder",
+      "description": "Generate a clean morning brief in Claude Code — pulls today's priorities, unposted content, and weather from your vault.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "daily-briefing-builder",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Open Claude Code in your vault directory and say:",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Generate a clean morning brief in Claude Code — pulls today's priorities, unposted content, and weather from your vault.",
+        "steps": [
+          "Open Claude Code in your vault directory and say:",
+          "Or with context upfront:",
+          "When this skill is invoked, follow these phases exactly."
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/daily-briefing-builder/SKILL.md",
+        "sourceHash": "d87b30c6e46a5928d705f1775633e342065e57fa5bbdd05f57c3693ee06b0dfc",
+        "extractedAt": 1795680918123
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-founder-intelligence",
+      "name": "founder-intelligence",
+      "titleZh": "founder-intelligence",
+      "description": "Use when the user wants high-judgment business advice on a strategic decision, tradeoff, or constraint and needs it routed through specific founder/operator lenses with a concrete recommendation. NOT for motivational pep talks, generic startup quotes, or broad business education without a live decision.",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "founder-intelligence",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Use when the user wants high-judgment business advice on a strategic decision, tradeoff, or constraint and needs it routed through specific founder/operator lenses with a concrete recommendation. NOT for motivational pep talks, generic startup quotes, or broad business education without a live decision.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Use when the user wants high-judgment business advice on a strategic decision, tradeoff, or constraint and needs it routed through specific founder/operator lenses with a concrete recommendation. NOT for motivational pep talks, generic startup quotes, or broad business education without a live decision.",
+        "trigger": "Use when the user wants high-judgment business advice on a strategic decision, tradeoff, or constraint and needs it routed through specific founder/operator lenses with a concrete recommendation. NOT for motivational pep talks, generic startup quotes, or broad business education without a live decision.",
+        "steps": [
+          "Confirm the actual decision in one sentence.",
+          "Run node scripts/lens-router.mjs \"decision statement\" for a fast initial routing pass.",
+          "Choose the top 3 lenses for standard; use more only if deep requires it.",
+          "Open references/lenses.md and analyze what each chosen lens reveals, using its core question and principles.",
+          "Integrate the analysis into one recommendation.",
+          "State the biggest risk and one 48-hour first move."
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/founder-intelligence/SKILL.md",
+        "sourceHash": "ece0ed6c6b64601f1f5b2bea0503c9e349e86d00994cf43c60d82e2ecc1ae62b",
+        "extractedAt": 1795680918123
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-homepage-audit",
+      "name": "homepage-audit",
+      "titleZh": "homepage-audit",
+      "description": "Full conversion audit for any homepage or landing page. Use when someone asks to \"review my homepage,\" \"audit my landing page,\" \"why isn't my page converting,\" \"check my website,\" or wants feedback on their marketing page. Requires URL or screenshot before proceeding.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "homepage-audit",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Full conversion audit for any homepage or landing page. Use when someone asks to \"review my homepage,\" \"audit my landing page,\" \"why isn't my page converting,\" \"check my website,\" or wants feedback on their marketing page. Requires URL or screenshot before proceeding.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Full conversion audit for any homepage or landing page. Use when someone asks to \"review my homepage,\" \"audit my landing page,\" \"why isn't my page converting,\" \"check my website,\" or wants feedback on their marketing page. Requires URL or screenshot before proceeding.",
+        "trigger": "Full conversion audit for any homepage or landing page. Use when someone asks to \"review my homepage,\" \"audit my landing page,\" \"why isn't my page converting,\" \"check my website,\" or wants feedback on their marketing page. Requires URL or screenshot before proceeding.",
+        "steps": [],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/homepage-audit/SKILL.md",
+        "sourceHash": "142bbb795f0462287ac2e62a373a5a16056ddd744277631d8606cb4d82c33b7a",
+        "extractedAt": 1795680918124
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-linkedin-authority-builder",
+      "name": "linkedin-authority-builder",
+      "titleZh": "linkedin-authority-builder",
+      "description": "Build a LinkedIn content system for thought leadership. Use when someone needs to establish authority, attract inbound leads, or build a consistent content presence. Covers positioning, content pillars, formats, and posting rhythm.",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "linkedin-authority-builder",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "[What to measure and when to adjust]",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Build a LinkedIn content system for thought leadership. Use when someone needs to establish authority, attract inbound leads, or build a consistent content presence. Covers positioning, content pillars, formats, and posting rhythm.",
+        "trigger": "[What to measure and when to adjust]",
+        "steps": [],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/linkedin-authority-builder/SKILL.md",
+        "sourceHash": "9ab91114664b44c3308ae0c8d748164d2a638ded68566a682eccab674c8d3e75",
+        "extractedAt": 1795680918125
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-linkedin-profile-optimizer",
+      "name": "linkedin-profile-optimizer",
+      "titleZh": "linkedin-profile-optimizer",
+      "description": "Audit and rewrite your LinkedIn profile to attract the right people. Scores each section, rewrites headline and about copy, and includes an AI visibility checklist so you show up in ChatGPT, Perplexity, and Claude search. Use when someone says \"optimize my LinkedIn,\" \"LinkedIn profile help,\" \"rewrite my about section,\" or \"how do I show up in AI search.\"",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "linkedin-profile-optimizer",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Audit and rewrite your LinkedIn profile to attract the right people. Scores each section, rewrites headline and about copy, and includes an AI visibility checklist so you show up in ChatGPT, Perplexity, and Claude search. Use when someone says \"optimize my LinkedIn,\" \"LinkedIn profile help,\" \"rewrite my about section,\" or \"how do I show up in AI search.\"",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Audit and rewrite your LinkedIn profile to attract the right people. Scores each section, rewrites headline and about copy, and includes an AI visibility checklist so you show up in ChatGPT, Perplexity, and Claude search. Use when someone says \"optimize my LinkedIn,\" \"LinkedIn profile help,\" \"rewrite my about section,\" or \"how do I show up in AI search.\"",
+        "trigger": "Audit and rewrite your LinkedIn profile to attract the right people. Scores each section, rewrites headline and about copy, and includes an AI visibility checklist so you show up in ChatGPT, Perplexity, and Claude search. Use when someone says \"optimize my LinkedIn,\" \"LinkedIn profile help,\" \"rewrite my about section,\" or \"how do I show up in AI search.\"",
+        "steps": [
+          "results-driven, results-oriented",
+          "passionate about, passion for",
+          "dynamic professional",
+          "synergy, synergistic",
+          "leveraging (as noun use)",
+          "comprehensive, robust"
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/linkedin-profile-optimizer/SKILL.md",
+        "sourceHash": "65b0441be03f78e3ad49cf0eb3b75b2c1f9dc319f37c8c8d0ed03e260c06836b",
+        "extractedAt": 1795680918125
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-marketing-principles",
+      "name": "marketing-principles",
+      "titleZh": "marketing-principles",
+      "description": "Apply timeless marketing and business principles to any problem. Use when someone needs strategic thinking, wants to evaluate a marketing decision, needs a framework for a tough choice, or mentions \"first principles,\" \"should I do X,\" \"what would work here,\" or wants to think through a marketing problem systematically.",
+      "stage": "delivery",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "marketing-principles",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Apply timeless marketing and business principles to any problem. Use when someone needs strategic thinking, wants to evaluate a marketing decision, needs a framework for a tough choice, or mentions \"first principles,\" \"should I do X,\" \"what would work here,\" or wants to think through a marketing problem systematically.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Apply timeless marketing and business principles to any problem. Use when someone needs strategic thinking, wants to evaluate a marketing decision, needs a framework for a tough choice, or mentions \"first principles,\" \"should I do X,\" \"what would work here,\" or wants to think through a marketing problem systematically.",
+        "trigger": "Apply timeless marketing and business principles to any problem. Use when someone needs strategic thinking, wants to evaluate a marketing decision, needs a framework for a tough choice, or mentions \"first principles,\" \"should I do X,\" \"what would work here,\" or wants to think through a marketing problem systematically.",
+        "steps": [],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/marketing-principles/SKILL.md",
+        "sourceHash": "04daa2f75557d576acdf9fac73ffab8f8d72392078a4989e357276d871263342",
+        "extractedAt": 1795680918126
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-meeting-prep",
+      "name": "meeting-prep",
+      "titleZh": "meeting-prep",
+      "description": "Generate a pre-meeting prep brief in Claude Code. Researches participants, pulls vault context, builds agenda, surfaces sharp questions. Use when user says \"prep for this meeting,\" \"I have a call with,\" \"meeting tomorrow with,\" or \"prep brief for [name/company].\"",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "meeting-prep",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Generate a pre-meeting prep brief in Claude Code. Researches participants, pulls vault context, builds agenda, surfaces sharp questions. Use when user says \"prep for this meeting,\" \"I have a call with,\" \"meeting tomorrow with,\" or \"prep brief for [name/company].\"",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Generate a pre-meeting prep brief in Claude Code. Researches participants, pulls vault context, builds agenda, surfaces sharp questions. Use when user says \"prep for this meeting,\" \"I have a call with,\" \"meeting tomorrow with,\" or \"prep brief for [name/company].\"",
+        "trigger": "Generate a pre-meeting prep brief in Claude Code. Researches participants, pulls vault context, builds agenda, surfaces sharp questions. Use when user says \"prep for this meeting,\" \"I have a call with,\" \"meeting tomorrow with,\" or \"prep brief for [name/company].\"",
+        "steps": [
+          "Open Claude Code in your vault directory and say:"
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/meeting-prep/SKILL.md",
+        "sourceHash": "d45b815eb72cabed5ccab45f24281901a49cd63c17afbf9d859dd9205d7bab90",
+        "extractedAt": 1795680918127
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
+      "id": "brianrwagner-ai-marketing-skills-positioning-basics",
+      "name": "positioning-basics",
+      "titleZh": "positioning-basics",
+      "description": "Help founders and marketers nail their positioning. Use when someone mentions \"positioning,\" \"value proposition,\" \"who is this for,\" \"how do I describe my product,\" \"messaging,\" \"ICP,\" \"ideal customer,\" or is struggling to articulate what makes their product different.",
+      "stage": "coding",
+      "category": "Community",
+      "author": {
+        "name": "BrianRWagner",
+        "url": "https://github.com/BrianRWagner",
+        "verified": false,
+        "avatar": "https://github.com/BrianRWagner.png"
+      },
+      "gitUrl": "https://github.com/BrianRWagner/ai-marketing-skills",
+      "subPath": "positioning-basics",
+      "stars": 462,
+      "halowakeScore": 95,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 462,
+        "forks": 105,
+        "lastCommitDaysAgo": 11,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Help founders and marketers nail their positioning. Use when someone mentions \"positioning,\" \"value proposition,\" \"who is this for,\" \"how do I describe my product,\" \"messaging,\" \"ICP,\" \"ideal customer,\" or is struggling to articulate what makes their product different.",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Help founders and marketers nail their positioning. Use when someone mentions \"positioning,\" \"value proposition,\" \"who is this for,\" \"how do I describe my product,\" \"messaging,\" \"ICP,\" \"ideal customer,\" or is struggling to articulate what makes their product different.",
+        "trigger": "Help founders and marketers nail their positioning. Use when someone mentions \"positioning,\" \"value proposition,\" \"who is this for,\" \"how do I describe my product,\" \"messaging,\" \"ICP,\" \"ideal customer,\" or is struggling to articulate what makes their product different.",
+        "steps": [
+          "Run homepage-audit to test if current website reflects this positioning",
+          "Run content-idea-generator with this ICP and differentiator as inputs",
+          "Run linkedin-authority-builder anchored to this positioning"
+        ],
+        "sourceUrl": "https://github.com/BrianRWagner/ai-marketing-skills/blob/HEAD/positioning-basics/SKILL.md",
+        "sourceHash": "31640fd9ce8054b4e082a7c5f9916081cde6c99d199e59848824f1be321f6d7e",
+        "extractedAt": 1795680918128
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "brianrwagner-ai-marketing-skills"
+    },
+    {
       "id": "corpus-classic298-open-webui-plugins-inline-visualizer-v2-d290a4a9",
       "name": "visualize",
       "titleZh": "visualize",
@@ -506547,6 +507245,108 @@
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "earthtojake-step-parts"
+    },
+    {
+      "id": "jensheitmann-humanizer-stack-skills-humanizer",
+      "name": "humanizer",
+      "titleZh": "humanizer",
+      "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, negative\nparallelisms, and excessive conjunctive phrases.\n\nCredits: Original skill by @blader - https://github.com/blader/humanizer\n",
+      "stage": "design",
+      "category": "Community",
+      "author": {
+        "name": "JensHeitmann",
+        "url": "https://github.com/JensHeitmann",
+        "verified": false,
+        "avatar": "https://github.com/JensHeitmann.png"
+      },
+      "gitUrl": "https://github.com/JensHeitmann/humanizer-stack",
+      "subPath": "skills/humanizer",
+      "stars": 387,
+      "halowakeScore": 83,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 387,
+        "forks": 28,
+        "lastCommitDaysAgo": 124,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including: inflated symbolism, promotional language, superficial -ing analyses, vague attributions, em dash overuse, rule of three, AI vocabulary words, negative parallelisms,…",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including: inflated symbolism, promotional language, superficial -ing analyses, vague attributions, em dash overuse, rule of three, AI vocabulary words, negative parallelisms,…",
+        "trigger": "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written. Based on Wikipedia's comprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including: inflated symbolism, promotional language, superficial -ing analyses, vague attributions, em dash overuse, rule of three, AI vocabulary words, negative parallelisms,…",
+        "steps": [
+          "Read the input text carefully",
+          "Identify all instances of the patterns above",
+          "Rewrite each problematic section",
+          "Ensure the revised text:",
+          "Sounds natural when read aloud",
+          "Varies sentence structure naturally"
+        ],
+        "example": "Before (AI-sounding): > The new software update serves as a testament to the company's commitment to innovation. Moreover, it provides a seamless, intuitive, and powerful user experience—ensuring that users can accomplish their goals efficiently. It's not just an update, it's a revolution in how we think about…",
+        "sourceUrl": "https://github.com/JensHeitmann/humanizer-stack/blob/HEAD/skills/humanizer/SKILL.md",
+        "sourceHash": "ec646f42c6ab1615eb4717698c082c52aa46b990b3570ed6f75275f2e640b79a",
+        "extractedAt": 1795680918983
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "jensheitmann-humanizer-stack"
+    },
+    {
+      "id": "jensheitmann-humanizer-stack-skills-structural-humanizer",
+      "name": "structural-humanizer",
+      "titleZh": "structural-humanizer",
+      "description": "Remove the discourse-level (structural) signs of AI writing that survive surface editing: stated lessons and moral-of-the-story closers, tidy single-track arcs, embodied-emotion performance (\"chest tightened\"), vague allusions instead of named references, unbroken linear structure, and shape convergence across pieces. Grounded in the StoryScope study (Russell et al. 2026): narrative structure alone detects AI text at 93.2% F1, and professional stylistic rewriting moved detection only 1.6 points. Use as the SECOND pass after the humanizer skill (which handles words and phrasing) whenever writing or revising LinkedIn posts, course lessons, blog posts, essays, newsletters, or emails that must read as human. Triggers: \"humanize\", \"de-slop\", \"AI tells\", \"make this sound human\", \"structural pass\", \"deep humanize\".",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "JensHeitmann",
+        "url": "https://github.com/JensHeitmann",
+        "verified": false,
+        "avatar": "https://github.com/JensHeitmann.png"
+      },
+      "gitUrl": "https://github.com/JensHeitmann/humanizer-stack",
+      "subPath": "skills/structural-humanizer",
+      "stars": 387,
+      "halowakeScore": 83,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 387,
+        "forks": 28,
+        "lastCommitDaysAgo": 124,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "Extract the skeleton first. Outline the piece: beats in order, where the lesson is stated (and how many times), time structure (linear or not), what gets resolved, tangent count, emotion moments and their mode, named vs…",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "Remove the discourse-level (structural) signs of AI writing that survive surface editing: stated lessons and moral-of-the-story closers, tidy single-track arcs, embodied-emotion performance (\"chest tightened\"), vague allusions instead of named references, unbroken linear structure, and shape convergence across pieces. Grounded in the StoryScope study (Russell et al. 2026): narrative structure…",
+        "steps": [
+          "Extract the skeleton first. Outline the piece: beats in order, where the lesson is stated (and how many times), time structure (linear or not), what gets resolved, tangent count, emotion moments and their mode, named vs…",
+          "Run the six audits against the skeleton, one at a time.",
+          "Choose 1-2 interventions from the menu below. Deliberate, genre-appropriate (see references/genre-calibration.md), different from the last piece.",
+          "Rewrite structurally. Move sections, cut codas, delete restatements. Do not just polish sentences; that is the other skill's job.",
+          "Scan: python3 scripts/structuralscan.py catches the pattern-matchable slice (embodied-emotion cliches, takeaway markers, vague allusions, uniformity).",
+          "Re-check for the trap. If the fix looks like the fix you applied yesterday, vary it."
+        ],
+        "sourceUrl": "https://github.com/JensHeitmann/humanizer-stack/blob/HEAD/skills/structural-humanizer/SKILL.md",
+        "sourceHash": "3e436d2c4d990f5c38e77f7f93cf94008b8b364ae71aba479647a20afd1da0a5",
+        "extractedAt": 1795680918985
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "jensheitmann-humanizer-stack"
     },
     {
       "id": "corpus-gmgnai-gmgn-skills-skills-gmgn-holder-analysis-e63e0da3",
@@ -620394,8 +621194,8 @@
         "summary": "Send feedback or a bug report to the WOZCODE team. Bug reports are tagged for triage and auto-attach session context (session id, anonymous id, OS, arch, Node version).",
         "steps": [],
         "sourceUrl": "https://github.com/WithWoz/wozcode-plugin/blob/HEAD/skills/woz-feedback/SKILL.md",
-        "sourceHash": "a249479ad8e39a8211a196e68beebef559a4495f853778b503a2888ed6ab538b",
-        "extractedAt": 1792903209347
+        "sourceHash": "03f668d5115317e0e71d86c916bd99b029b034516399ac1ebed8f4a7029a9f15",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -620438,8 +621238,8 @@
         "trigger": "TRIGGER for tune/backtest: \"tune the reviewer\", \"tune this repo\", \"onboard a repo\", \"tune the org\", \"backtest the reviewer\", \"how well does the reviewer do\", or /woz-kb.；TRIGGER for architecture-doc-fetch/cross-repo: \"sync the architecture doc\", \"fetch the architecture manifest\", \"cross-repo plan\", \"plan this across repos\".",
         "steps": [],
         "sourceUrl": "https://github.com/WithWoz/wozcode-plugin/blob/HEAD/skills/woz-kb/SKILL.md",
-        "sourceHash": "7710b6a1f2cd10a19d076ea2b5e321e6564aaecf4e597a5e80fdfd16ea45d720",
-        "extractedAt": 1792903209347
+        "sourceHash": "98ef2ce8b479acb14610eb77ca0ed63b7cd79cfe19e97162626d1730783bd907",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -622505,11 +623305,11 @@
           "Run framework:learning-harvest Load behavior. Focus hint: \"implementation session — focus: implementation craft, quality signals, reliability\".",
           "Run framework:context-anchoring Document Discovery: scan the context base directory (per the atom's Config Resolution) for an existing anchor doc covering this feature's implementation.",
           "Found → Load behavior. Present the structured acknowledgment: feature name, status, decision count, open questions, constraints. STOP: Honor every logged decision and constraint as an active commitment.",
-          "Not found → ask the user: \"Is there a design doc or blueprint for this feature, or do we work from what we've discussed?\" Accept either answer gracefully:"
+          "Not found → do not stop to ask. Say: \"No context doc found — working from what we've discussed. Point me to a design doc or blueprint if one exists.\" Continue as \"Without approved design\": all atom rails still apply;…"
         ],
         "sourceUrl": "https://github.com/techygarg/lattice/blob/HEAD/skills/code-forge/SKILL.md",
-        "sourceHash": "3d73461bd5c5544799daacc2b2aa9373fa4be3d65ec705771d06de6505e73bec",
-        "extractedAt": 1792839514148
+        "sourceHash": "cb9a9cdbe2828672790e1d7640ea89b661b98b9f7e514ce0171e7efa017de4b1",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -622596,8 +623396,8 @@
         "trigger": "Manage per-feature living documents that capture decisions, constraints, and reasoning across AI sessions during active development. Scoped to feature-level work — design, implementation, bugfix, refactor — not for codebase-wide assessments or product-wide specifications (those define their own document lifecycles). Handles creating new context documents, loading existing ones, and enriching them…",
         "steps": [],
         "sourceUrl": "https://github.com/techygarg/lattice/blob/HEAD/skills/context-anchoring/SKILL.md",
-        "sourceHash": "df2187d3c96bff44a47e5f795b687aca282b290621cc2c5d392f9ff063a8c0fd",
-        "extractedAt": 1792839514150
+        "sourceHash": "ec0ed1b0a938b497464c205f8bc9eece3ee684ca8957ec3e9c06a76a8e15bd11",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -631786,19 +632586,19 @@
       "howToUse": "Comprehensive guidelines for Obsidian.md plugin development including ESLint rules from eslint-plugin-obsidianmd v0.4.2, TypeScript best practices, memory management, API usage (requestUrl vs fetch), UI/UX standards, popout window compatibility, community.obsidian.md submission process, and Scorecard optimization. Use when working with Obsidian plugins, main.ts files, manifest.json, Plugin class,…",
       "usageGuide": {
         "extractorVersion": 3,
-        "summary": "Comprehensive guidelines for Obsidian.md plugin development including ESLint rules from eslint-plugin-obsidianmd v0.4.2, TypeScript best practices, memory management, API usage (requestUrl vs fetch), UI/UX standards, popout window compatibility, community.obsidian.md submission process, and Scorecard optimization. Use when working with Obsidian plugins, main.ts files, manifest.json, Plugin class,…",
-        "trigger": "Comprehensive guidelines for Obsidian.md plugin development including ESLint rules from eslint-plugin-obsidianmd v0.4.2, TypeScript best practices, memory management, API usage (requestUrl vs fetch), UI/UX standards, popout window compatibility, community.obsidian.md submission process, and Scorecard optimization. Use when working with Obsidian plugins, main.ts files, manifest.json, Plugin class,…",
+        "summary": "Comprehensive guidelines for Obsidian.md plugin development including ESLint rules from eslint-plugin-obsidianmd v0.6.0, TypeScript best practices, memory management, API usage (requestUrl vs fetch), UI/UX standards, popout window compatibility, community.obsidian.md submission process, and Scorecard optimization. Use when working with Obsidian plugins, main.ts files, manifest.json, Plugin class,…",
+        "trigger": "Comprehensive guidelines for Obsidian.md plugin development including ESLint rules from eslint-plugin-obsidianmd v0.6.0, TypeScript best practices, memory management, API usage (requestUrl vs fetch), UI/UX standards, popout window compatibility, community.obsidian.md submission process, and Scorecard optimization. Use when working with Obsidian plugins, main.ts files, manifest.json, Plugin class,…",
         "steps": [
           "Script: tools/create-plugin.js in the skill repository",
           "Command: Invoke create-plugin using your agent's method (/create-plugin, $create-plugin, or @create-plugin)",
           "Generates minimal, best-practice boilerplate with no sample code",
           "Detects existing projects and only adds missing files",
-          "Run ESLint — npx eslint . using eslint-plugin-obsidianmd; fix all errors AND warnings (warnings affect your Scorecard)",
-          "Validate manifest — Confirm id, name, description, version, and minAppVersion meet naming and formatting rules (rules 1–5)"
+          "Run ESLint — npx eslint . from the project root using eslint-plugin-obsidianmd (eslint src skips manifest.json, LICENSE, and package.json); fix all errors AND warnings (warnings affect your Scorecard)",
+          "Validate manifest — validate-manifest checks name and description (rules 2–5), and id (rule 1) only with checkId: true; confirm version and minAppVersion yourself"
         ],
         "sourceUrl": "https://github.com/gapmiss/obsidian-plugin-skill/blob/HEAD/.agents/skills/obsidian/SKILL.md",
-        "sourceHash": "e3a67fbafe7f869ce2292dad3fce7473e3af58e329fab0156ae2b6b365614a54",
-        "extractedAt": 1792839517452
+        "sourceHash": "ca0e22f231d30519c8a1668cf888d37ab77d3a9c48c2584ac9471297fcb6ff98",
+        "extractedAt": 1795680919999
       },
       "compatibleAgents": [],
       "isBundle": false,
@@ -843711,6 +844511,48 @@
       "compatibleAgents": [],
       "isBundle": false,
       "sourceId": "mirkobozzetto-arsenal"
+    },
+    {
+      "id": "theplannerivan-planners-proposal-root",
+      "name": "planners-proposal",
+      "titleZh": "planners-proposal",
+      "description": "消化 Brief 与多源调研材料，与人多轮探讨策略判断，形成可校验、可在实时文字工作台持续修改与拖拽排序的 Storyline（storyline.md），并轻量登记主要来源与盲区，确认后交给 planners-bypage 展开逐页正文。",
+      "stage": "requirement",
+      "category": "Community",
+      "author": {
+        "name": "thePlannerIvan",
+        "url": "https://github.com/thePlannerIvan",
+        "verified": false,
+        "avatar": "https://github.com/thePlannerIvan.png"
+      },
+      "gitUrl": "https://github.com/thePlannerIvan/planners-proposal",
+      "stars": 23,
+      "halowakeScore": 85,
+      "badge": "security",
+      "metrics": {
+        "githubStars": 23,
+        "forks": 0,
+        "lastCommitDaysAgo": 5,
+        "issueCloseRate": 95,
+        "securityAuditPassed": true
+      },
+      "tags": [
+        "agent",
+        "skill"
+      ],
+      "recommendedWith": [],
+      "howToUse": "未收录触发条件。请查看来源仓库中的 SKILL.md，并按原作者说明使用。",
+      "usageGuide": {
+        "extractorVersion": 3,
+        "summary": "消化 Brief 与多源调研材料，与人多轮探讨策略判断，形成可校验、可在实时文字工作台持续修改与拖拽排序的 Storyline（storyline.md），并轻量登记主要来源与盲区，确认后交给 planners-bypage 展开逐页正文。",
+        "steps": [],
+        "sourceUrl": "https://github.com/thePlannerIvan/planners-proposal/blob/HEAD/SKILL.md",
+        "sourceHash": "48d6d0f82364b057f4c07fc6edd5d3393d163a227024a1811261ddb4a5b545fa",
+        "extractedAt": 1795680919958
+      },
+      "compatibleAgents": [],
+      "isBundle": false,
+      "sourceId": "theplannerivan-planners-proposal"
     },
     {
       "id": "zxzin-runpro-skills-checkpro",
